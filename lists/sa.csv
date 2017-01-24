@@ -46,7 +46,7 @@ http://arabic.farsnews.com/,NEWS,,,2017-01-24,Berkman Klein,Blocked
 http://www.almasirah.tv/,NEWS,,,2017-01-24,Berkman Klein,Blocked
 http://www.arabi21.com/,NEWS,,,2017-01-24,Berkman Klein,Blocked
 http://theriyadhpost.com/,NEWS,,,2017-01-24,Berkman Klein,Blocked
-https://www.alqst.org/,HUMR,,,2017-01-24,Berkman Klein,
+https://www.alqst.org/,HUMR,,FEXP,2017-01-24,Berkman Klein,
 http://www.argaam.com/,NEWS,,,2017-01-24,Berkman Klein,
 http://www.alriyadh.com/,NEWS,,,2017-01-24,Berkman Klein,
 http://sabq.org/,NEWS,,,2017-01-24,Berkman Klein,
@@ -146,20 +146,20 @@ http://www.aldahbnews.com/,NEWS,,,2017-01-24,Berkman Klein,
 http://www.al-mhd.com/,NEWS,,,2017-01-24,Berkman Klein,
 http://www.aidabi.net/,NEWS,,,2017-01-24,Berkman Klein,
 http://www.almasaronline.com/,NEWS,,,2017-01-24,Berkman Klein,
-http://www.esohr.org/,HUMR,,,2017-01-24,Berkman Klein,
-http://nshr.org.sa/,HUMR,,,2017-01-24,Berkman Klein,
-http://www.adalacenter.net/,HUMR,,,2017-01-24,Berkman Klein,
-http://www.acprahr.org/,HUMR,,,2017-01-24,Berkman Klein,BLOCKED
-http://www.cdhrap.net/,HUMR,,,2017-01-24,Berkman Klein,
-http://www.dewaniyat.com/,POLT,,,2017-01-24,Berkman Klein,
-http://alshayeb.org/,HUMR,,,2017-01-24,Berkman Klein,
+http://www.esohr.org/,HUMR,,FEXP,2017-01-24,Berkman Klein,
+http://nshr.org.sa/,HUMR,,FEXP,2017-01-24,Berkman Klein,
+http://www.adalacenter.net/,HUMR,,FEXP,2017-01-24,Berkman Klein,
+http://www.acprahr.org/,HUMR,,FEXP,2017-01-24,Berkman Klein,BLOCKED
+http://www.cdhrap.net/,HUMR,,FEXP,2017-01-24,Berkman Klein,
+http://www.dewaniyat.com/,POLT,,FEXP,2017-01-24,Berkman Klein,
+http://alshayeb.org/,HUMR,,POLT,2017-01-24,Berkman Klein,
 http://saudishia.com/,MINF,,,2017-01-24,Berkman Klein,
-http://thulatha.com/,FEXP,,,2017-01-24,Berkman Klein,
+http://thulatha.com/,FEXP,,POLT,2017-01-24,Berkman Klein,
 http://www.royaah.net/,FEXP,,,2017-01-24,Berkman Klein,
-http://www.humanf.org/,HUMR,,,2017-01-24,Berkman Klein,
-http://www.gulfissues.net/,HUMR,,,2017-01-24,Berkman Klein,
-http://www.islah.info/,HUMR,,,2017-01-24,Berkman Klein,
-http://www.awamia.com/,HUMR,,,2017-01-24,Berkman Klein,
+http://www.humanf.org/,HUMR,,FEXP,2017-01-24,Berkman Klein,
+http://www.gulfissues.net/,HUMR,,FEXP,2017-01-24,Berkman Klein,
+http://www.islah.info/,HUMR,,FEXP,2017-01-24,Berkman Klein,
+http://www.awamia.com/,HUMR,,FEXP,2017-01-24,Berkman Klein,
 http://denypagetests.netsweeper.com/,MISC,,,2017-01-24,Berkman Klein,
 http://denypagetests.netsweeper.com/category/catno/1,MISC,,,2017-01-24,Berkman Klein,"Netsweeper is a Canadian-made filtering solution found to be used by ISPs in Qatar, Yemen, UAE, and Kuwait"
 http://denypagetests.netsweeper.com/category/catno/10,MISC,,,2017-01-24,Berkman Klein,"Netsweeper is a Canadian-made filtering solution found to be used by ISPs in Qatar, Yemen, UAE, and Kuwait"

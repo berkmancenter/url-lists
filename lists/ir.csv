@@ -1,32 +1,32 @@
 url,category_code,subcategory_code,secondary_category_code,date_added,source,notes
-http://filtershekanha.com/,ANON,,,2017-01-24,Berkman Klein,
+http://filtershekanha.com/,ANON,,SFTWR,2017-01-24,Berkman Klein,
 http://www.webwarper.net/,ANON,,,2017-01-24,Berkman Klein,
 https://buffered.com/,ANON,,,2017-01-24,Berkman Klein,
-https://guardianproject.info/,ANON,,,2017-01-24,Berkman Klein,
-https://paskoocheh.com/,ANON,,,2017-01-24,Berkman Klein,
+https://guardianproject.info/,ANON,,SFTWR,2017-01-24,Berkman Klein,
+https://paskoocheh.com/,ANON,,SFTWR,2017-01-24,Berkman Klein,
 https://www.torproject.org/,ANON,,,2017-01-24,Berkman Klein,
 http://soroosh.co/,COMM,,,2017-01-24,Berkman Klein,
 http://www.azadinet.net/,COMM,,,2017-01-24,Berkman Klein,
 http://www.soroushsale.ir/,COMM,,,2017-01-24,Berkman Klein,
 http://fa.wikipedia.org/wiki/%D8%AF%D8%B1%DB%8C%D8%A7%DA%86%D9%87_%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87,ENV,,,2017-01-24,Berkman Klein,
-http://meidaan.com/,ENV,,,2017-01-24,Berkman Klein,
-http://meidaan.com/english/,ENV,,,2017-01-24,Berkman Klein,
+http://meidaan.com/,ENV,,NEWS,2017-01-24,Berkman Klein,
+http://meidaan.com/english/,ENV,,NEWS,2017-01-24,Berkman Klein,
 https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%DB%8C%D8%A7%DA%86%D9%87_%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87,ENV,,,2017-01-24,Berkman Klein,
-http://nurizad.info/,FEXP,GREEN MOVEMENT,,2017-01-24,Berkman Klein,More infor: https://en.wikipedia.org/wiki/Mohammad_Nourizad
-http://www.rahavard.com/,FEXP,,,2017-01-24,Berkman Klein,
+http://nurizad.info/,FEXP,GREEN MOVEMENT,POLT,2017-01-24,Berkman Klein,More infor: https://en.wikipedia.org/wiki/Mohammad_Nourizad
+http://www.rahavard.com/,FEXP,,NEWS,2017-01-24,Berkman Klein,
 http://www.rsf-persan.org/,FEXP,,,2017-01-24,Berkman Klein,
-http://www.sigarchi.com/blog/,FEXP,,,2017-01-24,Berkman Klein,Arash Sigarchi is a blogger who is working at VOA Farsi
-https://asl19.org/,FEXP,,,2017-01-24,Berkman Klein,
-https://asl19.org/fa/,FEXP,,,2017-01-24,Berkman Klein,
+http://www.sigarchi.com/blog/,FEXP,,NEWS,2017-01-24,Berkman Klein,Arash Sigarchi is a blogger who is working at VOA Farsi
+https://asl19.org/,FEXP,,ANON,2017-01-24,Berkman Klein,
+https://asl19.org/fa/,FEXP,,ANON,2017-01-24,Berkman Klein,
 https://jensiat.io/,FEXP,,,2017-01-24,Berkman Klein,
 https://journalismisnotacrime.com/en/,FEXP,,,2017-01-24,Berkman Klein,
 https://journalismisnotacrime.com/fa/,FEXP,,,2017-01-24,Berkman Klein,
 https://rsf.org/,FEXP,,,2017-01-24,Berkman Klein,
 https://rsf.org/en/iran,FEXP,,,2017-01-24,Berkman Klein,
-https://smallmedia.org.uk/,FEXP,,,2017-01-24,Berkman Klein,
-https://tavaana.org/,FEXP,,,2017-01-24,Berkman Klein,
-https://tavaana.org/en,FEXP,,,2017-01-24,Berkman Klein,
-https://www.article19.org/,FEXP,,,2017-01-24,Berkman Klein,
+https://smallmedia.org.uk/,FEXP,,HUMR,2017-01-24,Berkman Klein,
+https://tavaana.org/,FEXP,,HUMR,2017-01-24,Berkman Klein,
+https://tavaana.org/en,FEXP,,HUMR,2017-01-24,Berkman Klein,
+https://www.article19.org/,FEXP,,HUMR,2017-01-24,Berkman Klein,
 http://www.isa.gov.il/,FREL,,,2017-01-24,Berkman Klein,
 http://www.mod.gov.il/,FREL,,,2017-01-24,Berkman Klein,
 https://www.mossad.gov.il/eng/Pages/contactusfa.aspx,FREL,,,2017-01-24,Berkman Klein,
@@ -34,54 +34,54 @@ https://www.mossad.gov.il/Pages/default.aspx,FREL,,,2017-01-24,Berkman Klein,
 http://dojensgara.org/en/,GALY,,,2017-01-24,Berkman Klein,
 http://dojensgara.org/,GAYL,,,2017-01-24,Berkman Klein,
 http://gayhan.com/,GAYL,,,2017-01-24,Berkman Klein,
-http://irqr.ca/2016/,GAYL,,,2017-01-24,Berkman Klein,
+http://irqr.ca/2016/,GAYL,,HUMR,2017-01-24,Berkman Klein,
 http://www.6rang.com/,GAYL,,,2017-01-24,Berkman Klein,
-http://www.arshamparsi.net/,GAYL,,,2017-01-24,Berkman Klein,
-http://www.irqo.org/persian/,GAYL,,,2017-01-24,Berkman Klein,
-http://www.maanaav.com/Post/Details/28,GAYL,,,2017-01-24,Berkman Klein,
-http://www.mahtaa.com/,GAYL,,,2017-01-24,Berkman Klein,
+http://www.arshamparsi.net/,GAYL,,MINR,2017-01-24,Berkman Klein,
+http://www.irqo.org/persian/,GAYL,,MINR,2017-01-24,Berkman Klein,
+http://www.maanaav.com/Post/Details/28,GAYL,,MINR,2017-01-24,Berkman Klein,
+http://www.mahtaa.com/,GAYL,,MINR,2017-01-24,Berkman Klein,
 http://www.radioranginkaman.org/,GAYL,,,2017-01-24,Berkman Klein,
 https://haalat.net/,GAYL,,,2017-01-24,Berkman Klein,
-https://homosexualman.wordpress.com/,GAYL,,,2017-01-24,Berkman Klein,
+https://homosexualman.wordpress.com/,GAYL,,FEXP,2017-01-24,Berkman Klein,
 https://www.outrightinternational.org/content/%D8%B1%D8%A7%D9%87-%D8%A7%D9%86%D8%AF%D8%A7%D8%B2%DB%8C-%D9%88%D8%A8%D8%B3%D8%A7%DB%8C%D8%AA-%D9%81%D8%A7%D8%B1%D8%B3%DB%8C-%D9%88-%D8%A7%D9%86%D8%AA%D8%B4%D8%A7%D8%B1-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D8%AC%D8%AF%DB%8C%D8%AF%DB%8C-%D8%A7%D8%B2-%DA%A9%D8%AA%D8%A7%D8%A8%DA%86%D9%87-%D9%87%D8%A7%DB%8C-%D9%88-%D8%B1%D8%A7%D9%87%D9%86%D9%85%D8%A7,GAYL,,,2017-01-24,Berkman Klein,Farsi translation of OutRight Action International
-http://2shanbe.ir/,HAL,,,2017-01-24,Berkman Klein,
+http://2shanbe.ir/,HAL,,NEWS,2017-01-24,Berkman Klein,
 http://blog.khabgard.com/,HAL,,,2017-01-24,Berkman Klein,
 http://persianbooks2.blogspot.com/,HAL,,,2017-01-24,Berkman Klein,
-http://raahak.com/,HAL,,,2017-01-24,Berkman Klein,
+http://raahak.com/,HAL,,NEWS,2017-01-24,Berkman Klein,
 http://www.naakojaa.com/,HAL,,,2017-01-24,Berkman Klein,
-http://www.nogaam.com/,HAL,,,2017-01-24,Berkman Klein,An online publisher which published censored books in Iran
-http://www.wsu-iran.org/,HAL,,,2017-01-24,Berkman Klein,
-http://hasanagha.net/blog/,HATE,,,2017-01-24,Berkman Klein,
+http://www.nogaam.com/,HAL,,FEXP,2017-01-24,Berkman Klein,An online publisher which published censored books in Iran
+http://www.wsu-iran.org/,HAL,,POLT,2017-01-24,Berkman Klein,
+http://hasanagha.net/blog/,HATE,,POLT,2017-01-24,Berkman Klein,
 http://sinet.ir/fa/,HOST,,,2017-01-24,Berkman Klein,
-http://fis-iran.org/,HUMR,,,2017-01-24,Berkman Klein,
+http://fis-iran.org/,HUMR,,WOMR,2017-01-24,Berkman Klein,
 http://iranfocus.com/,HUMR,,,2017-01-24,Berkman Klein,
-http://justice4iran.org/,HUMR,,,2017-01-24,Berkman Klein,
+http://justice4iran.org/,HUMR,,MINR,2017-01-24,Berkman Klein,
 http://right-to-childhood.com/,HUMR,,,2017-01-24,Berkman Klein,
 http://www.aihrc.org.af/,HUMR,,,2017-01-24,Berkman Klein,
-http://www.azadegy.de/,HUMR,,,2017-01-24,Berkman Klein,
-http://www.hambastegi.org/,HUMR,,,2017-01-24,Berkman Klein,
-http://www.iranhrdc.org/english/,HUMR,,,2017-01-24,Berkman Klein,
-http://www.iranhrdc.org/persian/,HUMR,,,2017-01-24,Berkman Klein,
+http://www.azadegy.de/,HUMR,,POLT,2017-01-24,Berkman Klein,
+http://www.hambastegi.org/,HUMR,,POLT,2017-01-24,Berkman Klein,
+http://www.iranhrdc.org/english/,HUMR,,FEXP,2017-01-24,Berkman Klein,
+http://www.iranhrdc.org/persian/,HUMR,,FEXP,2017-01-24,Berkman Klein,
 https://persian.iranhumanrights.org/,HUMR,,,2017-01-24,Berkman Klein,
-https://united4iran.org/,HUMR,,,2017-01-24,Berkman Klein,
-https://united4iran.org/persian,HUMR,,,2017-01-24,Berkman Klein,
-https://www.amnesty.org/en/,HUMR,,,2017-01-24,Berkman Klein,
+https://united4iran.org/,HUMR,,FEXP,2017-01-24,Berkman Klein,
+https://united4iran.org/persian,HUMR,,FEXP,2017-01-24,Berkman Klein,
+https://www.amnesty.org/en/,HUMR,,FEXP,2017-01-24,Berkman Klein,
 https://www.hrw.org/,HUMR,,,2017-01-24,Berkman Klein,
 https://www.iranhumanrights.org/,HUMR,,,2017-01-24,Berkman Klein,
-http://komalainternational.org/,MILX,,,2017-01-24,Berkman Klein,
-http://www.komala.org/,MILX,,,2017-01-24,Berkman Klein,
-http://www.pdki.org/,MILX,,,2017-01-24,Berkman Klein,
-http://www.siahkal.com/,MILX,,,2017-01-24,Berkman Klein,
+http://komalainternational.org/,MILX,,MINR,2017-01-24,Berkman Klein,
+http://www.komala.org/,MILX,,MINR,2017-01-24,Berkman Klein,
+http://www.pdki.org/,MILX,,MINR,2017-01-24,Berkman Klein,
+http://www.siahkal.com/,MILX,,POLT,2017-01-24,Berkman Klein,
 http://www.kurdishworld.com/,MINR,,,2017-01-24,Berkman Klein,
-http://www.kurdistanmedia.com/,MINR,,,2017-01-24,Berkman Klein,
-http://www.kurdistanmedia.com/farsi/,MINR,,,2017-01-24,Berkman Klein,
+http://www.kurdistanmedia.com/,MINR,,FREL,2017-01-24,Berkman Klein,
+http://www.kurdistanmedia.com/farsi/,MINR,,FREL,2017-01-24,Berkman Klein,
 http://antiquities.org.il/,MISC,,,2017-01-24,Berkman Klein,
 http://weblog.sologen.net/,MISC,,,2017-01-24,Berkman Klein,"A blog with contents about daily life, technology, politics, etc."
 http://www.chekhabar.com/,MISC,,,2017-01-24,Berkman Klein,
 http://www.darsnameh.com/,MISC,,,2017-01-24,Berkman Klein,
-https://bikhof.com/,MISC,,,2017-01-24,Berkman Klein,
-https://iransec.org/,MISC,,,2017-01-24,Berkman Klein,
-http://www.iranianuk.com/,MISCTOOLS,,,2017-01-24,Berkman Klein,
+https://bikhof.com/,MISC,,PLATFORM,2017-01-24,Berkman Klein,
+https://iransec.org/,MISC,,PLATFORM,2017-01-24,Berkman Klein,
+http://www.iranianuk.com/,MISCTOOLS,,NEWS,2017-01-24,Berkman Klein,
 http://imo.im/,MSG,,,2017-01-24,Berkman Klein,
 http://line.me/en/,MSG,,,2017-01-24,Berkman Klein,
 http://www.viber.com/en/,MSG,,,2017-01-24,Berkman Klein,
@@ -94,28 +94,28 @@ https://web.whatsapp.com/,MSG,,,2017-01-24,Berkman Klein,
 https://www.skype.com/en/,MSG,,,2017-01-24,Berkman Klein,
 https://www.whatsapp.com/,MSG,,,2017-01-24,Berkman Klein,
 http://bbcpersian.com/,NEWS,,,2017-01-24,Berkman Klein,
-http://cheragheazadi.org/,NEWS,,,2017-01-24,Berkman Klein,
+http://cheragheazadi.org/,NEWS,,HUMR,2017-01-24,Berkman Klein,
 http://donya-e-eqtesad.com/,NEWS,,,2017-01-24,Berkman Klein,
 http://edition.cnn.com/,NEWS,,,2017-01-24,Berkman Klein,
 http://fa.soroush.nl/,NEWS,,,2017-01-24,Berkman Klein,
 http://fardanews.com/,NEWS,,,2017-01-24,Berkman Klein,
-http://farsi.alarabiya.net/,NEWS,,,2017-01-24,Berkman Klein,
-http://footballitarin.com/,NEWS,,,2017-01-24,Berkman Klein,
+http://farsi.alarabiya.net/,NEWS,,FREL,2017-01-24,Berkman Klein,
+http://footballitarin.com/,NEWS,,SPORT,2017-01-24,Berkman Klein,
 http://ir.voanews.com/,NEWS,,,2017-01-24,Berkman Klein,
-http://irangreenvoice.com/,NEWS,GREEN MOVEMENT,,2017-01-24,Berkman Klein,
+http://irangreenvoice.com/,NEWS,GREEN MOVEMENT,FEXP,2017-01-24,Berkman Klein,
 http://iranvajahan.net/en/,NEWS,,,2017-01-24,Berkman Klein,
 http://iranvajahan.net/ir/,NEWS,,,2017-01-24,Berkman Klein,
 http://kayhan.london/fa/,NEWS,,,2017-01-24,Berkman Klein,
 http://news.gooya.com/,NEWS,,,2017-01-24,Berkman Klein,
 http://persian.aawsat.com/,NEWS,,,2017-01-24,Berkman Klein,
 http://persian.euronews.com/,NEWS,,,2017-01-24,Berkman Klein,
-http://saaad.net/,NEWS,,,2017-01-24,Berkman Klein,
+http://saaad.net/,NEWS,,MISC,2017-01-24,Berkman Klein,
 http://sverigesradio.se/sida/default.aspx?programid=2493,NEWS,,,2017-01-24,Berkman Klein,
-http://varzesh3.com/,NEWS,,,2017-01-24,Berkman Klein,
+http://varzesh3.com/,NEWS,,SPORT,2017-01-24,Berkman Klein,
 http://www.al-monitor.com/pulse/iran-pulse,NEWS,,,2017-01-24,Berkman Klein,News about Iran aimed at an English-speaking audience 
 http://www.asriran.com/,NEWS,,,2017-01-24,Berkman Klein,
-http://www.avairan.com/,NEWS,,,2017-01-24,Berkman Klein,
-http://www.azadi-b.com/,NEWS,,,2017-01-24,Berkman Klein,
+http://www.avairan.com/,NEWS,,POLT,2017-01-24,Berkman Klein,
+http://www.azadi-b.com/,NEWS,,FEXP,2017-01-24,Berkman Klein,
 http://www.bbc.co.uk/persian/,NEWS,,,2017-01-24,Berkman Klein,
 http://www.digarban.com/,NEWS,,,2017-01-24,Berkman Klein,
 http://www.dw.com/fa-ir/%D8%AF%D9%88%DB%8C%DA%86%D9%87-%D9%88%D9%84%D9%87-%D9%81%D8%A7%D8%B1%D8%B3%DB%8C/s-9993,NEWS,,,2017-01-24,Berkman Klein,
@@ -128,7 +128,7 @@ http://www.irannaz.com/,NEWS,,,2017-01-24,Berkman Klein,
 http://www.iranpressnews.com/,NEWS,,,2017-01-24,Berkman Klein,
 http://www.kaleme.com/,NEWS,GREEN MOVEMENT,,2017-01-24,Berkman Klein,
 http://www.parsnaz.ir/,NEWS,,,2017-01-24,Berkman Klein,
-http://www.pezhvakeiran.com/,NEWS,,,2017-01-24,Berkman Klein,
+http://www.pezhvakeiran.com/,NEWS,,POLT,2017-01-24,Berkman Klein,
 http://www.radiofarda.com/,NEWS,,,2017-01-24,Berkman Klein,
 http://www.radiozamaneh.com/,NEWS,,,2017-01-24,Berkman Klein,
 http://www.rferl.org/section/Iran/156.html,NEWS,,,2017-01-24,Berkman Klein,
@@ -136,27 +136,27 @@ http://www.sharghdaily.ir/,NEWS,,,2017-01-24,Berkman Klein,
 http://www.tabnak.ir/,NEWS,,,2017-01-24,Berkman Klein,
 https://en.iranwire.com/,NEWS,,,2017-01-24,Berkman Klein,
 https://iranwire.com/,NEWS,,,2017-01-24,Berkman Klein,
-https://soroushmehr.com/,NEWS,,,2017-01-24,Berkman Klein,
+https://soroushmehr.com/,NEWS,,RELCON,2017-01-24,Berkman Klein,
 https://www.manoto.news/,NEWS,,,2017-01-24,Berkman Klein,
 https://www.manototv.com/,NEWS,,,2017-01-24,Berkman Klein,
-http://4shared.com/,PLATFORM,,,2017-01-24,Berkman Klein,
-http://aparat.com/,PLATFORM,,,2017-01-24,Berkman Klein,
+http://4shared.com/,PLATFORM,,SFTWR,2017-01-24,Berkman Klein,
+http://aparat.com/,PLATFORM,,STREAM,2017-01-24,Berkman Klein,
 http://balatarin.com/,PLATFORM,,,2017-01-24,Berkman Klein,
 http://www.hammihan.com/,PLATFORM,,,2017-01-24,Berkman Klein,
 http://www.looti.net/,PLATFORM,FORUM,,2017-01-24,Berkman Klein,
 https://en.wikipedia.org/wiki/Kir_(cocktail),PLATFORM,,,2017-01-24,Berkman Klein,A specific article on Wikipedia English
-https://fa.wikipedia.org/wiki/%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C,PLATFORM,,,2017-01-24,Berkman Klein,A specific article on Wikipedia Farsi
-https://fa.wikipedia.org/wiki/%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C_%D8%A8%DB%8C%D8%A7%D9%86,PLATFORM,,,2017-01-24,Berkman Klein,A specific article on Wikipedia Farsi
+https://fa.wikipedia.org/wiki/%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C,PLATFORM,,FEXP,2017-01-24,Berkman Klein,A specific article on Wikipedia Farsi
+https://fa.wikipedia.org/wiki/%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C_%D8%A8%DB%8C%D8%A7%D9%86,PLATFORM,,FEXP,2017-01-24,Berkman Klein,A specific article on Wikipedia Farsi
 https://fa.wikipedia.org/wiki/%D8%A7%D9%86%D8%AF%D8%A7%D8%B2%D9%87_%D8%A2%D9%84%D8%AA_%D9%85%D8%B1%D8%AF%DB%8C,PLATFORM,,,2017-01-24,Berkman Klein,A specific article on Wikipedia Farsi
 https://fa.wikipedia.org/wiki/%D8%AC%D8%B2%DB%8C%D8%B1%D9%87_%DA%A9%D8%B3,PLATFORM,,,2017-01-24,Berkman Klein,A specific article on Wikipedia Farsi
-https://fa.wikipedia.org/wiki/%D8%B2%D9%86_%D8%AF%D8%B1_%D8%A7%D8%B3%D9%84%D8%A7%D9%85,PLATFORM,,,2017-01-24,Berkman Klein,
+https://fa.wikipedia.org/wiki/%D8%B2%D9%86_%D8%AF%D8%B1_%D8%A7%D8%B3%D9%84%D8%A7%D9%85,PLATFORM,,WOMR,2017-01-24,Berkman Klein,
 https://fa.wikipedia.org/wiki/%D9%81%D8%B1%D8%AC_(%D8%B9%D8%B6%D9%88),PLATFORM,,,2017-01-24,Berkman Klein,A specific article on Wikipedia Farsi
-https://fa.wikipedia.org/wiki/%D9%81%D9%85%DB%8C%D9%86%DB%8C%D8%B3%D9%85,PLATFORM,,,2017-01-24,Berkman Klein,
+https://fa.wikipedia.org/wiki/%D9%81%D9%85%DB%8C%D9%86%DB%8C%D8%B3%D9%85,PLATFORM,,WOMR,2017-01-24,Berkman Klein,
 https://fa.wiktionary.org/wiki/%DA%A9%DB%8C%D8%B1,PLATFORM,,,2017-01-24,Berkman Klein,A specific article on Wikipedia Farsi
-https://issuu.com/,PLATFORM,,,2017-01-24,Berkman Klein,
-https://majlismonitor.com/,POLT,,,2017-01-24,Berkman Klein,
-https://www.instagram.com/homophobia.ir/,PLATFORM,,,2017-01-24,Berkman Klein,
-https://www.rouhanimeter.com/,POLT,,,2017-01-24,Berkman Klein,
+https://issuu.com/,PLATFORM,,SRCH,2017-01-24,Berkman Klein,
+https://majlismonitor.com/,POLT,,NEWS,2017-01-24,Berkman Klein,
+https://www.instagram.com/homophobia.ir/,PLATFORM,,GAYL,2017-01-24,Berkman Klein,
+https://www.rouhanimeter.com/,POLT,,NEWS,2017-01-24,Berkman Klein,
 http://blogfa.com/,PLATFROM,,,2017-01-24,Berkman Klein,
 http://persianblog.com/,PLATFROM,,,2017-01-24,Berkman Klein,
 http://persianblog.ir/,PLATFROM,,,2017-01-24,Berkman Klein,
@@ -164,11 +164,11 @@ http://wp-persian.com/,PLATFROM,,,2017-01-24,Berkman Klein,
 http://www.tinypic.com/,PLATFROM,,,2017-01-24,Berkman Klein,
 https://2nate.com/,PLATFROM,,,2017-01-24,Berkman Klein,
 https://en.wikipedia.org/wiki/Kos,PLATFROM,,,2017-01-24,Berkman Klein,A specific article on Wikipedia English
-https://github.com/,PLATFROM,,,2017-01-24,Berkman Klein,
+https://github.com/,PLATFROM,,MISC,2017-01-24,Berkman Klein,
 https://www.goodreads.com/,PLATFROM,,,2017-01-24,Berkman Klein,
 http://drsoroush.com/en/,POLT,,,2017-01-24,Berkman Klein,
-http://iranefardanews.com/,POLT,,,2017-01-24,Berkman Klein,
-http://ncr-iran.org/en/,POLT,MKO,,2017-01-24,Berkman Klein,
+http://iranefardanews.com/,POLT,,NEWS,2017-01-24,Berkman Klein,
+http://ncr-iran.org/en/,POLT,MKO,MILX,2017-01-24,Berkman Klein,
 http://southaz.blogspot.com/,POLT,,,2017-01-24,Berkman Klein,
 http://webneveshteha.com/,POLT,,,2017-01-24,Berkman Klein,"The blog belongs to Mohammad Ali Abtahi, adviser of former president of Iran, Mohammad Khatami"
 http://webneveshteha.com/weblog/,POLT,,,2017-01-24,Berkman Klein,"The blog belongs to Mohammad Ali Abtahi, adviser of former president of Iran, Mohammad Khatami"
@@ -176,20 +176,20 @@ http://wpiranfa.com/,POLT,,,2017-01-24,Berkman Klein,
 http://www.azarmehr.info/,POLT,,,2017-01-24,Berkman Klein,
 http://www.dayani.de/,POLT,,,2017-01-24,Berkman Klein,
 http://www.drsoroush.com/fa,POLT,,,2017-01-24,Berkman Klein,
-http://www.fadaian.org/,POLT,,,2017-01-24,Berkman Klein,
-http://www.hambastegimeli.com/,POLT,MKO,,2017-01-24,Berkman Klein,
-http://www.iran-e-azad.org/,POLT,MKO,,2017-01-24,Berkman Klein,
-http://www.iran-nabard.com/,POLT,,,2017-01-24,Berkman Klein,
-http://www.iranncr.org/,POLT,MKO,,2017-01-24,Berkman Klein,
+http://www.fadaian.org/,POLT,,MILX,2017-01-24,Berkman Klein,
+http://www.hambastegimeli.com/,POLT,MKO,MILX,2017-01-24,Berkman Klein,
+http://www.iran-e-azad.org/,POLT,MKO,MILX,2017-01-24,Berkman Klein,
+http://www.iran-nabard.com/,POLT,,MILX,2017-01-24,Berkman Klein,
+http://www.iranncr.org/,POLT,MKO,MILX,2017-01-24,Berkman Klein,
 http://www.iranntv.com/,POLT,MKO,,2017-01-24,Berkman Klein,
 http://www.jebhemelli.net/,POLT,,,2017-01-24,Berkman Klein,
-http://www.maryam-rajavi.com/,POLT,MKO,,2017-01-24,Berkman Klein,
+http://www.maryam-rajavi.com/,POLT,MKO,MILX,2017-01-24,Berkman Klein,
 http://www.marzeporgohar.org/,POLT,,,2017-01-24,Berkman Klein,
-http://www.nourizadeh.com/,POLT,,,2017-01-24,Berkman Klein,
-http://www.pyknet.net/,POLT,,,2017-01-24,Berkman Klein,
-http://www.radis.org/,POLT,,,2017-01-24,Berkman Klein,
-http://www.samaa.org/,POLT,MKO,,2017-01-24,Berkman Klein,
-http://www.sarbedaran.org/,POLT,,,2017-01-24,Berkman Klein,
+http://www.nourizadeh.com/,POLT,,NEWS,2017-01-24,Berkman Klein,
+http://www.pyknet.net/,POLT,,NEWS,2017-01-24,Berkman Klein,
+http://www.radis.org/,POLT,,NEWS,2017-01-24,Berkman Klein,
+http://www.samaa.org/,POLT,MKO,MILX,2017-01-24,Berkman Klein,
+http://www.sarbedaran.org/,POLT,,MILX,2017-01-24,Berkman Klein,
 http://www.tudehpartyiran.org/,POLT,,,2017-01-24,Berkman Klein,
 http://www.wpiran.org/,POLT,,,2017-01-24,Berkman Klein,
 https://www.mojahedin.org/home/fa,POLT,MKO,,2017-01-24,Berkman Klein,
@@ -209,25 +209,25 @@ https://shahvani.com/,PORN,,,2017-01-24,Berkman Klein,
 http://tasalamati.com/,PUBH,,,2017-01-24,Berkman Klein,
 http://www.hakimmajedi.com/,PUBH,,,2017-01-24,Berkman Klein,
 http://www.iranhiv.com/,PUBH,,,2017-01-24,Berkman Klein,
-http://bihe.org/,REL,,,2017-01-24,Berkman Klein,
-http://aasoo.org/en/,REL,,,2017-01-24,Berkman Klein,
-http://bahai-library.com/,REL,,,2017-01-24,Berkman Klein,
-http://info.bahai.org/,REL,,,2017-01-24,Berkman Klein,
-http://news.bahai.org/,REL,,,2017-01-24,Berkman Klein,
-http://news.persian-bahai.org/,REL,,,2017-01-24,Berkman Klein,
-http://persianbahaimedia.org/,REL,,,2017-01-24,Berkman Klein,
-http://www.archive.bic.org/fa/,REL,,,2017-01-24,Berkman Klein,
-http://www.bahai.com/,REL,,,2017-01-24,Berkman Klein,
-http://www.bahai.com/persian/,REL,,,2017-01-24,Berkman Klein,
-http://www.bahai.com/welcome.htm,REL,,,2017-01-24,Berkman Klein,
-http://www.bahai.org/fa/,REL,,,2017-01-24,Berkman Klein,
-http://www.bahai.org/fa/library/,REL,,,2017-01-24,Berkman Klein,
-http://www.bahai.org/library/,REL,,,2017-01-24,Berkman Klein,
-http://www.bahaullah.com/,REL,,,2017-01-24,Berkman Klein,
-http://www.sunni-news.net/,REL,,,2017-01-24,Berkman Klein,
-http://www.sunni-news.net/fa/,REL,,,2017-01-24,Berkman Klein,
-https://www.bahai.us/,REL,,,2017-01-24,Berkman Klein,
-https://www.bic.org/,REL,,,2017-01-24,Berkman Klein,
+http://bihe.org/,REL,,MINR,2017-01-24,Berkman Klein,
+http://aasoo.org/en/,REL,,MINR,2017-01-24,Berkman Klein,
+http://bahai-library.com/,REL,,MINR,2017-01-24,Berkman Klein,
+http://info.bahai.org/,REL,,MINR,2017-01-24,Berkman Klein,
+http://news.bahai.org/,REL,,NEWS,2017-01-24,Berkman Klein,
+http://news.persian-bahai.org/,REL,,NEWS,2017-01-24,Berkman Klein,
+http://persianbahaimedia.org/,REL,,MINR,2017-01-24,Berkman Klein,
+http://www.archive.bic.org/fa/,REL,,MINR,2017-01-24,Berkman Klein,
+http://www.bahai.com/,REL,,MINR,2017-01-24,Berkman Klein,
+http://www.bahai.com/persian/,REL,,MINR,2017-01-24,Berkman Klein,
+http://www.bahai.com/welcome.htm,REL,,MINR,2017-01-24,Berkman Klein,
+http://www.bahai.org/fa/,REL,,MINR,2017-01-24,Berkman Klein,
+http://www.bahai.org/fa/library/,REL,,MINR,2017-01-24,Berkman Klein,
+http://www.bahai.org/library/,REL,,MINR,2017-01-24,Berkman Klein,
+http://www.bahaullah.com/,REL,,MINR,2017-01-24,Berkman Klein,
+http://www.sunni-news.net/,REL,,MINR,2017-01-24,Berkman Klein,
+http://www.sunni-news.net/fa/,REL,,MINR,2017-01-24,Berkman Klein,
+https://www.bahai.us/,REL,,MINR,2017-01-24,Berkman Klein,
+https://www.bic.org/,REL,,MINR,2017-01-24,Berkman Klein,
 http://p30download.com/,SFTWR,,,2017-01-24,Berkman Klein,
 http://portableapps.com/,SFTWR,,,2017-01-24,Berkman Klein,
 http://ask.com/,SRCH,,,2017-01-24,Berkman Klein,
@@ -235,12 +235,12 @@ http://parsijoo.ir/,SRCH,,,2017-01-24,Berkman Klein,
 http://www.baidu.com/,SRCH,,,2017-01-24,Berkman Klein,
 http://www.webcrawler.com/,SRCH,,,2017-01-24,Berkman Klein,
 http://www.yooz.ir/,SRCH,,,2017-01-24,Berkman Klein,
-https://archive.org/,SRCH,,,2017-01-24,Berkman Klein,
+https://archive.org/,SRCH,,SFTWR,2017-01-24,Berkman Klein,
 https://www.google.com/videohp,SRCH,,,2017-01-24,Berkman Klein,
 https://www.yandex.com/,SRCH,,,2017-01-24,Berkman Klein,
 http://www.tapesh.com/,STREAM,,,2017-01-24,Berkman Klein,
-https://zanantv.net/,WOMR,,,2017-01-24,Berkman Klein,
-https://zanantv.net/en/,WOMR,,,2017-01-24,Berkman Klein,
+https://zanantv.net/,WOMR,,NEWS,2017-01-24,Berkman Klein,
+https://zanantv.net/en/,WOMR,,NEWS,2017-01-24,Berkman Klein,
 http://www.tanzimekhanevadeh.com/,XED,,,2017-01-24,Berkman Klein,
 http://107.154.106.52/,POLT,,,2017-01-24,Berkman Klein,IP for opposition group mojahedin.org
 https://www.rehlat.com/,MISC,,,2017-01-24,Berkman Klein,Share IP of opposition group mojahedin.org
@@ -251,7 +251,7 @@ http://www.windowsphone.com/s?appid=2f0cecbe-801b-46d8-bc05-28d02cc265e3,POLT,,,
 https://telegram.me/PMOI_Arabic,POLT,,,2017-01-24,Berkman Klein,
 http://iranntv.mobi/,POLT,,,2017-01-24,Berkman Klein,
 http://67.227.224.33/,POLT,,,2017-01-24,Berkman Klein,IP for opposition group maryam-rajavi.com
-http://www.albainah.net/,REL,,,2017-01-24,Berkman Klein,
+http://www.albainah.net/,REL,,MINR,2017-01-24,Berkman Klein,
 https://theglobaldialogue.ca/,POLT,,,2017-01-24,Berkman Klein,CREATING A SPACE FOR DIALOGUE AMONG IRANIANS ON THE FUTURE OF IRAN.
 http://azadiradio.com/,NEWS,,,2017-01-24,Berkman Klein,USG-funded radio
 http://www.azathabar.com/,NEWS,,,2017-01-24,Berkman Klein,USG-funded radio
@@ -290,45 +290,45 @@ http://www.toosheh.org/,MISCTOOLS,,,2017-01-24,Berkman Klein,One-way satellite t
 http://www.toosheh.org/?lang=fa,MISCTOOLS,,,2017-01-24,Berkman Klein,One-way satellite transmission of web content from different producers to Iran
 https://www.ctrlstd.com/,XED,,,2017-01-24,Berkman Klein,Educational resource on prevention of sexually transmitted disease
 http://www.hashemirafsanjani.ir/,POLT,GREEN MOVEMENT,,2017-01-24,Berkman Klein,"Official website of recently departed political figure, Hashemi, whose funeral turned into a national protest"
-https://fa.wikipedia.org/wiki/%D8%A7%DA%A9%D8%A8%D8%B1_%D9%87%D8%A7%D8%B4%D9%85%DB%8C_%D8%B1%D9%81%D8%B3%D9%86%D8%AC%D8%A7%D9%86%DB%8C,PLATFORM,,,2017-01-24,Berkman Klein,"Wikipedia page of recently departed political figure, Hashemi, whose funeral turned into a national protest"
-https://en.wikipedia.org/wiki/Akbar_Hashemi_Rafsanjani,PLATFORM,,,2017-01-24,Berkman Klein,"Wikipedia page of recently departed political figure, Hashemi, whose funeral turned into a national protest"
+https://fa.wikipedia.org/wiki/%D8%A7%DA%A9%D8%A8%D8%B1_%D9%87%D8%A7%D8%B4%D9%85%DB%8C_%D8%B1%D9%81%D8%B3%D9%86%D8%AC%D8%A7%D9%86%DB%8C,PLATFORM,,POLT,2017-01-24,Berkman Klein,"Wikipedia page of recently departed political figure, Hashemi, whose funeral turned into a national protest"
+https://en.wikipedia.org/wiki/Akbar_Hashemi_Rafsanjani,PLATFORM,,POLT,2017-01-24,Berkman Klein,"Wikipedia page of recently departed political figure, Hashemi, whose funeral turned into a national protest"
 http://www.khatami.ir/,POLT,GREEN MOVEMENT,,2017-01-24,Berkman Klein,"Official website of former reformist president, whose appearance is banned from public media"
-https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D8%AF_%D9%85%D8%AD%D9%85%D8%AF_%D8%AE%D8%A7%D8%AA%D9%85%DB%8C,PLATFORM,GREEN MOVEMENT,,2017-01-24,Berkman Klein,"Wikipedia page of former reformist president, whose appearance is banned from public media"
-https://en.wikipedia.org/wiki/Mohammad_Khatami,PLATFORM,GREEN MOVEMENT,,2017-01-24,Berkman Klein,"Wikipedia page of former reformist president, whose appearance is banned from public media"
-https://en.wikipedia.org/wiki/%D9%85%DB%8C%D8%B1%D8%AD%D8%B3%DB%8C%D9%86_%D9%85%D9%88%D8%B3%D9%88%DB%8C_%D8%AE%D8%A7%D9%85%D9%86%D9%87,PLATFORM,GREEN MOVEMENT,,2017-01-24,Berkman Klein,Wikipedia page of Green Movement leader who has been under house arrest for 6 years
-https://fa.wikipedia.org/wiki/%D9%85%DB%8C%D8%B1%D8%AD%D8%B3%DB%8C%D9%86_%D9%85%D9%88%D8%B3%D9%88%DB%8C,PLATFORM,GREEN MOVEMENT,,2017-01-24,Berkman Klein,
-https://en.wikipedia.org/wiki/Mehdi_Karroubi,PLATFORM,GREEN MOVEMENT,,2017-01-24,Berkman Klein,Wikipedia page of Green Movement leader who has been under house arrest for 6 years
-https://fa.wikipedia.org/wiki/%D9%85%D9%87%D8%AF%DB%8C_%DA%A9%D8%B1%D9%88%D8%A8%DB%8C,PLATFORM,GREEN MOVEMENT,,2017-01-24,Berkman Klein,Wikipedia page of Green Movement leader who has been under house arrest for 6 years
-https://fa.wikipedia.org/wiki/%D8%B2%D9%87%D8%B1%D8%A7_%D8%B1%D9%87%D9%86%D9%88%D8%B1%D8%AF,PLATFORM,GREEN MOVEMENT,,2017-01-24,Berkman Klein,Wikipedia page of Green Movement leader's wife who has been under house arrest for 6 years
-https://fa.wikipedia.org/wiki/%D8%AD%D8%A8%D8%B3_%D8%AE%D8%A7%D9%86%DA%AF%DB%8C_%D9%85%DB%8C%D8%B1%D8%AD%D8%B3%DB%8C%D9%86_%D9%85%D9%88%D8%B3%D9%88%DB%8C%D8%8C_%D9%85%D9%87%D8%AF%DB%8C_%DA%A9%D8%B1%D9%88%D8%A8%DB%8C_%D9%88_%D9%87%D9%85%D8%B3%D8%B1%D8%A7%D9%86%D8%B4%D8%A7%D9%86,PLATFORM,GREEN MOVEMENT,,2017-01-24,Berkman Klein,Wikipedia page on the house arrest of Green Movement leaders 
-https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%B4%DB%8C%D8%B1_%D8%A7%D9%85%DB%8C%D8%B1%D8%A7%D8%B1%D8%AC%D9%85%D9%86%D8%AF,PLATFORM,GREEN MOVEMENT,,2017-01-24,Berkman Klein,WIkipedia page of senior advisor to the Green Movement leader
-http://www.saudiaramco.com/en/home.html,MISC,SAUDI-IR RELATION,,2017-01-24,Berkman Klein,
-http://www.haj.gov.sa/english/Pages/default.aspx,FREL,HAJJ,,2017-01-24,Berkman Klein,"Following the hajj stampede in 2015 and tensions between Iran and Saudi over Yemen conflict, in Dec 2016 Iran announced a halt in sending pilgrims to hajj. "
+https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D8%AF_%D9%85%D8%AD%D9%85%D8%AF_%D8%AE%D8%A7%D8%AA%D9%85%DB%8C,PLATFORM,GREEN MOVEMENT,POLT,2017-01-24,Berkman Klein,"Wikipedia page of former reformist president, whose appearance is banned from public media"
+https://en.wikipedia.org/wiki/Mohammad_Khatami,PLATFORM,GREEN MOVEMENT,POLT,2017-01-24,Berkman Klein,"Wikipedia page of former reformist president, whose appearance is banned from public media"
+https://en.wikipedia.org/wiki/%D9%85%DB%8C%D8%B1%D8%AD%D8%B3%DB%8C%D9%86_%D9%85%D9%88%D8%B3%D9%88%DB%8C_%D8%AE%D8%A7%D9%85%D9%86%D9%87,PLATFORM,GREEN MOVEMENT,POLT,2017-01-24,Berkman Klein,Wikipedia page of Green Movement leader who has been under house arrest for 6 years
+https://fa.wikipedia.org/wiki/%D9%85%DB%8C%D8%B1%D8%AD%D8%B3%DB%8C%D9%86_%D9%85%D9%88%D8%B3%D9%88%DB%8C,PLATFORM,GREEN MOVEMENT,POLT,2017-01-24,Berkman Klein,
+https://en.wikipedia.org/wiki/Mehdi_Karroubi,PLATFORM,GREEN MOVEMENT,POLT,2017-01-24,Berkman Klein,Wikipedia page of Green Movement leader who has been under house arrest for 6 years
+https://fa.wikipedia.org/wiki/%D9%85%D9%87%D8%AF%DB%8C_%DA%A9%D8%B1%D9%88%D8%A8%DB%8C,PLATFORM,GREEN MOVEMENT,POLT,2017-01-24,Berkman Klein,Wikipedia page of Green Movement leader who has been under house arrest for 6 years
+https://fa.wikipedia.org/wiki/%D8%B2%D9%87%D8%B1%D8%A7_%D8%B1%D9%87%D9%86%D9%88%D8%B1%D8%AF,PLATFORM,GREEN MOVEMENT,POLT,2017-01-24,Berkman Klein,Wikipedia page of Green Movement leader's wife who has been under house arrest for 6 years
+https://fa.wikipedia.org/wiki/%D8%AD%D8%A8%D8%B3_%D8%AE%D8%A7%D9%86%DA%AF%DB%8C_%D9%85%DB%8C%D8%B1%D8%AD%D8%B3%DB%8C%D9%86_%D9%85%D9%88%D8%B3%D9%88%DB%8C%D8%8C_%D9%85%D9%87%D8%AF%DB%8C_%DA%A9%D8%B1%D9%88%D8%A8%DB%8C_%D9%88_%D9%87%D9%85%D8%B3%D8%B1%D8%A7%D9%86%D8%B4%D8%A7%D9%86,PLATFORM,GREEN MOVEMENT,POLT,2017-01-24,Berkman Klein,Wikipedia page on the house arrest of Green Movement leaders 
+https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D8%B4%DB%8C%D8%B1_%D8%A7%D9%85%DB%8C%D8%B1%D8%A7%D8%B1%D8%AC%D9%85%D9%86%D8%AF,PLATFORM,GREEN MOVEMENT,POLT,2017-01-24,Berkman Klein,WIkipedia page of senior advisor to the Green Movement leader
+http://www.saudiaramco.com/en/home.html,MISC,SAUDI-IR RELATION,FREL,2017-01-24,Berkman Klein,
+http://www.haj.gov.sa/english/Pages/default.aspx,FREL,HAJJ,POLT,2017-01-24,Berkman Klein,"Following the hajj stampede in 2015 and tensions between Iran and Saudi over Yemen conflict, in Dec 2016 Iran announced a halt in sending pilgrims to hajj. "
 https://fa.wikipedia.org/wiki/%D8%B4%D8%A7%D9%87%DB%8C%D9%86_%D9%86%D8%AC%D9%81%DB%8C,HAL,,,2017-01-24,Berkman Klein,"Wikipedia page of the controversial rapper and singer, Shahin Najafi, whose Instagram account was hacked in Summer 2016 by a group related to the Cyber Army of Iran "
-http://www.aparat.com/result/%D8%B4%D8%A7%D9%87%DB%8C%D9%86_%D9%86%D8%AC%D9%81%DB%8C,PLATFORM,,,2017-01-24,Berkman Klein,"Shahin najafi songs on Aparat, the Iranian YouTube. "
+http://www.aparat.com/result/%D8%B4%D8%A7%D9%87%DB%8C%D9%86_%D9%86%D8%AC%D9%81%DB%8C,PLATFORM,,HAL,2017-01-24,Berkman Klein,"Shahin najafi songs on Aparat, the Iranian YouTube. "
 http://www.shahinnajafimusic.com/,HAL,FEXP,,2017-01-24,Berkman Klein,Shahin Najafi's official website
 http://www.kiosktheband.com/,HAL,FEXP,,2017-01-24,Berkman Klein,Kiosk Band's official website. The band and its lead singer are known for their controvertial music and statements in defense of human right and activism in Iran. 
-https://www.manototv.com/live,STREAM,,,2017-01-24,Berkman Klein,
+https://www.manototv.com/live,STREAM,,NEWS,2017-01-24,Berkman Klein,
 http://www.basast.com/,WOMR,,,2017-01-24,Berkman Klein,Educational source on domestic abuse and violence against women
-https://fa.wikipedia.org/wiki/%D8%B5%D8%AF%D9%81_%D8%B7%D8%A7%D9%87%D8%B1%DB%8C%D8%A7%D9%86,PLATFORM,,,2017-01-24,Berkman Klein,"Wikipedia page of Sadaf Taherian, Iranian actress and model who became controversial after leaving Iran and removing her hijab and starting a modeling career. "
-http://www.sourehcinema.com/People/People.aspx?Id=139102110208/,PLATFORM,,,2017-01-24,Berkman Klein,Sadaf Taherian page on a domestic database of Iranian artists
+https://fa.wikipedia.org/wiki/%D8%B5%D8%AF%D9%81_%D8%B7%D8%A7%D9%87%D8%B1%DB%8C%D8%A7%D9%86,PLATFORM,,WOMR,2017-01-24,Berkman Klein,"Wikipedia page of Sadaf Taherian, Iranian actress and model who became controversial after leaving Iran and removing her hijab and starting a modeling career. "
+http://www.sourehcinema.com/People/People.aspx?Id=139102110208/,PLATFORM,,HAL,2017-01-24,Berkman Klein,Sadaf Taherian page on a domestic database of Iranian artists
 http://macholand.org/fa/,WOMR,,,2017-01-24,Berkman Klein,Online advocacy platform against sexism in Iranian media
 http://victoriassecret-iran.com/,PROV,,,2017-01-24,Berkman Klein,Domestic outlets selling Victoria's Secret products. Pictures do not necessarily include provocative attire. The point is to test how word-sensitive the filtering is as these domains and/or content contain the word Victoria's Secret. 
 http://www.khanoumi.com/victoria-secret#unAvailable_1/,PROV,,,2017-01-24,Berkman Klein,
 http://model24.ir/26-photos-model-body-dresses/,PROV,,,2017-01-24,Berkman Klein,
 http://iranimod.ir/%D9%81%D8%B1%D9%88%D8%B4-%D9%84%D8%A8%D8%A7%D8%B3-%D8%B2%D9%8A%D8%B1-%D8%B2%D9%86%D8%A7%D9%86%D9%87-%D8%AA%D8%AD%D8%B1%D9%8A%D9%83-%D9%83%D9%86%D9%86%D8%AF%D9%87/,PROV,,,2017-01-24,Berkman Klein,
 https://www.victoriassecret.com/,PROV,,,2017-01-24,Berkman Klein,
-http://justice4lgbt.com/,GAYL,POLT,,2017-01-24,Berkman Klein,"Fake website created by anonymous undermining work a prominent LGBT activist, Shadi Amin"
+http://justice4lgbt.com/,GAYL,POLT,HATE,2017-01-24,Berkman Klein,"Fake website created by anonymous undermining work a prominent LGBT activist, Shadi Amin"
 http://justiceforiran.org/,HUMR,,,2017-01-24,Berkman Klein,
 http://www.justiceforiran.org/persian/,HUMR,,,2017-01-24,Berkman Klein,
 https://globalvoices.org/-/world/middle-east-north-africa/iran/,NEWS,,,2017-01-24,Berkman Klein,
-https://jonbesh-mardom.blogspot.com/,MILX,,,2017-01-24,Berkman Klein,"Jondollah (separatist, militant Baluch group) blog"
+https://jonbesh-mardom.blogspot.com/,MILX,,POLT,2017-01-24,Berkman Klein,"Jondollah (separatist, militant Baluch group) blog"
 https://fa.wikipedia.org/wiki/%D8%AC%D9%86%D8%AF%D8%A7%D9%84%D9%84%D9%87,MILX,,,2017-01-24,Berkman Klein,"Jondollah (separatist, militant Baluch group) Wikipedia"
 http://jehadway.7olm.org/t79-topic,MILX,,,2017-01-24,Berkman Klein,News and updates about ISIS in Persian (stopped posting in 2014)
-https://www.radiojavan.com/,STREAM,,,2017-01-24,Berkman Klein,Online pop music radio and portal
-https://www.imvbox.com/,STREAM,,,2017-01-24,Berkman Klein,Online database of Iranian movies and documentaries
+https://www.radiojavan.com/,STREAM,,HAL,2017-01-24,Berkman Klein,Online pop music radio and portal
+https://www.imvbox.com/,STREAM,,HAL,2017-01-24,Berkman Klein,Online database of Iranian movies and documentaries
 http://www.rezapahlavi.org/,POLT,,,2017-01-24,Berkman Klein,"Official website of Prince Reza Pahlavi, son of the Shah. "
-https://fa.wikipedia.org/wiki/%D9%81%D8%B1%D8%AD_%D9%BE%D9%87%D9%84%D9%88%DB%8C,PLATFORM,,,2017-01-24,Berkman Klein,"Wikipedia page of Farah Pahlavi, former queen of Iran. "
+https://fa.wikipedia.org/wiki/%D9%81%D8%B1%D8%AD_%D9%BE%D9%87%D9%84%D9%88%DB%8C,PLATFORM,,POLT,2017-01-24,Berkman Klein,"Wikipedia page of Farah Pahlavi, former queen of Iran. "
 http://www.bahainews.today/,REL,,,2017-01-24,Berkman Klein,
 http://irangreenvoice.com//,FEXP,,,2015-03-20,"Citizen Lab, OONI",
 http://cnn.com/,FEXP,,,2015-03-20,"Citizen Lab, OONI",
