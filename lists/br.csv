@@ -1,356 +1,356 @@
-url,category_code,subcategory,date_added,source,notes
-http://globo.com/,SRCH,,2016-06-08,"Citizen Lab, OONI",
-http://uol.com.br/,SRCH,,2016-06-08,"Citizen Lab, OONI",
-http://ontests.me/,CULTR,,2016-06-08,"Citizen Lab, OONI",
-http://www.mercadolivre.com.br/,COMM,,2016-06-08,"Citizen Lab, OONI",
-http://olx.com.br/,COMM,,2016-06-08,"Citizen Lab, OONI",
-http://abril.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.fatosdesconhecidos.com.br/,SRCH,,2016-06-08,"Citizen Lab, OONI",
-http://curapelanatureza.com.br/,HOST,,2016-06-08,"Citizen Lab, OONI",Not sure about the category here.
-http://folha.uol.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://americanas.com.br/,COMM,,2016-06-08,"Citizen Lab, OONI",
-http://www.sp.gov.br/,GOVT,,2016-06-08,"Citizen Lab, OONI",
-http://filmesonlinegratis.net/,MMED,,2016-06-08,"Citizen Lab, OONI",
-http://correios.com.br/,COMM,,2016-06-08,"Citizen Lab, OONI",Not sure about the category here.
-http://baixaki.com.br/,SRCH,,2016-06-08,"Citizen Lab, OONI","This is a downloading site, like a tech portal."
-http://www.aliexpress.com/,COMM,,2016-06-08,"Citizen Lab, OONI",
-http://www.terra.com.br/,SRCH,,2016-06-08,"Citizen Lab, OONI",
-http://www.vagalume.com.br/,CULTR,,2016-06-08,"Citizen Lab, OONI",
-https://www.letras.mus.br/,CULTR,,2016-06-08,"Citizen Lab, OONI",
-http://fazenda.gov.br/,GOVT,,2016-06-08,"Citizen Lab, OONI",
-http://www.ig.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",Not sure about the category here.
-http://www.bol.uol.com.br/,SRCH,,2016-06-08,"Citizen Lab, OONI",
-http://www.techtudo.com.br/,SRCH,,2016-06-08,"Citizen Lab, OONI",
-http://www.netshoes.com.br/,COMM,,2016-06-08,"Citizen Lab, OONI",
-http://www.submarino.com.br/,COMM,,2016-06-08,"Citizen Lab, OONI",
-http://www.casasbahia.com.br/,COMM,,2016-06-08,"Citizen Lab, OONI",
-https://www.hrw.org/americas/brazil,HUMR,,2016-06-08,"Citizen Lab, OONI",
-http://www.pornburst.xxx/,PORN,,2016-06-08,"Citizen Lab, OONI",
-http://www.pornhd.com/,PORN,,2016-06-08,"Citizen Lab, OONI",
-http://latintubeporn.com/,PORN,,2016-06-08,"Citizen Lab, OONI",
-http://www.hqbutt.com/en/275/brazil/,PORN,,2016-06-08,"Citizen Lab, OONI",
-http://lifeinrocinha.blogspot.de/,CULTR,,2016-06-08,"Citizen Lab, OONI",
-https://favelawatchblog.com/,HUMR,,2016-06-08,"Citizen Lab, OONI",
-http://riotimesonline.com/brazil-news/tag/drug-trafficking/,ALDR,,2016-06-08,"Citizen Lab, OONI",
-http://riotimesonline.com/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.correiobraziliense.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.em.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.estadao.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.folha.com/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://oglobo.globo.com/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.zerohora.com/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.agazeta-acre.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.jornalatribuna.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.acrehoje.com/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.pagina20.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.oestadoacre.com/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.oriobranco.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.tribunadojurua.com/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.diariodoamapa.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.folhadoamapa.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://jdia.leiaonline.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.jornalagazeta-ap.com/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.acritica.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.emtempo.com.br/portal,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.diariodoamazonas.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.folhadacidade.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.jcam.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.maskate.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.ojornaldailha.com/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.atarde.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.correio24horas.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.tribunadabahia.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.folhadabahia.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www2.uol.com.br/aregiao,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.folhadoestado.net/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.jornalfeirahoje.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.tribunafeirense.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.novoeste.com/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.jornalgazetadalapa.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.agora-online.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.jornalprimeirapagina.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.anoticiadovale.com/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.sertaonews.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.tribunadacosta.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.dsvc.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.diariosudoeste.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://diariodonordeste.globo.com/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.opovo.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://tribunadoceara.uol.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.cearaagora.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.jornalapraca.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.miseria.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.rotace.com.br/jornaldocariri,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.afolhadigital.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.clicabrasilia.com.br/impresso,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.jornalalobrasilia.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.brasiliaemdia.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.fatorama.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.jornaldacomunidade.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.tribunadobrasil.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.jornalcoletivo.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.gazetaonline.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.tribunaonline.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.jornalgoyaz.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.opopular.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.brasilemfolhas.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://imirante.globo.com/oestadoma/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.diariodecuiaba.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.progresso.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.otempo.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.ormnews.com.br/oliberal,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.diarioonline.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.gazetadopovo.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.readmetro.com/en/brazil/metro-curitiba/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.parana-online.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.folhaweb.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.jornaldelondrina.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.tnonline.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://maringa.odiario.com/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.diariodaparaiba.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.pernambuco.com/diario,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://jconline.ne10.uol.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.folhape.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://odia.ig.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://jornal.ofluminense.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.jornaldocommercio.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://extra.globo.com/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.meiahora.ig.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://jornaldehoje.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://tribunadonorte.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.correiodopovo.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.diariogaucho.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.pioneiro.com/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.jornalagora.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.diariopopular.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.diariosm.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.estadaodonorte.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.bvnews.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.diario.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.an.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.santa.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.ndonline.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.horasc.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://atribunadigital.globo.com/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.agora.uol.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.brasildefato.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://portal.cruzeirodosul.inf.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.cpopular.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.diariosp.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.diariodopovo.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.jt.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.janoticia.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.valeparaibano.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.dgabc.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.nenoticias.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.jornaldotocantins.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.ogirassol.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.jornalstylo.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.primeirapagina-to.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://jcrs.uol.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.valor.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.lancenet.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://www.rjsports.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",
-http://folha.arcauniversal.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",Religion-themed newspaper
-http://www.jornalhoje.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",Religion-themed newspaper
-http://www.tabernaculo.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",Religion-themed newspaper
-http://www.jornaldeopiniao.com.br/,NEWS,,2016-06-08,"Citizen Lab, OONI",Religion-themed newspaper
-http://blogs.oglobo.globo.com/miriam-leitao/,ECON,,2016-06-08,"Citizen Lab, OONI",Blog about economy in Brazil
-http://www.oeconomista.com.br/topico/blog-economia/,ECON,,2016-06-08,"Citizen Lab, OONI",Blog about economy in Brazil
-http://queroficarrico.com/blog/,ECON,,2016-06-08,"Citizen Lab, OONI",Blog about economy in Brazil
-http://dinheirama.com/,ECON,,2016-06-08,"Citizen Lab, OONI",Blog about economy in Brazil
-http://blogs.diariodepernambuco.com.br/economia/,ECON,,2016-06-08,"Citizen Lab, OONI",Blog about economy in Brazil
-http://exame.abril.com.br/rede-de-blogs/sidnei-oliveira/,ECON,,2016-06-08,"Citizen Lab, OONI",Blog about economy in Brazil
-http://exame.abril.com.br/rede-de-blogs/blog-do-management/,ECON,,2016-06-08,"Citizen Lab, OONI",Blog about economy in Brazil
-http://colunistas.ig.com.br/guilhermebarros/,ECON,,2016-06-08,"Citizen Lab, OONI",Blog about economy in Brazil
-http://www.advivo.com.br/luisnassif,ECON,,2016-06-08,"Citizen Lab, OONI",Blog about economy in Brazil
-http://www.cristianomcosta.com/,ECON,,2016-06-08,"Citizen Lab, OONI",Blog about economy in Brazil
-http://oglobo.globo.com/pais/noblat/,POLR,,2016-06-08,"Citizen Lab, OONI",Blog about politics in Brazil
-http://prosaepolitica.com.br/,POLR,,2016-06-08,"Citizen Lab, OONI",Blog about politics in Brazil
-http://www.claudiohumberto.com.br/principal/,POLR,,2016-06-08,"Citizen Lab, OONI",Blog about politics in Brazil
-http://colunas.revistaepoca.globo.com/guilhermefiuza/,POLR,,2016-06-08,"Citizen Lab, OONI",Blog about politics in Brazil
-http://hotsites.atribuna.com.br/atribuna/blogdepolitica/,POLR,,2016-06-08,"Citizen Lab, OONI",Blog about politics in Brazil
-http://marcelo.marques.zip.net/,POLR,,2016-06-08,"Citizen Lab, OONI",Blog about politics in Brazil
-http://obarnabe.blogspot.com.br/,POLR,,2016-06-08,"Citizen Lab, OONI",Blog about politics in Brazil
-http://blogs.estadao.com.br/radar-politico/,POLR,,2016-06-08,"Citizen Lab, OONI",Blog about politics in Brazil
-http://www.melhoresdestinos.com.br/,CULTR,,2016-06-08,"Citizen Lab, OONI",Blog about travel
-http://www.ajanelalaranja.com/,CULTR,,2016-06-08,"Citizen Lab, OONI",Blog about travel
-http://www.matraqueando.com.br/,CULTR,,2016-06-08,"Citizen Lab, OONI",Blog about travel
-http://www.outrosares.net/,CULTR,,2016-06-08,"Citizen Lab, OONI",Blog about travel
-http://sairdobrasil.com/,CULTR,,2016-06-08,"Citizen Lab, OONI",Blog about travel
-http://blogjunto.com/turistaprofissional/,CULTR,,2016-06-08,"Citizen Lab, OONI",Blog about travel
-http://1001roteirinhos.com.br/,CULTR,,2016-06-08,"Citizen Lab, OONI",Blog about travel
-http://www.blogdeviagens.com.br/,CULTR,,2016-06-08,"Citizen Lab, OONI",Blog about travel
-http://viajandocompimpolhos.wordpress.com/,CULTR,,2016-06-08,"Citizen Lab, OONI",Blog about travel
-http://www.almadeviajante.com/blogs-viagens.php,CULTR,,2016-06-08,"Citizen Lab, OONI",Blog about travel
-http://www.garotasestupidas.com.br/,CULTR,,2016-06-08,"Citizen Lab, OONI",Blog about fashion
-http://www.dorisbicudo.com/,CULTR,,2016-06-08,"Citizen Lab, OONI",Blog about fashion
-http://www.garancedore.fr/en,CULTR,,2016-06-08,"Citizen Lab, OONI",Blog about fashion
-http://www.hanneli.com/,CULTR,,2016-06-08,"Citizen Lab, OONI",Blog about fashion
-http://itgirls.com.br/,CULTR,,2016-06-08,"Citizen Lab, OONI",Blog about fashion
-http://oficinadeestilo.com.br/blog/,CULTR,,2016-06-08,"Citizen Lab, OONI",Blog about fashion
-http://juliapetit.com.br/category/home/,CULTR,,2016-06-08,"Citizen Lab, OONI",Blog about fashion
-http://www.verdadefeminina.com.br/,CULTR,,2016-06-08,"Citizen Lab, OONI",Blog about fashion
-http://facehunter.blogspot.com.br/,CULTR,,2016-06-08,"Citizen Lab, OONI",Blog about fashion
-http://www.thesartorialist.com/,CULTR,,2016-06-08,"Citizen Lab, OONI",Blog about fashion
-http://padrepauloricardo.org/,REL,,2016-06-08,"Citizen Lab, OONI",Blog about religion
-http://aliancacidada.wordpress.com/,REL,,2016-06-08,"Citizen Lab, OONI",Blog about religion
-http://www.salvemaliturgia.com/,REL,,2016-06-08,"Citizen Lab, OONI",Blog about religion
-http://www.presbiteros.com.br/site/,REL,,2016-06-08,"Citizen Lab, OONI",Blog about religion
-http://blog.cancaonova.com/felipeaquino/,REL,,2016-06-08,"Citizen Lab, OONI",Blog about religion
-http://encontrocomobispo.blogspot.com.br/,REL,,2016-06-08,"Citizen Lab, OONI",Blog about religion
-http://gospelhomeblog.blogspot.com.br/,REL,,2016-06-08,"Citizen Lab, OONI",Blog about religion
-http://oskaras.com/,REL,,2016-06-08,"Citizen Lab, OONI",Blog about religion
-http://enigmasbiblicos.blogspot.com.br/,REL,,2016-06-08,"Citizen Lab, OONI",Blog about religion
-http://www.blogcruzvazia.com.br/,REL,,2016-06-08,"Citizen Lab, OONI",Blog about religion
-http://www.meiodesligado.com/,CULTR,,2016-06-08,"Citizen Lab, OONI",Blog about music
-http://www.remixtures.com/,CULTR,,2016-06-08,"Citizen Lab, OONI",Blog about music
-http://papelpop.com/,CULTR,,2016-06-08,"Citizen Lab, OONI",Blog about music
-http://www.soubalada.com/,CULTR,,2016-06-08,"Citizen Lab, OONI",Blog about music
-http://movethatjukebox.com/,CULTR,,2016-06-08,"Citizen Lab, OONI",Blog about music
-http://musicadobrasil.blogs.sapo.pt/,CULTR,,2016-06-08,"Citizen Lab, OONI",Blog about music
-http://musicapopulardobrasil.blogspot.com.br/,CULTR,,2016-06-08,"Citizen Lab, OONI",Blog about music
-http://www.forroparaobrasil.com/,CULTR,,2016-06-08,"Citizen Lab, OONI",Blog about music
-http://www2.casadoaxe.com.br/blog,CULTR,,2016-06-08,"Citizen Lab, OONI",Blog about music
-http://euamompb.blogspot.com.br/,CULTR,,2016-06-08,"Citizen Lab, OONI",Blog about music
-http://www.soulnegra.com.br/,CULTR,,2016-06-08,"Citizen Lab, OONI",Blog about culture and entertainment
-http://oglobo.globo.com/blogs/arnaldo/,CULTR,,2016-06-08,"Citizen Lab, OONI",Blog about culture and entertainment
-http://epimenta.wordpress.com/,CULTR,,2016-06-08,"Citizen Lab, OONI",Blog about culture and entertainment
-http://recicloteca.org.br/blog/,CULTR,,2016-06-08,"Citizen Lab, OONI",Blog about culture and entertainment
-http://www.etniabrasileira.com.br/,CULTR,,2016-06-08,"Citizen Lab, OONI",Blog about culture and entertainment
-http://blogdapimenta.wordpress.com/tag/cultura-geral/,CULTR,,2016-06-08,"Citizen Lab, OONI",Blog about culture and entertainment
-http://portal-entretenimento.blogspot.com.br/,CULTR,,2016-06-08,"Citizen Lab, OONI",Blog about culture and entertainment
-http://www.drchapatin.com/,CULTR,,2016-06-08,"Citizen Lab, OONI",Blog about culture and entertainment
-http://revistaogrito.com/papodequadrinho/,CULTR,,2016-06-08,"Citizen Lab, OONI",Blog about culture and entertainment
-http://revistaogrito.com/doisminutosemeio/,CULTR,,2016-06-08,"Citizen Lab, OONI",Blog about culture and entertainment
-http://www.blogdasaude.com.br/,PUBH,,2016-06-08,"Citizen Lab, OONI",Blog about health
-http://www.blog.saude.gov.br/,PUBH,,2016-06-08,"Citizen Lab, OONI",Government blog about health
-http://planofeminino.com.br/,PUBH,,2016-06-08,"Citizen Lab, OONI",Blog about health
-http://minhametadeemagrecimento.blogspot.com.br/,PUBH,,2016-06-08,"Citizen Lab, OONI",Blog about health
-http://boasaude.uol.com.br/blogboasaude/,PUBH,,2016-06-08,"Citizen Lab, OONI",Blog about health
-http://www.blogvalesaude.com.br/,PUBH,,2016-06-08,"Citizen Lab, OONI",Blog about health
-http://blog.almanaquesaude.com.br/,PUBH,,2016-06-08,"Citizen Lab, OONI",Blog about health
-http://www.eumesintobem.com.br/,PUBH,,2016-06-08,"Citizen Lab, OONI",Blog about health
-http://www.maisqualidadedevida.com.br/sobre/,PUBH,,2016-06-08,"Citizen Lab, OONI",Blog about health
-http://br.esportes.yahoo.com/blogs/blog-do-neto/,CULTR,,2016-06-08,"Citizen Lab, OONI",Blog about sports
-http://uolesporte.blogosfera.uol.com.br/,CULTR,,2016-06-08,"Citizen Lab, OONI",Blog about sports
-http://blogdojuca.uol.com.br/,CULTR,,2016-06-08,"Citizen Lab, OONI",Blog about sports
-http://colunistas.ig.com.br/fabiosormani/,CULTR,,2016-06-08,"Citizen Lab, OONI",Blog about sports
-http://esportes.r7.com/blogs/alvaro-jose/,CULTR,,2016-06-08,"Citizen Lab, OONI",Blog about sports
-http://www.esportedeaventura.com/blog/,CULTR,,2016-06-08,"Citizen Lab, OONI",Blog about sports
-http://blogs.lancenet.com.br/maurobeting/,CULTR,,2016-06-08,"Citizen Lab, OONI",Blog about sports
-http://blog.jovempan.uol.com.br/fernandosampaio/,CULTR,,2016-06-08,"Citizen Lab, OONI",Blog about sports
-http://terceirotempo.bol.uol.com.br/,CULTR,,2016-06-08,"Citizen Lab, OONI",Blog about sports
-http://blogdonavarro.com/,CULTR,,2016-06-08,"Citizen Lab, OONI",Blog about sports
-http://www.casalsemvergonha.com.br/,CULTR,,2016-06-08,"Citizen Lab, OONI",Blog about relationships
-http://www.isabelafreitas.com.br/,CULTR,,2016-06-08,"Citizen Lab, OONI",Blog about relationships
-http://www.umombroamigo.com/,CULTR,,2016-06-08,"Citizen Lab, OONI",Blog about relationships
-http://nao2nao1.com.br/,CULTR,,2016-06-08,"Citizen Lab, OONI",Blog about relationships
-http://hipervitaminose.com.br/,CULTR,,2016-06-08,"Citizen Lab, OONI",Blog about relationships
-http://www.testosterona.blog.br/,CULTR,,2016-06-08,"Citizen Lab, OONI",Blog about relationships
-http://csdoamor.tumblr.com/,CULTR,,2016-06-08,"Citizen Lab, OONI",Blog about relationships
-http://www.namoronaboa.com.br/,CULTR,,2016-06-08,"Citizen Lab, OONI",Blog about relationships
-http://blog.artedonamoro.com/,CULTR,,2016-06-08,"Citizen Lab, OONI",Blog about relationships
-http://www.porn.com/videos/latin,PORN,,2016-06-08,"Citizen Lab, OONI",
-http://www.pornolandia.xxx/,PORN,,2016-06-08,"Citizen Lab, OONI",
-http://pornocarioca.com/,PORN,,2016-06-08,"Citizen Lab, OONI",
-http://naoconto.com/,PORN,,2016-06-08,"Citizen Lab, OONI",
-http://toprealvideos.com/,PORN,,2016-06-08,"Citizen Lab, OONI",
-http://xpaja.net/,PORN,,2016-06-08,"Citizen Lab, OONI",
-http://xvideosx.com.br/,PORN,,2016-06-08,"Citizen Lab, OONI",
-http://flagrasamadores.net/,PORN,,2016-06-08,"Citizen Lab, OONI",
-http://novinhasdozapzap.com/,PORN,,2016-06-08,"Citizen Lab, OONI",
-http://www.xvideos.com/,PORN,,2016-06-08,"Citizen Lab, OONI",
-http://www.videosamadoresreais.com/,PORN,,2016-06-08,"Citizen Lab, OONI",
-http://xhamster.com/,PORN,,2016-06-08,"Citizen Lab, OONI",
-http://www.xnxx.com/,PORN,,2016-06-08,"Citizen Lab, OONI",
-http://www.youporn.com/,PORN,,2016-06-08,"Citizen Lab, OONI",
-http://www.tube8.com/,PORN,,2016-06-08,"Citizen Lab, OONI",
-http://www.youjizz.com/,PORN,,2016-06-08,"Citizen Lab, OONI",
-http://www.inxporn.com/,PORN,,2016-06-08,"Citizen Lab, OONI",
-http://www.pornhub.com/,PORN,,2016-06-08,"Citizen Lab, OONI",
-http://www.vpornvideos.com/,PORN,,2016-06-08,"Citizen Lab, OONI",
-http://www.mofosex.com/,PORN,,2016-06-08,"Citizen Lab, OONI",
-http://xxxbunker.com/,PORN,,2016-06-08,"Citizen Lab, OONI",
-http://www.pornhost.com/,PORN,,2016-06-08,"Citizen Lab, OONI",
-http://spankbang.com/,PORN,,2016-06-08,"Citizen Lab, OONI",
-http://www.hclips.com/,PORN,,2016-06-08,"Citizen Lab, OONI",
-http://www.thenewporn.com/,PORN,,2016-06-08,"Citizen Lab, OONI",
-http://xbabe.com/,PORN,,2016-06-08,"Citizen Lab, OONI",
-http://www.updatetube.com/,PORN,,2016-06-08,"Citizen Lab, OONI",
-http://www.befuck.com/,PORN,,2016-06-08,"Citizen Lab, OONI",
-http://www.xxxymovies.com/,PORN,,2016-06-08,"Citizen Lab, OONI",
-http://www.wankoz.com/,PORN,,2016-06-08,"Citizen Lab, OONI",
-http://topfreepornvideos.com/,PORN,,2016-06-08,"Citizen Lab, OONI",
-http://www.slutload.com/,PORN,,2016-06-08,"Citizen Lab, OONI",
-http://www.proporn.com/,PORN,,2016-06-08,"Citizen Lab, OONI",
-https://www.tnaflix.com/,PORN,,2016-06-08,"Citizen Lab, OONI",
-http://www.myxvids.com/,PORN,,2016-06-08,"Citizen Lab, OONI",
-http://www.bravotube.net/,PORN,,2016-06-08,"Citizen Lab, OONI",
-http://www.pornicom.com/,PORN,,2016-06-08,"Citizen Lab, OONI",
-https://casino.netbet.co.uk/,GMB,,2016-06-08,"Citizen Lab, OONI",
-https://7bitcasino.com/en/,GMB,,2016-06-08,"Citizen Lab, OONI",
-http://www.royalpanda.com/,GMB,,2016-06-08,"Citizen Lab, OONI",
-http://www.theatlantic.com/international/archive/2016/05/brazil-coup-dilma-rousseff/480291/,POLR,,2016-06-10,"Citizen Lab, OONI",
-http://www.slate.com/articles/news_and_politics/interrogation/2016/05/dilma_rousseff_was_the_suspension_of_the_brazilian_president_a_coup.html,POLR,,2016-06-10,"Citizen Lab, OONI",
-http://www.telegraph.co.uk/news/2016/05/24/dilma-rousseff-claims-her-downfall-in-brazil-is-clearly-a-coup-a/,POLR,,2016-06-10,"Citizen Lab, OONI",
-http://www.aljazeera.com/news/2016/05/brazil-dilma-rousseff-impeachment-coup-160512142444759.html,POLR,,2016-06-10,"Citizen Lab, OONI",
-https://theintercept.com/2016/05/23/new-political-earthquake-in-brazil-is-it-now-time-for-media-outlets-to-call-this-a-coup/,POLR,,2016-06-10,"Citizen Lab, OONI",
-http://veja.abril.com.br/noticia/brasil/dilma-reafirma-ao-stf-que-considera-o-impeachment-um-golpe,POLR,,2016-06-10,"Citizen Lab, OONI",
-https://www.brasil247.com/pt/247/poder/237195/Dilma-ao-247-A-primeira-tenta%C3%A7%C3%A3o-de-um-golpe-%C3%A9-calar-a-diverg%C3%AAncia.htm,POLR,,2016-06-10,"Citizen Lab, OONI",
-http://www.tijolaco.com.br/blog/resposta-de-dilma-rosa-weber-sobre-o-golpe-e-aquela-que-eu-escreveria/,POLR,,2016-06-10,"Citizen Lab, OONI",
-http://g1.globo.com/politica/processo-de-impeachment-de-dilma/noticia/2016/06/dilma-reafirma-ao-stf-tese-de-golpe-no-processo-de-impeachment.html,POLR,,2016-06-10,"Citizen Lab, OONI",
-http://www.politize.com.br/historia/nao-vai-ter-golpe-entenda-o-que-e-golpe-de-estado/,POLR,,2016-06-10,"Citizen Lab, OONI",
-http://www.esmaelmorais.com.br/2016/06/dilma-convoca-plebiscito-para-novas-eleicoes-e-sepulta-golpe-de-estado/,POLR,,2016-06-10,"Citizen Lab, OONI",
-http://www.pt.org.br/primeira-tentacao-do-golpe-e-calar-a-divergencia-afirma-dilma/,POLR,,2016-06-10,"Citizen Lab, OONI",
-http://folhapolitica.jusbrasil.com.br/noticias/126272111/ponde-diz-que-novo-decreto-de-dilma-e-golpe-de-estado-totalitario-e-faz-alerta-assista,POLR,,2016-06-10,"Citizen Lab, OONI",
-http://fernandorodrigues.blogosfera.uol.com.br/2016/06/08/desconhecido-michel-temer-tem-rejeicao-de-28-contra-624-de-dilma/,POLR,,2016-06-10,"Citizen Lab, OONI",
-http://www.bbc.com/portuguese/brasil-36318544,POLR,,2016-06-10,"Citizen Lab, OONI",
-http://g1.globo.com/al/alagoas/noticia/2016/06/maceio-tem-manifestacao-contra-o-presidente-em-exercicio-michel-temer.html,POLR,,2016-06-10,"Citizen Lab, OONI",
-"http://noticias.terra.com.br/brasil/em-que-pe-esta-o-pedido-de-impeachment-contra-michel-temer,a633a296c378f9ee874f331246e45231h6svj3mt.html",POLR,,2016-06-10,"Citizen Lab, OONI",
-http://g1.globo.com/mato-grosso-do-sul/noticia/2016/06/ato-de-professores-de-ms-por-direitos-vira-manifesto-contra-michel-temer.html,POLR,,2016-06-10,"Citizen Lab, OONI",
-http://g1.globo.com/pr/parana/noticia/2016/06/centenas-protestam-contra-michel-temer-pelas-ruas-de-curitiba.html,POLR,,2016-06-10,"Citizen Lab, OONI",
-http://noticias.uol.com.br/ultimas-noticias/agencia-estado/2016/05/22/manifestantes-contra-temer-se-reunem-no-centro-do-rio.htm,POLR,,2016-06-10,"Citizen Lab, OONI",
-http://www.folhavitoria.com.br/policia/noticia/2016/06/capixaba-e-detida-durante-manifestacao-contra-michel-temer-em-sao-paulo.html,POLR,,2016-06-10,"Citizen Lab, OONI",
-http://ultimosegundo.ig.com.br/politica/2016-05-22/com-receio-de-manifestacoes-seguranca-de-temer-fecha-vias-de-acesso-a-sua-casa.html,POLR,,2016-06-10,"Citizen Lab, OONI",
-http://ultimosegundo.ig.com.br/politica/2016-05-22/manifestantes-cercam-praca-vizinha-a-casa-de-michel-temer-em-sao-paulo.html,POLR,,2016-06-10,"Citizen Lab, OONI",
-http://www.blogmarcosmontinely.com.br/index.php/resultado-oficial-do-sorte-grande/78-noticia/4863-manifestacoes-pro-dilma-viram-ato-contra-michel-temer,POLR,,2016-06-10,"Citizen Lab, OONI",
-http://paranaportal.uol.com.br/cidades/cidades-paranaenses-tem-protestos-contra-governo-michel-temer/,POLR,,2016-06-10,"Citizen Lab, OONI",
-https://medium.com/democratize-m%C3%ADdia/movimentos-contra-a-corrup%C3%A7%C3%A3o-planejam-manifesta%C3%A7%C3%A3o-por-fica-temer-97523e06688e#.qey5dmjke,POLR,,2016-06-10,"Citizen Lab, OONI",
-http://www.jb.com.br/pais/noticias/2016/05/22/alvo-de-manifestacoes-michel-temer-antecipa-volta-para-brasilia/,POLR,,2016-06-10,"Citizen Lab, OONI",
-http://www.brasilpost.com.br/2016/05/15/mulheres-contra-temer-manifestacao_n_9986034.html,POLR,,2016-06-10,"Citizen Lab, OONI",
-http://www.divinews.com/cidade/pagina-principal/20523-2016-06-02-03-00-21.html,POLR,,2016-06-10,"Citizen Lab, OONI",
-https://www.youtube.com/watch?v=6R6UjXDpdiQ,POLR,,2016-06-10,"Citizen Lab, OONI",
-http://www.ocafezinho.com/2016/05/22/democracia-em-sp-policia-militar-impede-manifestacao-popular-contra-michel-temer/,POLR,,2016-06-10,"Citizen Lab, OONI",
-http://blog.tribunadonorte.com.br/heitorgregorio/fatima-bezerra-comanda-manifestacao-contra-michel-temer-no-pingo-da-mei-dia/,POLR,,2016-06-10,"Citizen Lab, OONI",
-http://www1.folha.uol.com.br/poder/2016/05/1772208-manifestantes-protestam-contra-governo-temer-em-sao-paulo.shtml,POLR,,2016-06-10,"Citizen Lab, OONI",
-http://parintins24hs.com.br/manifestacoes-contra-michel-temer-podera-ocorrer-no-bumbodromo/,POLR,,2016-06-10,"Citizen Lab, OONI",
-http://www.dn.pt/mundo/interior/milhares-de-mulheres-fazem-manifestacao-conta-novo-governo-temer-em-sao-paulo-5176028.html,POLR,,2016-06-10,"Citizen Lab, OONI",
-http://www.defato.com/noticias/58975/petroleiros-realizam-manifestaa-a-o-contra-governo-interino-de-michel-temer,POLR,,2016-06-10,"Citizen Lab, OONI",
-http://www.itatiaia.com.br/noticia/praca-da-liberdade-tera-neste-domingo-manifestacao-contra-temer-na-presidencia,POLR,,2016-06-10,"Citizen Lab, OONI",
-https://catracalivre.com.br/geral/cidadania/indicacao/manifestacoes-contra-michel-temer-sao-registradas-em-todo-brasil-e-portugal/,POLR,,2016-06-10,"Citizen Lab, OONI",
-https://www.youtube.com/watch?v=Yxgnh0lX2rU,POLR,,2016-06-10,"Citizen Lab, OONI",
-http://veja.abril.com.br/noticia/brasil/protestos-contra-impeachment-e-a-favor-de-dilma-reunem-dezenas-de-milhares-em-todos-os-estados,POLR,,2016-06-10,"Citizen Lab, OONI",
-http://www.redetv.uol.com.br/jornalismo/cidades/manifestacoes-a-favor-de-dilma-interditam-rodovias-em-pernambuco,POLR,,2016-06-10,"Citizen Lab, OONI",
-https://twitter.com/i/moments/723279129823592448,POLR,,2016-06-10,"Citizen Lab, OONI",
-http://apublica.org/2015/06/a-nova-roupa-da-direita/,POLR,,2016-07-17,"Citizen Lab, OONI",
-http://temp069.blogspot.com.br/p/historico-revoltados-on-line-2014-ate.html,POLR,,2016-07-17,"Citizen Lab, OONI",
-http://www.auditoriacidada.org.br/,POLR,,2016-07-17,"Citizen Lab, OONI",
-http://www.brasilpost.com.br/rafael-rodrigues/michel-temer-e-os-retroce_b_10905444.html?utm_hp_ref=pais,POLR,,2016-07-17,"Citizen Lab, OONI",
-http://www.auditoriacidada.org.br/wp-content/uploads/2014/11/Verdades-e-mentiras-sobre-a-divida.pdf,POLR,,2016-07-17,"Citizen Lab, OONI",
-http://www.fup.org.br/ultimas-noticias/item/19499-precisamos-de-um-novo-o-petroleo-e-nosso-afirma-o-coordenador-da-fup,POLR,,2016-07-17,"Citizen Lab, OONI",
-http://www.aepet.org.br/noticias/pagina/13627/Petroleiros-vo-parar-em-agosto-contra-desmonte-da-Petrobrs,POLR,,2016-07-17,"Citizen Lab, OONI",
-http://www.redebrasilatual.com.br/economia/2016/07/para-economistas--previdencia-social-deficitaria-e-mito-a-ser-derrubado-6879.html,POLR,,2016-07-17,"Citizen Lab, OONI",
-http://www.revistaforum.com.br/2016/07/16/livro-sobre-o-golpe-e-lancado-com-debate-em-sao-paulo/,POLR,,2016-07-17,"Citizen Lab, OONI",
-http://cartamaior.com.br/?/Editoria/Midia/Quanto-custa-o-oligopolio-midiatico-/12/36427,POLR,,2016-07-17,"Citizen Lab, OONI",
-http://www.viomundo.com.br/denuncias/pedro-serrano-decisao-do-mpf-mata-impeachment-na-questao-das-pedaladas-mesmo-sendo-politico-julgamento-de-dilma-nao-pode-atropelar-justica.html,POLR,,2016-07-17,"Citizen Lab, OONI",
-http://jornalggn.com.br/noticia/lava-jato-atica-a-%E2%80%9Ctiragem%E2%80%9D-na-cacada-ao-lula-por-ricardo-amaral,POLR,,2016-07-17,"Citizen Lab, OONI",
-http://www.conversaafiada.com.br/brasil/datafalha-e-para-legitimar-o-golpe,POLR,,2016-07-17,"Citizen Lab, OONI",
-http://www.blogdacidadania.com.br/2016/07/humor-pf-diz-que-saida-de-delegados-da-lava-jato-e-para-oxigenar/,POLR,,2016-07-17,"Citizen Lab, OONI",
-http://altamiroborges.blogspot.com.br/2016/07/mais-um-crime-da-revista-quantoe.html,POLR,,2016-07-17,"Citizen Lab, OONI",
-http://www.baraodeitarare.org.br/,POLR,,2016-07-17,"Citizen Lab, OONI",
-http://intervozes.org.br/,POLR,,2016-07-17,"Citizen Lab, OONI",
-http://www.diariodocentrodomundo.com.br/o-esforco-da-folha-em-melhorar-a-situacao-de-temer-e-piorar-a-de-lula-no-ultimo-datafolha-por-paulo-nogueira/,POLR,,2016-07-17,"Citizen Lab, OONI",
-http://www.une.org.br/,POLR,,2016-07-17,"Citizen Lab, OONI",
-http://www.cut.org.br/,POLR,,2016-07-17,"Citizen Lab, OONI",
-http://dialogopetroleiro.com.br/,POLR,,2016-07-17,"Citizen Lab, OONI",
+url,category_code,subcategory_code,secondary_category_code,date_added,source,notes
+http://globo.com/,SRCH,,,2016-06-08,"Citizen Lab, OONI",
+http://uol.com.br/,SRCH,,,2016-06-08,"Citizen Lab, OONI",
+http://ontests.me/,CULTR,,,2016-06-08,"Citizen Lab, OONI",
+http://www.mercadolivre.com.br/,COMM,,,2016-06-08,"Citizen Lab, OONI",
+http://olx.com.br/,COMM,,,2016-06-08,"Citizen Lab, OONI",
+http://abril.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.fatosdesconhecidos.com.br/,SRCH,,,2016-06-08,"Citizen Lab, OONI",
+http://curapelanatureza.com.br/,HOST,,,2016-06-08,"Citizen Lab, OONI",Not sure about the category here.
+http://folha.uol.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://americanas.com.br/,COMM,,,2016-06-08,"Citizen Lab, OONI",
+http://www.sp.gov.br/,GOVT,,,2016-06-08,"Citizen Lab, OONI",
+http://filmesonlinegratis.net/,MMED,,,2016-06-08,"Citizen Lab, OONI",
+http://correios.com.br/,COMM,,,2016-06-08,"Citizen Lab, OONI",Not sure about the category here.
+http://baixaki.com.br/,SRCH,,,2016-06-08,"Citizen Lab, OONI","This is a downloading site, like a tech portal."
+http://www.aliexpress.com/,COMM,,,2016-06-08,"Citizen Lab, OONI",
+http://www.terra.com.br/,SRCH,,,2016-06-08,"Citizen Lab, OONI",
+http://www.vagalume.com.br/,CULTR,,,2016-06-08,"Citizen Lab, OONI",
+https://www.letras.mus.br/,CULTR,,,2016-06-08,"Citizen Lab, OONI",
+http://fazenda.gov.br/,GOVT,,,2016-06-08,"Citizen Lab, OONI",
+http://www.ig.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",Not sure about the category here.
+http://www.bol.uol.com.br/,SRCH,,,2016-06-08,"Citizen Lab, OONI",
+http://www.techtudo.com.br/,SRCH,,,2016-06-08,"Citizen Lab, OONI",
+http://www.netshoes.com.br/,COMM,,,2016-06-08,"Citizen Lab, OONI",
+http://www.submarino.com.br/,COMM,,,2016-06-08,"Citizen Lab, OONI",
+http://www.casasbahia.com.br/,COMM,,,2016-06-08,"Citizen Lab, OONI",
+https://www.hrw.org/americas/brazil,HUMR,,,2016-06-08,"Citizen Lab, OONI",
+http://www.pornburst.xxx/,PORN,,,2016-06-08,"Citizen Lab, OONI",
+http://www.pornhd.com/,PORN,,,2016-06-08,"Citizen Lab, OONI",
+http://latintubeporn.com/,PORN,,,2016-06-08,"Citizen Lab, OONI",
+http://www.hqbutt.com/en/275/brazil/,PORN,,,2016-06-08,"Citizen Lab, OONI",
+http://lifeinrocinha.blogspot.de/,CULTR,,,2016-06-08,"Citizen Lab, OONI",
+https://favelawatchblog.com/,HUMR,,,2016-06-08,"Citizen Lab, OONI",
+http://riotimesonline.com/brazil-news/tag/drug-trafficking/,ALDR,,,2016-06-08,"Citizen Lab, OONI",
+http://riotimesonline.com/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.correiobraziliense.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.em.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.estadao.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.folha.com/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://oglobo.globo.com/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.zerohora.com/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.agazeta-acre.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.jornalatribuna.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.acrehoje.com/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.pagina20.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.oestadoacre.com/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.oriobranco.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.tribunadojurua.com/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.diariodoamapa.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.folhadoamapa.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://jdia.leiaonline.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.jornalagazeta-ap.com/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.acritica.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.emtempo.com.br/portal,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.diariodoamazonas.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.folhadacidade.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.jcam.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.maskate.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.ojornaldailha.com/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.atarde.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.correio24horas.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.tribunadabahia.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.folhadabahia.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www2.uol.com.br/aregiao,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.folhadoestado.net/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.jornalfeirahoje.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.tribunafeirense.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.novoeste.com/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.jornalgazetadalapa.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.agora-online.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.jornalprimeirapagina.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.anoticiadovale.com/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.sertaonews.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.tribunadacosta.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.dsvc.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.diariosudoeste.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://diariodonordeste.globo.com/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.opovo.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://tribunadoceara.uol.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.cearaagora.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.jornalapraca.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.miseria.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.rotace.com.br/jornaldocariri,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.afolhadigital.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.clicabrasilia.com.br/impresso,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.jornalalobrasilia.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.brasiliaemdia.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.fatorama.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.jornaldacomunidade.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.tribunadobrasil.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.jornalcoletivo.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.gazetaonline.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.tribunaonline.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.jornalgoyaz.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.opopular.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.brasilemfolhas.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://imirante.globo.com/oestadoma/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.diariodecuiaba.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.progresso.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.otempo.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.ormnews.com.br/oliberal,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.diarioonline.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.gazetadopovo.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.readmetro.com/en/brazil/metro-curitiba/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.parana-online.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.folhaweb.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.jornaldelondrina.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.tnonline.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://maringa.odiario.com/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.diariodaparaiba.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.pernambuco.com/diario,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://jconline.ne10.uol.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.folhape.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://odia.ig.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://jornal.ofluminense.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.jornaldocommercio.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://extra.globo.com/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.meiahora.ig.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://jornaldehoje.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://tribunadonorte.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.correiodopovo.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.diariogaucho.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.pioneiro.com/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.jornalagora.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.diariopopular.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.diariosm.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.estadaodonorte.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.bvnews.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.diario.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.an.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.santa.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.ndonline.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.horasc.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://atribunadigital.globo.com/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.agora.uol.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.brasildefato.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://portal.cruzeirodosul.inf.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.cpopular.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.diariosp.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.diariodopovo.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.jt.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.janoticia.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.valeparaibano.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.dgabc.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.nenoticias.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.jornaldotocantins.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.ogirassol.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.jornalstylo.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.primeirapagina-to.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://jcrs.uol.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.valor.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.lancenet.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://www.rjsports.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",
+http://folha.arcauniversal.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",Religion-themed newspaper
+http://www.jornalhoje.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",Religion-themed newspaper
+http://www.tabernaculo.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",Religion-themed newspaper
+http://www.jornaldeopiniao.com.br/,NEWS,,,2016-06-08,"Citizen Lab, OONI",Religion-themed newspaper
+http://blogs.oglobo.globo.com/miriam-leitao/,ECON,,,2016-06-08,"Citizen Lab, OONI",Blog about economy in Brazil
+http://www.oeconomista.com.br/topico/blog-economia/,ECON,,,2016-06-08,"Citizen Lab, OONI",Blog about economy in Brazil
+http://queroficarrico.com/blog/,ECON,,,2016-06-08,"Citizen Lab, OONI",Blog about economy in Brazil
+http://dinheirama.com/,ECON,,,2016-06-08,"Citizen Lab, OONI",Blog about economy in Brazil
+http://blogs.diariodepernambuco.com.br/economia/,ECON,,,2016-06-08,"Citizen Lab, OONI",Blog about economy in Brazil
+http://exame.abril.com.br/rede-de-blogs/sidnei-oliveira/,ECON,,,2016-06-08,"Citizen Lab, OONI",Blog about economy in Brazil
+http://exame.abril.com.br/rede-de-blogs/blog-do-management/,ECON,,,2016-06-08,"Citizen Lab, OONI",Blog about economy in Brazil
+http://colunistas.ig.com.br/guilhermebarros/,ECON,,,2016-06-08,"Citizen Lab, OONI",Blog about economy in Brazil
+http://www.advivo.com.br/luisnassif,ECON,,,2016-06-08,"Citizen Lab, OONI",Blog about economy in Brazil
+http://www.cristianomcosta.com/,ECON,,,2016-06-08,"Citizen Lab, OONI",Blog about economy in Brazil
+http://oglobo.globo.com/pais/noblat/,POLR,,,2016-06-08,"Citizen Lab, OONI",Blog about politics in Brazil
+http://prosaepolitica.com.br/,POLR,,,2016-06-08,"Citizen Lab, OONI",Blog about politics in Brazil
+http://www.claudiohumberto.com.br/principal/,POLR,,,2016-06-08,"Citizen Lab, OONI",Blog about politics in Brazil
+http://colunas.revistaepoca.globo.com/guilhermefiuza/,POLR,,,2016-06-08,"Citizen Lab, OONI",Blog about politics in Brazil
+http://hotsites.atribuna.com.br/atribuna/blogdepolitica/,POLR,,,2016-06-08,"Citizen Lab, OONI",Blog about politics in Brazil
+http://marcelo.marques.zip.net/,POLR,,,2016-06-08,"Citizen Lab, OONI",Blog about politics in Brazil
+http://obarnabe.blogspot.com.br/,POLR,,,2016-06-08,"Citizen Lab, OONI",Blog about politics in Brazil
+http://blogs.estadao.com.br/radar-politico/,POLR,,,2016-06-08,"Citizen Lab, OONI",Blog about politics in Brazil
+http://www.melhoresdestinos.com.br/,CULTR,,,2016-06-08,"Citizen Lab, OONI",Blog about travel
+http://www.ajanelalaranja.com/,CULTR,,,2016-06-08,"Citizen Lab, OONI",Blog about travel
+http://www.matraqueando.com.br/,CULTR,,,2016-06-08,"Citizen Lab, OONI",Blog about travel
+http://www.outrosares.net/,CULTR,,,2016-06-08,"Citizen Lab, OONI",Blog about travel
+http://sairdobrasil.com/,CULTR,,,2016-06-08,"Citizen Lab, OONI",Blog about travel
+http://blogjunto.com/turistaprofissional/,CULTR,,,2016-06-08,"Citizen Lab, OONI",Blog about travel
+http://1001roteirinhos.com.br/,CULTR,,,2016-06-08,"Citizen Lab, OONI",Blog about travel
+http://www.blogdeviagens.com.br/,CULTR,,,2016-06-08,"Citizen Lab, OONI",Blog about travel
+http://viajandocompimpolhos.wordpress.com/,CULTR,,,2016-06-08,"Citizen Lab, OONI",Blog about travel
+http://www.almadeviajante.com/blogs-viagens.php,CULTR,,,2016-06-08,"Citizen Lab, OONI",Blog about travel
+http://www.garotasestupidas.com.br/,CULTR,,,2016-06-08,"Citizen Lab, OONI",Blog about fashion
+http://www.dorisbicudo.com/,CULTR,,,2016-06-08,"Citizen Lab, OONI",Blog about fashion
+http://www.garancedore.fr/en,CULTR,,,2016-06-08,"Citizen Lab, OONI",Blog about fashion
+http://www.hanneli.com/,CULTR,,,2016-06-08,"Citizen Lab, OONI",Blog about fashion
+http://itgirls.com.br/,CULTR,,,2016-06-08,"Citizen Lab, OONI",Blog about fashion
+http://oficinadeestilo.com.br/blog/,CULTR,,,2016-06-08,"Citizen Lab, OONI",Blog about fashion
+http://juliapetit.com.br/category/home/,CULTR,,,2016-06-08,"Citizen Lab, OONI",Blog about fashion
+http://www.verdadefeminina.com.br/,CULTR,,,2016-06-08,"Citizen Lab, OONI",Blog about fashion
+http://facehunter.blogspot.com.br/,CULTR,,,2016-06-08,"Citizen Lab, OONI",Blog about fashion
+http://www.thesartorialist.com/,CULTR,,,2016-06-08,"Citizen Lab, OONI",Blog about fashion
+http://padrepauloricardo.org/,REL,,,2016-06-08,"Citizen Lab, OONI",Blog about religion
+http://aliancacidada.wordpress.com/,REL,,,2016-06-08,"Citizen Lab, OONI",Blog about religion
+http://www.salvemaliturgia.com/,REL,,,2016-06-08,"Citizen Lab, OONI",Blog about religion
+http://www.presbiteros.com.br/site/,REL,,,2016-06-08,"Citizen Lab, OONI",Blog about religion
+http://blog.cancaonova.com/felipeaquino/,REL,,,2016-06-08,"Citizen Lab, OONI",Blog about religion
+http://encontrocomobispo.blogspot.com.br/,REL,,,2016-06-08,"Citizen Lab, OONI",Blog about religion
+http://gospelhomeblog.blogspot.com.br/,REL,,,2016-06-08,"Citizen Lab, OONI",Blog about religion
+http://oskaras.com/,REL,,,2016-06-08,"Citizen Lab, OONI",Blog about religion
+http://enigmasbiblicos.blogspot.com.br/,REL,,,2016-06-08,"Citizen Lab, OONI",Blog about religion
+http://www.blogcruzvazia.com.br/,REL,,,2016-06-08,"Citizen Lab, OONI",Blog about religion
+http://www.meiodesligado.com/,CULTR,,,2016-06-08,"Citizen Lab, OONI",Blog about music
+http://www.remixtures.com/,CULTR,,,2016-06-08,"Citizen Lab, OONI",Blog about music
+http://papelpop.com/,CULTR,,,2016-06-08,"Citizen Lab, OONI",Blog about music
+http://www.soubalada.com/,CULTR,,,2016-06-08,"Citizen Lab, OONI",Blog about music
+http://movethatjukebox.com/,CULTR,,,2016-06-08,"Citizen Lab, OONI",Blog about music
+http://musicadobrasil.blogs.sapo.pt/,CULTR,,,2016-06-08,"Citizen Lab, OONI",Blog about music
+http://musicapopulardobrasil.blogspot.com.br/,CULTR,,,2016-06-08,"Citizen Lab, OONI",Blog about music
+http://www.forroparaobrasil.com/,CULTR,,,2016-06-08,"Citizen Lab, OONI",Blog about music
+http://www2.casadoaxe.com.br/blog,CULTR,,,2016-06-08,"Citizen Lab, OONI",Blog about music
+http://euamompb.blogspot.com.br/,CULTR,,,2016-06-08,"Citizen Lab, OONI",Blog about music
+http://www.soulnegra.com.br/,CULTR,,,2016-06-08,"Citizen Lab, OONI",Blog about culture and entertainment
+http://oglobo.globo.com/blogs/arnaldo/,CULTR,,,2016-06-08,"Citizen Lab, OONI",Blog about culture and entertainment
+http://epimenta.wordpress.com/,CULTR,,,2016-06-08,"Citizen Lab, OONI",Blog about culture and entertainment
+http://recicloteca.org.br/blog/,CULTR,,,2016-06-08,"Citizen Lab, OONI",Blog about culture and entertainment
+http://www.etniabrasileira.com.br/,CULTR,,,2016-06-08,"Citizen Lab, OONI",Blog about culture and entertainment
+http://blogdapimenta.wordpress.com/tag/cultura-geral/,CULTR,,,2016-06-08,"Citizen Lab, OONI",Blog about culture and entertainment
+http://portal-entretenimento.blogspot.com.br/,CULTR,,,2016-06-08,"Citizen Lab, OONI",Blog about culture and entertainment
+http://www.drchapatin.com/,CULTR,,,2016-06-08,"Citizen Lab, OONI",Blog about culture and entertainment
+http://revistaogrito.com/papodequadrinho/,CULTR,,,2016-06-08,"Citizen Lab, OONI",Blog about culture and entertainment
+http://revistaogrito.com/doisminutosemeio/,CULTR,,,2016-06-08,"Citizen Lab, OONI",Blog about culture and entertainment
+http://www.blogdasaude.com.br/,PUBH,,,2016-06-08,"Citizen Lab, OONI",Blog about health
+http://www.blog.saude.gov.br/,PUBH,,,2016-06-08,"Citizen Lab, OONI",Government blog about health
+http://planofeminino.com.br/,PUBH,,,2016-06-08,"Citizen Lab, OONI",Blog about health
+http://minhametadeemagrecimento.blogspot.com.br/,PUBH,,,2016-06-08,"Citizen Lab, OONI",Blog about health
+http://boasaude.uol.com.br/blogboasaude/,PUBH,,,2016-06-08,"Citizen Lab, OONI",Blog about health
+http://www.blogvalesaude.com.br/,PUBH,,,2016-06-08,"Citizen Lab, OONI",Blog about health
+http://blog.almanaquesaude.com.br/,PUBH,,,2016-06-08,"Citizen Lab, OONI",Blog about health
+http://www.eumesintobem.com.br/,PUBH,,,2016-06-08,"Citizen Lab, OONI",Blog about health
+http://www.maisqualidadedevida.com.br/sobre/,PUBH,,,2016-06-08,"Citizen Lab, OONI",Blog about health
+http://br.esportes.yahoo.com/blogs/blog-do-neto/,CULTR,,,2016-06-08,"Citizen Lab, OONI",Blog about sports
+http://uolesporte.blogosfera.uol.com.br/,CULTR,,,2016-06-08,"Citizen Lab, OONI",Blog about sports
+http://blogdojuca.uol.com.br/,CULTR,,,2016-06-08,"Citizen Lab, OONI",Blog about sports
+http://colunistas.ig.com.br/fabiosormani/,CULTR,,,2016-06-08,"Citizen Lab, OONI",Blog about sports
+http://esportes.r7.com/blogs/alvaro-jose/,CULTR,,,2016-06-08,"Citizen Lab, OONI",Blog about sports
+http://www.esportedeaventura.com/blog/,CULTR,,,2016-06-08,"Citizen Lab, OONI",Blog about sports
+http://blogs.lancenet.com.br/maurobeting/,CULTR,,,2016-06-08,"Citizen Lab, OONI",Blog about sports
+http://blog.jovempan.uol.com.br/fernandosampaio/,CULTR,,,2016-06-08,"Citizen Lab, OONI",Blog about sports
+http://terceirotempo.bol.uol.com.br/,CULTR,,,2016-06-08,"Citizen Lab, OONI",Blog about sports
+http://blogdonavarro.com/,CULTR,,,2016-06-08,"Citizen Lab, OONI",Blog about sports
+http://www.casalsemvergonha.com.br/,CULTR,,,2016-06-08,"Citizen Lab, OONI",Blog about relationships
+http://www.isabelafreitas.com.br/,CULTR,,,2016-06-08,"Citizen Lab, OONI",Blog about relationships
+http://www.umombroamigo.com/,CULTR,,,2016-06-08,"Citizen Lab, OONI",Blog about relationships
+http://nao2nao1.com.br/,CULTR,,,2016-06-08,"Citizen Lab, OONI",Blog about relationships
+http://hipervitaminose.com.br/,CULTR,,,2016-06-08,"Citizen Lab, OONI",Blog about relationships
+http://www.testosterona.blog.br/,CULTR,,,2016-06-08,"Citizen Lab, OONI",Blog about relationships
+http://csdoamor.tumblr.com/,CULTR,,,2016-06-08,"Citizen Lab, OONI",Blog about relationships
+http://www.namoronaboa.com.br/,CULTR,,,2016-06-08,"Citizen Lab, OONI",Blog about relationships
+http://blog.artedonamoro.com/,CULTR,,,2016-06-08,"Citizen Lab, OONI",Blog about relationships
+http://www.porn.com/videos/latin,PORN,,,2016-06-08,"Citizen Lab, OONI",
+http://www.pornolandia.xxx/,PORN,,,2016-06-08,"Citizen Lab, OONI",
+http://pornocarioca.com/,PORN,,,2016-06-08,"Citizen Lab, OONI",
+http://naoconto.com/,PORN,,,2016-06-08,"Citizen Lab, OONI",
+http://toprealvideos.com/,PORN,,,2016-06-08,"Citizen Lab, OONI",
+http://xpaja.net/,PORN,,,2016-06-08,"Citizen Lab, OONI",
+http://xvideosx.com.br/,PORN,,,2016-06-08,"Citizen Lab, OONI",
+http://flagrasamadores.net/,PORN,,,2016-06-08,"Citizen Lab, OONI",
+http://novinhasdozapzap.com/,PORN,,,2016-06-08,"Citizen Lab, OONI",
+http://www.xvideos.com/,PORN,,,2016-06-08,"Citizen Lab, OONI",
+http://www.videosamadoresreais.com/,PORN,,,2016-06-08,"Citizen Lab, OONI",
+http://xhamster.com/,PORN,,,2016-06-08,"Citizen Lab, OONI",
+http://www.xnxx.com/,PORN,,,2016-06-08,"Citizen Lab, OONI",
+http://www.youporn.com/,PORN,,,2016-06-08,"Citizen Lab, OONI",
+http://www.tube8.com/,PORN,,,2016-06-08,"Citizen Lab, OONI",
+http://www.youjizz.com/,PORN,,,2016-06-08,"Citizen Lab, OONI",
+http://www.inxporn.com/,PORN,,,2016-06-08,"Citizen Lab, OONI",
+http://www.pornhub.com/,PORN,,,2016-06-08,"Citizen Lab, OONI",
+http://www.vpornvideos.com/,PORN,,,2016-06-08,"Citizen Lab, OONI",
+http://www.mofosex.com/,PORN,,,2016-06-08,"Citizen Lab, OONI",
+http://xxxbunker.com/,PORN,,,2016-06-08,"Citizen Lab, OONI",
+http://www.pornhost.com/,PORN,,,2016-06-08,"Citizen Lab, OONI",
+http://spankbang.com/,PORN,,,2016-06-08,"Citizen Lab, OONI",
+http://www.hclips.com/,PORN,,,2016-06-08,"Citizen Lab, OONI",
+http://www.thenewporn.com/,PORN,,,2016-06-08,"Citizen Lab, OONI",
+http://xbabe.com/,PORN,,,2016-06-08,"Citizen Lab, OONI",
+http://www.updatetube.com/,PORN,,,2016-06-08,"Citizen Lab, OONI",
+http://www.befuck.com/,PORN,,,2016-06-08,"Citizen Lab, OONI",
+http://www.xxxymovies.com/,PORN,,,2016-06-08,"Citizen Lab, OONI",
+http://www.wankoz.com/,PORN,,,2016-06-08,"Citizen Lab, OONI",
+http://topfreepornvideos.com/,PORN,,,2016-06-08,"Citizen Lab, OONI",
+http://www.slutload.com/,PORN,,,2016-06-08,"Citizen Lab, OONI",
+http://www.proporn.com/,PORN,,,2016-06-08,"Citizen Lab, OONI",
+https://www.tnaflix.com/,PORN,,,2016-06-08,"Citizen Lab, OONI",
+http://www.myxvids.com/,PORN,,,2016-06-08,"Citizen Lab, OONI",
+http://www.bravotube.net/,PORN,,,2016-06-08,"Citizen Lab, OONI",
+http://www.pornicom.com/,PORN,,,2016-06-08,"Citizen Lab, OONI",
+https://casino.netbet.co.uk/,GMB,,,2016-06-08,"Citizen Lab, OONI",
+https://7bitcasino.com/en/,GMB,,,2016-06-08,"Citizen Lab, OONI",
+http://www.royalpanda.com/,GMB,,,2016-06-08,"Citizen Lab, OONI",
+http://www.theatlantic.com/international/archive/2016/05/brazil-coup-dilma-rousseff/480291/,POLR,,,2016-06-10,"Citizen Lab, OONI",
+http://www.slate.com/articles/news_and_politics/interrogation/2016/05/dilma_rousseff_was_the_suspension_of_the_brazilian_president_a_coup.html,POLR,,,2016-06-10,"Citizen Lab, OONI",
+http://www.telegraph.co.uk/news/2016/05/24/dilma-rousseff-claims-her-downfall-in-brazil-is-clearly-a-coup-a/,POLR,,,2016-06-10,"Citizen Lab, OONI",
+http://www.aljazeera.com/news/2016/05/brazil-dilma-rousseff-impeachment-coup-160512142444759.html,POLR,,,2016-06-10,"Citizen Lab, OONI",
+https://theintercept.com/2016/05/23/new-political-earthquake-in-brazil-is-it-now-time-for-media-outlets-to-call-this-a-coup/,POLR,,,2016-06-10,"Citizen Lab, OONI",
+http://veja.abril.com.br/noticia/brasil/dilma-reafirma-ao-stf-que-considera-o-impeachment-um-golpe,POLR,,,2016-06-10,"Citizen Lab, OONI",
+https://www.brasil247.com/pt/247/poder/237195/Dilma-ao-247-A-primeira-tenta%C3%A7%C3%A3o-de-um-golpe-%C3%A9-calar-a-diverg%C3%AAncia.htm,POLR,,,2016-06-10,"Citizen Lab, OONI",
+http://www.tijolaco.com.br/blog/resposta-de-dilma-rosa-weber-sobre-o-golpe-e-aquela-que-eu-escreveria/,POLR,,,2016-06-10,"Citizen Lab, OONI",
+http://g1.globo.com/politica/processo-de-impeachment-de-dilma/noticia/2016/06/dilma-reafirma-ao-stf-tese-de-golpe-no-processo-de-impeachment.html,POLR,,,2016-06-10,"Citizen Lab, OONI",
+http://www.politize.com.br/historia/nao-vai-ter-golpe-entenda-o-que-e-golpe-de-estado/,POLR,,,2016-06-10,"Citizen Lab, OONI",
+http://www.esmaelmorais.com.br/2016/06/dilma-convoca-plebiscito-para-novas-eleicoes-e-sepulta-golpe-de-estado/,POLR,,,2016-06-10,"Citizen Lab, OONI",
+http://www.pt.org.br/primeira-tentacao-do-golpe-e-calar-a-divergencia-afirma-dilma/,POLR,,,2016-06-10,"Citizen Lab, OONI",
+http://folhapolitica.jusbrasil.com.br/noticias/126272111/ponde-diz-que-novo-decreto-de-dilma-e-golpe-de-estado-totalitario-e-faz-alerta-assista,POLR,,,2016-06-10,"Citizen Lab, OONI",
+http://fernandorodrigues.blogosfera.uol.com.br/2016/06/08/desconhecido-michel-temer-tem-rejeicao-de-28-contra-624-de-dilma/,POLR,,,2016-06-10,"Citizen Lab, OONI",
+http://www.bbc.com/portuguese/brasil-36318544,POLR,,,2016-06-10,"Citizen Lab, OONI",
+http://g1.globo.com/al/alagoas/noticia/2016/06/maceio-tem-manifestacao-contra-o-presidente-em-exercicio-michel-temer.html,POLR,,,2016-06-10,"Citizen Lab, OONI",
+"http://noticias.terra.com.br/brasil/em-que-pe-esta-o-pedido-de-impeachment-contra-michel-temer,a633a296c378f9ee874f331246e45231h6svj3mt.html",POLR,,,2016-06-10,"Citizen Lab, OONI",
+http://g1.globo.com/mato-grosso-do-sul/noticia/2016/06/ato-de-professores-de-ms-por-direitos-vira-manifesto-contra-michel-temer.html,POLR,,,2016-06-10,"Citizen Lab, OONI",
+http://g1.globo.com/pr/parana/noticia/2016/06/centenas-protestam-contra-michel-temer-pelas-ruas-de-curitiba.html,POLR,,,2016-06-10,"Citizen Lab, OONI",
+http://noticias.uol.com.br/ultimas-noticias/agencia-estado/2016/05/22/manifestantes-contra-temer-se-reunem-no-centro-do-rio.htm,POLR,,,2016-06-10,"Citizen Lab, OONI",
+http://www.folhavitoria.com.br/policia/noticia/2016/06/capixaba-e-detida-durante-manifestacao-contra-michel-temer-em-sao-paulo.html,POLR,,,2016-06-10,"Citizen Lab, OONI",
+http://ultimosegundo.ig.com.br/politica/2016-05-22/com-receio-de-manifestacoes-seguranca-de-temer-fecha-vias-de-acesso-a-sua-casa.html,POLR,,,2016-06-10,"Citizen Lab, OONI",
+http://ultimosegundo.ig.com.br/politica/2016-05-22/manifestantes-cercam-praca-vizinha-a-casa-de-michel-temer-em-sao-paulo.html,POLR,,,2016-06-10,"Citizen Lab, OONI",
+http://www.blogmarcosmontinely.com.br/index.php/resultado-oficial-do-sorte-grande/78-noticia/4863-manifestacoes-pro-dilma-viram-ato-contra-michel-temer,POLR,,,2016-06-10,"Citizen Lab, OONI",
+http://paranaportal.uol.com.br/cidades/cidades-paranaenses-tem-protestos-contra-governo-michel-temer/,POLR,,,2016-06-10,"Citizen Lab, OONI",
+https://medium.com/democratize-m%C3%ADdia/movimentos-contra-a-corrup%C3%A7%C3%A3o-planejam-manifesta%C3%A7%C3%A3o-por-fica-temer-97523e06688e#.qey5dmjke,POLR,,,2016-06-10,"Citizen Lab, OONI",
+http://www.jb.com.br/pais/noticias/2016/05/22/alvo-de-manifestacoes-michel-temer-antecipa-volta-para-brasilia/,POLR,,,2016-06-10,"Citizen Lab, OONI",
+http://www.brasilpost.com.br/2016/05/15/mulheres-contra-temer-manifestacao_n_9986034.html,POLR,,,2016-06-10,"Citizen Lab, OONI",
+http://www.divinews.com/cidade/pagina-principal/20523-2016-06-02-03-00-21.html,POLR,,,2016-06-10,"Citizen Lab, OONI",
+https://www.youtube.com/watch?v=6R6UjXDpdiQ,POLR,,,2016-06-10,"Citizen Lab, OONI",
+http://www.ocafezinho.com/2016/05/22/democracia-em-sp-policia-militar-impede-manifestacao-popular-contra-michel-temer/,POLR,,,2016-06-10,"Citizen Lab, OONI",
+http://blog.tribunadonorte.com.br/heitorgregorio/fatima-bezerra-comanda-manifestacao-contra-michel-temer-no-pingo-da-mei-dia/,POLR,,,2016-06-10,"Citizen Lab, OONI",
+http://www1.folha.uol.com.br/poder/2016/05/1772208-manifestantes-protestam-contra-governo-temer-em-sao-paulo.shtml,POLR,,,2016-06-10,"Citizen Lab, OONI",
+http://parintins24hs.com.br/manifestacoes-contra-michel-temer-podera-ocorrer-no-bumbodromo/,POLR,,,2016-06-10,"Citizen Lab, OONI",
+http://www.dn.pt/mundo/interior/milhares-de-mulheres-fazem-manifestacao-conta-novo-governo-temer-em-sao-paulo-5176028.html,POLR,,,2016-06-10,"Citizen Lab, OONI",
+http://www.defato.com/noticias/58975/petroleiros-realizam-manifestaa-a-o-contra-governo-interino-de-michel-temer,POLR,,,2016-06-10,"Citizen Lab, OONI",
+http://www.itatiaia.com.br/noticia/praca-da-liberdade-tera-neste-domingo-manifestacao-contra-temer-na-presidencia,POLR,,,2016-06-10,"Citizen Lab, OONI",
+https://catracalivre.com.br/geral/cidadania/indicacao/manifestacoes-contra-michel-temer-sao-registradas-em-todo-brasil-e-portugal/,POLR,,,2016-06-10,"Citizen Lab, OONI",
+https://www.youtube.com/watch?v=Yxgnh0lX2rU,POLR,,,2016-06-10,"Citizen Lab, OONI",
+http://veja.abril.com.br/noticia/brasil/protestos-contra-impeachment-e-a-favor-de-dilma-reunem-dezenas-de-milhares-em-todos-os-estados,POLR,,,2016-06-10,"Citizen Lab, OONI",
+http://www.redetv.uol.com.br/jornalismo/cidades/manifestacoes-a-favor-de-dilma-interditam-rodovias-em-pernambuco,POLR,,,2016-06-10,"Citizen Lab, OONI",
+https://twitter.com/i/moments/723279129823592448,POLR,,,2016-06-10,"Citizen Lab, OONI",
+http://apublica.org/2015/06/a-nova-roupa-da-direita/,POLR,,,2016-07-17,"Citizen Lab, OONI",
+http://temp069.blogspot.com.br/p/historico-revoltados-on-line-2014-ate.html,POLR,,,2016-07-17,"Citizen Lab, OONI",
+http://www.auditoriacidada.org.br/,POLR,,,2016-07-17,"Citizen Lab, OONI",
+http://www.brasilpost.com.br/rafael-rodrigues/michel-temer-e-os-retroce_b_10905444.html?utm_hp_ref=pais,POLR,,,2016-07-17,"Citizen Lab, OONI",
+http://www.auditoriacidada.org.br/wp-content/uploads/2014/11/Verdades-e-mentiras-sobre-a-divida.pdf,POLR,,,2016-07-17,"Citizen Lab, OONI",
+http://www.fup.org.br/ultimas-noticias/item/19499-precisamos-de-um-novo-o-petroleo-e-nosso-afirma-o-coordenador-da-fup,POLR,,,2016-07-17,"Citizen Lab, OONI",
+http://www.aepet.org.br/noticias/pagina/13627/Petroleiros-vo-parar-em-agosto-contra-desmonte-da-Petrobrs,POLR,,,2016-07-17,"Citizen Lab, OONI",
+http://www.redebrasilatual.com.br/economia/2016/07/para-economistas--previdencia-social-deficitaria-e-mito-a-ser-derrubado-6879.html,POLR,,,2016-07-17,"Citizen Lab, OONI",
+http://www.revistaforum.com.br/2016/07/16/livro-sobre-o-golpe-e-lancado-com-debate-em-sao-paulo/,POLR,,,2016-07-17,"Citizen Lab, OONI",
+http://cartamaior.com.br/?/Editoria/Midia/Quanto-custa-o-oligopolio-midiatico-/12/36427,POLR,,,2016-07-17,"Citizen Lab, OONI",
+http://www.viomundo.com.br/denuncias/pedro-serrano-decisao-do-mpf-mata-impeachment-na-questao-das-pedaladas-mesmo-sendo-politico-julgamento-de-dilma-nao-pode-atropelar-justica.html,POLR,,,2016-07-17,"Citizen Lab, OONI",
+http://jornalggn.com.br/noticia/lava-jato-atica-a-%E2%80%9Ctiragem%E2%80%9D-na-cacada-ao-lula-por-ricardo-amaral,POLR,,,2016-07-17,"Citizen Lab, OONI",
+http://www.conversaafiada.com.br/brasil/datafalha-e-para-legitimar-o-golpe,POLR,,,2016-07-17,"Citizen Lab, OONI",
+http://www.blogdacidadania.com.br/2016/07/humor-pf-diz-que-saida-de-delegados-da-lava-jato-e-para-oxigenar/,POLR,,,2016-07-17,"Citizen Lab, OONI",
+http://altamiroborges.blogspot.com.br/2016/07/mais-um-crime-da-revista-quantoe.html,POLR,,,2016-07-17,"Citizen Lab, OONI",
+http://www.baraodeitarare.org.br/,POLR,,,2016-07-17,"Citizen Lab, OONI",
+http://intervozes.org.br/,POLR,,,2016-07-17,"Citizen Lab, OONI",
+http://www.diariodocentrodomundo.com.br/o-esforco-da-folha-em-melhorar-a-situacao-de-temer-e-piorar-a-de-lula-no-ultimo-datafolha-por-paulo-nogueira/,POLR,,,2016-07-17,"Citizen Lab, OONI",
+http://www.une.org.br/,POLR,,,2016-07-17,"Citizen Lab, OONI",
+http://www.cut.org.br/,POLR,,,2016-07-17,"Citizen Lab, OONI",
+http://dialogopetroleiro.com.br/,POLR,,,2016-07-17,"Citizen Lab, OONI",
