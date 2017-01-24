@@ -1,13 +1,13 @@
-url,category_code,subcategory,date_added,source,notes
-https://mujahida89.wordpress.com/,HATE,,2016-10-13,"Citizen Lab, Citizen Lab",radical islamism website
-https://thepiratebay.org/,P2P,,2016-10-13,"Citizen Lab, Citizen Lab",
-http://wearechange.org/,POLT,,2016-10-13,"Citizen Lab, Citizen Lab",
-http://is0lamanation.blogspot.fr/,HATE,,2016-10-13,"Citizen Lab, Citizen Lab",radical islamism website
-https://alhayatmedia.wordpress.com/,HATE,,2016-10-13,"Citizen Lab, Citizen Lab",radical islamism website
-http://t411.me/,P2P,,2016-10-13,"Citizen Lab, Citizen Lab",
-http://t411.to/,P2P,,2016-10-13,"Citizen Lab, Citizen Lab",
-http://www.t411.ch/,P2P,,2016-10-13,"Citizen Lab, Citizen Lab",
-http://copwatch.fr.over-blog.com/,MILX,,2016-10-13,"Citizen Lab, Citizen Lab",
-http://www.copwatch.org/,MILX,,2016-10-13,"Citizen Lab, Citizen Lab",
-http://copwatchnord-idf.org/,MILX,,2016-10-13,"Citizen Lab, Citizen Lab",
-http://casino.bet365.com/,GMB,,2016-10-13,"Citizen Lab, Citizen Lab",
+url,category_code,subcategory_code,secondary_category_code,date_added,source,notes
+https://mujahida89.wordpress.com/,HATE,,,2016-10-13,"Citizen Lab, Citizen Lab",radical islamism website
+https://thepiratebay.org/,P2P,,,2016-10-13,"Citizen Lab, Citizen Lab",
+http://wearechange.org/,POLT,,,2016-10-13,"Citizen Lab, Citizen Lab",
+http://is0lamanation.blogspot.fr/,HATE,,,2016-10-13,"Citizen Lab, Citizen Lab",radical islamism website
+https://alhayatmedia.wordpress.com/,HATE,,,2016-10-13,"Citizen Lab, Citizen Lab",radical islamism website
+http://t411.me/,P2P,,,2016-10-13,"Citizen Lab, Citizen Lab",
+http://t411.to/,P2P,,,2016-10-13,"Citizen Lab, Citizen Lab",
+http://www.t411.ch/,P2P,,,2016-10-13,"Citizen Lab, Citizen Lab",
+http://copwatch.fr.over-blog.com/,MILX,,,2016-10-13,"Citizen Lab, Citizen Lab",
+http://www.copwatch.org/,MILX,,,2016-10-13,"Citizen Lab, Citizen Lab",
+http://copwatchnord-idf.org/,MILX,,,2016-10-13,"Citizen Lab, Citizen Lab",
+http://casino.bet365.com/,GMB,,,2016-10-13,"Citizen Lab, Citizen Lab",
