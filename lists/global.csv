@@ -1,0 +1,14 @@
+url,category_code,subcategory,date_added,source,notes
+http://extratorrent.cc/,FILE,,2016-08-11,"Citizen Lab, sinarproject",
+http://www.grindr.com/,LGBT,,2016-07-22,"Citizen Lab, OONI",
+http://kat.cr/,FILE,,2016-08-11,"Citizen Lab, sinarproject", 
+http://rarbg.to/,FILE,,2016-08-11,"Citizen Lab, sinarproject",
+http://www.scruff.com/,LGBT,,2016-07-22,"Citizen Lab, OONI",
+https://www.linkedin.com/,GRP,,2016-11-11,Citizen Lab,
+https://www.exploit-db.com/,HACK,,2016-06-10,"Citizen Lab, OONI",
+http://sci-hub.org/,P2P,,2016-07-13,"Citizen Lab, David Fifield",taken down by court order November 2015 https://torrentfreak.com/court-orders-shutdown-of-libgen-bookfi-and-sci-hub-151102/
+http://sci-hub.io/,P2P,,2016-07-13,"Citizen Lab, David Fifield",appeared to replace sci-hub.org November 2015 https://torrentfreak.com/sci-hub-and-libgen-resurface-after-being-shut-down-151121/ taken down by court order May 2016 https://torrentfreak.com/elsevier-complaint-shuts-down-sci-hub-domain-name-160504/
+http://sci-hub.ac/,P2P,,2016-07-13,"Citizen Lab, David Fifield",
+http://sci-hub.bz/,P2P,,2016-07-13,"Citizen Lab, David Fifield",
+http://sci-hub.cc/,P2P,,2016-07-13,"Citizen Lab, David Fifield",
+https://tails.boum.org/,ANON,,2016-08-31,"Citizen Lab, sinarproject",
