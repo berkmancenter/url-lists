@@ -1,3 +1,3 @@
-url,category_code,subcategory,date_added,source,notes
-http://kinox.to/,MMED,,2016-07-07,"Citizen Lab, Philipp Winter",
-http://movie4k.to/,MMED,,2016-07-07,"Citizen Lab, Philipp Winter",
+url,category_code,subcategory_code,secondary_category_code,date_added,source,notes
+http://kinox.to/,MMED,,,2016-07-07,"Citizen Lab, Philipp Winter",
+http://movie4k.to/,MMED,,,2016-07-07,"Citizen Lab, Philipp Winter",
