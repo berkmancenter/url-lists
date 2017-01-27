@@ -1,0 +1,43 @@
+code,name,description
+AD,Ad networks,
+ALDR,Alcohol and drugs,"Sites devoted to the use, paraphernalia, and sale of drugs and alcohol irrespective of the local legality."
+ANON,Anonymizers and censorship circumvention,Sites that provide tools to avoid filtering and/or surveillance. Include encryption-related content.
+CLOUD,Cloud services,Sites that offer cloud-based file storage and sharing.
+COMM,Commercial sites,"Sites that offer goods and services for trade or sale (ex: Amazon, AirBnB, Etsy, EBay) or that offer payment methods (PayPal, Bitcoin)."
+DATE,Online dating,"Online dating services that can be used to meet people, post profiles, chat, etc. (including GLBTQ)"
+DEV,Economic development,"Includes general economic development and poverty related topics, agencies, and funding opportunities."
+EMAIL,Free email,
+ENV,Environment,"Pollution, international environmental treaties, deforestation, environmental justice, environmental disasters, etc."
+FEXP,Free expression & advocacy,Sites that advocate for freedom of expression or that contain news related to freedom of expression violations.
+FREL,Foreign relations and military,"Foreign conflicts, border conflicts, military spending, and external conflict. If there are any international issues relevant to your country, such as territorial disputes or other hostilities with another country (for example, between Israel and certain Arab countries, or between India and Pakistan), collect sites focusing on these issues."
+GAME,Online gaming,Online games relevant to the country.
+GAYL,Gay and lesbian,Range of gay-lesbian-bisexual-transgender queer issues. Please do not include pornography in this category.
+GMB,Gambling,Focus on sites where money can be waged.
+HACK,Hacking,Self-identified hackers and related material.
+HAL,"History, arts, and literature","Includes content related to key historical events (e.g., Tiananmen), past leaders, books, film, entertainment, satire/humor, etc."
+HATE,Hate speech,"Use the subcategory field to indicate the general subject of the speech (i.e., gender, religion)"
+HOST,Web hosting services,"List services that are popular in your country, and ones known or alleged to be blocked."
+HUMR,Human rights,"This category covers a wide range of human rights issues including due process, childrenÍs rights, and human trafficking. Include the sites of human rights groups that are specifically focused upon issues within your country, as well as news reports concerning these issues. Content specifically related to womenÍs rights and gender discrimination should be included in the WOMR category. Content related to sexual rights should be included in the XED category. Content related to LGBTQ rights should be included in the GAYL category."
+MILX,"Militants, extremists, and separatists","This category includes violent internal conflicts, separatist movements, and content related to groups that are set on violently overthrowing the current government or changing the geography of a country."
+MINR,Minority rights and ethnic content,Content specific to minority and ethnic groups.
+MISC,Miscellaneous,Use only if no other categories are applicable.
+MISCTOOLS,Miscellaneous tools,"This category includes tools and services that help online content producers share and promote their content or that offer monitoring and analytics services to content producers (ex: URL shorteners, Creative Commons, Hootsuite)."
+MSG,Messaging services,Sites that offer text messaging and SMS services.
+NEWS,News and media,This category should include regional news outlets and independent media as well as content from major news outlets that specifically concerns the country. Websites that present a wide range of content without a distinct focus on certain topics should be included here.
+P2P,Peer-to-peer file sharing,P2P file sharing networks and software
+PLATFORM,Social media and user-generated content platforms,"YouTube, Facebook, Blogger, Flickr, Imgur, etc."
+POLT,Political,"Content espousing changes within the existing system, including changes in leadership. Content related to the promotion of legal reform, changes in voting and election norms, changes in the enforcement of existing law, corruption related content, and governance issues should be included here. Content and views that promote a fundamental change in the political system and/or ideological basis of the political system should also be include. Opposition groups, political dissidents, and ethnic independence movements fall within this category, as do pro-democracy movements, pro-theocracy movements, and other content that similarly calls for profound changes. For significant parties, use subcategories to collect the sites of other supportive organizations and news stories that mention the party/dissident."
+PORN,Pornography,"Hard-core and soft-core pornography, including gay/lesbian pornography."
+PROV,Provocative attire,"Websites that sell lingerie or other provocative attire (e.g., bathing suits) and/or portray people in a sexual manner, wearing minimal clothing. Other websites with heavy sexual content (e.g., dirty humor) can also be included."
+PUBH,Public health,"HIV, SARS, bird flu, Centers for Disease Control, WHO, etc."
+REFERENCE,Reference sites,"Includes dictionaries, white and yellow pages, sites that contain mostly educational material (lynda.com)"
+REL,"Religious conversion, commentary, and criticism","Websites that promote conversion to a specific religion or offer criticism of specific religion, particularly a state-sponsored religion. Particularly in the Middle East, try to locate sites that target members of majority or state-sponsored religions for conversion to other faiths; these sites should include RELCON as a secondary category. This category should also include websites devoted to the principal minority religions in the country."
+SELFHARM,Self harm,"Websites related to self injury, suicide, and eating disorders. Sites that encourage related behaviors and sites that support recovery should both be included."
+SFTWR,Software downloads,Sites that offer software (locally relevant or in local languages) for download.
+SRCH,Search engines,
+STREAM,Streaming content,"Sites that offer streaming audio or video content that is not uploaded by users (ex: Netflix, Pandora)."
+TRNS,Translation,
+VOIP,Voice over Internet Protocol (VoIP),
+WOMR,Women's rights,"Gender discrimination, gender equality, and other womenÍs rights issues. Content related to sexual rights should be included in the XED category. Content related to LGBTQ rights should be included in the GAYL category."
+WRZ,Warez,
+XED,Sex education and family planning,"Includes contraception, abstinence, STDs, healthy sexuality, teen pregnancy, rape prevention, abortion, sexual rights, and sexual health services. Content related to LGBTQ rights should be included in the GAYL category. Content related to womenÍs rights and gender discrimination should be included in the WOMR category."
