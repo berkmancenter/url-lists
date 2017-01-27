@@ -10,3 +10,5 @@ The [Internet Monitor](https://cyber.harvard.edu/research/internetmonitor) proje
 * If Berkman Klein does not have an updated list:
   * Include all Citizen Lab URLs
 * Ensure all URLs are unique and normalized
+
+Each list gives one or more categories for each URL as category codes. The meaning of these codes is given in category_codes.csv.
