@@ -13,4 +13,4 @@ The [Internet Monitor](https://cyber.harvard.edu/research/internetmonitor) proje
 
 Each list gives one or more categories for each URL as category codes. The meaning of these codes is given in category_codes.csv.
 
-Some lists are for groups of country, e.g. "mena" (Middle East / North Africa). These groups and their country members are given in country_groups.csv
+Some lists are for groups of countries, e.g. "mena" (Middle East / North Africa). These groups and their country members are given in country_groups.csv
