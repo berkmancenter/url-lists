@@ -231,4 +231,4 @@ http://denypagetests.netsweeper.com/category/catno/9,MISC,,,2017-01-24,Berkman K
 https://www.alaraby.co.uk/,FEXP,,,2016-10-23,"Citizen Lab, OONI",
 https://whispersystems.org/,COMT,,,2017-01-19,Citizen Lab,
 http://textsecure-service-ca.whispersystems.org/,COMT,,,2017-01-19,Citizen Lab,Used by Signal desktop
-https://textsecure-service-ca.whispersystems.org/,COMT,,,2017-01-20,Citizen Lab,Used by signal desktop with cert signed by Whisper
+https://textsecure-service-ca.whispersystems.org/,COMT,,,2017-01-19,Citizen Lab,Used by Signal desktop with cert signed only by whispersystems
