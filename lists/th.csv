@@ -684,17 +684,30 @@ http://2bangkok.com/,POLR,,,2016-09-20,"Citizen Lab, unknown","Thai political an
 http://bangkok.coconuts.co/,NEWS,,,2016-09-20,"Citizen Lab, unknown","News, Bangkok food and drink, lifestyle - in English"
 http://bk.asia-city.com/,NEWS,,,2016-09-20,"Citizen Lab, unknown","Bangkok lifestyle, local events"
 http://chaoprayanews.com/,NEWS,,,2016-09-20,"Citizen Lab, unknown",Online newspaper
+https://ega.or.th/,GOVT,,,2017-01-19,"Citizen Lab, unknown",Electronic Government Agency
 http://en.wikipedia.org/wiki/Bhumibol_Adulyadej,NEWS,,,2016-09-20,"Citizen Lab, unknown",Was blocked in 2008
 http://en.wikipedia.org/wiki/Crown_Prince_of_Thailand,NEWS,,,2016-09-20,"Citizen Lab, unknown",Crown Prince of Thailand
 http://en.wikipedia.org/wiki/King_of_Thailand,NEWS,,,2016-09-20,"Citizen Lab, unknown",Was blocked in 2008
 http://en.wikipedia.org/wiki/Monarchy_of_Thailand,NEWS,,,2016-09-20,"Citizen Lab, unknown",Redirected from King_of_Thailand (was blocked in 2008)
 http://en.wikipedia.org/wiki/Vajiralongkorn,NEWS,,,2016-09-20,"Citizen Lab, unknown",Current Crown Prince of Thailand
+https://etda.or.th/,GOVT,,,2017-01-19,"Citizen Lab, unknown",Electronic Transactions Development Agency (ETDA)
+https://freedom.ilaw.or.th/,HUMR,,,2016-09-20,"Citizen Lab, unknown",Freedom of Expression Documentation Center
+https://ilaw.or.th/,HUMR,,,2016-09-20,"Citizen Lab, unknown","People participation in legislation process, rule of law"
 http://kyotoreview.org/,POLR,,,2016-09-20,"Citizen Lab, unknown",Thai politics review journal
+https://kyotoreview.org/,POLR,,,2016-09-20,"Citizen Lab, unknown",Thai politics review journal
+http://landdestroyer.blogspot.com/,POLR,,,2016-11-17,Citizen Lab,
+https://landdestroyer.blogspot.com/,POLR,,,2016-11-17,Citizen Lab,
+https://landdestroyer.blogspot.com/search/label/Thailand,POLR,,,2016-11-17,Citizen Lab,
+http://landdestroyer.blogspot.com/search/label/Thailand,POLR,,,2016-11-17,Citizen Lab,
 http://midnightuniv.org/,POLR,,,2016-09-20,"Citizen Lab, unknown","Midnight University, was blocked in 2006"
 http://prachatai.com/english/,NEWS,,,2016-09-20,"Citizen Lab, unknown","Prachatai - English version, political, social development, and acvitism news"
 http://prachatai.org/,NEWS,,,2016-09-20,"Citizen Lab, unknown","Political, social development, and acvitism news"
-http://prachatai3.info/,NEWS,,,2016-09-20,"Citizen Lab, unknown","Political, social development, and acvitism news"
+http://prachatai3.info/,NEWS,,,2016-09-20,"Citizen Lab, unknown","Political, social development, and acvitism news (reserved url, after prachatai.com got blocked)"
+http://soimilk.com/,CULTR,,,2017-01-19,"Citizen Lab, unknown","Lifestyle and events, in English language"
+https://storylog.co/,HOST,,,2016-09-20,"Citizen Lab, unknown",Thai blogging platform
+http://th.macmuslim.com/,HUMR,,,2017-01-19,"Citizen Lab, unknown",Muslim Attorney Centre Foundation
 http://th.wikipedia.org/,NEWS,,,2016-09-20,"Citizen Lab, unknown",Thai Wikipedia (HTTP)
+https://th.wikipedia.org/,NEWS,,,2016-09-20,"Citizen Lab, unknown",Thai Wikipedia (HTTPS)
 http://th.wikipedia.org/wiki/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B2%E0%B8%97%E0%B8%AA%E0%B8%A1%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%88%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%9B%E0%B8%A3%E0%B8%A1%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%9E%E0%B8%A5%E0%B8%AD%E0%B8%94%E0%B8%B8%E0%B8%A5%E0%B8%A2%E0%B9%80%E0%B8%94%E0%B8%8A,NEWS,,,2016-09-20,"Citizen Lab, unknown","Thai Wikipeida: Bhumibol Adulyadej, its English conterpart was blocked in 2008"
 http://th.wikipedia.org/wiki/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%81%E0%B8%A9%E0%B8%B1%E0%B8%95%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2,NEWS,,,2016-09-20,"Citizen Lab, unknown","Thai Wikipedia: King of Thailand, its English conterpart was blocked in 2008"
 http://th.wikipedia.org/wiki/%E0%B8%A3%E0%B8%B1%E0%B8%90%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%99%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B9%84%E0%B8%97%E0%B8%A2_%E0%B8%9E.%E0%B8%A8._2549,NEWS,,,2016-09-20,"Citizen Lab, unknown",2006 Coup in Thailand
@@ -702,41 +715,57 @@ http://th.wikipedia.org/wiki/%E0%B8%A3%E0%B8%B1%E0%B8%90%E0%B8%9B%E0%B8%A3%E0%B8
 http://th.wikipedia.org/wiki/%E0%B8%AA%E0%B8%A1%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%88%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%A3%E0%B8%A1%E0%B9%82%E0%B8%AD%E0%B8%A3%E0%B8%AA%E0%B8%B2%E0%B8%98%E0%B8%B4%E0%B8%A3%E0%B8%B2%E0%B8%8A_%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%8A%E0%B8%B4%E0%B8%A3%E0%B8%B2%E0%B8%A5%E0%B8%87%E0%B8%81%E0%B8%A3%E0%B8%93_%E0%B8%AA%E0%B8%A2%E0%B8%B2%E0%B8%A1%E0%B8%A1%E0%B8%81%E0%B8%B8%E0%B8%8E%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%81%E0%B8%B8%E0%B8%A1%E0%B8%B2%E0%B8%A3,NEWS,,,2016-09-20,"Citizen Lab, unknown",Current Crown Prince of Thailand
 http://th.wikipedia.org/wiki/%E0%B8%AA%E0%B8%A2%E0%B8%B2%E0%B8%A1%E0%B8%A1%E0%B8%81%E0%B8%B8%E0%B8%8E%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%81%E0%B8%B8%E0%B8%A1%E0%B8%B2%E0%B8%A3,NEWS,,,2016-09-20,"Citizen Lab, unknown",Crown Prince of Thailand
 http://thaipublica.org/,NEWS,,,2016-09-20,"Citizen Lab, unknown","Thai online newspaper, with focus on transparency, good governance of government and business, social innovation"
+http://thematter.co/,NEWS,,,2017-01-19,"Citizen Lab, unknown",Online news site
+http://themomentum.co/,NEWS,,,2017-01-19,"Citizen Lab, unknown",Online news site
+https://tlhr2014.wordpress.com/,HUMR,,,2016-09-20,"Citizen Lab, unknown",Thai Lawyers for Human Rights
+https://uclthailand.blogspot.com/,HUMR,,,2016-09-20,"Citizen Lab, unknown",Union of Civil Liberty
+https://voicefromthais.wordpress.com/,HUMR,,,2017-01-19,"Citizen Lab, unknown",Cross Cultural Foundation
+http://wartani.com/dev/,NEWS,,,2017-01-19,"Citizen Lab, unknown","News website, focus on Deep South"
+https://www.amnesty.or.th/,HUMR,,,2016-09-20,"Citizen Lab, unknown",Amnesty International Thailand
 http://www.asiasentinel.com/,POLR,,,2016-09-20,"Citizen Lab, unknown",Thai politics review journal
+http://www.bbc.com/thai,NEWS,,,2016-12-08,"Citizen Lab, sinarproject",BBC Thai language sub-site
+http://www.bbc.com/thai/thailand-38173269,NEWS,,,2016-12-08,"Citizen Lab, sinarproject",BBC King Maha Vajiralongkorn profile page in Thai
 http://www.cabinet.soc.go.th/,GOVT,,,2016-09-20,"Citizen Lab, unknown",The Secretariat of the Cabinet
+http://www.chaoprayanews.com/,NEWS,,,2016-09-20,"Citizen Lab, unknown",Online newspaper
+https://www.cia.gov/library/readingroom/collection/crest-25-year-program-archive,GOVT,,,2017-01-19,"Citizen Lab, unknown","CIA 25-Year Program Archive, with records from Bangkok Bureau"
+https://www.cia.gov/library/readingroom/docs/DOC_0006007684.pdf,GOVT,,,2017-01-19,"Citizen Lab, unknown",CIA's Daily Briefing (26 Feb 1974): King Bhumibol support of student movement and later approval to the military.
 http://www.dailymail.co.uk/,NEWS,,,2016-09-20,"Citizen Lab, unknown",UK MailOnline (blocked after the 2014 Coup)
 http://www.ect.go.th/,GOVT,,,2016-09-20,"Citizen Lab, unknown",Election Commission of Thailand
+https://www.facebook.com/DemocratPartyTH,POLR,,,2016-09-20,"Citizen Lab, unknown","Democrat Party, a major political party"
+https://www.facebook.com/GooKult,POLR,,,2017-01-19,"Citizen Lab, unknown",Satire
+https://www.facebook.com/OpSingleGateway,POLR,,,2017-01-19,"Citizen Lab, unknown",Online activism group against internet control
+https://www.facebook.com/newdemocracymovement,POLR,,,2016-09-20,"Citizen Lab, unknown",Political activists active after the 2014 Coup
+https://www.facebook.com/pheuthaiparty,POLR,,,2016-09-20,"Citizen Lab, unknown","Pheu Thai Party, a major political party"
+https://www.facebook.com/photo.php?fbid=10154683311581154&set=a.419593026153.213934.627196153,POLR,,,2017-01-19,"Citizen Lab, unknown",AMM FB: CIA's Daily Briefing (26 Feb 1974): King Bhumibol support of student movement and later approval to the military.
+https://www.facebook.com/photo.php?fbid=10154683321516154&set=a.419593026153.213934.627196153,POLR,,,2017-01-19,"Citizen Lab, unknown",AMM FB: CIA roundup (26 Sep 1957): King Bhumibol role in the 1957 coup.
+https://www.facebook.com/photo.php?fbid=10154683341571154&set=a.419593026153.213934.627196153,POLR,,,2017-01-19,"Citizen Lab, unknown",AMM FB: CIA's Bangkok Bureau Monthly Report (Sep 1987): Prince Vajiralongkorn visit to Japan.
+https://www.facebook.com/photo.php?fbid=10154683349636154&set=a.419593026153.213934.627196153,POLR,,,2017-01-19,"Citizen Lab, unknown",AMM FB: CIA's Bangkok Bureau Monthly Report (December 1987): Anonymous leaflets about Crown Prince’s minor wife.
+https://www.facebook.com/somsakjeam/posts/1199885483398062,POLR,,,2017-01-19,"Citizen Lab, unknown",Somsak Jeamteerasakul FB: Finding of Andrew MacGregor Marshall on CIA 25-Year Program Archive records related to Thai Monarchy
+https://www.facebook.com/uclthailand,HUMR,,,2016-09-20,"Citizen Lab, unknown","Union of Civil Liberty, Facebook page"
+https://www.facebook.com/zenjournalist/posts/10154612355501154,POLR,,,2017-01-19,"Citizen Lab, unknown",AMM FB: Facebook restricted this URL to be displayed inside Thailand. Viewable in other countries.
+https://www.fccthai.com/,NEWS,,,2016-09-20,"Citizen Lab, unknown",Foreign Correspondents' Club of Thailand
+https://www.forum-asia.org/,HUMR,,,2017-01-19,"Citizen Lab, unknown",Asian Forum for Human Rights and Development
 http://www.hrw.org/asia/thailand,HUMR,,,2016-09-20,"Citizen Lab, unknown",Human Rights Watch page on Thailand (got blocked once after 2014 Coup)
+https://www.ilaw.or.th/,HUMR,,,2016-09-20,"Citizen Lab, unknown","People participation in legislation process, rule of law"
+http://www.isranews.org/investigative/investigate-asset/person/item/35454-report01_35454.html,NEWS,,,2017-01-19,"Citizen Lab, unknown","A report about a figure that may related to a military man, has been unofficially requested to be removed but the publisher refused."
 http://www.khaosodenglish.com/,NEWS,,,2016-09-20,"Citizen Lab, unknown",Khao Sod newspaper - English version
+https://www.konthaiuk.com/,POLR,,,2017-01-19,"Citizen Lab, unknown",
+https://www.konthaiuk.com/forum/,POLR,,,2017-01-19,"Citizen Lab, unknown",
 http://www.krisdika.go.th/,GOVT,,,2016-09-20,"Citizen Lab, unknown",The Council of the State
 http://www.mthai.com/,SRCH,,,2016-09-20,"Citizen Lab, unknown","Portal, entertainment, news"
 http://www.nationmultimedia.com/,NEWS,,,2016-09-20,"Citizen Lab, unknown","The Nation, one of two major printed newspapers"
 http://www.parliament.go.th/,GOVT,,,2016-09-20,"Citizen Lab, unknown","Parliament of Thailand. Since 2014 Coup, home of National Reform Steering Assembly"
 http://www.pataninews.net/,NEWS,,,2016-09-20,"Citizen Lab, unknown",News from Thailand Deep South
+https://www.prachamati.org/,NEWS,,,2016-09-20,"Citizen Lab, unknown",Civil society group promote the understanding of the Draft Charter Referendum
 http://www.rtarf.mi.th/,GOVT,,,2016-09-20,"Citizen Lab, unknown",Royal Thai Armed Forces HQ
 http://www.senate.go.th/,GOVT,,,2016-09-20,"Citizen Lab, unknown",Senate of Thailand
+https://www.spokedark.tv/,NEWS,,,2017-01-19,"Citizen Lab, unknown","Online television channels, with one program on political criticism"
 http://www.stou.ac.th/,GOVT,,,2016-09-20,"Citizen Lab, unknown",Open university
 http://www.telecomasia.net/,NEWS,,,2016-09-20,"Citizen Lab, unknown","Telecom Asia, also cover ICT news in Thailand"
 http://www.thaigov.go.th/,GOVT,,,2016-09-20,"Citizen Lab, unknown",Royal Thai Government
+https://www.thainetizen.org/,HUMR,,,2016-09-20,"Citizen Lab, unknown",NGO on internet and human rights
 http://www.thaivisa.com/,NEWS,,,2016-09-20,"Citizen Lab, unknown",Expat news
 http://www.thaivisa.com/forum/,GRP,,,2016-09-20,"Citizen Lab, unknown",Expat activities
 http://www.thaivolunteer.org/,ECON,,,2016-09-20,"Citizen Lab, unknown","NGO that supports works of social volunteers, including human rights lawyers project"
-https://freedom.ilaw.or.th/,HUMR,,,2016-09-20,"Citizen Lab, unknown",Freedom of Expression Documentation Center
-https://ilaw.or.th/,HUMR,,,2016-09-20,"Citizen Lab, unknown","People participation in legislation process, rule of law"
-https://storylog.co/,HOST,,,2016-09-20,"Citizen Lab, unknown",Thai blogging platform
-https://th.wikipedia.org/,NEWS,,,2016-09-20,"Citizen Lab, unknown",Thai Wikipedia (HTTPS)
-https://tlhr2014.wordpress.com/,HUMR,,,2016-09-20,"Citizen Lab, unknown",Thai Lawyers for Human Rights
-https://uclthailand.blogspot.com/,HUMR,,,2016-09-20,"Citizen Lab, unknown",Union of Civil Liberty
-https://www.amnesty.or.th/,HUMR,,,2016-09-20,"Citizen Lab, unknown",Amnesty International Thailand
-https://www.facebook.com/DemocratPartyTH,POLR,,,2016-09-20,"Citizen Lab, unknown","Democrat Party, a major political party"
-https://www.facebook.com/newdemocracymovement,POLR,,,2016-09-20,"Citizen Lab, unknown",Political activists active after the 2014 Coup
-https://www.facebook.com/pheuthaiparty,POLR,,,2016-09-20,"Citizen Lab, unknown","Pheu Thai Party, a major political party"
-https://www.facebook.com/uclthailand,HUMR,,,2016-09-20,"Citizen Lab, unknown","Union of Civil Liberty, Facebook page"
-https://www.fccthai.com/,NEWS,,,2016-09-20,"Citizen Lab, unknown",Foreign Correspondents' Club of Thailand
-https://www.ilaw.or.th/,HUMR,,,2016-09-20,"Citizen Lab, unknown","People participation in legislation process, rule of law"
-https://www.prachamati.org/,NEWS,,,2016-09-20,"Citizen Lab, unknown",Civil society group promote the understanding of the Draft Charter Referendum
-https://www.thainetizen.org/,HUMR,,,2016-09-20,"Citizen Lab, unknown",NGO on internet and human rights
-http://landdestroyer.blogspot.com/,POLR,,,2016-11-17,Citizen Lab,
-http://landdestroyer.blogspot.com/search/label/Thailand,POLR,,,2016-11-17,Citizen Lab,
-http://www.bbc.com/thai,NEWS,,,2016-12-08,"Citizen Lab, sinarproject",BBC Thai language sub-site
-http://www.bbc.com/thai/thailand-38173269,NEWS,,,2016-12-08,"Citizen Lab, sinarproject",BBC King Maha Vajiralongkorn profile page in Thai
+http://www.tlhr2014.com/,HUMR,,,2017-01-19,"Citizen Lab, unknown",Thai Lawyers for Human Rights (new website)
+http://www.zocialx.com/,NEWS,,,2017-01-19,"Citizen Lab, unknown",Popular news from Thai social media

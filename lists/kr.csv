@@ -349,8 +349,8 @@ http://www.ppfk.or.kr/,XED,,,2017-01-24,Berkman Klein,
 http://www.prolife.or.kr/,XED,,,2017-01-24,Berkman Klein,
 http://www.sangsaeng.org/,XED,,,2017-01-24,Berkman Klein,
 http://www.sex-academy.com/,XED,,,2017-01-24,Berkman Klein,
-http://gnu.rep.kp/,CULTR,,,2016-09-22,"Citizen Lab, OONI",North Korean site - very slow connectivity
 http://friend.com.kp/,GRP,,,2016-09-22,"Citizen Lab, OONI",North Korean site - very slow connectivity
+http://gnu.rep.kp/,CULTR,,,2016-09-22,"Citizen Lab, OONI",North Korean site - very slow connectivity
 http://kass.org.kp/,CULTR,,,2016-09-22,"Citizen Lab, OONI",North Korean site (education) - very slow connectivity
 http://kiyctc.com.kp/,CULTR,,,2016-09-22,"Citizen Lab, OONI",North Korean site (travel) - very slow connectivity
 http://knic.com.kp/,COMM,,,2016-09-22,"Citizen Lab, OONI",North Korean site (insurance) - very slow connectivity
@@ -361,6 +361,8 @@ http://ma.gov.kp/,GOVT,,,2016-09-22,"Citizen Lab, OONI",North Korean site - very
 http://naenara.com.kp/,NEWS,,,2016-09-22,"Citizen Lab, OONI",North Korean site (news articles & promotional info about the country) - very slow connectivity
 http://nta.gov.kp/,GOVT,,,2016-09-22,"Citizen Lab, OONI",North Korean site (tourism) - very slow connectivity
 http://rodong.rep.kp/,NEWS,,,2016-09-22,"Citizen Lab, OONI",North Korean site - very slow connectivity
-http://www.ryongnamsan.edu.kp/,CULTR,,,2016-09-22,"Citizen Lab, OONI",North Korean site (University site) - very slow connectivity
 http://sdprk.org.kp/,CULTR,,,2016-09-22,"Citizen Lab, OONI",North Korean site (sports) - very slow connectivity
 http://vok.rep.kp/,NEWS,,,2016-09-22,"Citizen Lab, OONI",North Korean site - very slow connectivity
+http://www.kcna.kp/,NEWS,,,2017-02-10,Citizen Lab,
+http://www.marijuanatravels.com/,ALDR,,,2016-08-09,"Citizen Lab, OONI partner",
+http://www.ryongnamsan.edu.kp/,CULTR,,,2016-09-22,"Citizen Lab, OONI",North Korean site (University site) - very slow connectivity
