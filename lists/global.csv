@@ -2044,13 +2044,14 @@ http://mr-johal.com/,STREAM,,,2017-01-24,Berkman Klein,
 http://putlocker.is/,STREAM,,,2017-01-24,Berkman Klein,watch movies online for free! (likely illegally)
 http://eksisozluk.com/,TRNS,,,2017-01-24,Berkman Klein,Turkish dictionary
 http://webex.com/,VOIP,,,2017-01-24,Berkman Klein,
-http://sci-hub.ac/,FILE,,,2016-07-13,"Citizen Lab, David Fifield",
-http://sci-hub.bz/,FILE,,,2016-07-13,"Citizen Lab, David Fifield",
-http://sci-hub.cc/,FILE,,,2016-07-13,"Citizen Lab, David Fifield",
-http://sci-hub.io/,FILE,,,2016-07-13,"Citizen Lab, David Fifield",appeared to replace sci-hub.org November 2015 https://torrentfreak.com/sci-hub-and-libgen-resurface-after-being-shut-down-151121/ taken down by court order May 2016 https://torrentfreak.com/elsevier-complaint-shuts-down-sci-hub-domain-name-160504/
-http://sci-hub.org/,FILE,,,2016-07-13,"Citizen Lab, David Fifield",taken down by court order November 2015 https://torrentfreak.com/court-orders-shutdown-of-libgen-bookfi-and-sci-hub-151102/
-https://tails.boum.org/,ANON,,,2016-08-31,"Citizen Lab, sinarproject",
-https://www.exploit-db.com/,HACK,,,2016-06-10,"Citizen Lab, OONI",
-http://www.grindr.com/,LGBT,,,2016-07-22,"Citizen Lab, OONI",
-https://www.linkedin.com/,GRP,,,2016-11-11,Citizen Lab,
-http://www.scruff.com/,LGBT,,,2016-07-22,"Citizen Lab, OONI",
+https://bouncer.ooni.io/,HUMR,,,2017-02-17,"Citizen Lab, OONI",
+https://extratorrent.cc/,FILE,,,2016-08-11,"Citizen Lab, sinarproject",Updated by OONI on 2017-02-14
+https://rarbg.to/index8.php,FILE,,,2016-08-11,"Citizen Lab, sinarproject",Updated by OONI on 2017-02-14
+https://sci-hub.ac/,FILE,,,2016-07-13,"Citizen Lab, David Fifield",Updated by OONI on 2017-02-14
+http://sci-hub.org/,FILE,,,2016-07-13,"Citizen Lab, David Fifield",Updated by OONI on 2017-02-14
+https://tails.boum.org/,ANON,,,2016-08-31,"Citizen Lab, sinarproject",Updated by OONI on 2017-02-14
+https://www.exploit-db.com/,HACK,,,2016-06-10,"Citizen Lab, OONI",Updated by OONI on 2017-02-14
+https://www.frontlinedefenders.org/,HUMR,,,2017-02-17,"Citizen Lab, OONI",
+http://www.grindr.com/,LGBT,,,2016-07-22,"Citizen Lab, OONI",Updated by OONI on 2017-02-14
+https://www.scruff.com/,LGBT,,,2016-07-22,"Citizen Lab, OONI",Updated by OONI on 2017-02-14
+https://tacticaltech.org/,HUMR,,,2017-02-17,"Citizen Lab, OONI",
