@@ -228,13 +228,20 @@ http://denypagetests.netsweeper.com/category/catno/6,MISC,,,2017-01-24,Berkman K
 http://denypagetests.netsweeper.com/category/catno/7,MISC,,,2017-01-24,Berkman Klein,
 http://denypagetests.netsweeper.com/category/catno/8,MISC,,,2017-01-24,Berkman Klein,
 http://denypagetests.netsweeper.com/category/catno/9,MISC,,,2017-01-24,Berkman Klein,
+http://www.elborsanews.com/,NEWS,,,2017-05-28,"Citizen Lab, ADEF",not yet blocked. Alias of blocked site alborsanews.com
 http://arabi21.com/,NEWS,,,2017-05-24,"Citizen Lab, ADEF",blocked as of date added
+http://dailynewsegypt.com/,NEWS,,,2017-05-28,"Citizen Lab, ADEF",blocked as of date added
+http://thedailynewsegypt.com/,NEWS,,,2017-05-28,"Citizen Lab, ADEF",blocked as of date added
 http://horriapost.net/,NEWS,,,2017-05-24,"Citizen Lab, ADEF",blocked as of date added
 http://madamasr.com/,NEWS,,,2017-05-24,"Citizen Lab, ADEF",blocked as of date added
+http://www.moheet.com/,NEWS,,,2017-05-28,"Citizen Lab, ADEF",blocked as of date added
+http://www.sinaihr.org/,HUMR,,,2017-05-28,"Citizen Lab, ADEF",blocked as of date added
 https://textsecure-service-ca.whispersystems.org:80/,COMT,,,2017-02-10,Citizen Lab,Used by Signal Desktop for communication
 https://textsecure-service-ca.whispersystems.org:4433/,COMT,,,2017-02-10,Citizen Lab,Used by Signal Desktop for communication
 https://textsecure-service-ca.whispersystems.org:8443/,COMT,,,2017-02-10,Citizen Lab,Used by Signal Desktop for communication
 https://whispersystems-textsecure-attachments.s3.amazonaws.com/,COMT,,,2017-02-10,Citizen Lab,Used by Signal desktop for attachments
+https://torproject.org/,ANON,,,2017-05-27,"Citizen Lab, ADEF",blocked as of date added
+https://bridges.torproject.org/,ANON,,,2017-05-28,"Citizen Lab, ADEF",blocked as of date added
 https://whispersystems.org/,COMT,,,2017-01-19,Citizen Lab,
 https://www.alaraby.co.uk/,NEWS,,,2016-10-23,"Citizen Lab, OONI",
 http://hamas.ps/ar/,NEWS,,,2017-05-24,"Citizen Lab, OONI",blocked as of date added
