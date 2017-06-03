@@ -228,7 +228,10 @@ http://denypagetests.netsweeper.com/category/catno/6,MISC,,,2017-01-24,Berkman K
 http://denypagetests.netsweeper.com/category/catno/7,MISC,,,2017-01-24,Berkman Klein,
 http://denypagetests.netsweeper.com/category/catno/8,MISC,,,2017-01-24,Berkman Klein,
 http://denypagetests.netsweeper.com/category/catno/9,MISC,,,2017-01-24,Berkman Klein,
+http://al-3araby.com/,NEWS,,,2017-05-31,"Citizen Lab, ADEF",updated domain. Dead site
 http://www.elborsanews.com/,NEWS,,,2017-05-28,"Citizen Lab, ADEF",not yet blocked. Alias of blocked site alborsanews.com
+http://alquds.uk/,NEWS,,,2017-05-31,"Citizen Lab, ADEF",not yet blocked.
+http://alarab.co.uk/,NEWS,,,2017-05-31,"Citizen Lab, ADEF",not yet blocked.
 http://arabi21.com/,NEWS,,,2017-05-24,"Citizen Lab, ADEF",blocked as of date added
 http://dailynewsegypt.com/,NEWS,,,2017-05-28,"Citizen Lab, ADEF",blocked as of date added
 http://thedailynewsegypt.com/,NEWS,,,2017-05-28,"Citizen Lab, ADEF",blocked as of date added
@@ -240,10 +243,9 @@ https://textsecure-service-ca.whispersystems.org:80/,COMT,,,2017-02-10,Citizen L
 https://textsecure-service-ca.whispersystems.org:4433/,COMT,,,2017-02-10,Citizen Lab,Used by Signal Desktop for communication
 https://textsecure-service-ca.whispersystems.org:8443/,COMT,,,2017-02-10,Citizen Lab,Used by Signal Desktop for communication
 https://whispersystems-textsecure-attachments.s3.amazonaws.com/,COMT,,,2017-02-10,Citizen Lab,Used by Signal desktop for attachments
-https://torproject.org/,ANON,,,2017-05-27,"Citizen Lab, ADEF",blocked as of date added
-https://bridges.torproject.org/,ANON,,,2017-05-28,"Citizen Lab, ADEF",blocked as of date added
 https://whispersystems.org/,COMT,,,2017-01-19,Citizen Lab,
 https://www.alaraby.co.uk/,NEWS,,,2016-10-23,"Citizen Lab, OONI",
+https://almanassa.com/,NEWS,,,2017-05-31,"Citizen Lab, ADEF",Not yet blocked
 http://hamas.ps/ar/,NEWS,,,2017-05-24,"Citizen Lab, OONI",blocked as of date added
 http://www.al-watan.com/,NEWS,,,2017-05-24,"Citizen Lab, OONI",blocked as of date added
 http://www.alarab.qa/,NEWS,,,2017-05-24,"Citizen Lab, OONI",blocked as of date added
