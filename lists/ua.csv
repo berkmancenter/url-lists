@@ -646,3 +646,13 @@ https://translate.yandex.ua/,TRNS,,,2017-01-24,Berkman Klein,
 https://pereklad.online.ua/,TRNS,,,2017-01-24,Berkman Klein,
 http://www.multitran.ru/,TRNS,,,2017-01-24,Berkman Klein,
 https://www.skype.com/uk/,VOIP,,,2017-01-24,Berkman Klein,
+https://freeu.online/,ANON,,,2017-05-31,"Citizen Lab, David Fifield",Download site for the FreeU web browser
+https://freeu.zone/,ANON,,,2017-05-31,"Citizen Lab, David Fifield",Download site for the FreeU web browser
+https://ok.ru/google55e918a7d2970a76.html,ANON,,,2017-05-31,"Citizen Lab, David Fifield",Canary URL used by the FreeU web browser to test blocking of VKontakte (https://bugs.torproject.org/22369#comment:5)
+https://update.brwsrapi.com/blckd.json,ANON,,,2017-05-31,"Citizen Lab, David Fifield",FreeU web browser list of potentially blocked domains (https://bugs.torproject.org/22369#comment:3)
+https://update.mrbrwsr.com/blckd.json,ANON,,,2017-05-31,"Citizen Lab, David Fifield",FreeU web browser list of potentially blocked domains (https://bugs.torproject.org/22369#comment:3)
+https://update.savebrwsr.com/blckd.json,ANON,,,2017-05-31,"Citizen Lab, David Fifield",FreeU web browser list of potentially blocked domains (https://bugs.torproject.org/22369#comment:3)
+https://update.svbrwsr.com/blckd.json,ANON,,,2017-05-31,"Citizen Lab, David Fifield",FreeU web browser list of potentially blocked domains (https://bugs.torproject.org/22369#comment:3)
+https://update.updtapi.com/blckd.json,ANON,,,2017-05-31,"Citizen Lab, David Fifield",FreeU web browser list of potentially blocked domains (https://bugs.torproject.org/22369#comment:3)
+https://update.updtbrwsr.com/blckd.json,ANON,,,2017-05-31,"Citizen Lab, David Fifield",FreeU web browser list of potentially blocked domains (https://bugs.torproject.org/22369#comment:3)
+https://vk.com/ping.txt,ANON,,,2017-05-31,"Citizen Lab, David Fifield",Canary URL used by the FreeU web browser to test blocking of VKontakte (https://bugs.torproject.org/22369#comment:5)
