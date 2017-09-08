@@ -385,14 +385,14 @@ http://brick.blogfa.com/,CULTR,,,2017-05-16,"Citizen Lab, ASL19",Categorized by 
 http://cafeneveshteh.com/,CULTR,,,2017-05-16,"Citizen Lab, ASL19",Categorized by OONI based on Google translate - requires review.
 http://caffecinema.com/,CULTR,,,2017-05-16,"Citizen Lab, ASL19",Categorized by OONI based on Google translate - requires review.
 http://ch1.cc/,NEWS,,,2017-05-16,"Citizen Lab, ASL19",Categorized by OONI based on Google translate - requires review.
-https://citizenlab.org/,NEWS,,,2016-07-16,"Citizen Lab, ICLab",The Citizen Lab
+https://citizenlab.org/,HUMR,,,2016-07-16,"Citizen Lab, ICLab",The Citizen Lab
 http://cnn.com/,NEWS,,,2015-03-20,"Citizen Lab, OONI",
 http://codecanyon.net/,HACK,,,2017-05-16,"Citizen Lab, ASL19",
 https://coreos.com/,COMM,,,2017-05-16,"Citizen Lab, ASL19",
 http://cpanel.com/,HOST,,,2017-05-16,"Citizen Lab, ASL19",
 http://dalghakirani.blogspot.com/,CULTR,,,2017-05-16,"Citizen Lab, ASL19",Categorized by OONI based on Google translate - requires review.
 http://dargahpardakht.com/,COMM,,,2016-05-12,"Citizen Lab, berkman",
-http://degarbavaran.net/,MISC,,,2017-05-16,"Citizen Lab, ASL19",Categorized by OONI based on Google translate - requires review.
+http://degarbavaran.net/,CULTR,,,2017-05-16,"Citizen Lab, ASL19",Categorized by OONI based on Google translate - requires review.
 http://dehnamaki.blogfa.com/,CULTR,,,2017-05-16,"Citizen Lab, ASL19",Categorized by OONI based on Google translate - requires review.
 https://developer.atlassian.com/,HACK,,,2017-05-16,"Citizen Lab, ASL19",
 https://developer.ibm.com/,HACK,,,2017-05-16,"Citizen Lab, ASL19",
@@ -463,7 +463,7 @@ https://khodnevis.org/,NEWS,,,2017-05-16,"Citizen Lab, ASL19",Categorized by OON
 http://khojaste.persianblog.ir/,CULTR,,,2017-05-16,"Citizen Lab, ASL19",Categorized by OONI based on Google translate - requires review.
 http://kiaeenejhad.blogfa.com/,CULTR,,,2017-05-16,"Citizen Lab, ASL19",Categorized by OONI based on Google translate - requires review.
 http://kurdpress.com/fa/,NEWS,,,2017-05-16,"Citizen Lab, ASL19",Categorized by OONI based on Google translate - requires review.
-http://library.sheba.co.il/,MISC,,,2016-04-20,Citizen Lab,
+http://library.sheba.co.il/,PUBH,,,2016-04-20,Citizen Lab,
 https://lunashadzi.wordpress.com/,CULTR,,,2017-05-16,"Citizen Lab, ASL19",Categorized by OONI based on Google translate - requires review.
 http://mahmoudshekari.ir/,POLR,,,2017-05-16,"Citizen Lab, ASL19",Categorized by OONI based on Google translate - requires review.
 http://mahshar.com/,CULTR,,,2017-05-16,"Citizen Lab, ASL19",Categorized by OONI based on Google translate - requires review.
@@ -477,7 +477,7 @@ http://mehdikhalaji.com/,POLR,,,2017-05-16,"Citizen Lab, ASL19",Categorized by O
 http://melimazhabi.com/,NEWS,,,2017-05-16,"Citizen Lab, ASL19",Categorized by OONI based on Google translate - requires review.
 http://memarinews.com/,NEWS,,,2017-05-16,"Citizen Lab, ASL19",Categorized by OONI based on Google translate - requires review.
 http://mihan.net/,NEWS,,,2017-05-16,"Citizen Lab, ASL19",Categorized by OONI based on Google translate - requires review.
-http://minuf.co.il/,MISC,,,2016-04-20,Citizen Lab,
+http://minuf.co.il/,ECON,,,2016-04-20,Citizen Lab,
 http://mirfetros.com/fa/,CULTR,,,2017-05-16,"Citizen Lab, ASL19",Categorized by OONI based on Google translate - requires review.
 http://mirgaloobayat.com/,PUBH,,,2017-05-16,"Citizen Lab, ASL19",Categorized by OONI based on Google translate - requires review.
 http://mizankhabar.net/,NEWS,,,2017-05-16,"Citizen Lab, ASL19",Categorized by OONI based on Google translate - requires review.
@@ -552,12 +552,11 @@ http://tasna.ir/,NEWS,,,2017-05-16,"Citizen Lab, ASL19",Categorized by OONI base
 http://tehranreview.net/,NEWS,,,2017-05-16,"Citizen Lab, ASL19",Categorized by OONI based on Google translate - requires review.
 http://themeforest.net/,HOST,,,2017-05-16,"Citizen Lab, ASL19",
 http://thetehrantimes.tumblr.com/,GRP,,,2017-05-16,"Citizen Lab, ASL19",Categorized by OONI based on Google translate - requires review.
-http://thissitedoesnotexist.il/,MISC,,,2016-04-20,Citizen Lab,
 http://titre1.ir/,NEWS,,,2017-05-16,"Citizen Lab, ASL19",Categorized by OONI based on Google translate - requires review.
 https://toonistan.com/,GRP,,,2017-05-16,"Citizen Lab, ASL19",Categorized by OONI based on Google translate - requires review.
 https://toonistan.com/fresh,GRP,,,2017-05-16,"Citizen Lab, ASL19",Categorized by OONI based on Google translate - requires review.
 https://unity3d.com/,GAME,,,2017-05-16,"Citizen Lab, ASL19",
-https://university.mongodb.com/,MISC,,,2017-05-16,"Citizen Lab, ASL19",
+https://university.mongodb.com/,HACK,,,2017-05-16,"Citizen Lab, ASL19",
 http://updatebox4.com/,HACK,,,2016-06-29,"Citizen Lab, OONI",This is actually a service used as CnC by a botnet
 https://users.wix.com/signin,HOST,,,2017-05-16,"Citizen Lab, ASL19",
 http://vahidahmadi.ir/,GOVT,,,2017-05-16,"Citizen Lab, ASL19",Categorized by OONI based on Google translate - requires review.
@@ -569,14 +568,14 @@ http://wordpress.com/,HOST,,,2015-03-20,"Citizen Lab, OONI",
 https://wordpress.com/,HOST,,,2017-05-16,"Citizen Lab, ASL19",
 http://www.1doost.com/,CULTR,,,2017-05-16,"Citizen Lab, ASL19",Categorized by OONI based on Google translate - requires review.
 http://www.670amkirn.com/,CULTR,,,2017-05-16,"Citizen Lab, ASL19",Categorized by OONI based on Google translate - requires review.
-http://www.aaci.org.il/,MISC,,,2016-04-20,Citizen Lab,
+http://www.aaci.org.il/,CULTR,,,2016-04-20,Citizen Lab,
 http://www.abbas-rajaei.ir/,GOVT,,,2017-05-16,"Citizen Lab, ASL19",Categorized by OONI based on Google translate - requires review.
 http://www.abdolghaderbalouch.com/,CULTR,,,2017-05-16,"Citizen Lab, ASL19",Categorized by OONI based on Google translate - requires review.
 http://www.afifnews.com/,NEWS,,,2016-04-20,Citizen Lab,
 http://www.afifnp.com/,NEWS,,,2016-04-20,Citizen Lab,
 http://www.afsaran.ir/,CULTR,,,2017-05-16,"Citizen Lab, ASL19",Categorized by OONI based on Google translate - requires review.
 http://www.aftabnews.ir/,NEWS,,,2017-05-16,"Citizen Lab, ASL19",Categorized by OONI based on Google translate - requires review.
-http://www.agr.state.il.us/,MISC,,,2016-04-20,Citizen Lab,
+http://www.agr.state.il.us/,ENV,,,2016-04-20,Citizen Lab,
 http://www.ajel.sa/,NEWS,,,2016-04-20,Citizen Lab,
 http://www.akbariyan.com/,NEWS,,,2017-05-16,"Citizen Lab, ASL19",Categorized by OONI based on Google translate - requires review.
 http://www.akharinnews.com/,NEWS,,,2017-05-16,"Citizen Lab, ASL19",Categorized by OONI based on Google translate - requires review.
@@ -605,10 +604,10 @@ http://www.alweeam.com.sa/,NEWS,,,2016-04-20,Citizen Lab,
 http://www.alyaum.com/,NEWS,,,2016-04-20,Citizen Lab,
 http://www.am-ahmadi.ir/,GOVT,,,2017-05-16,"Citizen Lab, ASL19",Categorized by OONI based on Google translate - requires review.
 http://www.amd.com/,HOST,,,2017-05-16,"Citizen Lab, ASL19",
-https://www.amnesty.org/,HUMR,,,2016-07-16,"Citizen Lab, ICLab",Amnesty Internationl
+https://www.amnesty.org/,HUMR,,,2016-07-16,"Citizen Lab, ICLab",
 http://www.anaween.com/,NEWS,,,2016-04-20,Citizen Lab,
 http://www.anbacom.com/,NEWS,,,2016-04-20,Citizen Lab,
-http://www.antiquities.org.il/,MISC,,,2016-04-20,Citizen Lab,
+http://www.antiquities.org.il/,CULTR,,,2016-04-20,Citizen Lab,
 http://www.apple.com/itunes/,MMED,,,2017-05-16,"Citizen Lab, ASL19",
 http://www.arabicmagazine.com/arabic/,NEWS,,,2016-04-20,Citizen Lab,
 http://www.arartoday.org/,NEWS,,,2016-04-20,Citizen Lab,
@@ -621,7 +620,7 @@ http://www.asgharagha.com/,CULTR,,,2017-05-16,"Citizen Lab, ASL19",Categorized b
 https://www.authy.com/,HACK,,,2017-05-16,"Citizen Lab, ASL19",
 http://www.autodeskplm360.com/,FILE,,,2017-05-16,"Citizen Lab, ASL19",
 https://www.backblaze.com/,FILE,,,2017-05-16,"Citizen Lab, ASL19",
-http://www.basket.co.il/,MISC,,,2016-04-20,Citizen Lab,
+http://www.basket.co.il/,CULTR,,,2016-04-20,Citizen Lab,
 http://www.bazrpash.ir/,GOVT,,,2017-05-16,"Citizen Lab, ASL19",Categorized by OONI based on Google translate - requires review.
 http://www.bbc.com/persian,NEWS,,,2016-05-12,"Citizen Lab, berkman",
 http://www.belgarn.com/,NEWS,,,2016-04-20,Citizen Lab,
@@ -630,13 +629,13 @@ http://www.beytoote.com/cookery/ghazaha/,CULTR,,,2017-05-16,"Citizen Lab, ASL19"
 http://www.biglari53.ir/,HUMR,,,2017-05-16,"Citizen Lab, ASL19",Categorized by OONI based on Google translate - requires review.
 http://www.bitdefender.com/,HACK,,,2017-05-16,"Citizen Lab, ASL19",
 http://www.boi.org.il/,GOVT,,,2016-04-20,Citizen Lab,
-http://www.bus.co.il/,MISC,,,2016-04-20,Citizen Lab,
+http://www.bus.co.il/,CULTR,,,2016-04-20,Citizen Lab,
 http://www.cbs.gov.il/,GOVT,,,2016-04-20,Citizen Lab,
 https://www.chromeexperiments.com/,HACK,,,2017-05-16,"Citizen Lab, ASL19",
 http://www.cinemajournal.ir/,CULTR,,,2017-05-16,"Citizen Lab, ASL19",Categorized by OONI based on Google translate - requires review.
 http://www.cj.com/,COMM,,,2017-05-16,"Citizen Lab, ASL19",
 https://www.codecademy.com/,HACK,,,2017-05-16,"Citizen Lab, ASL19",
-https://www.coursera.org/,MISC,,,2017-05-16,"Citizen Lab, ASL19",
+https://www.coursera.org/,CULTR,,,2017-05-16,"Citizen Lab, ASL19",
 http://www.daneshvar.ir/roozbeh/notes/,CULTR,,,2017-05-16,"Citizen Lab, ASL19",Categorized by OONI based on Google translate - requires review.
 http://www.darsahn.org/,POLR,,,2017-05-16,"Citizen Lab, ASL19",Categorized by OONI based on Google translate - requires review.
 https://www.dartlang.org/,HACK,,,2017-05-16,"Citizen Lab, ASL19",
@@ -660,19 +659,19 @@ http://www.epatogh.com/,CULTR,,,2017-05-16,"Citizen Lab, ASL19",Categorized by O
 https://www.facebook.com/kambizhosseini,GRP,,,2017-05-16,"Citizen Lab, ASL19",Categorized by OONI based on Google translate - requires review.
 https://www.facebook.com/mehdi.parpanchi,GRP,,,2017-05-16,"Citizen Lab, ASL19",Categorized by OONI based on Google translate - requires review.
 http://www.farhangnegar.ir/,NEWS,,,2017-05-16,"Citizen Lab, ASL19",Categorized by OONI based on Google translate - requires review.
-http://www.footballiran.ir/,NEWS,,,2017-05-16,"Citizen Lab, ASL19",Categorized by OONI based on Google translate - requires review.
+http://www.footballiran.ir/,CULTR,,,2017-05-16,"Citizen Lab, ASL19",Categorized by OONI based on Google translate - requires review.
 http://www.fozoolemahaleh.com/,HUMR,,,2017-05-16,"Citizen Lab, ASL19",Categorized by OONI based on Google translate - requires review.
 https://www.freelancer.com/,COMM,,,2017-05-16,"Citizen Lab, ASL19",
 http://www.funpatogh.com/,CULTR,,,2017-05-16,"Citizen Lab, ASL19",Categorized by OONI based on Google translate - requires review.
-http://www.galilcol.ac.il/,MISC,,,2016-04-20,Citizen Lab,
-http://www.geforce.com/,MISC,,,2017-05-16,"Citizen Lab, ASL19",
+http://www.galilcol.ac.il/,ECON,,,2016-04-20,Citizen Lab,
+http://www.geforce.com/,GAME,,,2017-05-16,"Citizen Lab, ASL19",
 http://www.geod7.com/,NEWS,,,2016-04-20,Citizen Lab,
-http://www.getmdl.io/,MISC,,,2017-05-16,"Citizen Lab, ASL19",
+http://www.getmdl.io/,HACK,,,2017-05-16,"Citizen Lab, ASL19",
 http://www.glwiz.com/homepage.aspx,MMED,,,2017-05-16,"Citizen Lab, ASL19",Categorized by OONI based on Google translate - requires review.
 https://www.godaddy.com/,HOST,,,2017-05-16,"Citizen Lab, ASL19",
 https://www.google.co.il/,SRCH,,,2016-04-20,Citizen Lab,
 http://www.gooshe.net/,CULTR,,,2017-05-16,"Citizen Lab, ASL19",Categorized by OONI based on Google translate - requires review.
-http://www.greenbo.co.il/,MISC,,,2016-04-20,Citizen Lab,
+http://www.greenbo.co.il/,CULTR,,,2016-04-20,Citizen Lab,
 http://www.hailnews.net/hail/,NEWS,,,2016-04-20,Citizen Lab,
 http://www.hailvoice.net/,NEWS,,,2016-04-20,Citizen Lab,
 http://www.hamseda.ir/,NEWS,,,2017-05-16,"Citizen Lab, ASL19",Categorized by OONI based on Google translate - requires review.
@@ -699,10 +698,10 @@ http://www.jjdli.com/fa/,HUMR,,,2017-05-16,"Citizen Lab, ASL19",Categorized by O
 http://www.jonoubiran.com/,NEWS,,,2017-05-16,"Citizen Lab, ASL19",Categorized by OONI based on Google translate - requires review.
 http://www.juof7.com/,NEWS,,,2016-04-20,Citizen Lab,
 http://www.k1b1.com/,NEWS,,,2016-04-20,Citizen Lab,
-http://www.kajonline.ir/,MISC,,,2016-05-12,"Citizen Lab, berkman",
+http://www.kajonline.ir/,CULTR,,,2016-05-12,"Citizen Lab, berkman",
 http://www.kamalalipour.ir/,POLR,,,2017-05-16,"Citizen Lab, ASL19",Categorized by OONI based on Google translate - requires review.
 http://www.kazemjalali.com/,GOVT,,,2017-05-16,"Citizen Lab, ASL19",Categorized by OONI based on Google translate - requires review.
-https://www.khanacademy.org/,MISC,,,2017-05-16,"Citizen Lab, ASL19",
+https://www.khanacademy.org/,CULTR,,,2017-05-16,"Citizen Lab, ASL19",
 http://www.khanehamn.org/,HUMR,,,2017-05-16,"Citizen Lab, ASL19",Categorized by OONI based on Google translate - requires review.
 http://www.kharjhome.com/,NEWS,,,2016-04-20,Citizen Lab,
 http://www.khosoof.com/,CULTR,,,2017-05-16,"Citizen Lab, ASL19",Categorized by OONI based on Google translate - requires review.
@@ -736,7 +735,7 @@ http://www.nvidia.com/,HACK,,,2017-05-16,"Citizen Lab, ASL19",
 http://www.okaz.com.sa/,NEWS,,,2016-04-20,Citizen Lab,
 http://www.onaizatoday.com/,NEWS,,,2016-04-20,Citizen Lab,
 http://www.ostanban.com/,GAME,,,2017-05-16,"Citizen Lab, ASL19",Categorized by OONI based on Google translate - requires review.
-http://www.oswego.lib.il.us/,MISC,,,2016-04-20,Citizen Lab,
+http://www.oswego.lib.il.us/,CULTR,,,2016-04-20,Citizen Lab,
 http://www.parsegard.com/,PUBH,,,2017-05-16,"Citizen Lab, ASL19",Categorized by OONI based on Google translate - requires review.
 http://www.parsine.com/,NEWS,,,2017-05-16,"Citizen Lab, ASL19",Categorized by OONI based on Google translate - requires review.
 http://www.pcparsi.com/,CULTR,,,2017-05-16,"Citizen Lab, ASL19",Categorized by OONI based on Google translate - requires review.
@@ -750,7 +749,7 @@ http://www.qomefarda.ir/,NEWS,,,2017-05-16,"Citizen Lab, ASL19",Categorized by O
 http://www.radiohamrah.com/,NEWS,,,2017-05-16,"Citizen Lab, ASL19",Categorized by OONI based on Google translate - requires review.
 http://www.radiotooka.com/,NEWS,,,2017-05-16,"Citizen Lab, ASL19",Categorized by OONI based on Google translate - requires review.
 http://www.rafael.co.il/,GOVT,,,2016-04-20,Citizen Lab,
-http://www.ramla.muni.il/,MISC,,,2016-04-20,Citizen Lab,
+http://www.ramla.muni.il/,GOVT,,,2016-04-20,Citizen Lab,
 http://www.rangin-kaman.org/,HUMR,,,2017-05-16,"Citizen Lab, ASL19",Categorized by OONI based on Google translate - requires review.
 https://www.redhat.com/,HACK,,,2017-05-16,"Citizen Lab, ASL19",
 http://www.rezasabery.ir/,POLR,,,2017-05-16,"Citizen Lab, ASL19",Categorized by OONI based on Google translate - requires review.
@@ -775,7 +774,7 @@ http://www.solarwinds.com/,HACK,,,2017-05-16,"Citizen Lab, ASL19",
 http://www.soleimanabbasi.com/,POLR,,,2017-05-16,"Citizen Lab, ASL19",Categorized by OONI based on Google translate - requires review.
 http://www.spa.gov.sa/,NEWS,,,2016-04-20,Citizen Lab,
 https://www.spotify.com/ca-en/,CULTR,,,2017-05-16,"Citizen Lab, ASL19",
-http://www.sqlserver.co.il/,MISC,,,2016-04-20,Citizen Lab,
+http://www.sqlserver.co.il/,HACK,,,2016-04-20,Citizen Lab,
 http://www.taamolnews.ir/,NEWS,,,2017-05-16,"Citizen Lab, ASL19",Categorized by OONI based on Google translate - requires review.
 http://www.tadaneh.com/,CULTR,,,2017-05-16,"Citizen Lab, ASL19",Categorized by OONI based on Google translate - requires review.
 http://www.tadbirkhabar.com/,NEWS,,,2017-05-16,"Citizen Lab, ASL19",Categorized by OONI based on Google translate - requires review.
@@ -786,10 +785,10 @@ http://www.tase.co.il/eng/pages/homepage.aspx,COMM,,,2016-04-20,Citizen Lab,
 http://www.tooptarinha.com/,SRCH,,,2017-05-16,"Citizen Lab, ASL19",Categorized by OONI based on Google translate - requires review.
 http://www.topnaz.com/,NEWS,,,2017-05-16,"Citizen Lab, ASL19",Categorized by OONI based on Google translate - requires review.
 http://www.tourjan.com/,CULTR,,,2017-05-16,"Citizen Lab, ASL19",Categorized by OONI based on Google translate - requires review.
-http://www.urmia1400.ir/fa/,MISC,,,2017-05-16,"Citizen Lab, ASL19",Categorized by OONI based on Google translate - requires review.
+http://www.urmia1400.ir/fa/,CULTR,,,2017-05-16,"Citizen Lab, ASL19",Categorized by OONI based on Google translate - requires review.
 https://www.virustotal.com/,HACK,,,2017-05-16,"Citizen Lab, ASL19",
 http://www.voinews.net/,NEWS,,,2017-05-16,"Citizen Lab, ASL19",Categorized by OONI based on Google translate - requires review.
-http://www.vsquds.com/,MISC,,,2017-05-16,"Citizen Lab, ASL19",Categorized by OONI based on Google translate - requires review.
+http://www.vsquds.com/,MILX,,,2017-05-16,"Citizen Lab, ASL19",Categorized by OONI based on Google translate - requires review.
 http://www.webneveshteha.com/,POLR,,,2017-05-16,"Citizen Lab, ASL19",Categorized by OONI based on Google translate - requires review.
 http://www.ynbu.com/,NEWS,,,2016-04-20,Citizen Lab,
 https://www.yourprimer.com/,HACK,,,2017-05-16,"Citizen Lab, ASL19",
