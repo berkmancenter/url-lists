@@ -1,4 +1,7 @@
 url,category_code,subcategory_code,secondary_category_code,date_added,source,notes
+http://www.bbcpashto.com/,NEWS,,,2017-07-19,"Citizen Lab, BBC",
+http://www.bbc.com/persian,NEWS,,,2017-07-19,"Citizen Lab, BBC",
+http://www.bbcpersian.com/,NEWS,,,2017-07-19,"Citizen Lab, BBC",
 http://afghanistantimes.af/,NEWS,,,2017-08-18,"Citizen Lab, OONI",
 https://www.pajhwok.com/,NEWS,,,2017-08-18,"Citizen Lab, OONI",
 http://www.aopnews.com/,NEWS,,,2017-08-18,"Citizen Lab, OONI",
