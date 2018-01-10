@@ -2054,8 +2054,9 @@ https://extratorrent.cc/,FILE,,,2016-08-11,"Citizen Lab, sinarproject",Updated b
 https://www.fanfiction.net/,CULTR,,,2017-10-12,"Citizen Lab, sinarproject",
 https://ooni.torproject.org/,ANON,,,2017-05-31,"Citizen Lab, ADEF",blocked in Egypt as of 2017-05-31
 https://rarbg.to/index8.php,FILE,,,2016-08-11,"Citizen Lab, sinarproject",Updated by OONI on 2017-02-14
-https://sci-hub.ac/,FILE,,,2016-07-13,"Citizen Lab, David Fifield",Updated by OONI on 2017-02-14
-http://sci-hub.org/,FILE,,,2016-07-13,"Citizen Lab, David Fifield",Updated by OONI on 2017-02-14
+https://sci-hub.ac/,FILE,,,2016-07-13,"Citizen Lab, David Fifield",Updated by OONI on 2017-02-14; blocked as a result of court order 2017-11-17 https://www.theregister.co.uk/2017/11/23/scihubs_become_inactive_following_court_order/
+https://sci-hub.bz/,FILE,,,2017-11-23,"Citizen Lab, David Fifield",
+http://sci-hub.org/,FILE,,,2016-07-13,"Citizen Lab, David Fifield",Taken down by court order November 2015 https://torrentfreak.com/court-orders-shutdown-of-libgen-bookfi-and-sci-hub-151102/; updated by OONI on 2017-02-14
 https://tacticaltech.org/,HUMR,,,2017-02-17,"Citizen Lab, OONI",
 https://tails.boum.org/,ANON,,,2016-08-31,"Citizen Lab, sinarproject",Updated by OONI on 2017-02-14
 https://www.exploit-db.com/,HACK,,,2016-06-10,"Citizen Lab, OONI",Updated by OONI on 2017-02-14
