@@ -1,669 +1,1058 @@
-url,category_code,subcategory_code,secondary_category_code,date_added,source,notes
-http://www.pa-chouvy.org/,ALDR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://blogfa.com/,BLGSERV,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://blogsome.com/,BLGSERV,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://persianblog.com/,BLGSERV,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://music.download.com/,CLOUD,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.pol.com.pk/,CLOUD,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.power.com/Pub/Main.aspx?PowerSite=YOUTUBE&navPublic=true,CLOUD,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.videovat.com/,CLOUD,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://denypagetests.netsweeper.com/category/catno/1,COMM,NETSWEEPER,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://denypagetests.netsweeper.com/category/catno/10,COMM,NETSWEEPER,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://denypagetests.netsweeper.com/category/catno/11,COMM,NETSWEEPER,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://denypagetests.netsweeper.com/category/catno/12,COMM,NETSWEEPER,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://denypagetests.netsweeper.com/category/catno/13,COMM,NETSWEEPER,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://denypagetests.netsweeper.com/category/catno/14,COMM,NETSWEEPER,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://denypagetests.netsweeper.com/category/catno/15,COMM,NETSWEEPER,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://denypagetests.netsweeper.com/category/catno/16,COMM,NETSWEEPER,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://denypagetests.netsweeper.com/category/catno/166,COMM,NETSWEEPER,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://denypagetests.netsweeper.com/category/catno/17,COMM,NETSWEEPER,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://denypagetests.netsweeper.com/category/catno/18,COMM,NETSWEEPER,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://denypagetests.netsweeper.com/category/catno/19,COMM,NETSWEEPER,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://denypagetests.netsweeper.com/category/catno/2,COMM,NETSWEEPER,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://denypagetests.netsweeper.com/category/catno/20,COMM,NETSWEEPER,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://denypagetests.netsweeper.com/category/catno/22,COMM,NETSWEEPER,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://denypagetests.netsweeper.com/category/catno/230,COMM,NETSWEEPER,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://denypagetests.netsweeper.com/category/catno/24,COMM,NETSWEEPER,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://denypagetests.netsweeper.com/category/catno/243,COMM,NETSWEEPER,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://denypagetests.netsweeper.com/category/catno/244,COMM,NETSWEEPER,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://denypagetests.netsweeper.com/category/catno/245,COMM,NETSWEEPER,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://denypagetests.netsweeper.com/category/catno/246,COMM,NETSWEEPER,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://denypagetests.netsweeper.com/category/catno/247,COMM,NETSWEEPER,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://denypagetests.netsweeper.com/category/catno/248,COMM,NETSWEEPER,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://denypagetests.netsweeper.com/category/catno/249,COMM,NETSWEEPER,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://denypagetests.netsweeper.com/category/catno/25,COMM,NETSWEEPER,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://denypagetests.netsweeper.com/category/catno/250,COMM,NETSWEEPER,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://denypagetests.netsweeper.com/category/catno/252,COMM,NETSWEEPER,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://denypagetests.netsweeper.com/category/catno/253,COMM,NETSWEEPER,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://denypagetests.netsweeper.com/category/catno/254,COMM,NETSWEEPER,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://denypagetests.netsweeper.com/category/catno/28,COMM,NETSWEEPER,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://denypagetests.netsweeper.com/category/catno/29,COMM,NETSWEEPER,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://denypagetests.netsweeper.com/category/catno/3,COMM,NETSWEEPER,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://denypagetests.netsweeper.com/category/catno/30,COMM,NETSWEEPER,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://denypagetests.netsweeper.com/category/catno/31,COMM,NETSWEEPER,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://denypagetests.netsweeper.com/category/catno/33,COMM,NETSWEEPER,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://denypagetests.netsweeper.com/category/catno/34,COMM,NETSWEEPER,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://denypagetests.netsweeper.com/category/catno/35,COMM,NETSWEEPER,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://denypagetests.netsweeper.com/category/catno/36,COMM,NETSWEEPER,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://denypagetests.netsweeper.com/category/catno/37,COMM,NETSWEEPER,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://denypagetests.netsweeper.com/category/catno/39,COMM,NETSWEEPER,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://denypagetests.netsweeper.com/category/catno/4,COMM,NETSWEEPER,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://denypagetests.netsweeper.com/category/catno/40,COMM,NETSWEEPER,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://denypagetests.netsweeper.com/category/catno/41,COMM,NETSWEEPER,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://denypagetests.netsweeper.com/category/catno/42,COMM,NETSWEEPER,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://denypagetests.netsweeper.com/category/catno/43,COMM,NETSWEEPER,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://denypagetests.netsweeper.com/category/catno/44,COMM,NETSWEEPER,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://denypagetests.netsweeper.com/category/catno/45,COMM,NETSWEEPER,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://denypagetests.netsweeper.com/category/catno/47,COMM,NETSWEEPER,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://denypagetests.netsweeper.com/category/catno/48,COMM,NETSWEEPER,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://denypagetests.netsweeper.com/category/catno/49,COMM,NETSWEEPER,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://denypagetests.netsweeper.com/category/catno/5,COMM,NETSWEEPER,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://denypagetests.netsweeper.com/category/catno/50,COMM,NETSWEEPER,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://denypagetests.netsweeper.com/category/catno/51,COMM,NETSWEEPER,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://denypagetests.netsweeper.com/category/catno/53,COMM,NETSWEEPER,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://denypagetests.netsweeper.com/category/catno/54,COMM,NETSWEEPER,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://denypagetests.netsweeper.com/category/catno/6,COMM,NETSWEEPER,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://denypagetests.netsweeper.com/category/catno/8,COMM,NETSWEEPER,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://denypagetests.netsweeper.com/category/catno/9,COMM,NETSWEEPER,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.xroxy.com/,COMM,,,2016-05-02,Berkman Klein,
-https://www.tohfay.com/,COMM,,,2016-06-09,"Berkman Klein, Bolo Bhi",
-http://denypagetests.netsweeper.com/category/catno/160,COMM,NETSWEEPER,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://denypagetests.netsweeper.com/category/catno/170,COMM,NETSWEEPER,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://denypagetests.netsweeper.com/category/catno/21,COMM,NETSWEEPER,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://denypagetests.netsweeper.com/category/catno/23,COMM,NETSWEEPER,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://denypagetests.netsweeper.com/category/catno/26,COMM,NETSWEEPER,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://denypagetests.netsweeper.com/category/catno/27,COMM,NETSWEEPER,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://denypagetests.netsweeper.com/category/catno/32,COMM,NETSWEEPER,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://denypagetests.netsweeper.com/category/catno/7,COMM,NETSWEEPER,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.epakistan.com/,EMAIL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.inbox.com.pk/,EMAIL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.npr.org/templates/story/story.php?sourceCode=gaw&storyId=4954200,ENV,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.pakquake.com/,ENV,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.peemac.sdnpk.org/,ENV,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.yespakistan.com/,ENV,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.yespakistan.com/forpakistan/fightpollution.asp,ENV,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://atlasshrugs2000.typepad.com/atlas_shrugs/oic_oppresion_and_submission/,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://balouch.blogspot.com/,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://batster.wordpress.com/,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://caosblog.com/archives/19779,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://cryptome.org/muhammad.htm,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://daily.urdupoint.com/,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://deadpanthoughts.com/,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://discomaulvi.wordpress.com/,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://en.wikipedia.org/wiki/Freedom_of_speech_versus_blasphemy,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://europenews.dk/en/node/32286,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://farihaakhtar.blogsome.com/,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://help-pakistan.com/,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://help-pakistan.com/main/dont-block-the-blog/,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://hrw.org/,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://ibnlive.in.com/,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://ironicsurrealism.blogivists.com/2010/03/09/ireland-seven-arrested-over-plot-to-kill-lars-vilks-artist-of-mo-dog-cartoons/,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://ironicsurrealism.blogivists.com/2010/04/25/the-first-annual-everybody-draw-mohammed-day-because-above-all-muhammed-cannot-stand-to-be-mocked/,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://jang.com.pk/,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://jonathanturley.org/2010/04/25/seattle-cartoonist-declares-may-20th-as-everybody-draw-mohammed-day/,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://karachi.metblogs.com/,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://mackers-world.com/index.php/weblog/C36/,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://mahafreed.com/,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://metblogs.com/,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://michellemalkin.com/,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://ming.tv/flemming2.php/__show_article/_a000010-001623.htm,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://motherjones.com/mojo/2010/04/south-park-censorship-comedy-central-muhammad-mohammed-cartoon-trey-stone-matt-parker,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://naveenaqvi.com/,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://nawaiwaqt.com.pk/,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://pakistaniat.com/,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://pakistaniat.wordpress.com/,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://pakteahouse.wordpress.com/,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://perso.orange.fr/,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://pfuj.pk/,FEXP,,,2016-06-09,"Berkman Klein, Bolo Bhi",
-http://politifi.com/news/May-20-1st-International-Everybody-Draw-Mohammad-Day-585518.html,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://rantwraith.blogspot.com/2006/01/hellfire-muhammad.html,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://rollingstone.com/,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://sanasaleem.com/,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://seasonsoftumultanddiscord.wordpress.com/2010/05/18/two-days-to-draw-muhammad-day/,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://seattlest.com/2010/04/27/seattle_cartoonists_everybody_draw.php,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://teeth.com.pk/blog/,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://tylzen.com/?p=353,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://ultaseedha.com.pk/,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.abovetopsecret.com/forum/thread564561/pg1,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.alan.com/2010/04/25/seattle-cartoonist-pegs-may-20th-as-everybody-draw-muhammed-day/,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.alqamaronline.com/,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.amn.com.pk/,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.asaappublications.com/,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.awamiawaz.com/,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.dailybruin.com/articles/2010/5/17/flawed-interpretation-koran-results-overreactions-/,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.expressindia.com/,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.flickr.com/photos/chris-fritz/106103350/,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.foxnews.com/scitech/2010/05/19/facebook-fracas-breaks-everybody-draw-mohammad-day/?test=latestnews,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.freerepublic.com/focus/news/2499803/posts,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.freerepublic.com/focus/news/2499958/posts,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.globalvoicesonline.org/-/world/south-asia/pakistan/,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.hinduonnet.com/,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.hindustantimes.com/,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.indee.info/BRIEFS/06/03MAR/03mar01-18.html,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.internationalfreepresssociety.org/,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.jang.com.pk/,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.jasarat.com/,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.jihadwatch.org/,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.keralanext.com/,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.khabrain.com/,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.loonwatch.com/2010/04/creators-of-everybody-draw-muhammad-day-appalled-by-hate/,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.mahalo.com/muhammad-cartoons,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.millat.com/,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.mollynorris.com/,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.mynorthwest.com/?nid=11&sid=313170,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.mynorthwest.com/category/local_news_articles/20100518/'Everbody-Draw-Mohammed'-cartoonist:-I'm-against-my-own-concept-becoming-a-reality/,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.newsrealblog.com/2010/04/24/twog-link-of-the-day-is-everybody-draw-mohammed-day-a-bad-idea/,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.pakistanpressfoundation.org/,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.pamil-visions.net/kurt-westergaard/210080/,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.panunkashmir.org/,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.petitiononline.com/,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.pkblogs.com/,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.pro-pakistan.com/,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.readbee.com/,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.samizdata.net/blog/archives/2005/12/the_satanic_cartoons.html,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.sizzledcore.com/2010/05/20/how-to-access-facebook-in-pakistan-uae-saudi-arabia-iran/,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.skepticmoney.com/students-at-university-of-madison-wisconson-draw-muhammad/,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.sodahead.com/united-states/seattle-cartoonist-launches-everybody-draw-mohammed-day-you-in/question-984209/,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.spider.tm/,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.supportfreedomofspeech.com/hyphenated-american-dont-miss-everybody-draw-muhammad-day/,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.tanqeed.org/,FEXP,,,2016-05-02,"Berkman Klein, Bolo Bhi",
-http://www.teabreak.pk/,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.voanews.com/persian/News-and-Views.cfm,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.youtube.com/watch?v=37w-aXGk8M0,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.youtube.com/watch?feature=related&v=_rMxV6zKnoE,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.youtube.com/watch?v=_TcNWY0E-PA,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.youtube.com/watch?v=0BP_xW29kCU,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.youtube.com/watch?feature=related&v=0T9UhBhTl9Q,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.youtube.com/watch?feature=fvst&v=1Wu5e50zrPA,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.youtube.com/watch?feature=related&v=20J-lRFRPkQ,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.youtube.com/watch?feature=related&v=2L2ouAN770U,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.youtube.com/watch?feature=related&v=2ojYJNlRI6Y,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.youtube.com/watch?v=3PCIeh1DOnk,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.youtube.com/watch?v=3sD-1-1sbik,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.youtube.com/watch?feature=related&v=43LMQXYhyt0,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.youtube.com/watch?v=a4yfG5dAZdU,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.youtube.com/watch?feature=related&v=AMRaxkgCUfI,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.youtube.com/watch?feature=related&v=hKJtedW9KN4,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.youtube.com/watch?v=KlYLKf4q2rg,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.youtube.com/watch?feature=related&v=KrS3QplTys0,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.youtube.com/watch?feature=related&v=Ky0wT4Jd0Sk,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.youtube.com/watch?feature=related&skipcontrinter=1&v=l0q25HXyfM0,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.youtube.com/watch?feature=related&v=LyKdYTzMqWo,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.youtube.com/watch?v=MGuSK2hVukA,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.youtube.com/watch?feature=related&v=nycuLpw0VV8,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.youtube.com/watch?v=OdxG_WdYBj4,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.youtube.com/watch?v=OMz0aIM2_sM,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.youtube.com/watch?v=pDrti5T93T8,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.youtube.com/watch?feature=related&v=rPOWhYp5MTw,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.youtube.com/watch?feature=related&v=s5rpstly394,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.youtube.com/watch?NR=1&v=s5rPSTLy394,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.youtube.com/watch?v=WRxijt8dqEA,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.youtube.com/watch?v=XJMlgmwHN9E,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.youtube.com/watch?v=z7ok4njJXI8,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.youtube.com/watch?feature=related&v=Zsv1SToU1xo,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.youtube.com/watch?vo3s8jtvvg00,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.zimbio.com/War+on+Terrorism/articles/6NAIGjWobep/WASHINGTON+POST+Seattle+cartoonist+Molly+Norris,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.zmong-afghanistan.com/,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.zombietime.com/,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://zombietime.com/,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-https://news.vice.com/article/we-are-suffering-genocide-at-the-hands-of-pakistan-an-interview-with-blf-commander-allah-nazar,FEXP,,,2016-06-09,"Berkman Klein, Bolo Bhi",
-https://www.article19.org/,FEXP,,,2016-05-02,"Berkman Klein, Bolo Bhi",
-https://www.facebook.com/Pakistan-film-tv-journalist-welfare-association-102642103127835/,FEXP,,,2016-06-09,"Berkman Klein, Bolo Bhi",
-http://artsyhands.com/2010/05/access-facebook-blocked-pakistan/,FEXP,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://aipsg.blogspot.com/,FREL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://armedforces.nic.in/,FREL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://balochwarna.com/2015/08/30/pakistan-is-committing-heinous-crimes-against-humanity-in-balochistan-hyrbyair-marri/,FREL,,,2016-06-09,"Berkman Klein, Bolo Bhi",
-http://bdnews24.com/bangladesh/2016/05/11/war-crimes-charges-against-pro-pakistan-militia-commander-nizami-who-headed-bangladesh-jamaat,FREL,,,2016-06-09,"Berkman Klein, Bolo Bhi",
-http://disarm.igc.org/,FREL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://disquietreservations.blogspot.com/2016/04/the-crimes-of-pakistan-against.html,FREL,,,2016-06-09,"Berkman Klein, Bolo Bhi",
-http://ibrahimsajidmalick.com/?p=550,FREL,,,2016-06-09,"Berkman Klein, Bolo Bhi",
-http://kashmir-truth-be-told.blogspot.com/,FREL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://m.facedl.com/fvideo=okakonnakuoxkow,FREL,,,2016-06-09,"Berkman Klein, Bolo Bhi",
-http://newagebd.net/61274/war-crimes-of-195-pak-army-men/,FREL,,,2016-06-09,"Berkman Klein, Bolo Bhi",
-http://tuckmagazine.com/2015/12/18/bangladesh-to-try-195-pakistan-army-personnel-for-1971-war-crimes/,FREL,,,2016-06-09,"Berkman Klein, Bolo Bhi",
-http://voiceofambition.com/,FREL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.cdi.org/,FREL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.cdi.org/issues/testing/pak1.html,FREL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.clickittefaq.com/pakistani-soldiers-accused-war-crimes-tried-needed-al-leader/,FREL,,,2016-06-09,"Berkman Klein, Bolo Bhi",
-http://www.daily-sun.com/post/111237/List-of-201-Pakistani-army-war-criminals-revealed,FREL,,,2016-06-09,"Berkman Klein, Bolo Bhi",
-http://www.fas.org/,FREL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.fas.org/news/indopak.htm,FREL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.genocidebangladesh.org/,FREL,,,2016-06-09,"Berkman Klein, Bolo Bhi",
-http://www.geocities.com/CapitolHill/Lobby/8216/,FREL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.greaterkashmir.com/,FREL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.hindurashtra.org/,FREL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.hizb.org.uk/,FREL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.hungamahub.com/video/dfAORZlj0Lk/pakistan-army-has-committed-war-crimes-in-kashmir-and-balochistan-tarek-fatah.html,FREL,,,2016-06-09,"Berkman Klein, Bolo Bhi",
-http://www.indianembassy.org/,FREL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.indiapakistan.com/,FREL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.jammu-kashmir.com/,FREL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.kashmir-information.com/,FREL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.kean.edu/~bgsg/Conference09/Papers_and_Presentations/Anis%20Ahmed_Paper_OperationSearchlight.pdf,FREL,,,2016-06-09,"Berkman Klein, Bolo Bhi",
-http://www.khilafat.org/newPages/Books/Resources/Hizb-ut-Tahrir.pdf?PHPSESSID=769892523764e96ed43cd68d25949985,FREL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.klc.org.pk/,FREL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.liveleak.com/view?i=3aa_1431629060,FREL,,,2016-06-09,"Berkman Klein, Bolo Bhi",
-http://www.nci.org/,FREL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.nci.org/ind-pak.htm,FREL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.pakistan-facts.com/,FREL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.pkchill.com/watch/Vo7Y-DBBypU/pakistan-armys-war-crimes-in-bangladesh-p12.html,FREL,,,2016-06-09,"Berkman Klein, Bolo Bhi",
-http://www.pppindia.com/,FREL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.rferl.org/featuresarticle/2006/6/534985E6-A8B1-4A1B-B55E-700B3AB246B2.html,FREL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-https://aacounterterror.wordpress.com/2010/09/20/forsaken-crimes-of-pakistan-army/,FREL,,,2016-06-09,"Berkman Klein, Bolo Bhi",
-https://en.wikipedia.org/wiki/1971_Bangladesh_genocide,FREL,,,2016-06-09,"Berkman Klein, Bolo Bhi",
-https://en.wikipedia.org/wiki/Rape_during_the_Bangladesh_Liberation_War,FREL,,,2016-06-09,"Berkman Klein, Bolo Bhi",
-https://tune.pk/video/2386940/pakistan-army-war-crimes-on-the-pashtuns-of-waziristan,FREL,,,2016-06-09,"Berkman Klein, Bolo Bhi",
-https://tune.pk/video/4339060/pakistan-army-war-crimes-in-bangladesh-p12,FREL,,,2016-06-09,"Berkman Klein, Bolo Bhi",
-https://www.change.org/p/urgent-petition-stop-pakistan-army-s-crimes-against-humanity,FREL,,,2016-06-09,"Berkman Klein, Bolo Bhi",
-https://www.facebook.com/Jenaytkaran/videos/348537801914993/,FREL,,,2016-06-09,"Berkman Klein, Bolo Bhi",
-http://queer.pk/,GAYL,,,2016-05-02,"Berkman Klein, Bolo Bhi",
-http://www.aool.blogspot.com/,GAYL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.gayguide.net/,GAYL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.gayguide.net/Asia/Pakistan/,GAYL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.gaypakistanweb.com/,GAYL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.globalgayz.com/,GAYL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.jamaat.org/qa/homo.html,GAYL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-https://en.wikipedia.org/wiki/LGBT_rights_in_Pakistan,GAYL,,,2016-06-09,"Berkman Klein, Bolo Bhi",
-https://www.onlylads.com/profiles/PK/,GAYL,,,2016-06-09,"Berkman Klein, Bolo Bhi",
-http://sportsbetting.net.in/pakistan/,GMB,,,2016-06-09,"Berkman Klein, Bolo Bhi",
-http://www.pakistansportsbetting.com/,GMB,,,2016-06-09,"Berkman Klein, Bolo Bhi",
-http://www.rubyfortune.com/en/,GMB,,,2016-06-09,"Berkman Klein, Bolo Bhi",
-http://www.skybet.com/,GMB,,,2016-05-02,"Berkman Klein, Citizen Lab",
-https://onlinebetting.com.pk/,GMB,,,2016-06-09,"Berkman Klein, Bolo Bhi",
-https://onlinecasino.com.pk/visit/SpinPalace/,GMB,,,2016-06-09,"Berkman Klein, Bolo Bhi",
-https://www.winner.com/,GMB,,,2016-06-09,"Berkman Klein, Bolo Bhi",
-http://allama-mashriqi.8m.com/,HAL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://en.wikipedia.org/wiki/File:Jyllands-Posten-pg3-article-in-Sept-30-2005-edition-of-KulturWeekend-entitled-Muhammeds-ansigt.png,HAL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://members.tripod.com/~PAKSTAR/qadir.htm,HAL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://saberpoint.blogspot.com/,HAL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.bollywoodworld.com/,HAL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.cacah.org/,HAL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.di2.nu/files/Muhammed_Cartoons_Jyllands_Posten.html,HAL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.google.com.pk/images?aq=f&aqi=&aql=&client=firefox-a&gbv=2&gs_rfai=&hl=en&oq=&q=muhammad&rls=org.mozilla:en-US:official&source=imghp,HAL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.google.com.pk/images?aq=f&aqi=g6g-m4&aql=&gbv=2&gs_rfai=&hl=en&oq=&q=muhammad+cartoon&sa=1&start=0&tbs=isch:1,HAL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.google.com.pk/images?hl=en&ie=UTF-8&q=muhammad%20draw&rlz=1R2ADFA_enPK370&sa=N&source=og&tab=wi&um=1,HAL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.google.com.pk/images?ct=title&ei=JkP0S5HIK5Cj_AbLvoGhDQ&hl=en&ie=UTF-8&oi=image_result_group&q=muhammad+cartoon&resnum=0&resnum=1&revid=1296971284&sa=X&source=univ&um=1&ved=0CCUQsAQwAA,HAL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.google.com.pk/images?client=firefox-a&hl=en&ie=UTF-8&oe=utf-8&q=mohhammad%20day%20pics&rls=org.mozilla:en-US:official&sa=N&source=og&tab=wi&um=1,HAL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.google.com.pk/images?aq=f&aqi=&aql=&gs_rfai=&hl=en&oq=&q=everybody+draw&rlz=1R2ADFA_enPK370&sa=1&tbs=isch:1&um=1,HAL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.google.com.pk/images?aq=o&aqi=&aql=&gs_rfai=&hl=en&oq=&q=first+annual+draw&rlz=1R2ADFA_enPK370&sa=1&tbs=isch:1&um=1,HAL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.google.com.pk/images?aq=f&aqi=&aql=&gs_rfai=&hl=en&oq=&q=muhammad+day&rlz=1R2ADFA_enPK370&sa=1&tbs=isch:1&um=1,HAL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.google.com.pk/images?aq=f&aqi=&aql=&gs_rfai=&hl=en&oq=&q=muhammed+draw&rlz=1R2ADFA_enPK370&sa=1&tbs=isch:1&um=1,HAL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.google.com.pk/images?aq=f&aqi=&aql=&gs_rfai=&hl=en&oq=&q=muhammed+draw+day&rlz=1R2ADFA_enPK370&sa=1&tbs=isch:1&um=1,HAL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.google.com.pk/images?aq=f&aqi=&aql=&gs_rfai=&hl=en&oq=&q=seatle+cartoonist&rlz=1R2ADFA_enPK370&sa=1&tbs=isch:1&um=1,HAL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.google.com.pk/search?ct=title&ei=2-_0S77VIcXE-QbCgv3NCA&hl=en&oi=video_result_group&prmd=nvl&q=draw+muhammad+day&resnum=7&sa=X&source=univ&tbo=u&tbs=vid:1&ved=0CDcQqwQwBg,HAL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.loveurdu.com/,HAL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://yesbuthowever.com/draw-mohammed-9000008/,HAL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://sheikyermami.com/2007/09/11/new-sheik-yer-mami-songs/,HATE,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.apnakarachi.com/,HOST,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.kalpoint.com/,HOST,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.paklinks.com/,HOST,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://hrcp-web.org/hrcpweb/,HUMR,,,2016-06-09,"Berkman Klein, Bolo Bhi",
-http://hrw.org/doc/?c=pakist&t=asia,HUMR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://pihro.org/,HUMR,,,2016-06-09,"Berkman Klein, Bolo Bhi",
-http://psjg.bizcue.com/,HUMR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://tsapakistan.com/,HUMR,,,2016-06-09,"Berkman Klein, Bolo Bhi",
-http://web.amnesty.org/report2003/pak-summary-eng,HUMR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.actionaid.org/pakistan/,HUMR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.ahrchk.net/,HUMR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.amnestyusa.org/countries/pakistan/summary.do,HUMR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.fhrp.org/index.php,HUMR,,,2016-06-09,"Berkman Klein, Bolo Bhi",
-http://www.globalmarch.org/,HUMR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.globalmarch.org/resourcecentre/world/pakistan.pdf,HUMR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.hrcp-web.org/,HUMR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.insaaf.org.pk/,HUMR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.irinnews.org/,HUMR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.irinnews.org/report.asp?ReportID=46698&SelectRegion=Asia,HUMR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.pcswhr.com/,HUMR,,,2016-06-09,"Berkman Klein, Bolo Bhi",
-http://www.piphro.org/,HUMR,,,2016-06-09,"Berkman Klein, Bolo Bhi",
-http://www.rosehumanrights.org/,HUMR,,,2016-06-09,"Berkman Klein, Bolo Bhi",
-http://www.safhr.org/,HUMR,,,2016-06-09,"Berkman Klein, Bolo Bhi",
-http://www.sharp-pakistan.org/,HUMR,,,2016-06-09,"Berkman Klein, Bolo Bhi",
-http://www.sparcpk.org/,HUMR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.sparcpk.org/CRs-CRs%20in%20Pakistan.htm,HUMR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.state.gov/g/drl/rls/hrrpt/2004/41743.htm,HUMR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.whrnet.org/fundamentalisms/docs/issue-pakistan-0606.html,HUMR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-https://www.facebook.com/FreedoMovement.Official,HUMR,,,2016-06-09,"Berkman Klein, Bolo Bhi",
-https://www.facebook.com/pakistancarefoundation,HUMR,,,2016-06-09,"Berkman Klein, Bolo Bhi",
-http://afghanreality.blogspot.com/,MILX,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://islamic-world.net/,MILX,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://islamic-world.net/youth/jihadafghanistan.htm,MILX,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://jamatdawa.org/,MILX,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.jusonenews.com/,MILX,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.kavkazcenter.com/,MILX,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.khilafat.org/,MILX,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.muslimedia.com/,MILX,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.pakistan-facts.com/article.php?story=20030729154610902,MILX,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.rssonnet.org/,MILX,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.satp.org/satporgtp/countries/pakistan/terroristoutfits/Ssp.htm,MILX,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.theunjustmedia.com/,MILX,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.worldsindhicongress.org/,MILX,,,2016-05-02,"Berkman Klein, Citizen Lab",
-https://thebnm.wordpress.com/,MILX,,,2016-06-09,"Berkman Klein, Bolo Bhi",
-https://twitter.com/bnmovement_,MILX,,,2016-06-09,"Berkman Klein, Bolo Bhi",
-https://twitter.com/sipahesahaba,MILX,,,2016-05-02,"Berkman Klein, Citizen Lab",
-https://twitter.com/tehreeketaliban,MILX,,,2016-05-02,"Berkman Klein, Citizen Lab",
-https://www.facebook.com/AntiPakistan/,MILX,,,2016-06-09,"Berkman Klein, Bolo Bhi",
-https://www.facebook.com/Baloch-National-Movement-BNM-289874606326/,MILX,,,2016-06-09,"Berkman Klein, Bolo Bhi",
-http://balochestan.com/,MINR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://balochwarna.com/,MINR,,,2016-06-09,"Berkman Klein, Bolo Bhi",
-http://balochwarna.org/,MINR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://christiandevelopmentpakistan.org/,MINR,,,2016-06-09,"Berkman Klein, Bolo Bhi",
-http://dochebaloch.persianblog.com/,MINR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://governmentofbalochistan.blogspot.com/,MINR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://groups.msn.com/Balochvoice/balochvoicewelcomesyou.msnw,MINR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://hometown.aol.com/pakhtun/,MINR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://ngaran.blogfa.com/,MINR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://oldmanclub.persianblog.com/,MINR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://pknewspaper.com/daily-baloch-news,MINR,,,2016-06-09,"Berkman Klein, Bolo Bhi",
-http://pub19.bravenet.com/,MINR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://sindh.tk/,MINR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://snfsindh.netfirms.com/,MINR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://thebalochistanpoint.com/,MINR,,,2016-06-09,"Berkman Klein, Bolo Bhi",
-http://www.aimislam.com/,MINR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.al-shia.com/,MINR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.bachakhan.8k.com/,MINR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.baloch2000.org/,MINR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.balochclub.com/,MINR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.balochfront.com/,MINR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.balochhal.com/,MINR,,,2016-06-09,"Berkman Klein, Bolo Bhi",
-http://www.balochistaninfo.com/,MINR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.balochistaninfo.com/balochanitawar/,MINR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.balochmedia.net/,MINR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.balochonline.com/en/,MINR,,,2016-06-09,"Berkman Klein, Bolo Bhi",
-http://www.balochpeople.org/,MINR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.balochtawar.net/,MINR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.balochunitedfront.org/,MINR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.balochunityconference.org/,MINR,,,2016-06-09,"Berkman Klein, Bolo Bhi",
-http://www.bso-na.org/,MINR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.eurobaluchi.com/,MINR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.freesindh.org/,MINR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.geocities.com/khyber007/,MINR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.geocities.com/loyeafghanistan/,MINR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.geocities.com/rodeodrive/1955/sindhi.html,MINR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.geocities.com/saslarkana/,MINR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.geocities.com/toolandai/,MINR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.geocities.com/turlandi2000/index.html,MINR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.geocities.com/yawpukhtun/,MINR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.groups.yahoo.com/,MINR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.groups.yahoo.com/group/pakhtu,MINR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.gwkhan.20m.com/,MINR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.hazara.net/,MINR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.hewad.net/,MINR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.hinduhumanrights.org/,MINR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.ict.org.il/inter_ter/orgdet.cfm?orgid=57,MINR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.khyber.org/,MINR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.khyberbazar.com/,MINR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.khyberwatch.com/,MINR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.kitabtoon.com/,MINR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.mastana.net/,MINR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.mqm.com/,MINR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.musafar.com/,MINR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.onejerusalem.com/2005/12/26/draw-mohammed-and-win-a-scholarship-to-the-art-college-of-your-choice/,MINR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.ostomaan.org/,MINR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.pakhtun.com/,MINR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.pakhtunistan.com/,MINR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.pashto.org/,MINR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.pashtunistan.8k.com/,MINR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.payambaloch.persianblog.com/,MINR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.pukhtunistan.4t.com/,MINR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.qtatribune.com/,MINR,,,2016-05-02,"Berkman Klein, Bolo Bhi",
-http://www.radiobalochi.org/,MINR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.rahimjaandehvari.blogfa.com/,MINR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.religioustolerance.org/rt_pakis.htm,MINR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.sabawoon.com/,MINR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.sanabaloch.com/,MINR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.sanalist.org/,MINR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.sarbaaz.com/,MINR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.savetheshias.org/shia-genocide/,MINR,,,2016-05-02,"Berkman Klein, Bolo Bhi",
-http://www.shiacode.com/,MINR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.sindhi.org/,MINR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.sindhishaan.com/,MINR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.sindhitrade.com/,MINR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.sindhtoday.net/,MINR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.thehujra.com/,MINR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.wahdatdaily.com/,MINR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.worldsindhi.org/,MINR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.youngsindhiadults.org/,MINR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.zmong-afghanistan.com/pakhtunistan_dispute.asp,MINR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.zrombesh.org/,MINR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-https://baluchsarmachar.wordpress.com/,MINR,,,2016-06-09,"Berkman Klein, Bolo Bhi",
-https://baluchsarmachar.wordpress.com/tag/baloch-national-movement/,MINR,,,2016-06-09,"Berkman Klein, Bolo Bhi",
-https://www.facebook.com/Baloch.Slogan/,MINR,,,2016-06-09,"Berkman Klein, Bolo Bhi",
-https://www.facebook.com/BaluchWarna/,MINR,,,2016-06-09,"Berkman Klein, Bolo Bhi",
-http://www.makeuseof.com/,MISC,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.nntimes.com/,MISC,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.pumashoes.com/,MISC,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.smugbox.com/facebook/login/stories?id=226,MISC,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.susycaravan.com/,MISC,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.balochvoice.com/,NEWS,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.balochvoice.net/,NEWS,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.balochwarna.com/,NEWS,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.bbc.co.uk/urdu/,NEWS,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.dailyausaf.com/,NEWS,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.dailypak.com/,NEWS,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.dawn.com/,NEWS,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.frontierpost.com/,NEWS,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.live365.com/,NEWS,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.outlookindia.com/,NEWS,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.pakistaneconomist.com/,NEWS,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.rferl.org/,NEWS,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.rsf.org/article.php3?id_article=17358,NEWS,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.sahilonline.org/,NEWS,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.sahilonline.org/urdu/,NEWS,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.thebalochhal.com/,NEWS,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.thenews.com.pk/,NEWS,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.torontosun.com/,NEWS,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.extratorrent.com/,P2P,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.isohunt.com/,P2P,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.kickasstorrents.com/,P2P,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.sumotorrent.com/,P2P,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.torrentdownloads.net/,P2P,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.torrentreactor.net/,P2P,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.torrentz.com/,P2P,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://forum.detik.com/showthread.php?p=10423116,PLATFORM,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://onision.net/index.php?/topic/6843-first-annual-draw-muhammad-day-d/,PLATFORM,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://wapedia.mobi/en/,PLATFORM,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.711chan.org/i/,PLATFORM,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.democraticunderground.com/discuss/duboard.php?address=389x8208802&az=view_all,PLATFORM,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.en.wikipedia.org/wiki/muhammad,PLATFORM,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.internationalfreepresssociety.org/2010/04/seattle-cartoonist-launches-everybody-draw-mohammed-day/,PLATFORM,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.lemonbits.net/,PLATFORM,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.libertiesalliance.org/2010/04/24/%E2%80%9Ceverybody-draw-mohammed-day%E2%80%9D-%E2%80%93-20-may-2010-join-in-and-protect-freedom-of-expression/,PLATFORM,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.meetup.com/BrisbaneAtheists/messages/boards/thread/9078207/post/35583098/?hash=35583098#35583098,PLATFORM,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.secularstudents.org/drawingtheprophet,PLATFORM,,,2016-05-02,"Berkman Klein, Citizen Lab",
-https://www.instagram.com/,PLATFORM,,,2016-06-09,"Berkman Klein, Bolo Bhi",
-https://www.pinterest.com/,PLATFORM,,,2016-06-09,"Berkman Klein, Bolo Bhi",
-http://www.bharat-rakshak.com/,POLT,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.bharat-rakshak.com/MONITOR/ISSUE5-6/arya.html,POLT,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.nationalpolicyinstitute.org/2010/04/25/seattle-cartoonist-launches-everybody-draw-mohammed-day/,POLT,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.transparency.org.pk/,POLT,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://islam.islamabad.net/,POLT,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.anp.org.pk/,POLT,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.freedomgatepakistan.org/,POLT,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.insaf.org.pk/,POLT,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.jamaat.org/,POLT,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.jamiat.org.pk/,POLT,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.jamiattalibat.org/,POLT,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.karachijamaat.org/,POLT,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.na.gov.pk/en/index.php,POLT,,,2016-05-02,"Berkman Klein, Bolo Bhi",
-http://www.pat.com.pk/,POLT,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.petitiononline.com/jh011406/petition.html,POLT,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.pmln.org.pk/,POLT,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.ppp.org.pk/,POLT,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.saag.org/,POLT,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.senate.gov.pk/en/index.php?cattitle=Home&id=-1,POLT,,,2016-05-02,"Berkman Klein, Bolo Bhi",
-http://www.tanzeem.org/,POLT,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://avianflu.futurehs.com/,PUBH,,,2016-05-02,"Berkman Klein, Citizen Lab",
-"http://web.worldbank.org/WBSITE/EXTERNAL/COUNTRIES/SOUTHASIAEXT/EXTSAREGTOPHEANUT/EXTSAREGTOPHIVAIDS/0,,contentMDK:20287584~menuPK:568879~pagePK:34004173~piPK:34003707~theSitePK:496967,00.html",PUBH,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.who.int/countries/pak/en/,PUBH,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.youandaids.org/Asia%20Pacific%20at%20a%20Glance/Pakistan/index.asp,PUBH,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://1001how2.com/how-to-draw-muhammad-idiots-guide/,REL,,,2017-01-24,Berkman Klein,
-http://creepingsharia.wordpress.com/2010/04/26/cartoonist-behind-everybody-draw-mohammed-day-poster-getting-nervous/,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://dailycaller.com/2010/04/24/may-20-is-everybody-draw-muhammad-day/,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://dailyradar.com/beltwayblips/story/first-annual-everybody-draw-mohammad-day/,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://dreamdogsart.typepad.com/art/2010/05/lars-vilks-muhammad-cartoon-dog-artist-attacked.html,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://en.wikipedia.org/wiki/Everybody_Draw_Mohammed_Day,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://guyism.com/2010/04/creator-of-everybody-draw-muhammad-day-wont-draw-muhammad.html,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://rawstory.com/rs/2010/0424/seattle-cartoonist-promotes-everybody-draw-mohammed-day/,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://reason.com/blog/2010/04/23/first-annual-everybody-draw-mo,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://reason.com/blog/2010/05/17/the-deadline-is-nigh-for-every,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://reason.com/blog/2010/05/18/get-ready-for-everyone-draw-mo,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://twitter.com/MuhammadtheProp,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://twitter.com/ProphetMuhammad,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://unforeseencontingencies.blogspot.com/2006/02/blasphemous-pictures.html,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://voices.washingtonpost.com/comic-riffs/2010/05/muhammad_cartoonist_lars_vilks.html,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.buzzfeed.com/robertlangdon/the-prophet-muhammad-in-a-bear-suit-express-you,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.cagle.com/news/muhammad/,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.christiannewswire.com/news/912904201.html,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.faithfreedom.org/,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-https://www.facebook.com/blash.phemy,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-https://www.facebook.com/blashphemy,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://en.wikipedia.org/wiki/Draw_Muhammad,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://en.wikipedia.org/wiki/Jyllands-Posten_Muhammad_cartoons_controversy,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://en.wikipedia.org/wiki/Mohammad,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://en.wikipedia.org/wiki/Muhammad,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://en.wikipedia.org/wiki/Muhammad_Drawings,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://atlasshrugs2000.typepad.com/atlas_shrugs/2006/02/muhammad_cartoo.html,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://creepingsharia.wordpress.com/mohammed-cartoon-collection/,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://drawmohammadday.blogspot.com/,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://en.wikipedia.org/wiki/Lars_Vilks_Muhammad_drawings_controversy,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://en.wikipedia.org/wiki/The_Truth_About_Muhammad,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://everybodydrawmohammedday.wordpress.com/,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://everyonedrawmohammed.blogspot.com/,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://face-of-muhammed.blogspot.com/,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://fjordman.blogspot.com/2005/10/image-of-muhammad.html,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://fredfred.net/skriker/index.php/muhammad-vs-jesus-1-0/,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://gatesofvienna.blogspot.com/2010/04/may-20-first-annual-everybody-draw.html,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://muhammadgangbang.com/gallery/,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://parazite.pp.fi/mohammed_image_archive/recent/,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://religiousfreaks.com/muhammed-caricatures/,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.drawmuhammadday.com/,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.drawmuhammadday.net/,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://ahmadiyya.net/,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://en.wikipedia.org/wiki/Ahmadi,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://urdu.tebyan.net/,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.ahmadiyya.ca/,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.ahmadiyya.com.pk/,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.ahmadiyya.org.au/,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.ahmadiyya.us/,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.ahmadiyyanews.com/,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.ahmadiyyat.info/,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.alislam.org/,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.askislam.org/,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.jalsasalana.org/,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.muslim.org/,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.pakistanchristiancongress.com/,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.qadiani.org/,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.tahirfoundation.org/,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.thepersecution.org/,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://muhammad-911.tk/,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://muhammad-911.tk/881832-Draw-Muhammad-5-20-2010.html,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://slog.thestranger.com/slog/archives/2010/04/22/everybody-draw-mohammed-day,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://imgur.com/1AHlc?full,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://itunes.apple.com/us/album/draw-muhammad/id303064274,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://vodpod.com/watch/3613861-draw-mohammed-day-protests,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.break.com/usercontent/2010/5/16/how-to-draw-muhammad-1838369,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.flickr.com/photos/kuujiryo/4621614465/,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.google.com.pk/#q=muhammad+cartoon&hl=en&sa=X&prmd=inv&source=univ&tbs=vid:1&tbo=u&ei=zkX0S4ubAYmD_AaPr7GJDQ&oi=video_result_group&ct=title&resnum=9&ved=0CEoQqwQwCA&fp=1&cad=b,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://atheism.about.com/od/prophetmuhammadofislam/ig/Muhammad-Drawings-Pictures/,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://blog.ale.com.pk/,REL,,,2016-05-02,"Berkman Klein, Bolo Bhi",
-http://danishcartoons.ytmnd.com/,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://drawmohammedweek.blogspot.com/,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://en.wikipedia.org/wiki/Caricature,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://en.wikipedia.org/wiki/gabriel,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://english.mwmpak.org/,REL,,,2016-05-02,"Berkman Klein, Bolo Bhi",
-http://friendlyatheist.com/2010/05/20/draw-muhammad-day-a-compilation/,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://hidayat.tv/,REL,,,2016-05-02,"Berkman Klein, Bolo Bhi",
-http://islam-watch.org/,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://islamizationwatch.blogspot.com/2010/04/everybody-draw-mohammed-day-grows-in.html,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://maktabaanaveempakistan.org/,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://mohammeddrawings.com/,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://prophet.rydasrecords.com/,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://shiapost.com/,REL,,,2016-05-02,"Berkman Klein, Bolo Bhi",
-http://www.ahl-ul-bayt.org/,REL,,,2016-05-02,"Berkman Klein, Bolo Bhi",
-http://www.ahrar.org.pk/,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.alakhir.com/,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.bibleprobe.com/muhammad-cartoons.htm,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.drawchrist.com/,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.drawmohammed.com/,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.facebook.com/pages/Everybody-Draw-Mohammed-day-May-20/112498195453416?ref=search&sid=100001050496784.3964918704..1,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.facebook.com/pages/Everybody-Draw-Mohammed-Day/121369914543425?ref=mf,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.faithfreedom.org/Gallery/28.htm,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.fitnamovie.net/,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.fitnathemovie.info/,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.genocidewatch.org/pakistan.html,REL,,,2016-05-02,"Berkman Klein, Bolo Bhi",
-http://www.hazaranews.net/,REL,,,2016-05-02,"Berkman Klein, Bolo Bhi",
-http://www.hinduamericanfoundation.org/,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.islam-watch.org/,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.jihadwatch.org/archives/020472.php,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.khatm-e-nubuwwat.com/,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.nordish.net/,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.plusultrablog.com/,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.rationalistpakistan.com/where-is-the-end/shia-genocide-story-inside/,REL,,,2016-05-02,"Berkman Klein, Bolo Bhi",
-http://www.shaheedfoundation.co.uk/shia-killing.asp,REL,,,2016-05-02,"Berkman Klein, Bolo Bhi",
-http://www.shiitenews.org/,REL,,,2016-05-02,"Berkman Klein, Bolo Bhi",
-http://www.themoviefitna.com/,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.tnfj.org.pk/,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.zad-e-rah.com/,REL,,,2016-05-02,"Berkman Klein, Bolo Bhi",
-http://www.zombietime.com/mohammed_image_archive/,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-https://barenakedislam.wordpress.com/2010/05/02/muslim-hackers-get-their-filthy-finger-licken-hands-on-kfc-website/,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-https://twitter.com/shiagenocide,REL,,,2016-05-02,"Berkman Klein, Bolo Bhi",
-https://www.facebook.com/majliseahrar?fref=ts/,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-https://www.facebook.com/Stop-Shia-Genocide-In-Pakistan-350123341735668/,REL,,,2016-05-02,"Berkman Klein, Bolo Bhi",
-https://www.facebook.com/tehreekekhatmenubuwwat,REL,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.musicpakistan.net/,STREAM,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://awomensenews.org/,WOMR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://hrw.org/campaigns/pakistan/,WOMR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://web.amnesty.org/library/Index/engASA330181999,WOMR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.af.org.pk/,WOMR,,,2016-06-09,"Berkman Klein, Bolo Bhi",
-http://www.ipsnews.net/,WOMR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.ipsnews.net/news.asp?idnews=34015,WOMR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.islamfortoday.com/,WOMR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.marxist.com/,WOMR,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.shirkatgah.org/,WOMR,,,2016-06-09,"Berkman Klein, Bolo Bhi",
-http://www.tehrik-e-niswan.org.pk/,WOMR,,,2016-06-09,"Berkman Klein, Bolo Bhi",
-https://www.facebook.com/Womens-Rights-Association-Pakistan-138988659551276/,WOMR,,,2016-06-09,"Berkman Klein, Bolo Bhi",
-http://sexetc.org/,XED,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.aahung.org/,XED,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.ayubmed.edu.pk/,XED,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.ipsnews.net/shakti/0610_1.asp,XED,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.islam-usa.com/,XED,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.noorclinic.com/,XED,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://www.psi.org/,XED,,,2016-05-02,"Berkman Klein, Citizen Lab",
-http://acidsurvivorspakistan.org/,HUMR,,,2016-07-20,"Citizen Lab, OONI",
-http://crhd.org.pk/,HUMR,,,2016-07-20,"Citizen Lab, OONI",
-http://dailysignal.com/2016/03/28/anti-christian-violence-threatens-fabric-of-pakistani-society/,REL,,,2016-07-20,"Citizen Lab, OONI",
-http://digitalrightsfoundation.pk/,HUMR,,,2016-07-20,"Citizen Lab, OONI",
-http://edition.cnn.com/2016/04/04/asia/pakistan-attack-religious-intolerance/,REL,,,2016-07-20,"Citizen Lab, OONI",
-http://islamandhomosexuality.com/5-ways-pakistan-gay-friendly/,LGBT,,,2016-07-20,"Citizen Lab, OONI",
-https://khabaristantimes.com/,POLR,,,2017-02-08,"Citizen Lab, OONI",
-https://news.vice.com/video/blackout-pakistan/,LGBT,,,2016-07-20,"Citizen Lab, OONI",
-http://nydailynews.com/,NEWS,,,2017-02-10,"Citizen Lab, ANON",
-http://www.acidsurvivors.org/,HUMR,,,2016-07-20,"Citizen Lab, OONI",
-http://www.acidviolence.org/,HUMR,,,2016-07-20,"Citizen Lab, OONI",
-http://www.dawn.com/news/663772/a-history-of-religious-violence/,REL,,,2016-07-20,"Citizen Lab, OONI",
-https://www.deviantart.com/,CULTR,,,2017-08-13,"Citizen Lab, OONI",
-http://www.deviantart.com/,CULTR,,,2017-08-13,"Citizen Lab, OONI",
-https://www.hrw.org/asia/pakistan,HUMR,,,2016-07-20,"Citizen Lab, OONI",
-http://www.humanrightsfirst.org/blog/lgbt-voices-equality-pakistan/,LGBT,,,2016-07-20,"Citizen Lab, OONI",
-http://www.pakistaniwomen.org/,HUMR,,,2016-07-20,"Citizen Lab, OONI",
-http://www.telegraph.co.uk/news/2016/06/14/street-protests-in-pakistan-after-shooting-of-transgender-activi/,LGBT,,,2016-07-20,"Citizen Lab, OONI",
-http://www.thepetitionsite.com/539/231/363/stop-acid-attacks-against-women-in-pakistan/,HUMR,,,2016-07-20,"Citizen Lab, OONI",
-http://www.towleroad.com/2016/06/lgbt-pakistan/,LGBT,,,2016-07-20,"Citizen Lab, OONI",
-http://live.geo.tv/,NEWS,,,2017-11-27,"Citizen Lab, OONI",Reportedly blocked
-http://92newshd.tv/live/,NEWS,,,2017-11-27,"Citizen Lab, OONI",Reportedly blocked
-https://www.samaa.tv/live/,NEWS,,,2017-11-27,"Citizen Lab, OONI",Reportedly blocked
-http://live.arynews.tv/,NEWS,,,2017-11-27,"Citizen Lab, OONI",Reportedly blocked
-http://live.abbtakk.tv/,NEWS,,,2017-11-27,"Citizen Lab, OONI",Reportedly blocked
-http://aaj.tv/live/,NEWS,,,2017-11-27,"Citizen Lab, OONI",Reportedly blocked
-https://www.bolnetwork.com/,NEWS,,,2017-11-27,"Citizen Lab, OONI",Reportedly blocked
-http://capital.tv.com.pk/,NEWS,,,2017-11-27,"Citizen Lab, OONI",Reportedly blocked
-http://dailycapital.pk/program/live/UC-an6pHQfTVZXgrLP0p1EGA/capital-tv-live,NEWS,,,2017-11-27,"Citizen Lab, OONI",Reportedly blocked
-http://live.din-news.com/,NEWS,,,2017-11-27,"Citizen Lab, OONI",Reportedly blocked
-http://live.express.pk/,NEWS,,,2017-11-27,"Citizen Lab, OONI",Reportedly blocked
-http://www.ktntv.tv/,NEWS,,,2017-11-27,"Citizen Lab, OONI",Reportedly blocked
-http://live.newsone.tv/,NEWS,,,2017-11-27,"Citizen Lab, OONI",Reportedly blocked
-https://www.suchtv.pk/,NEWS,,,2017-11-27,"Citizen Lab, OONI",Reportedly blocked
-http://waqtnews.tv/,NEWS,,,2017-11-27,"Citizen Lab, OONI",Reportedly blocked
-http://dunyanews.tv/,NEWS,,,2017-11-27,"Citizen Lab, OONI",Reportedly blocked
-https://www.dawnnews.tv/watch-live/,NEWS,,,2017-11-27,"Citizen Lab, OONI",Reportedly blocked
-http://live.jaagtv.com/#sthash.uTtpDrUr.dpbs,NEWS,,,2017-11-27,"Citizen Lab, OONI",Reportedly blocked
-https://live.pakistantv.tv/channel-24-live-streaming/,NEWS,,,2017-11-27,"Citizen Lab, OONI",Reportedly blocked
+"url","category_code","date_added","source","notes"
+"http://1001how2.com/how-to-draw-muhammad-idiots-guide/","NEWS","2014-04-15","citizenlab",""
+"http://92newshd.tv/live/","NEWS","2017-11-27","OONI","Reportedly blocked"
+"http://aaj.tv/live/","NEWS","2017-11-27","OONI","Reportedly blocked"
+"http://accessanywebsite.com/","ANON","2014-04-15","citizenlab",""
+"http://accesstoblockedsites.com/browse.php?b=5&f=norefer&u=Oi8vd3d3LmFsbGZyZWVtb3ZpZXMuY29t","ANON","2014-04-15","citizenlab",""
+"http://acidsurvivorspakistan.org/","HUMR","2016-07-20","OONI",""
+"http://afghanreality.blogspot.com/","MILX","2014-04-15","citizenlab",""
+"http://ahmadiyya.net/","HUMR","2014-04-15","citizenlab",""
+"http://aipsg.blogspot.com/","GOVT","2014-04-15","citizenlab",""
+"http://alienproxy.com/","ANON","2014-04-15","citizenlab",""
+"http://allama-mashriqi.8m.com/","CULTR","2014-04-15","citizenlab",""
+"http://anonymizer.nntime.com/","ANON","2014-04-15","citizenlab",""
+"http://anonymouse.ws/anonwww.html","ANON","2014-04-15","citizenlab",""
+"http://armbeans.info/smiley.jpg","PORN","2014-04-15","citizenlab",""
+"http://armedforces.nic.in/","GOVT","2014-04-15","citizenlab",""
+"http://artsyhands.com/2010/05/access-facebook-blocked-pakistan/","MISC","2014-04-15","citizenlab",""
+"http://atheism.about.com/od/prophetmuhammadofislam/ig/Muhammad-Drawings-Pictures/","REL","2014-04-15","citizenlab",""
+"http://atlasshrugs2000.typepad.com/atlas_shrugs/2006/02/muhammad_cartoo.html","CULTR","2014-04-15","citizenlab",""
+"http://atlasshrugs2000.typepad.com/atlas_shrugs/oic_oppresion_and_submission/","NEWS","2014-04-15","citizenlab",""
+"http://atunnel.com/","ANON","2014-04-15","citizenlab",""
+"http://avianflu.futurehs.com/","PUBH","2014-04-15","citizenlab",""
+"http://awomensenews.org/","HUMR","2014-04-15","citizenlab",""
+"http://balochestan.com/","HUMR","2014-04-15","citizenlab",""
+"http://balochwarna.com/","MINR","2016-06-09","Berkman Klein, Bolo Bhi",""
+"http://balochwarna.com/2015/08/30/pakistan-is-committing-heinous-crimes-against-humanity-in-balochistan-hyrbyair-marri/","FREL","2016-06-09","Berkman Klein, Bolo Bhi",""
+"http://balochwarna.org/","HUMR","2014-04-15","citizenlab",""
+"http://balouch.blogspot.com/","NEWS","2014-04-15","citizenlab",""
+"http://batster.wordpress.com/","NEWS","2014-04-15","citizenlab",""
+"http://bdnews24.com/bangladesh/2016/05/11/war-crimes-charges-against-pro-pakistan-militia-commander-nizami-who-headed-bangladesh-jamaat","FREL","2016-06-09","Berkman Klein, Bolo Bhi",""
+"http://blockedsiteaccess.com/","ANON","2014-04-15","citizenlab",""
+"http://blog.ale.com.pk/","REL","2016-05-02","Berkman Klein, Bolo Bhi",""
+"http://blogfa.com/","HOST","2014-04-15","citizenlab",""
+"http://blogsome.com/","HOST","2014-04-15","citizenlab",""
+"http://bloodmirror.info/smiley.jpg","PORN","2014-04-15","citizenlab",""
+"http://bluegrape.info/","ANON","2014-04-15","citizenlab",""
+"http://boredatschool.net/","ANON","2014-04-15","citizenlab",""
+"http://brokenpie.com/","ANON","2014-04-15","citizenlab",""
+"http://btunnel.com/","ANON","2014-04-15","citizenlab",""
+"http://callname.info/","ANON","2014-04-15","citizenlab",""
+"http://caosblog.com/archives/19779","NEWS","2014-04-15","citizenlab",""
+"http://capital.tv.com.pk/","NEWS","2017-11-27","OONI","Reportedly blocked"
+"http://carpocket.info/smiley.jpg","PORN","2014-04-15","citizenlab",""
+"http://christiandevelopmentpakistan.org/","MINR","2016-06-09","Berkman Klein, Bolo Bhi",""
+"http://clubtanker.com/","ANON","2014-04-15","citizenlab",""
+"http://codex.wordpress.org/","NEWS","2014-04-15","citizenlab",""
+"http://coppernose.pw/","ANON","2014-04-15","citizenlab",""
+"http://creepingsharia.wordpress.com/2010/04/26/cartoonist-behind-everybody-draw-mohammed-day-poster-getting-nervous/","POLR","2014-04-15","citizenlab",""
+"http://creepingsharia.wordpress.com/mohammed-cartoon-collection/","CULTR","2014-04-15","citizenlab",""
+"http://crhd.org.pk/","HUMR","2016-07-20","OONI",""
+"http://cryptome.org/muhammad.htm","POLR","2014-04-15","citizenlab",""
+"http://ctunnel.com/","ANON","2014-04-15","citizenlab",""
+"http://daily.urdupoint.com/","NEWS","2014-04-15","citizenlab",""
+"http://dailycaller.com/2010/04/24/may-20-is-everybody-draw-muhammad-day/","NEWS","2014-04-15","citizenlab",""
+"http://dailycapital.pk/program/live/UC-an6pHQfTVZXgrLP0p1EGA/capital-tv-live","NEWS","2017-11-27","OONI","Reportedly blocked"
+"http://dailyradar.com/beltwayblips/story/first-annual-everybody-draw-mohammad-day/","NEWS","2014-04-15","citizenlab",""
+"http://dailysignal.com/2016/03/28/anti-christian-violence-threatens-fabric-of-pakistani-society/","REL","2016-07-20","OONI",""
+"http://danishcartoons.ytmnd.com/","REL","2014-04-15","citizenlab",""
+"http://deadpanthoughts.com/","NEWS","2014-04-15","citizenlab",""
+"http://demonproxy.com/","ANON","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/1","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/10","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/11","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/12","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/13","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/14","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/15","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/16","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/160","NEWS","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/166","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/17","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/170","NEWS","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/18","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/19","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/2","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/20","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/21","NEWS","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/22","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/23","NEWS","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/230","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/24","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/243","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/244","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/245","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/246","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/247","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/248","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/249","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/25","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/250","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/252","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/253","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/254","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/26","NEWS","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/27","NEWS","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/28","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/29","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/3","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/30","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/31","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/32","NEWS","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/33","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/34","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/35","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/36","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/37","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/39","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/4","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/40","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/41","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/42","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/43","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/44","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/45","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/47","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/48","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/49","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/5","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/50","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/51","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/53","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/54","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/6","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/7","NEWS","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/8","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/9","COMM","2014-04-15","citizenlab",""
+"http://digitalrightsfoundation.pk/","HUMR","2016-07-20","OONI",""
+"http://disarm.igc.org/","GOVT","2014-04-15","citizenlab",""
+"http://discomaulvi.wordpress.com/","NEWS","2014-04-15","citizenlab",""
+"http://disquietreservations.blogspot.com/2016/04/the-crimes-of-pakistan-against.html","FREL","2016-06-09","Berkman Klein, Bolo Bhi",""
+"http://dochebaloch.persianblog.com/","HUMR","2014-04-15","citizenlab",""
+"http://dogfixer.info/smiley.jpg","PORN","2014-04-15","citizenlab",""
+"http://drawmohammadday.blogspot.com/","CULTR","2014-04-15","citizenlab",""
+"http://drawmohammedweek.blogspot.com/","REL","2014-04-15","citizenlab",""
+"http://dreamdogsart.typepad.com/art/2010/05/lars-vilks-muhammad-cartoon-dog-artist-attacked.html","REL","2014-04-15","citizenlab",""
+"http://dtunnel.com/","ANON","2014-04-15","citizenlab",""
+"http://dunyanews.tv/","NEWS","2017-11-27","OONI","Reportedly blocked"
+"http://earthlight.pw/","ANON","2014-04-15","citizenlab",""
+"http://edition.cnn.com/2016/04/04/asia/pakistan-attack-religious-intolerance/","REL","2016-07-20","OONI",""
+"http://en.wikipedia.org/","HOST","2014-04-15","citizenlab",""
+"http://en.wikipedia.org/wiki/Ahmadi","REL","2014-04-15","citizenlab",""
+"http://en.wikipedia.org/wiki/Caricature","REL","2014-04-15","citizenlab",""
+"http://en.wikipedia.org/wiki/Draw_Muhammad","REL","2014-04-15","citizenlab",""
+"http://en.wikipedia.org/wiki/Everybody_Draw_Mohammed_Day","REL","2014-04-15","citizenlab",""
+"http://en.wikipedia.org/wiki/File:Jyllands-Posten-pg3-article-in-Sept-30-2005-edition-of-KulturWeekend-entitled-Muhammeds-ansigt.png","REL","2014-04-15","citizenlab",""
+"http://en.wikipedia.org/wiki/Freedom_of_speech_versus_blasphemy","HUMR","2014-04-15","citizenlab",""
+"http://en.wikipedia.org/wiki/Jyllands-Posten_Muhammad_cartoons_controversy","REL","2014-04-15","citizenlab",""
+"http://en.wikipedia.org/wiki/Lars_Vilks_Muhammad_drawings_controversy","REL","2014-04-15","citizenlab",""
+"http://en.wikipedia.org/wiki/Mohammad","REL","2014-04-15","citizenlab",""
+"http://en.wikipedia.org/wiki/Muhammad","REL","2014-04-15","citizenlab",""
+"http://en.wikipedia.org/wiki/Muhammad_Drawings","REL","2014-04-15","citizenlab",""
+"http://en.wikipedia.org/wiki/The_Truth_About_Muhammad","REL","2014-04-15","citizenlab",""
+"http://en.wikipedia.org/wiki/gabriel","REL","2014-04-15","citizenlab",""
+"http://english.mwmpak.org/","REL","2016-05-02","Berkman Klein, Bolo Bhi",""
+"http://europenews.dk/en/node/32286","REL","2014-04-15","citizenlab",""
+"http://everybodydrawmohammedday.wordpress.com/","REL","2014-04-15","citizenlab",""
+"http://everyonedrawmohammed.blogspot.com/","REL","2014-04-15","citizenlab",""
+"http://face-of-muhammed.blogspot.com/","REL","2014-04-15","citizenlab",""
+"http://farihaakhtar.blogsome.com/","NEWS","2014-04-15","citizenlab",""
+"http://fernjuice.info/smiley.jpg","PORN","2014-04-15","citizenlab",""
+"http://firebunny.info/","ANON","2014-04-15","citizenlab",""
+"http://fjordman.blogspot.com/2005/10/image-of-muhammad.html","CULTR","2014-04-15","citizenlab",""
+"http://flyproxy.com/","ANON","2014-04-15","citizenlab",""
+"http://forum.detik.com/showthread.php?p=10423116","GRP","2014-04-15","citizenlab",""
+"http://fourskies.com/","ANON","2014-04-15","citizenlab",""
+"http://fredfred.net/skriker/index.php/muhammad-vs-jesus-1-0/","CULTR","2014-04-15","citizenlab",""
+"http://freeproxyserver.net/","ANON","2014-04-15","citizenlab",""
+"http://friedmice.info/smiley.jpg","PORN","2014-04-15","citizenlab",""
+"http://friendlyatheist.com/2010/05/20/draw-muhammad-day-a-compilation/","REL","2014-04-15","citizenlab",""
+"http://frogblaze.com/","ANON","2014-04-15","citizenlab",""
+"http://ftunnel.com/","ANON","2014-04-15","citizenlab",""
+"http://ftunnel.net/","ANON","2014-04-15","citizenlab",""
+"http://g-tunnel.com/","ANON","2014-04-15","citizenlab",""
+"http://gatesofvienna.blogspot.com/2010/04/may-20-first-annual-everybody-draw.html","CULTR","2014-04-15","citizenlab",""
+"http://god.xxx/","PORN","2014-04-15","citizenlab",""
+"http://goldface.pw/","ANON","2014-04-15","citizenlab",""
+"http://governmentofbalochistan.blogspot.com/","HUMR","2014-04-15","citizenlab",""
+"http://gravehead.info/smiley.jpg","PORN","2014-04-15","citizenlab",""
+"http://groups.msn.com/Balochvoice/balochvoicewelcomesyou.msnw","HUMR","2014-04-15","citizenlab",""
+"http://gtunnel.com/","ANON","2014-04-15","citizenlab",""
+"http://guyism.com/2010/04/creator-of-everybody-draw-muhammad-day-wont-draw-muhammad.html","NEWS","2014-04-15","citizenlab",""
+"http://h-tunnel.com/","ANON","2014-04-15","citizenlab",""
+"http://harvard.xxx/","PORN","2014-04-15","citizenlab",""
+"http://help-pakistan.com/","NEWS","2014-04-15","citizenlab",""
+"http://help-pakistan.com/main/dont-block-the-blog/","NEWS","2014-04-15","citizenlab",""
+"http://hidayat.tv/","REL","2016-05-02","Berkman Klein, Bolo Bhi",""
+"http://hometown.aol.com/pakhtun/","HUMR","2014-04-15","citizenlab",""
+"http://hrcp-web.org/hrcpweb/","HUMR","2016-06-09","Berkman Klein, Bolo Bhi",""
+"http://hrw.org/","NEWS","2014-04-15","citizenlab",""
+"http://hrw.org/campaigns/pakistan/","HUMR","2014-04-15","citizenlab",""
+"http://hrw.org/doc/?c=pakist&t=asia","HUMR","2014-04-15","citizenlab",""
+"http://htunnel.net/","ANON","2014-04-15","citizenlab",""
+"http://hustler.com/","PORN","2014-04-15","citizenlab",""
+"http://i-tunnel.net/","ANON","2014-04-15","citizenlab",""
+"http://ibnlive.in.com/","NEWS","2014-04-15","citizenlab",""
+"http://ibrahimsajidmalick.com/?p=550","FREL","2016-06-09","Berkman Klein, Bolo Bhi",""
+"http://imgur.com/1AHlc?full","MMED","2014-04-15","citizenlab",""
+"http://indianproxy.com/","ANON","2014-04-15","citizenlab",""
+"http://ironicsurrealism.blogivists.com/2010/03/09/ireland-seven-arrested-over-plot-to-kill-lars-vilks-artist-of-mo-dog-cartoons/","NEWS","2014-04-15","citizenlab",""
+"http://ironicsurrealism.blogivists.com/2010/04/25/the-first-annual-everybody-draw-mohammed-day-because-above-all-muhammed-cannot-stand-to-be-mocked/","NEWS","2014-04-15","citizenlab",""
+"http://islam-watch.org/","REL","2014-04-15","citizenlab",""
+"http://islam.islamabad.net/","POLR","2014-04-15","citizenlab",""
+"http://islamandhomosexuality.com/5-ways-pakistan-gay-friendly/","LGBT","2016-07-20","OONI",""
+"http://islamic-world.net/","MILX","2014-04-15","citizenlab",""
+"http://islamic-world.net/youth/jihadafghanistan.htm","MILX","2014-04-15","citizenlab",""
+"http://islamizationwatch.blogspot.com/2010/04/everybody-draw-mohammed-day-grows-in.html","REL","2014-04-15","citizenlab",""
+"http://itunes.apple.com/us/album/draw-muhammad/id303064274","MMED","2014-04-15","citizenlab",""
+"http://j-tunnel.com/","ANON","2014-04-15","citizenlab",""
+"http://jamatdawa.org/","MILX","2014-04-15","citizenlab",""
+"http://jang.com.pk/","NEWS","2014-04-15","citizenlab",""
+"http://jonathanturley.org/2010/04/25/seattle-cartoonist-declares-may-20th-as-everybody-draw-mohammed-day/","NEWS","2014-04-15","citizenlab",""
+"http://jtunnel.com/","ANON","2014-04-15","citizenlab",""
+"http://jtunnel.net/","ANON","2014-04-15","citizenlab",""
+"http://k-tunnel.com/","ANON","2014-04-15","citizenlab",""
+"http://kamisiapmembantu.com/","ANON","2014-04-15","citizenlab",""
+"http://karachi.metblogs.com/","NEWS","2014-04-15","citizenlab",""
+"http://kashmir-truth-be-told.blogspot.com/","GOVT","2014-04-15","citizenlab",""
+"http://kproxy.com/index.jsp","ANON","2014-04-15","citizenlab",""
+"http://ktunnel.com/","ANON","2014-04-15","citizenlab",""
+"http://ktunnel.net/","ANON","2014-04-15","citizenlab",""
+"http://l-tunnel.com/","ANON","2014-04-15","citizenlab",""
+"http://lahore.metblogs.com/","NEWS","2014-04-15","citizenlab",""
+"http://laidbackshow.com/","NEWS","2014-04-15","citizenlab",""
+"http://lalmasjid.com/","HUMR","2014-04-15","citizenlab",""
+"http://libertypundits.net/article/awesome-first-annual-everybody-draw-mohammad-day/","NEWS","2014-04-15","citizenlab",""
+"http://lifedrama.blogsome.com/","NEWS","2014-04-15","citizenlab",""
+"http://live.abbtakk.tv/","NEWS","2017-11-27","OONI","Reportedly blocked"
+"http://live.arynews.tv/","NEWS","2017-11-27","OONI","Reportedly blocked"
+"http://live.din-news.com/","NEWS","2017-11-27","OONI","Reportedly blocked"
+"http://live.express.pk/","NEWS","2017-11-27","OONI","Reportedly blocked"
+"http://live.geo.tv/","NEWS","2017-11-27","OONI","Reportedly blocked"
+"http://live.jaagtv.com/#sthash.uTtpDrUr.dpbs","NEWS","2017-11-27","OONI","Reportedly blocked"
+"http://live.newsone.tv/","NEWS","2017-11-27","OONI","Reportedly blocked"
+"http://llphfreedom.blogspot.com/2010/04/everybody-draw-muhammad-day-may-20th.html","CULTR","2014-04-15","citizenlab",""
+"http://ltunnel.com/","ANON","2014-04-15","citizenlab",""
+"http://ltunnel.net/","ANON","2014-04-15","citizenlab",""
+"http://m-tunnel.com/","ANON","2014-04-15","citizenlab",""
+"http://m.facedl.com/fvideo=okakonnakuoxkow","FREL","2016-06-09","Berkman Klein, Bolo Bhi",""
+"http://mackers-world.com/index.php/weblog/C36/","NEWS","2014-04-15","citizenlab",""
+"http://mahafreed.com/","NEWS","2014-04-15","citizenlab",""
+"http://maktabaanaveempakistan.org/","REL","2014-04-15","citizenlab",""
+"http://members.tripod.com/~PAKSTAR/qadir.htm","CULTR","2014-04-15","citizenlab",""
+"http://metblogs.com/","NEWS","2014-04-15","citizenlab",""
+"http://michellemalkin.com/","POLR","2014-04-15","citizenlab",""
+"http://ming.tv/flemming2.php/__show_article/_a000010-001623.htm","NEWS","2014-04-15","citizenlab",""
+"http://mohammeddrawings.com/","REL","2014-04-15","citizenlab",""
+"http://moonguard.pw/","ANON","2014-04-15","citizenlab",""
+"http://moonwheel.info/","ANON","2014-04-15","citizenlab",""
+"http://motherjones.com/mojo/2010/04/south-park-censorship-comedy-central-muhammad-mohammed-cartoon-trey-stone-matt-parker","NEWS","2014-04-15","citizenlab",""
+"http://mpleger.de/","ANON","2014-04-15","citizenlab",""
+"http://mrnewguy.com/","ANON","2014-04-15","citizenlab",""
+"http://muhammad-911.tk/","MISC","2014-04-15","citizenlab",""
+"http://muhammad-911.tk/881832-Draw-Muhammad-5-20-2010.html","MISC","2014-04-15","citizenlab",""
+"http://muhammadgangbang.com/gallery/","CULTR","2014-04-15","citizenlab",""
+"http://music.download.com/","MMED","2014-04-15","citizenlab",""
+"http://n-tunnel.com/","ANON","2014-04-15","citizenlab",""
+"http://naveenaqvi.com/","NEWS","2014-04-15","citizenlab",""
+"http://nawaiwaqt.com.pk/","NEWS","2014-04-15","citizenlab",""
+"http://newagebd.net/61274/war-crimes-of-195-pak-army-men/","FREL","2016-06-09","Berkman Klein, Bolo Bhi",""
+"http://ngaran.blogfa.com/","HUMR","2014-04-15","citizenlab",""
+"http://ninjaproxy.com/","ANON","2014-04-15","citizenlab",""
+"http://ntunnel.com/","ANON","2014-04-15","citizenlab",""
+"http://ntunnel.net/","ANON","2014-04-15","citizenlab",""
+"http://nydailynews.com/","NEWS","2017-02-10","ANON",""
+"http://o-tunnel.com/","ANON","2014-04-15","citizenlab",""
+"http://oldmanclub.persianblog.com/","HUMR","2014-04-15","citizenlab",""
+"http://onision.net/index.php?/topic/6843-first-annual-draw-muhammad-day-d/","GRP","2014-04-15","citizenlab",""
+"http://otunnel.com/","ANON","2014-04-15","citizenlab",""
+"http://otunnel.net/","ANON","2014-04-15","citizenlab",""
+"http://p-tunnel.com/","ANON","2014-04-15","citizenlab",""
+"http://pakistaniat.com/","NEWS","2014-04-15","citizenlab",""
+"http://pakistaniat.wordpress.com/","NEWS","2014-04-15","citizenlab",""
+"http://pakteahouse.wordpress.com/","NEWS","2014-04-15","citizenlab",""
+"http://parazite.pp.fi/mohammed_image_archive/recent/","CULTR","2014-04-15","citizenlab",""
+"http://persianblog.com/","HOST","2014-04-15","citizenlab",""
+"http://perso.orange.fr/","NEWS","2014-04-15","citizenlab",""
+"http://pfuj.pk/","FEXP","2016-06-09","Berkman Klein, Bolo Bhi",""
+"http://pigfork.info/","ANON","2014-04-15","citizenlab",""
+"http://pihro.org/","HUMR","2016-06-09","Berkman Klein, Bolo Bhi",""
+"http://pizzasmasher.com/","ANON","2014-04-15","citizenlab",""
+"http://pknewspaper.com/daily-baloch-news","MINR","2016-06-09","Berkman Klein, Bolo Bhi",""
+"http://playboy.com/","PORN","2014-04-15","citizenlab",""
+"http://politifi.com/news/May-20-1st-International-Everybody-Draw-Mohammad-Day-585518.html","NEWS","2014-04-15","citizenlab",""
+"http://porn.xxx/","PORN","2014-04-15","citizenlab",""
+"http://prophet.rydasrecords.com/","REL","2014-04-15","citizenlab",""
+"http://proxy-tube.info/","ANON","2014-04-15","citizenlab",""
+"http://proxy.computersteroids.com/index0.php","ANON","2014-04-15","citizenlab",""
+"http://proxy.xboxcia.com/","ANON","2014-04-15","citizenlab",""
+"http://psjg.bizcue.com/","HUMR","2014-04-15","citizenlab",""
+"http://ptunnel.com/","ANON","2014-04-15","citizenlab",""
+"http://pub19.bravenet.com/","HUMR","2014-04-15","citizenlab",""
+"http://q-tunnel.com/","ANON","2014-04-15","citizenlab",""
+"http://queer.pk/","GAYL","2016-05-02","Berkman Klein, Bolo Bhi",""
+"http://r-tunnel.com/","ANON","2014-04-15","citizenlab",""
+"http://rantwraith.blogspot.com/2006/01/hellfire-muhammad.html","NEWS","2014-04-15","citizenlab",""
+"http://rawstory.com/rs/2010/0424/seattle-cartoonist-promotes-everybody-draw-mohammed-day/","NEWS","2014-04-15","citizenlab",""
+"http://reason.com/blog/2010/04/23/first-annual-everybody-draw-mo","NEWS","2014-04-15","citizenlab",""
+"http://reason.com/blog/2010/05/17/the-deadline-is-nigh-for-every","NEWS","2014-04-15","citizenlab",""
+"http://reason.com/blog/2010/05/18/get-ready-for-everyone-draw-mo","NEWS","2014-04-15","citizenlab",""
+"http://religiousfreaks.com/muhammed-caricatures/","CULTR","2014-04-15","citizenlab",""
+"http://rockbuzzer.com/","ANON","2014-04-15","citizenlab",""
+"http://rollingstone.com/","NEWS","2014-04-15","citizenlab",""
+"http://rtunnel.com/","ANON","2014-04-15","citizenlab",""
+"http://rtunnel.net/","ANON","2014-04-15","citizenlab",""
+"http://saberpoint.blogspot.com/","CULTR","2014-04-15","citizenlab",""
+"http://sanasaleem.com/","NEWS","2014-04-15","citizenlab",""
+"http://satanproxy.com/","ANON","2014-04-15","citizenlab",""
+"http://seasonsoftumultanddiscord.wordpress.com/2010/05/18/two-days-to-draw-muhammad-day/","NEWS","2014-04-15","citizenlab",""
+"http://seattlest.com/2010/04/27/seattle_cartoonists_everybody_draw.php","NEWS","2014-04-15","citizenlab",""
+"http://sex.xxx/","PORN","2014-04-15","citizenlab",""
+"http://sexetc.org/","XED","2016-05-02","Berkman Klein, Citizen Lab",""
+"http://sheikyermami.com/2007/09/11/new-sheik-yer-mami-songs/","HATE","2014-04-15","citizenlab",""
+"http://shiapost.com/","REL","2016-05-02","Berkman Klein, Bolo Bhi",""
+"http://silvereye.pw/","ANON","2014-04-15","citizenlab",""
+"http://sindh.tk/","HUMR","2014-04-15","citizenlab",""
+"http://slog.thestranger.com/slog/archives/2010/04/22/everybody-draw-mohammed-day","MISC","2014-04-15","citizenlab",""
+"http://snapcool.info/smiley.jpg","PORN","2014-04-15","citizenlab",""
+"http://snfsindh.netfirms.com/","HUMR","2014-04-15","citizenlab",""
+"http://spoonshow.info/smiley.jpg","PORN","2014-04-15","citizenlab",""
+"http://sportsbetting.net.in/pakistan/","GMB","2016-06-09","Berkman Klein, Bolo Bhi",""
+"http://starmilk.info/smiley.jpg","PORN","2014-04-15","citizenlab",""
+"http://stop-block.com/","ANON","2014-04-15","citizenlab",""
+"http://sunfrog.pw/","ANON","2014-04-15","citizenlab",""
+"http://surfshield.net/","ANON","2014-04-15","citizenlab",""
+"http://t-tunnel.net/","ANON","2014-04-15","citizenlab",""
+"http://teeth.com.pk/blog/","NEWS","2014-04-15","citizenlab",""
+"http://thebalochistanpoint.com/","MINR","2016-06-09","Berkman Klein, Bolo Bhi",""
+"http://thereisnothinghere.xxx/","PORN","2014-04-15","citizenlab",""
+"http://tntproxy.com/","ANON","2014-04-15","citizenlab",""
+"http://touch.facebook.com/","ANON","2014-04-15","citizenlab",""
+"http://treebrain.info/","ANON","2014-04-15","citizenlab",""
+"http://tsapakistan.com/","HUMR","2016-06-09","Berkman Klein, Bolo Bhi",""
+"http://tuckmagazine.com/2015/12/18/bangladesh-to-try-195-pakistan-army-personnel-for-1971-war-crimes/","FREL","2016-06-09","Berkman Klein, Bolo Bhi",""
+"http://twitter.com/MuhammadtheProp","REL","2014-04-15","citizenlab",""
+"http://twitter.com/ProphetMuhammad","REL","2014-04-15","citizenlab",""
+"http://tylzen.com/?p=353","NEWS","2014-04-15","citizenlab",""
+"http://ultaseedha.com.pk/","NEWS","2014-04-15","citizenlab",""
+"http://unblock-me.org/","ANON","2014-04-15","citizenlab",""
+"http://unblockme.freehoster.ch/","ANON","2014-04-15","citizenlab",""
+"http://unblockyoutube.com/","ANON","2014-04-15","citizenlab",""
+"http://unforeseencontingencies.blogspot.com/2006/02/blasphemous-pictures.html","NEWS","2014-04-15","citizenlab",""
+"http://urdu.tebyan.net/","HUMR","2014-04-15","citizenlab",""
+"http://urlencoded.com/","ANON","2014-04-15","citizenlab",""
+"http://v-tunnel.org/","ANON","2014-04-15","citizenlab",""
+"http://vodpod.com/watch/3613861-draw-mohammed-day-protests","MMED","2014-04-15","citizenlab",""
+"http://voiceofambition.com/","GOVT","2014-04-15","citizenlab",""
+"http://voices.washingtonpost.com/comic-riffs/2010/05/muhammad_cartoonist_lars_vilks.html","NEWS","2014-04-15","citizenlab",""
+"http://w-tunnel.com/","ANON","2014-04-15","citizenlab",""
+"http://wallclock.pw/","ANON","2014-04-15","citizenlab",""
+"http://wapedia.mobi/en/","GRP","2014-04-15","citizenlab",""
+"http://waqtnews.tv/","NEWS","2017-11-27","OONI","Reportedly blocked"
+"http://web.amnesty.org/","NEWS","2014-04-15","citizenlab",""
+"http://web.amnesty.org/library/Index/engASA330181999","HUMR","2014-04-15","citizenlab",""
+"http://web.amnesty.org/report2003/pak-summary-eng","HUMR","2014-04-15","citizenlab",""
+"http://web.worldbank.org/","ECON","2014-04-15","citizenlab",""
+"http://web.worldbank.org/WBSITE/EXTERNAL/COUNTRIES/SOUTHASIAEXT/EXTSAREGTOPHEANUT/EXTSAREGTOPHIVAIDS/0,,contentMDK:20287584~menuPK:568879~pagePK:34004173~piPK:34003707~theSitePK:496967,00.html","PUBH","2014-04-15","citizenlab",""
+"http://wtunnel.com/","ANON","2014-04-15","citizenlab",""
+"http://wtunnel.net/","ANON","2014-04-15","citizenlab",""
+"http://www.24proxy.com/","ANON","2014-04-15","citizenlab",""
+"http://www.24topproxy.com/","ANON","2014-04-15","citizenlab",""
+"http://www.24traffic.info/","ANON","2014-04-15","citizenlab",""
+"http://www.3proxy.com/","ANON","2014-04-15","citizenlab",""
+"http://www.6677.info/","ANON","2014-04-15","citizenlab",""
+"http://www.6proxy.com/","ANON","2014-04-15","citizenlab",""
+"http://www.711chan.org/i/","GRP","2014-04-15","citizenlab",""
+"http://www.777surfer.info/","ANON","2014-04-15","citizenlab",""
+"http://www.aahung.org/","XED","2014-04-15","citizenlab",""
+"http://www.abovetopsecret.com/forum/thread564561/pg1","REL","2014-04-15","citizenlab",""
+"http://www.acidsurvivors.org/","HUMR","2016-07-20","OONI",""
+"http://www.acidviolence.org/","HUMR","2016-07-20","OONI",""
+"http://www.actionaid.org/pakistan/","HUMR","2014-04-15","citizenlab",""
+"http://www.af.org.pk/","WOMR","2016-06-09","Berkman Klein, Bolo Bhi",""
+"http://www.ahl-ul-bayt.org/","REL","2016-05-02","Berkman Klein, Bolo Bhi",""
+"http://www.ahmadiyya.ca/","HUMR","2014-04-15","citizenlab",""
+"http://www.ahmadiyya.com.pk/","HUMR","2014-04-15","citizenlab",""
+"http://www.ahmadiyya.org.au/","HUMR","2014-04-15","citizenlab",""
+"http://www.ahmadiyya.us/","HUMR","2014-04-15","citizenlab",""
+"http://www.ahmadiyyanews.com/","HUMR","2014-04-15","citizenlab",""
+"http://www.ahmadiyyat.info/","HUMR","2014-04-15","citizenlab",""
+"http://www.ahrar.org.pk/","REL","2014-04-15","citizenlab",""
+"http://www.ahrchk.net/","HUMR","2014-04-15","citizenlab",""
+"http://www.aimislam.com/","HUMR","2014-04-15","citizenlab",""
+"http://www.al-shia.com/","HUMR","2014-04-15","citizenlab",""
+"http://www.alakhir.com/","REL","2014-04-15","citizenlab",""
+"http://www.alan.com/2010/04/25/seattle-cartoonist-pegs-may-20th-as-everybody-draw-muhammed-day/","NEWS","2014-04-15","citizenlab",""
+"http://www.alislam.org/","HUMR","2014-04-15","citizenlab",""
+"http://www.allunblocker.com/","ANON","2014-04-15","citizenlab",""
+"http://www.alqamaronline.com/","NEWS","2014-04-15","citizenlab",""
+"http://www.amn.com.pk/","NEWS","2014-04-15","citizenlab",""
+"http://www.amnestyusa.org/","HUMR","2014-04-15","citizenlab",""
+"http://www.amnestyusa.org/countries/pakistan/summary.do","HUMR","2014-04-15","citizenlab",""
+"http://www.amonymizer.nntime.com/","ANON","2014-04-15","citizenlab",""
+"http://www.anonproxy.info/","ANON","2014-04-15","citizenlab",""
+"http://www.anonyninja.com/","ANON","2014-04-15","citizenlab",""
+"http://www.anonypost.com/","ANON","2014-04-15","citizenlab",""
+"http://www.anp.org.pk/","POLR","2014-04-15","citizenlab",""
+"http://www.aool.blogspot.com/","LGBT","2014-04-15","citizenlab",""
+"http://www.apnakarachi.com/","HOST","2014-04-15","citizenlab",""
+"http://www.arnit.net/utilities/webproxy/new","ANON","2014-04-15","citizenlab",""
+"http://www.asaappublications.com/","NEWS","2014-04-15","citizenlab",""
+"http://www.askislam.org/","HUMR","2014-04-15","citizenlab",""
+"http://www.attackcensorship.com/attack-censorship.html","ANON","2014-04-15","citizenlab",""
+"http://www.atunnel.com/","ANON","2014-04-15","citizenlab",""
+"http://www.awamiawaz.com/","NEWS","2014-04-15","citizenlab",""
+"http://www.ayubmed.edu.pk/","XED","2014-04-15","citizenlab",""
+"http://www.bachakhan.8k.com/","HUMR","2014-04-15","citizenlab",""
+"http://www.backfox.com/","ANON","2014-04-15","citizenlab",""
+"http://www.baloch2000.org/","HUMR","2014-04-15","citizenlab",""
+"http://www.balochclub.com/","HUMR","2014-04-15","citizenlab",""
+"http://www.balochfront.com/","HUMR","2014-04-15","citizenlab",""
+"http://www.balochhal.com/","MINR","2016-06-09","Berkman Klein, Bolo Bhi",""
+"http://www.balochistaninfo.com/","HUMR","2014-04-15","citizenlab",""
+"http://www.balochistaninfo.com/balochanitawar/","HUMR","2014-04-15","citizenlab",""
+"http://www.balochmedia.net/","HUMR","2014-04-15","citizenlab",""
+"http://www.balochonline.com/en/","MINR","2016-06-09","Berkman Klein, Bolo Bhi",""
+"http://www.balochpeople.org/","HUMR","2014-04-15","citizenlab",""
+"http://www.balochtawar.net/","HUMR","2014-04-15","citizenlab",""
+"http://www.balochunitedfront.org/","HUMR","2014-04-15","citizenlab",""
+"http://www.balochunityconference.org/","MINR","2016-06-09","Berkman Klein, Bolo Bhi",""
+"http://www.balochvoice.com/","HOST","2014-04-15","citizenlab",""
+"http://www.balochvoice.net/","NEWS","2014-04-15","citizenlab",""
+"http://www.balochwarna.com/","NEWS","2014-04-15","citizenlab",""
+"http://www.bbc.co.uk/","NEWS","2014-04-15","citizenlab",""
+"http://www.bbc.co.uk/urdu/","NEWS","2014-04-15","citizenlab",""
+"http://www.betaproxy.com/","ANON","2014-04-15","citizenlab",""
+"http://www.bharat-rakshak.com/","POLR","2014-04-15","citizenlab",""
+"http://www.bharat-rakshak.com/MONITOR/ISSUE5-6/arya.html","POLR","2014-04-15","citizenlab",""
+"http://www.bibleprobe.com/muhammad-cartoons.htm","REL","2014-04-15","citizenlab",""
+"http://www.blockedsiteaccess.com/","ANON","2014-04-15","citizenlab",""
+"http://www.bollywoodworld.com/","CULTR","2014-04-15","citizenlab",""
+"http://www.brawl-hall.com/pages/proxy.php","ANON","2014-04-15","citizenlab",""
+"http://www.break.com/usercontent/2010/5/16/how-to-draw-muhammad-1838369","MMED","2014-04-15","citizenlab",""
+"http://www.browseany.com/","ANON","2014-04-15","citizenlab",""
+"http://www.browser-x.com/","ANON","2014-04-15","citizenlab",""
+"http://www.browser9.com/","ANON","2014-04-15","citizenlab",""
+"http://www.bso-na.org/","HUMR","2014-04-15","citizenlab",""
+"http://www.btunnel.com/","ANON","2014-04-15","citizenlab",""
+"http://www.buzzfeed.com/","NEWS","2014-04-15","citizenlab",""
+"http://www.buzzfeed.com/robertlangdon/the-prophet-muhammad-in-a-bear-suit-express-you","REL","2014-04-15","citizenlab",""
+"http://www.bypassglobal.com/","ANON","2014-04-15","citizenlab",""
+"http://www.bypassglobal.info/","ANON","2014-04-15","citizenlab",""
+"http://www.bypassthat.com/","ANON","2014-04-15","citizenlab",""
+"http://www.bywhat.com/","ANON","2014-04-15","citizenlab",""
+"http://www.cacah.org/","CULTR","2014-04-15","citizenlab",""
+"http://www.cagle.com/news/muhammad/","REL","2014-04-15","citizenlab",""
+"http://www.calculatepie.com/","ANON","2014-04-15","citizenlab",""
+"http://www.canhide.com/","ANON","2014-04-15","citizenlab",""
+"http://www.cdi.org/","GOVT","2014-04-15","citizenlab",""
+"http://www.cdi.org/issues/testing/pak1.html","GOVT","2014-04-15","citizenlab",""
+"http://www.cecid.com/","ANON","2014-04-15","citizenlab",""
+"http://www.christiannewswire.com/news/912904201.html","NEWS","2014-04-15","citizenlab",""
+"http://www.chronobypass.com/","ANON","2014-04-15","citizenlab",""
+"http://www.clickcop.com/","ANON","2014-04-15","citizenlab",""
+"http://www.clickittefaq.com/pakistani-soldiers-accused-war-crimes-tried-needed-al-leader/","FREL","2016-06-09","Berkman Klein, Bolo Bhi",""
+"http://www.cloakin.info/","ANON","2014-04-15","citizenlab",""
+"http://www.ctunnel.com/","ANON","2014-04-15","citizenlab",""
+"http://www.dahproxy.com/","ANON","2014-04-15","citizenlab",""
+"http://www.daily-sun.com/post/111237/List-of-201-Pakistani-army-war-criminals-revealed","FREL","2016-06-09","Berkman Klein, Bolo Bhi",""
+"http://www.dailyausaf.com/","NEWS","2014-04-15","citizenlab",""
+"http://www.dailybruin.com/articles/2010/5/17/flawed-interpretation-koran-results-overreactions-/","NEWS","2014-04-15","citizenlab",""
+"http://www.dailypak.com/","NEWS","2014-04-15","citizenlab",""
+"http://www.daveproxy.co.uk/","ANON","2014-04-15","citizenlab",""
+"http://www.dawn.com/","NEWS","2014-04-15","citizenlab",""
+"http://www.dawn.com/news/663772/a-history-of-religious-violence/","REL","2016-07-20","OONI",""
+"http://www.democraticunderground.com/discuss/duboard.php?address=389x8208802&az=view_all","GRP","2014-04-15","citizenlab",""
+"http://www.deviantart.com/","CULTR","2017-08-13","OONI",""
+"http://www.di2.nu/files/Muhammed_Cartoons_Jyllands_Posten.html","CULTR","2014-04-15","citizenlab",""
+"http://www.drawchrist.com/","REL","2014-04-15","citizenlab",""
+"http://www.drawmohammed.com/","REL","2014-04-15","citizenlab",""
+"http://www.drawmuhammadday.com/","CULTR","2014-04-15","citizenlab",""
+"http://www.drawmuhammadday.net/","CULTR","2014-04-15","citizenlab",""
+"http://www.drproxy.net/","ANON","2014-04-15","citizenlab",""
+"http://www.drpruxy.net/","ANON","2014-04-15","citizenlab",""
+"http://www.drpxy.net/","ANON","2014-04-15","citizenlab",""
+"http://www.dtunnel.com/","ANON","2014-04-15","citizenlab",""
+"http://www.en.wikipedia.org/wiki/muhammad","GRP","2014-04-15","citizenlab",""
+"http://www.englishtunnel.com/","ANON","2014-04-15","citizenlab",""
+"http://www.epakistan.com/","COMT","2014-04-15","citizenlab",""
+"http://www.etrmblog.com/","ANON","2014-04-15","citizenlab",""
+"http://www.eurobaluchi.com/","HUMR","2014-04-15","citizenlab",""
+"http://www.evilsprouts.co.uk/defilter","ANON","2014-04-15","citizenlab",""
+"http://www.expressindia.com/","NEWS","2014-04-15","citizenlab",""
+"http://www.extratorrent.com/","FILE","2014-04-15","citizenlab",""
+"http://www.faan.co.uk/","ANON","2014-04-15","citizenlab",""
+"http://www.facebook.com/pages/Everybody-Draw-Mohammed-Day/121369914543425?ref=mf","REL","2014-04-15","citizenlab",""
+"http://www.facebook.com/pages/Everybody-Draw-Mohammed-day-May-20/112498195453416?ref=search&sid=100001050496784.3964918704..1","REL","2014-04-15","citizenlab",""
+"http://www.facebookproxy.co.uk/","ANON","2014-04-15","citizenlab",""
+"http://www.facebookproxy.co.uk/facebook-proxy.php","ANON","2014-04-15","citizenlab",""
+"http://www.facebookproxy.org/","ANON","2014-04-15","citizenlab",""
+"http://www.faceoxy.com/","ANON","2014-04-15","citizenlab",""
+"http://www.faithfreedom.org/","HUMR","2014-04-15","citizenlab",""
+"http://www.faithfreedom.org/Gallery/28.htm","HUMR","2014-04-15","citizenlab",""
+"http://www.fas.org/","GOVT","2014-04-15","citizenlab",""
+"http://www.fas.org/news/indopak.htm","GOVT","2014-04-15","citizenlab",""
+"http://www.fastfreeproxy.com/","ANON","2014-04-15","citizenlab",""
+"http://www.feo-online.org/","ANON","2014-04-15","citizenlab",""
+"http://www.fhrp.org/index.php","HUMR","2016-06-09","Berkman Klein, Bolo Bhi",""
+"http://www.filterbypasser.com/","ANON","2014-04-15","citizenlab",""
+"http://www.filternot.info/","ANON","2014-04-15","citizenlab",""
+"http://www.fireprox.com/","ANON","2014-04-15","citizenlab",""
+"http://www.fireproxy.com/","ANON","2014-04-15","citizenlab",""
+"http://www.fitnamovie.net/","REL","2014-04-15","citizenlab",""
+"http://www.fitnathemovie.info/","REL","2014-04-15","citizenlab",""
+"http://www.flickr.com/photos/chris-fritz/106103350/","NEWS","2014-04-15","citizenlab",""
+"http://www.flickr.com/photos/kuujiryo/4621614465/","MMED","2014-04-15","citizenlab",""
+"http://www.foxnews.com/scitech/2010/05/19/facebook-fracas-breaks-everybody-draw-mohammad-day/?test=latestnews","NEWS","2014-04-15","citizenlab",""
+"http://www.freeanonymousproxy.net/","ANON","2014-04-15","citizenlab",""
+"http://www.freedomgatepakistan.org/","POLR","2014-04-15","citizenlab",""
+"http://www.freefacebookproxies.com/","ANON","2014-04-15","citizenlab",""
+"http://www.freeproxy.ca/","ANON","2014-04-15","citizenlab",""
+"http://www.freeproxy.us/","ANON","2014-04-15","citizenlab",""
+"http://www.freeproxyserver.ca/","ANON","2014-04-15","citizenlab",""
+"http://www.freeproxysite.com/","ANON","2014-04-15","citizenlab",""
+"http://www.freerepublic.com/focus/news/2499803/posts","NEWS","2014-04-15","citizenlab",""
+"http://www.freerepublic.com/focus/news/2499958/posts","NEWS","2014-04-15","citizenlab",""
+"http://www.freesindh.org/","HUMR","2014-04-15","citizenlab",""
+"http://www.freetoview.net/","ANON","2014-04-15","citizenlab",""
+"http://www.frontierpost.com/","NEWS","2014-04-15","citizenlab",""
+"http://www.fsurf.com/","ANON","2014-04-15","citizenlab",""
+"http://www.ftunnel.com/","ANON","2014-04-15","citizenlab",""
+"http://www.ftunnel.net/","ANON","2014-04-15","citizenlab",""
+"http://www.g-tunnel.com/","ANON","2014-04-15","citizenlab",""
+"http://www.g2gtomyspace.com/","ANON","2014-04-15","citizenlab",""
+"http://www.gayguide.net/","LGBT","2014-04-15","citizenlab",""
+"http://www.gayguide.net/Asia/Pakistan/","LGBT","2014-04-15","citizenlab",""
+"http://www.gaypakistanweb.com/","LGBT","2014-04-15","citizenlab",""
+"http://www.genocidebangladesh.org/","FREL","2016-06-09","Berkman Klein, Bolo Bhi",""
+"http://www.genocidewatch.org/pakistan.html","REL","2016-05-02","Berkman Klein, Bolo Bhi",""
+"http://www.geocities.com/CapitolHill/Lobby/8216/","GOVT","2014-04-15","citizenlab",""
+"http://www.geocities.com/khyber007/","HUMR","2014-04-15","citizenlab",""
+"http://www.geocities.com/loyeafghanistan/","HUMR","2014-04-15","citizenlab",""
+"http://www.geocities.com/rodeodrive/1955/sindhi.html","HUMR","2014-04-15","citizenlab",""
+"http://www.geocities.com/saslarkana/","HUMR","2014-04-15","citizenlab",""
+"http://www.geocities.com/toolandai/","HUMR","2014-04-15","citizenlab",""
+"http://www.geocities.com/turlandi2000/index.html","HUMR","2014-04-15","citizenlab",""
+"http://www.geocities.com/yawpukhtun/","HUMR","2014-04-15","citizenlab",""
+"http://www.geotunnel.com/","ANON","2014-04-15","citizenlab",""
+"http://www.gezcem.com/nph-proxy.pl.old","ANON","2014-04-15","citizenlab",""
+"http://www.gimia.com/","ANON","2014-04-15","citizenlab",""
+"http://www.gingerproxy.com/","ANON","2014-04-15","citizenlab",""
+"http://www.globalgayz.com/","LGBT","2014-04-15","citizenlab",""
+"http://www.globalmarch.org/","HUMR","2014-04-15","citizenlab",""
+"http://www.globalmarch.org/resourcecentre/world/pakistan.pdf","HUMR","2014-04-15","citizenlab",""
+"http://www.globalvoicesonline.org/-/world/south-asia/pakistan/","NEWS","2014-04-15","citizenlab",""
+"http://www.google.com.pk/#q=muhammad+cartoon&hl=en&sa=X&prmd=inv&source=univ&tbs=vid:1&tbo=u&ei=zkX0S4ubAYmD_AaPr7GJDQ&oi=video_result_group&ct=title&resnum=9&ved=0CEoQqwQwCA&fp=1&cad=b","MMED","2014-04-15","citizenlab",""
+"http://www.google.com.pk/images?aq=f&aqi=&aql=&client=firefox-a&gbv=2&gs_rfai=&hl=en&oq=&q=muhammad&rls=org.mozilla:en-US:official&source=imghp","CULTR","2014-04-15","citizenlab",""
+"http://www.google.com.pk/images?aq=f&aqi=&aql=&gs_rfai=&hl=en&oq=&q=everybody+draw&rlz=1R2ADFA_enPK370&sa=1&tbs=isch:1&um=1","CULTR","2014-04-15","citizenlab",""
+"http://www.google.com.pk/images?aq=f&aqi=&aql=&gs_rfai=&hl=en&oq=&q=muhammad+day&rlz=1R2ADFA_enPK370&sa=1&tbs=isch:1&um=1","CULTR","2014-04-15","citizenlab",""
+"http://www.google.com.pk/images?aq=f&aqi=&aql=&gs_rfai=&hl=en&oq=&q=muhammed+draw&rlz=1R2ADFA_enPK370&sa=1&tbs=isch:1&um=1","CULTR","2014-04-15","citizenlab",""
+"http://www.google.com.pk/images?aq=f&aqi=&aql=&gs_rfai=&hl=en&oq=&q=muhammed+draw+day&rlz=1R2ADFA_enPK370&sa=1&tbs=isch:1&um=1","CULTR","2014-04-15","citizenlab",""
+"http://www.google.com.pk/images?aq=f&aqi=&aql=&gs_rfai=&hl=en&oq=&q=seatle+cartoonist&rlz=1R2ADFA_enPK370&sa=1&tbs=isch:1&um=1","CULTR","2014-04-15","citizenlab",""
+"http://www.google.com.pk/images?aq=f&aqi=g6g-m4&aql=&gbv=2&gs_rfai=&hl=en&oq=&q=muhammad+cartoon&sa=1&start=0&tbs=isch:1","CULTR","2014-04-15","citizenlab",""
+"http://www.google.com.pk/images?aq=o&aqi=&aql=&gs_rfai=&hl=en&oq=&q=first+annual+draw&rlz=1R2ADFA_enPK370&sa=1&tbs=isch:1&um=1","CULTR","2014-04-15","citizenlab",""
+"http://www.google.com.pk/images?client=firefox-a&hl=en&ie=UTF-8&oe=utf-8&q=mohhammad%20day%20pics&rls=org.mozilla:en-US:official&sa=N&source=og&tab=wi&um=1","CULTR","2014-04-15","citizenlab",""
+"http://www.google.com.pk/images?ct=title&ei=JkP0S5HIK5Cj_AbLvoGhDQ&hl=en&ie=UTF-8&oi=image_result_group&q=muhammad+cartoon&resnum=0&resnum=1&revid=1296971284&sa=X&source=univ&um=1&ved=0CCUQsAQwAA","CULTR","2014-04-15","citizenlab",""
+"http://www.google.com.pk/images?hl=en&ie=UTF-8&q=muhammad%20draw&rlz=1R2ADFA_enPK370&sa=N&source=og&tab=wi&um=1","CULTR","2014-04-15","citizenlab",""
+"http://www.google.com.pk/search?ct=title&ei=2-_0S77VIcXE-QbCgv3NCA&hl=en&oi=video_result_group&prmd=nvl&q=draw+muhammad+day&resnum=7&sa=X&source=univ&tbo=u&tbs=vid:1&ved=0CDcQqwQwBg","CULTR","2014-04-15","citizenlab",""
+"http://www.goproxing.com/","ANON","2014-04-15","citizenlab",""
+"http://www.gotoproxy.com/","ANON","2014-04-15","citizenlab",""
+"http://www.greaterkashmir.com/","GOVT","2014-04-15","citizenlab",""
+"http://www.groups.yahoo.com/","HUMR","2014-04-15","citizenlab",""
+"http://www.groups.yahoo.com/group/pakhtu","HUMR","2014-04-15","citizenlab",""
+"http://www.gtunnel.com/","ANON","2014-04-15","citizenlab",""
+"http://www.guardster.com/subscription/proxy_free.php","ANON","2014-04-15","citizenlab",""
+"http://www.gwkhan.20m.com/","HUMR","2014-04-15","citizenlab",""
+"http://www.h-tunnel.com/","ANON","2014-04-15","citizenlab",""
+"http://www.hazara.net/","HUMR","2014-04-15","citizenlab",""
+"http://www.hazaranews.net/","REL","2016-05-02","Berkman Klein, Bolo Bhi",""
+"http://www.hewad.net/","HUMR","2014-04-15","citizenlab",""
+"http://www.hidemyass.com/","ANON","2014-04-15","citizenlab",""
+"http://www.hidemybox.com/","ANON","2014-04-15","citizenlab",""
+"http://www.hinduamericanfoundation.org/","REL","2014-04-15","citizenlab",""
+"http://www.hinduhumanrights.org/","HUMR","2014-04-15","citizenlab",""
+"http://www.hinduonnet.com/","NEWS","2014-04-15","citizenlab",""
+"http://www.hindurashtra.org/","GOVT","2014-04-15","citizenlab",""
+"http://www.hindustantimes.com/","NEWS","2014-04-15","citizenlab",""
+"http://www.hizb.org.uk/","POLR","2014-04-15","citizenlab",""
+"http://www.hkce.net/","ANON","2014-04-15","citizenlab",""
+"http://www.hotspotshield.com/","ANON","2014-04-15","citizenlab",""
+"http://www.hrcp-web.org/","HUMR","2014-04-15","citizenlab",""
+"http://www.htunnel.net/","ANON","2014-04-15","citizenlab",""
+"http://www.hujiko.com/","ANON","2014-04-15","citizenlab",""
+"http://www.humanrightsfirst.org/blog/lgbt-voices-equality-pakistan/","LGBT","2016-07-20","OONI",""
+"http://www.hungamahub.com/video/dfAORZlj0Lk/pakistan-army-has-committed-war-crimes-in-kashmir-and-balochistan-tarek-fatah.html","FREL","2016-06-09","Berkman Klein, Bolo Bhi",""
+"http://www.i-tunnel.net/","ANON","2014-04-15","citizenlab",""
+"http://www.ibypass.org/","ANON","2014-04-15","citizenlab",""
+"http://www.ict.org.il/inter_ter/orgdet.cfm?orgid=57","HUMR","2014-04-15","citizenlab",""
+"http://www.imsly.com/","ANON","2014-04-15","citizenlab",""
+"http://www.inbox.com.pk/","COMT","2014-04-15","citizenlab",""
+"http://www.indee.info/BRIEFS/06/03MAR/03mar01-18.html","NEWS","2014-04-15","citizenlab",""
+"http://www.indianembassy.org/","GOVT","2014-04-15","citizenlab",""
+"http://www.indiapakistan.com/","GOVT","2014-04-15","citizenlab",""
+"http://www.ineed-myspace.com/","ANON","2014-04-15","citizenlab",""
+"http://www.insaaf.org.pk/","HUMR","2014-04-15","citizenlab",""
+"http://www.insaf.org.pk/","POLR","2014-04-15","citizenlab",""
+"http://www.internationalfreepresssociety.org/","NEWS","2014-04-15","citizenlab",""
+"http://www.internationalfreepresssociety.org/2010/04/seattle-cartoonist-launches-everybody-draw-mohammed-day/","GRP","2014-04-15","citizenlab",""
+"http://www.ipsecret.com/","ANON","2014-04-15","citizenlab",""
+"http://www.ipsnews.net/","HUMR","2014-04-15","citizenlab",""
+"http://www.ipsnews.net/news.asp?idnews=34015","HUMR","2014-04-15","citizenlab",""
+"http://www.ipsnews.net/shakti/0610_1.asp","XED","2014-04-15","citizenlab",""
+"http://www.ipzap.com/","ANON","2014-04-15","citizenlab",""
+"http://www.iraniproxy.com/","ANON","2014-04-15","citizenlab",""
+"http://www.irinnews.org/","HUMR","2014-04-15","citizenlab",""
+"http://www.irinnews.org/report.asp?ReportID=46698&SelectRegion=Asia","HUMR","2014-04-15","citizenlab",""
+"http://www.islam-usa.com/","XED","2014-04-15","citizenlab",""
+"http://www.islam-watch.org/","REL","2014-04-15","citizenlab",""
+"http://www.islamfortoday.com/","HUMR","2014-04-15","citizenlab",""
+"http://www.isohunt.com/","FILE","2014-04-15","citizenlab",""
+"http://www.iwantunblock.com/","ANON","2014-04-15","citizenlab",""
+"http://www.iwantunblock.info/","ANON","2014-04-15","citizenlab",""
+"http://www.iweb365.net/","ANON","2014-04-15","citizenlab",""
+"http://www.j-tunnel.com/","ANON","2014-04-15","citizenlab",""
+"http://www.jalsasalana.org/","HUMR","2014-04-15","citizenlab",""
+"http://www.jamaat.org/","POLR","2014-04-15","citizenlab",""
+"http://www.jamaat.org/qa/homo.html","LGBT","2014-04-15","citizenlab",""
+"http://www.jamiat.org.pk/","POLR","2014-04-15","citizenlab",""
+"http://www.jamiattalibat.org/","POLR","2014-04-15","citizenlab",""
+"http://www.jammu-kashmir.com/","GOVT","2014-04-15","citizenlab",""
+"http://www.jang.com.pk/","NEWS","2014-04-15","citizenlab",""
+"http://www.jasarat.com/","NEWS","2014-04-15","citizenlab",""
+"http://www.jihadwatch.org/","REL","2014-04-15","citizenlab",""
+"http://www.jihadwatch.org/archives/020472.php","REL","2014-04-15","citizenlab",""
+"http://www.jtunnel.com/","ANON","2014-04-15","citizenlab",""
+"http://www.jtunnel.net/","ANON","2014-04-15","citizenlab",""
+"http://www.jusonenews.com/","MILX","2014-04-15","citizenlab",""
+"http://www.k-tunnel.com/","ANON","2014-04-15","citizenlab",""
+"http://www.kalpoint.com/","HOST","2014-04-15","citizenlab",""
+"http://www.karachijamaat.org/","POLR","2014-04-15","citizenlab",""
+"http://www.kashmir-information.com/","GOVT","2014-04-15","citizenlab",""
+"http://www.kavkazcenter.com/","MILX","2014-04-15","citizenlab",""
+"http://www.kean.edu/~bgsg/Conference09/Papers_and_Presentations/Anis%20Ahmed_Paper_OperationSearchlight.pdf","FREL","2016-06-09","Berkman Klein, Bolo Bhi",""
+"http://www.keralanext.com/","NEWS","2014-04-15","citizenlab",""
+"http://www.khabrain.com/","NEWS","2014-04-15","citizenlab",""
+"http://www.khatm-e-nubuwwat.com/","REL","2014-04-15","citizenlab",""
+"http://www.khilafat.org/","MILX","2014-04-15","citizenlab",""
+"http://www.khilafat.org/newPages/Books/Resources/Hizb-ut-Tahrir.pdf?PHPSESSID=769892523764e96ed43cd68d25949985","GOVT","2014-04-15","citizenlab",""
+"http://www.khyber.org/","HUMR","2014-04-15","citizenlab",""
+"http://www.khyberbazar.com/","HUMR","2014-04-15","citizenlab",""
+"http://www.khyberwatch.com/","HUMR","2014-04-15","citizenlab",""
+"http://www.kickasstorrents.com/","FILE","2014-04-15","citizenlab",""
+"http://www.kitabtoon.com/","HUMR","2014-04-15","citizenlab",""
+"http://www.klc.org.pk/","GOVT","2014-04-15","citizenlab",""
+"http://www.kproxy.com/","ANON","2014-04-15","citizenlab",""
+"http://www.ktntv.tv/","NEWS","2017-11-27","OONI","Reportedly blocked"
+"http://www.ktunnel.com/","ANON","2014-04-15","citizenlab",""
+"http://www.ktunnel.net/","ANON","2014-04-15","citizenlab",""
+"http://www.l-tunnel.com/","ANON","2014-04-15","citizenlab",""
+"http://www.launchfacebook.com/","ANON","2014-04-15","citizenlab",""
+"http://www.lemonbits.net/","GRP","2014-04-15","citizenlab",""
+"http://www.letmeby.com/","ANON","2014-04-15","citizenlab",""
+"http://www.letsproxy.com/","ANON","2014-04-15","citizenlab",""
+"http://www.libertiesalliance.org/2010/04/24/%E2%80%9Ceverybody-draw-mohammed-day%E2%80%9D-%E2%80%93-20-may-2010-join-in-and-protect-freedom-of-expression/","GRP","2014-04-15","citizenlab",""
+"http://www.live365.com/","NEWS","2014-04-15","citizenlab",""
+"http://www.liveleak.com/view?i=3aa_1431629060","FREL","2016-06-09","Berkman Klein, Bolo Bhi",""
+"http://www.logonhelp.org/","ANON","2014-04-15","citizenlab",""
+"http://www.loonwatch.com/2010/04/creators-of-everybody-draw-muhammad-day-appalled-by-hate/","NEWS","2014-04-15","citizenlab",""
+"http://www.loveurdu.com/","CULTR","2014-04-15","citizenlab",""
+"http://www.ltunnel.com/","ANON","2014-04-15","citizenlab",""
+"http://www.ltunnel.net/","ANON","2014-04-15","citizenlab",""
+"http://www.m-tunnel.com/","ANON","2014-04-15","citizenlab",""
+"http://www.mahalo.com/muhammad-cartoons","NEWS","2014-04-15","citizenlab",""
+"http://www.makeuseof.com/","HACK","2014-04-15","citizenlab",""
+"http://www.marxist.com/","HUMR","2014-04-15","citizenlab",""
+"http://www.mastana.net/","HUMR","2014-04-15","citizenlab",""
+"http://www.mathtunnel.com/","ANON","2014-04-15","citizenlab",""
+"http://www.mctcp.org/","ANON","2014-04-15","citizenlab",""
+"http://www.meetup.com/BrisbaneAtheists/messages/boards/thread/9078207/post/35583098/?hash=35583098#35583098","GRP","2014-04-15","citizenlab",""
+"http://www.millat.com/","NEWS","2014-04-15","citizenlab",""
+"http://www.mollynorris.com/","NEWS","2014-04-15","citizenlab",""
+"http://www.mousematrix.com/","ANON","2014-04-15","citizenlab",""
+"http://www.mqm.com/","HUMR","2014-04-15","citizenlab",""
+"http://www.musafar.com/","HUMR","2014-04-15","citizenlab",""
+"http://www.musicpakistan.net/","MMED","2014-04-15","citizenlab",""
+"http://www.muslim.org/","HUMR","2014-04-15","citizenlab",""
+"http://www.muslimedia.com/","MILX","2014-04-15","citizenlab",""
+"http://www.myfreeproxy.com/","ANON","2014-04-15","citizenlab",""
+"http://www.myninjaproxy.info/","ANON","2014-04-15","citizenlab",""
+"http://www.mynorthwest.com/?nid=11&sid=313170","NEWS","2014-04-15","citizenlab",""
+"http://www.mynorthwest.com/category/local_news_articles/20100518/'Everbody-Draw-Mohammed'-cartoonist:-I'm-against-my-own-concept-becoming-a-reality/","NEWS","2014-04-15","citizenlab",""
+"http://www.myprxy.com/","ANON","2014-04-15","citizenlab",""
+"http://www.mywebtunnel.com/","ANON","2014-04-15","citizenlab",""
+"http://www.n-tunnel.com/","ANON","2014-04-15","citizenlab",""
+"http://www.na.gov.pk/en/index.php","POLT","2016-05-02","Berkman Klein, Bolo Bhi",""
+"http://www.nationalpolicyinstitute.org/2010/04/25/seattle-cartoonist-launches-everybody-draw-mohammed-day/","POLR","2014-04-15","citizenlab",""
+"http://www.nci.org/","GOVT","2014-04-15","citizenlab",""
+"http://www.nci.org/ind-pak.htm","GOVT","2014-04-15","citizenlab",""
+"http://www.needprivacy.info/","ANON","2014-04-15","citizenlab",""
+"http://www.newbackdoor.com/","ANON","2014-04-15","citizenlab",""
+"http://www.newsrealblog.com/2010/04/24/twog-link-of-the-day-is-everybody-draw-mohammed-day-a-bad-idea/","NEWS","2014-04-15","citizenlab",""
+"http://www.ninjacover.com/","ANON","2014-04-15","citizenlab",""
+"http://www.ninjaproxy.com/","ANON","2014-04-15","citizenlab",""
+"http://www.nntimes.com/","MISC","2014-04-15","citizenlab",""
+"http://www.nomorelimits.net/","ANON","2014-04-15","citizenlab",""
+"http://www.noorclinic.com/","XED","2014-04-15","citizenlab",""
+"http://www.nopath.com/","ANON","2014-04-15","citizenlab",""
+"http://www.nordish.net/","REL","2014-04-15","citizenlab",""
+"http://www.npr.org/","ENV","2014-04-15","citizenlab",""
+"http://www.npr.org/templates/story/story.php?sourceCode=gaw&storyId=4954200","ENV","2014-04-15","citizenlab",""
+"http://www.ntunnel.com/","ANON","2014-04-15","citizenlab",""
+"http://www.ntunnel.net/","ANON","2014-04-15","citizenlab",""
+"http://www.o-tunnel.com/","ANON","2014-04-15","citizenlab",""
+"http://www.onejerusalem.com/2005/12/26/draw-mohammed-and-win-a-scholarship-to-the-art-college-of-your-choice/","HUMR","2014-04-15","citizenlab",""
+"http://www.orkutpass.com/","ANON","2014-04-15","citizenlab",""
+"http://www.ostomaan.org/","HUMR","2014-04-15","citizenlab",""
+"http://www.otunnel.com/","ANON","2014-04-15","citizenlab",""
+"http://www.otunnel.net/","ANON","2014-04-15","citizenlab",""
+"http://www.outlookindia.com/","NEWS","2014-04-15","citizenlab",""
+"http://www.p-tunnel.com/","ANON","2014-04-15","citizenlab",""
+"http://www.pa-chouvy.org/","ALDR","2014-04-15","citizenlab",""
+"http://www.pakhtun.com/","HUMR","2014-04-15","citizenlab",""
+"http://www.pakhtunistan.com/","HUMR","2014-04-15","citizenlab",""
+"http://www.pakistan-facts.com/","GOVT","2014-04-15","citizenlab",""
+"http://www.pakistan-facts.com/article.php?story=20030729154610902","MILX","2014-04-15","citizenlab",""
+"http://www.pakistanchristiancongress.com/","HUMR","2014-04-15","citizenlab",""
+"http://www.pakistaneconomist.com/","NEWS","2014-04-15","citizenlab",""
+"http://www.pakistaniwomen.org/","HUMR","2016-07-20","OONI",""
+"http://www.pakistanpressfoundation.org/","NEWS","2014-04-15","citizenlab",""
+"http://www.pakistansportsbetting.com/","GMB","2016-06-09","Berkman Klein, Bolo Bhi",""
+"http://www.paklinks.com/","HOST","2014-04-15","citizenlab",""
+"http://www.pakquake.com/","ENV","2014-04-15","citizenlab",""
+"http://www.pamil-visions.net/kurt-westergaard/210080/","NEWS","2014-04-15","citizenlab",""
+"http://www.panunkashmir.org/","NEWS","2014-04-15","citizenlab",""
+"http://www.pashto.org/","HUMR","2014-04-15","citizenlab",""
+"http://www.pashtunistan.8k.com/","HUMR","2014-04-15","citizenlab",""
+"http://www.pat.com.pk/","POLR","2014-04-15","citizenlab",""
+"http://www.payambaloch.persianblog.com/","HUMR","2014-04-15","citizenlab",""
+"http://www.pcswhr.com/","HUMR","2016-06-09","Berkman Klein, Bolo Bhi",""
+"http://www.peemac.sdnpk.org/","ENV","2014-04-15","citizenlab",""
+"http://www.perlproxy.com/","ANON","2014-04-15","citizenlab",""
+"http://www.petitiononline.com/","NEWS","2014-04-15","citizenlab",""
+"http://www.petitiononline.com/jh011406/petition.html","POLR","2014-04-15","citizenlab",""
+"http://www.pimpmyip.com/","ANON","2014-04-15","citizenlab",""
+"http://www.piphro.org/","HUMR","2016-06-09","Berkman Klein, Bolo Bhi",""
+"http://www.pkblogs.com/","NEWS","2014-04-15","citizenlab",""
+"http://www.pkchill.com/watch/Vo7Y-DBBypU/pakistan-armys-war-crimes-in-bangladesh-p12.html","FREL","2016-06-09","Berkman Klein, Bolo Bhi",""
+"http://www.plusultrablog.com/","REL","2014-04-15","citizenlab",""
+"http://www.pmln.org.pk/","POLR","2014-04-15","citizenlab",""
+"http://www.pol.com.pk/","MMED","2014-04-15","citizenlab",""
+"http://www.pole.ws/","ANON","2014-04-15","citizenlab",""
+"http://www.polysolve.com/","ANON","2014-04-15","citizenlab",""
+"http://www.power.com/Pub/Main.aspx?PowerSite=YOUTUBE&navPublic=true","MMED","2014-04-15","citizenlab",""
+"http://www.ppp.org.pk/","POLR","2014-04-15","citizenlab",""
+"http://www.pppindia.com/","GOVT","2014-04-15","citizenlab",""
+"http://www.pro-pakistan.com/","NEWS","2014-04-15","citizenlab",""
+"http://www.projectbypass.com/","ANON","2014-04-15","citizenlab",""
+"http://www.proxifree.com/","ANON","2014-04-15","citizenlab",""
+"http://www.proxify.cn/","ANON","2014-04-15","citizenlab",""
+"http://www.proxify.co.uk/","ANON","2014-04-15","citizenlab",""
+"http://www.proxify.de/","ANON","2014-04-15","citizenlab",""
+"http://www.proxify.info/","ANON","2014-04-15","citizenlab",""
+"http://www.proxify.net/","ANON","2014-04-15","citizenlab",""
+"http://www.proxify.org/","ANON","2014-04-15","citizenlab",""
+"http://www.proxy4free.com/","ANON","2014-04-15","citizenlab",""
+"http://www.proxy7.com/","ANON","2014-04-15","citizenlab",""
+"http://www.proxyblind.org/","ANON","2014-04-15","citizenlab",""
+"http://www.proxyblog.cn/","ANON","2014-04-15","citizenlab",""
+"http://www.proxyboost.net/","ANON","2014-04-15","citizenlab",""
+"http://www.proxybutton.com/","ANON","2014-04-15","citizenlab",""
+"http://www.proxychoice.com/","ANON","2014-04-15","citizenlab",""
+"http://www.proxygenie.com/","ANON","2014-04-15","citizenlab",""
+"http://www.proxyking.net/","ANON","2014-04-15","citizenlab",""
+"http://www.proxylord.com/","ANON","2014-04-15","citizenlab",""
+"http://www.proxymouse.com/","ANON","2014-04-15","citizenlab",""
+"http://www.proxyrat.com/","ANON","2014-04-15","citizenlab",""
+"http://www.proxysense.com/","ANON","2014-04-15","citizenlab",""
+"http://www.proxyserver.it/","ANON","2014-04-15","citizenlab",""
+"http://www.proxysnail.com/","ANON","2014-04-15","citizenlab",""
+"http://www.proxyz.be/","ANON","2014-04-15","citizenlab",""
+"http://www.psi.org/","XED","2014-04-15","citizenlab",""
+"http://www.ptunnel.com/","ANON","2014-04-15","citizenlab",""
+"http://www.pukhtunistan.4t.com/","HUMR","2014-04-15","citizenlab",""
+"http://www.pumashoes.com/","MISC","2014-04-15","citizenlab",""
+"http://www.q-tunnel.com/","ANON","2014-04-15","citizenlab",""
+"http://www.qadiani.org/","HUMR","2014-04-15","citizenlab",""
+"http://www.qtatribune.com/","MINR","2016-05-02","Berkman Klein, Bolo Bhi",""
+"http://www.r-tunnel.com/","ANON","2014-04-15","citizenlab",""
+"http://www.radiobalochi.org/","HUMR","2014-04-15","citizenlab",""
+"http://www.rahimjaandehvari.blogfa.com/","HUMR","2014-04-15","citizenlab",""
+"http://www.rationalistpakistan.com/where-is-the-end/shia-genocide-story-inside/","REL","2016-05-02","Berkman Klein, Bolo Bhi",""
+"http://www.readbee.com/","NEWS","2014-04-15","citizenlab",""
+"http://www.recure.com/","ANON","2014-04-15","citizenlab",""
+"http://www.religioustolerance.org/rt_pakis.htm","HUMR","2014-04-15","citizenlab",""
+"http://www.rferl.org/","NEWS","2014-04-15","citizenlab",""
+"http://www.rferl.org/featuresarticle/2006/6/534985E6-A8B1-4A1B-B55E-700B3AB246B2.html","GOVT","2014-04-15","citizenlab",""
+"http://www.rosehumanrights.org/","HUMR","2016-06-09","Berkman Klein, Bolo Bhi",""
+"http://www.rsf.org/article.php3?id_article=17358","NEWS","2014-04-15","citizenlab",""
+"http://www.rssonnet.org/","MILX","2014-04-15","citizenlab",""
+"http://www.rtunnel.com/","ANON","2014-04-15","citizenlab",""
+"http://www.rtunnel.net/","ANON","2014-04-15","citizenlab",""
+"http://www.rubyfortune.com/en/","GMB","2016-06-09","Berkman Klein, Bolo Bhi",""
+"http://www.saag.org/","POLR","2014-04-15","citizenlab",""
+"http://www.sabawoon.com/","HUMR","2014-04-15","citizenlab",""
+"http://www.safeforwork.net/","ANON","2014-04-15","citizenlab",""
+"http://www.safehazard.com/","ANON","2014-04-15","citizenlab",""
+"http://www.safelizard.com/","ANON","2014-04-15","citizenlab",""
+"http://www.safhr.org/","HUMR","2016-06-09","Berkman Klein, Bolo Bhi",""
+"http://www.sahilonline.org/","NEWS","2014-04-15","citizenlab",""
+"http://www.sahilonline.org/urdu/","NEWS","2014-04-15","citizenlab",""
+"http://www.samizdata.net/blog/archives/2005/12/the_satanic_cartoons.html","NEWS","2014-04-15","citizenlab",""
+"http://www.samuraiproxy.com/","ANON","2014-04-15","citizenlab",""
+"http://www.samuraistealth.com/","ANON","2014-04-15","citizenlab",""
+"http://www.sanabaloch.com/","HUMR","2014-04-15","citizenlab",""
+"http://www.sanalist.org/","HUMR","2014-04-15","citizenlab",""
+"http://www.sarbaaz.com/","HUMR","2014-04-15","citizenlab",""
+"http://www.satp.org/satporgtp/countries/pakistan/terroristoutfits/Ssp.htm","MILX","2014-04-15","citizenlab",""
+"http://www.satyaboutique.com/","ANON","2014-04-15","citizenlab",""
+"http://www.savetheshias.org/shia-genocide/","MINR","2016-05-02","Berkman Klein, Bolo Bhi",""
+"http://www.sc0rian.com/prox","ANON","2014-04-15","citizenlab",""
+"http://www.schoolproxy.us/","ANON","2014-04-15","citizenlab",""
+"http://www.secularstudents.org/drawingtheprophet","GRP","2014-04-15","citizenlab",""
+"http://www.secure-tunnel.com/","ANON","2014-04-15","citizenlab",""
+"http://www.senate.gov.pk/en/index.php?cattitle=Home&id=-1","POLT","2016-05-02","Berkman Klein, Bolo Bhi",""
+"http://www.shaheedfoundation.co.uk/shia-killing.asp","REL","2016-05-02","Berkman Klein, Bolo Bhi",""
+"http://www.sharp-pakistan.org/","HUMR","2016-06-09","Berkman Klein, Bolo Bhi",""
+"http://www.shiacode.com/","HUMR","2014-04-15","citizenlab",""
+"http://www.shiitenews.org/","REL","2016-05-02","Berkman Klein, Bolo Bhi",""
+"http://www.shirkatgah.org/","WOMR","2016-06-09","Berkman Klein, Bolo Bhi",""
+"http://www.silversurf.info/","ANON","2014-04-15","citizenlab",""
+"http://www.similarsites.com/sites-like/ninjaproxy.com","ANON","2014-04-15","citizenlab",""
+"http://www.sindhi.org/","HUMR","2014-04-15","citizenlab",""
+"http://www.sindhishaan.com/","HUMR","2014-04-15","citizenlab",""
+"http://www.sindhitrade.com/","HUMR","2014-04-15","citizenlab",""
+"http://www.sindhtoday.net/","HUMR","2014-04-15","citizenlab",""
+"http://www.sizzledcore.com/2010/05/20/how-to-access-facebook-in-pakistan-uae-saudi-arabia-iran/","NEWS","2014-04-15","citizenlab",""
+"http://www.skepticmoney.com/students-at-university-of-madison-wisconson-draw-muhammad/","NEWS","2014-04-15","citizenlab",""
+"http://www.skybet.com/","GMB","2014-04-15","citizenlab",""
+"http://www.skype.com/en/","NEWS","2014-04-15","citizenlab",""
+"http://www.slyuser.com/","ANON","2014-04-15","citizenlab",""
+"http://www.smugbox.com/facebook/login/stories?id=226","MISC","2014-04-15","citizenlab",""
+"http://www.sneak2.com/","ANON","2014-04-15","citizenlab",""
+"http://www.sneakysurf.com/","ANON","2014-04-15","citizenlab",""
+"http://www.sneakzorz.com/","ANON","2014-04-15","citizenlab",""
+"http://www.snoopblocker.com/","ANON","2014-04-15","citizenlab",""
+"http://www.soaleaders.com/","ANON","2014-04-15","citizenlab",""
+"http://www.sodahead.com/united-states/seattle-cartoonist-launches-everybody-draw-mohammed-day-you-in/question-984209/","REL","2014-04-15","citizenlab",""
+"http://www.sparcpk.org/","HUMR","2014-04-15","citizenlab",""
+"http://www.sparcpk.org/CRs-CRs%20in%20Pakistan.htm","HUMR","2014-04-15","citizenlab",""
+"http://www.spider.tm/","NEWS","2014-04-15","citizenlab",""
+"http://www.spiderproxy.com/","ANON","2014-04-15","citizenlab",""
+"http://www.spysurfing.com/","ANON","2014-04-15","citizenlab",""
+"http://www.squidoo.com/proxyfacebook","ANON","2014-04-15","citizenlab",""
+"http://www.sslunblock.com/","ANON","2014-04-15","citizenlab",""
+"http://www.state.gov/g/drl/rls/hrrpt/2004/41743.htm","HUMR","2014-04-15","citizenlab",""
+"http://www.sumotorrent.com/","FILE","2014-04-15","citizenlab",""
+"http://www.superproxy.be/browse.pl","ANON","2014-04-15","citizenlab",""
+"http://www.supportfreedomofspeech.com/hyphenated-american-dont-miss-everybody-draw-muhammad-day/","NEWS","2014-04-15","citizenlab",""
+"http://www.surf100.com/","ANON","2014-04-15","citizenlab",""
+"http://www.surf24h.com/","ANON","2014-04-15","citizenlab",""
+"http://www.surfonym.com/cgi-bin/nph-proxy","ANON","2014-04-15","citizenlab",""
+"http://www.susycaravan.com/","MISC","2014-04-15","citizenlab",""
+"http://www.switchproxy.com/","ANON","2014-04-15","citizenlab",""
+"http://www.t-tunnel.net/","ANON","2014-04-15","citizenlab",""
+"http://www.tahirfoundation.org/","HUMR","2014-04-15","citizenlab",""
+"http://www.tanqeed.org/","FEXP","2016-05-02","Berkman Klein, Bolo Bhi",""
+"http://www.tanzeem.org/","POLR","2014-04-15","citizenlab",""
+"http://www.teabreak.pk/","NEWS","2014-04-15","citizenlab",""
+"http://www.tehrik-e-niswan.org.pk/","WOMR","2016-06-09","Berkman Klein, Bolo Bhi",""
+"http://www.telegraph.co.uk/news/2016/06/14/street-protests-in-pakistan-after-shooting-of-transgender-activi/","LGBT","2016-07-20","OONI",""
+"http://www.the-cloak.com/login.html","ANON","2014-04-15","citizenlab",""
+"http://www.thebalochhal.com/","NEWS","2014-04-15","citizenlab",""
+"http://www.thehujra.com/","HUMR","2014-04-15","citizenlab",""
+"http://www.themoviefitna.com/","REL","2014-04-15","citizenlab",""
+"http://www.thenews.com.pk/","NEWS","2014-04-15","citizenlab",""
+"http://www.thepersecution.org/","HUMR","2014-04-15","citizenlab",""
+"http://www.thepetitionsite.com/539/231/363/stop-acid-attacks-against-women-in-pakistan/","HUMR","2016-07-20","OONI",""
+"http://www.thepiratebay.org/","FILE","2014-04-15","citizenlab",""
+"http://www.thesecretninjaproxy.info/","ANON","2014-04-15","citizenlab",""
+"http://www.thestrongestlinks.com/","ANON","2014-04-15","citizenlab",""
+"http://www.theunjustmedia.com/","MILX","2014-04-15","citizenlab",""
+"http://www.thewebtunnel.com/","ANON","2014-04-15","citizenlab",""
+"http://www.thrivehive.com/","ANON","2014-04-15","citizenlab",""
+"http://www.tnfj.org.pk/","REL","2014-04-15","citizenlab",""
+"http://www.torify.com/","ANON","2014-04-15","citizenlab",""
+"http://www.torontosun.com/","NEWS","2014-04-15","citizenlab",""
+"http://www.torrentdownloads.net/","FILE","2014-04-15","citizenlab",""
+"http://www.torrentreactor.net/","FILE","2014-04-15","citizenlab",""
+"http://www.torrentz.com/","FILE","2014-04-15","citizenlab",""
+"http://www.towleroad.com/2016/06/lgbt-pakistan/","LGBT","2016-07-20","OONI",""
+"http://www.transparency.org.pk/","POLR","2014-04-15","citizenlab",""
+"http://www.transproxy.info/","ANON","2014-04-15","citizenlab",""
+"http://www.turbohide.com/","ANON","2014-04-15","citizenlab",""
+"http://www.ultrareach.net/","ANON","2014-04-15","citizenlab",""
+"http://www.unblock-bess.com/","ANON","2014-04-15","citizenlab",""
+"http://www.unblock-facebook.net/","ANON","2014-04-15","citizenlab",""
+"http://www.unblock-me.org/","ANON","2014-04-15","citizenlab",""
+"http://www.unblock-websense.com/","ANON","2014-04-15","citizenlab",""
+"http://www.unblock365.com/","ANON","2014-04-15","citizenlab",""
+"http://www.unblock365.info/","ANON","2014-04-15","citizenlab",""
+"http://www.unblock60.com/","ANON","2014-04-15","citizenlab",""
+"http://www.unblock7.com/","ANON","2014-04-15","citizenlab",""
+"http://www.unblockbess.com/","ANON","2014-04-15","citizenlab",""
+"http://www.unblockbook.com/","ANON","2014-04-15","citizenlab",""
+"http://www.unblockbook.net/","ANON","2014-04-15","citizenlab",""
+"http://www.unblocked.me/facebook.php","ANON","2014-04-15","citizenlab",""
+"http://www.unblockedf.com/","ANON","2014-04-15","citizenlab",""
+"http://www.unblockf.com/","ANON","2014-04-15","citizenlab",""
+"http://www.unblockfacebooknow.com/","ANON","2014-04-15","citizenlab",""
+"http://www.unblockwebsense.com/","ANON","2014-04-15","citizenlab",""
+"http://www.unfilter.net/","ANON","2014-04-15","citizenlab",""
+"http://www.unipeak.com/","ANON","2014-04-15","citizenlab",""
+"http://www.unlock-myspace.com/","ANON","2014-04-15","citizenlab",""
+"http://www.unlock5.com/","ANON","2014-04-15","citizenlab",""
+"http://www.usatunnel.com/","ANON","2014-04-15","citizenlab",""
+"http://www.ustunnel.com/","ANON","2014-04-15","citizenlab",""
+"http://www.v-tunnel.org/","ANON","2014-04-15","citizenlab",""
+"http://www.viber.com/","NEWS","2014-04-15","citizenlab",""
+"http://www.videovat.com/","MMED","2014-04-15","citizenlab",""
+"http://www.virovene.org/","ANON","2014-04-15","citizenlab",""
+"http://www.vmathpie.com/","ANON","2014-04-15","citizenlab",""
+"http://www.voanews.com/persian/News-and-Views.cfm","NEWS","2014-04-15","citizenlab",""
+"http://www.vpntunnel.net/","ANON","2014-04-15","citizenlab",""
+"http://www.vpullel.com/","ANON","2014-04-15","citizenlab",""
+"http://www.vtunnel.biz/","ANON","2014-04-15","citizenlab",""
+"http://www.vtunnel.com/","ANON","2014-04-15","citizenlab",""
+"http://www.vtunnel.info/","ANON","2014-04-15","citizenlab",""
+"http://www.vtunnel.tv/","ANON","2014-04-15","citizenlab",""
+"http://www.vtunnel.us/","ANON","2014-04-15","citizenlab",""
+"http://www.w-tunnel.com/","ANON","2014-04-15","citizenlab",""
+"http://www.wahdatdaily.com/","HUMR","2014-04-15","citizenlab",""
+"http://www.warriorproxy.com/","ANON","2014-04-15","citizenlab",""
+"http://www.web-proxies.org/list.php/facebook-proxies","ANON","2014-04-15","citizenlab",""
+"http://www.websiteguru.com/mrnewguy","ANON","2014-04-15","citizenlab",""
+"http://www.weprox.biz/","ANON","2014-04-15","citizenlab",""
+"http://www.weprox.com/","ANON","2014-04-15","citizenlab",""
+"http://www.weprox.info/","ANON","2014-04-15","citizenlab",""
+"http://www.weprox.net/","ANON","2014-04-15","citizenlab",""
+"http://www.whatsapp.com/","NEWS","2014-04-15","citizenlab",""
+"http://www.who.int/countries/pak/en/","PUBH","2014-04-15","citizenlab",""
+"http://www.whrnet.org/fundamentalisms/docs/issue-pakistan-0606.html","HUMR","2014-04-15","citizenlab",""
+"http://www.wizproxy.com/","ANON","2014-04-15","citizenlab",""
+"http://www.worldsindhi.org/","HUMR","2014-04-15","citizenlab",""
+"http://www.worldsindhicongress.org/","MILX","2014-04-15","citizenlab",""
+"http://www.wtunnel.com/","ANON","2014-04-15","citizenlab",""
+"http://www.wtunnel.net/","ANON","2014-04-15","citizenlab",""
+"http://www.wujie.net/","ANON","2014-04-15","citizenlab",""
+"http://www.xerohour.org/hideme","ANON","2014-04-15","citizenlab",""
+"http://www.xroxy.com/","COMM","2016-05-02","Berkman Klein",""
+"http://www.yespakistan.com/","ENV","2014-04-15","citizenlab",""
+"http://www.yespakistan.com/forpakistan/fightpollution.asp","ENV","2014-04-15","citizenlab",""
+"http://www.youandaids.org/Asia%20Pacific%20at%20a%20Glance/Pakistan/index.asp","PUBH","2014-04-15","citizenlab",""
+"http://www.youngsindhiadults.org/","HUMR","2014-04-15","citizenlab",""
+"http://www.yourfreeproxy.com/","ANON","2014-04-15","citizenlab",""
+"http://www.youtube.com/verify_age?next_url=/watch?v=37w-aXGk8M0","NEWS","2014-04-15","citizenlab",""
+"http://www.youtube.com/watch?NR=1&v=s5rPSTLy394","REL","2014-04-15","citizenlab",""
+"http://www.youtube.com/watch?feature=fvst&v=1Wu5e50zrPA","REL","2014-04-15","citizenlab",""
+"http://www.youtube.com/watch?feature=related&skipcontrinter=1&v=l0q25HXyfM0","REL","2014-04-15","citizenlab",""
+"http://www.youtube.com/watch?feature=related&v=0T9UhBhTl9Q","REL","2014-04-15","citizenlab",""
+"http://www.youtube.com/watch?feature=related&v=20J-lRFRPkQ","REL","2014-04-15","citizenlab",""
+"http://www.youtube.com/watch?feature=related&v=2L2ouAN770U","REL","2014-04-15","citizenlab",""
+"http://www.youtube.com/watch?feature=related&v=2ojYJNlRI6Y","HUMR","2014-04-15","citizenlab",""
+"http://www.youtube.com/watch?feature=related&v=43LMQXYhyt0","REL","2014-04-15","citizenlab",""
+"http://www.youtube.com/watch?feature=related&v=AMRaxkgCUfI","REL","2014-04-15","citizenlab",""
+"http://www.youtube.com/watch?feature=related&v=KrS3QplTys0","REL","2014-04-15","citizenlab",""
+"http://www.youtube.com/watch?feature=related&v=Ky0wT4Jd0Sk","REL","2014-04-15","citizenlab",""
+"http://www.youtube.com/watch?feature=related&v=LyKdYTzMqWo","REL","2014-04-15","citizenlab",""
+"http://www.youtube.com/watch?feature=related&v=Zsv1SToU1xo","REL","2014-04-15","citizenlab",""
+"http://www.youtube.com/watch?feature=related&v=_rMxV6zKnoE","REL","2014-04-15","citizenlab",""
+"http://www.youtube.com/watch?feature=related&v=hKJtedW9KN4","REL","2014-04-15","citizenlab",""
+"http://www.youtube.com/watch?feature=related&v=nycuLpw0VV8","REL","2014-04-15","citizenlab",""
+"http://www.youtube.com/watch?feature=related&v=rPOWhYp5MTw","REL","2014-04-15","citizenlab",""
+"http://www.youtube.com/watch?feature=related&v=s5rpstly394","FEXP","2016-05-02","Berkman Klein, Citizen Lab",""
+"http://www.youtube.com/watch?feature=related?http://www.xroxy.com/&v=s5rPSTLy394","REL","2014-04-15","citizenlab",""
+"http://www.youtube.com/watch?v=0BP_xW29kCU","NEWS","2014-04-15","citizenlab",""
+"http://www.youtube.com/watch?v=37w-aXGk8M0","FEXP","2016-05-02","Berkman Klein, Citizen Lab",""
+"http://www.youtube.com/watch?v=3PCIeh1DOnk","REL","2014-04-15","citizenlab",""
+"http://www.youtube.com/watch?v=3sD-1-1sbik","REL","2014-04-15","citizenlab",""
+"http://www.youtube.com/watch?v=KlYLKf4q2rg","REL","2014-04-15","citizenlab",""
+"http://www.youtube.com/watch?v=MGuSK2hVukA","REL","2014-04-15","citizenlab",""
+"http://www.youtube.com/watch?v=OMz0aIM2_sM","REL","2014-04-15","citizenlab",""
+"http://www.youtube.com/watch?v=OdxG_WdYBj4","REL","2014-04-15","citizenlab",""
+"http://www.youtube.com/watch?v=WRxijt8dqEA","REL","2014-04-15","citizenlab",""
+"http://www.youtube.com/watch?v=XJMlgmwHN9E","REL","2014-04-15","citizenlab",""
+"http://www.youtube.com/watch?v=_TcNWY0E-PA","REL","2014-04-15","citizenlab",""
+"http://www.youtube.com/watch?v=a4yfG5dAZdU","REL","2014-04-15","citizenlab",""
+"http://www.youtube.com/watch?v=l3hiuNB2qfs","REL","2014-04-15","citizenlab",""
+"http://www.youtube.com/watch?v=pDrti5T93T8","REL","2014-04-15","citizenlab",""
+"http://www.youtube.com/watch?v=z7ok4njJXI8","REL","2014-04-15","citizenlab",""
+"http://www.youtube.com/watch?vo3s8jtvvg00","REL","2014-04-15","citizenlab",""
+"http://www.zad-e-rah.com/","REL","2016-05-02","Berkman Klein, Bolo Bhi",""
+"http://www.zend2.com/","ANON","2014-04-15","citizenlab",""
+"http://www.zimbio.com/War+on+Terrorism/articles/6NAIGjWobep/WASHINGTON+POST+Seattle+cartoonist+Molly+Norris","REL","2014-04-15","citizenlab",""
+"http://www.zmong-afghanistan.com/","NEWS","2014-04-15","citizenlab",""
+"http://www.zmong-afghanistan.com/pakhtunistan_dispute.asp","HUMR","2014-04-15","citizenlab",""
+"http://www.zombietime.com/","POLR","2014-04-15","citizenlab",""
+"http://www.zombietime.com/mohammed_image_archive/","REL","2014-04-15","citizenlab",""
+"http://www.zrombesh.org/","CULTR","2014-04-15","citizenlab",""
+"http://www.ztunnel.com/","ANON","2014-04-15","citizenlab",""
+"http://www.ztunnel.org/","ANON","2014-04-15","citizenlab",""
+"http://xaiu.info/","ANON","2014-04-15","citizenlab",""
+"http://yesbuthowever.com/draw-mohammed-9000008/","REL","2014-04-15","citizenlab",""
+"http://zombieinvasion.info/","ANON","2014-04-15","citizenlab",""
+"http://zombietime.com/","POLR","2014-04-15","citizenlab",""
+"http://ztunnel.com/","ANON","2014-04-15","citizenlab",""
+"http://ztunnel.org/","ANON","2014-04-15","citizenlab",""
+"https://aacounterterror.wordpress.com/2010/09/20/forsaken-crimes-of-pakistan-army/","FREL","2016-06-09","Berkman Klein, Bolo Bhi",""
+"https://aniscartujo.com/webproxy/default.aspx","ANON","2014-04-15","citizenlab",""
+"https://baluchsarmachar.wordpress.com/","MINR","2016-06-09","Berkman Klein, Bolo Bhi",""
+"https://baluchsarmachar.wordpress.com/tag/baloch-national-movement/","MINR","2016-06-09","Berkman Klein, Bolo Bhi",""
+"https://barenakedislam.wordpress.com/2010/05/02/muslim-hackers-get-their-filthy-finger-licken-hands-on-kfc-website/","REL","2014-04-15","citizenlab",""
+"https://en.wikipedia.org/wiki/1971_Bangladesh_genocide","FREL","2016-06-09","Berkman Klein, Bolo Bhi",""
+"https://en.wikipedia.org/wiki/LGBT_rights_in_Pakistan","GAYL","2016-06-09","Berkman Klein, Bolo Bhi",""
+"https://en.wikipedia.org/wiki/Rape_during_the_Bangladesh_Liberation_War","FREL","2016-06-09","Berkman Klein, Bolo Bhi",""
+"https://khabaristantimes.com/","POLR","2017-02-08","OONI",""
+"https://live.pakistantv.tv/channel-24-live-streaming/","NEWS","2017-11-27","OONI","Reportedly blocked"
+"https://news.vice.com/article/we-are-suffering-genocide-at-the-hands-of-pakistan-an-interview-with-blf-commander-allah-nazar","FEXP","2016-06-09","Berkman Klein, Bolo Bhi",""
+"https://news.vice.com/video/blackout-pakistan/","LGBT","2016-07-20","OONI",""
+"https://onlinebetting.com.pk/","GMB","2016-06-09","Berkman Klein, Bolo Bhi",""
+"https://onlinecasino.com.pk/visit/SpinPalace/","GMB","2016-06-09","Berkman Klein, Bolo Bhi",""
+"https://proxify.biz/","ANON","2014-04-15","citizenlab",""
+"https://thebnm.wordpress.com/","MILX","2016-06-09","Berkman Klein, Bolo Bhi",""
+"https://tune.pk/video/2386940/pakistan-army-war-crimes-on-the-pashtuns-of-waziristan","FREL","2016-06-09","Berkman Klein, Bolo Bhi",""
+"https://tune.pk/video/4339060/pakistan-army-war-crimes-in-bangladesh-p12","FREL","2016-06-09","Berkman Klein, Bolo Bhi",""
+"https://twitter.com/bnmovement_","MILX","2016-06-09","Berkman Klein, Bolo Bhi",""
+"https://twitter.com/shiagenocide","REL","2016-05-02","Berkman Klein, Bolo Bhi",""
+"https://twitter.com/sipahesahaba","MILX","2014-04-15","citizenlab",""
+"https://twitter.com/tehreeketaliban","MILX","2014-04-15","citizenlab",""
+"https://www.article19.org/","FEXP","2016-05-02","Berkman Klein, Bolo Bhi",""
+"https://www.bolnetwork.com/","NEWS","2017-11-27","OONI","Reportedly blocked"
+"https://www.change.org/p/urgent-petition-stop-pakistan-army-s-crimes-against-humanity","FREL","2016-06-09","Berkman Klein, Bolo Bhi",""
+"https://www.chronobypass.info/","ANON","2014-04-15","citizenlab",""
+"https://www.corkmass.com/bottle/","ANON","2014-04-15","citizenlab",""
+"https://www.crabguard.com/sky/","ANON","2014-04-15","citizenlab",""
+"https://www.dawnnews.tv/watch-live/","NEWS","2017-11-27","OONI","Reportedly blocked"
+"https://www.deviantart.com/","CULTR","2017-08-13","OONI",""
+"https://www.facebook.com/","NEWS","2014-04-15","citizenlab",""
+"https://www.facebook.com/AntiPakistan/","MILX","2016-06-09","Berkman Klein, Bolo Bhi",""
+"https://www.facebook.com/Baloch-National-Movement-BNM-289874606326/","MILX","2016-06-09","Berkman Klein, Bolo Bhi",""
+"https://www.facebook.com/Baloch.Slogan/","MINR","2016-06-09","Berkman Klein, Bolo Bhi",""
+"https://www.facebook.com/BaluchWarna/","MINR","2016-06-09","Berkman Klein, Bolo Bhi",""
+"https://www.facebook.com/FreedoMovement.Official","HUMR","2016-06-09","Berkman Klein, Bolo Bhi",""
+"https://www.facebook.com/Jenaytkaran/videos/348537801914993/","FREL","2016-06-09","Berkman Klein, Bolo Bhi",""
+"https://www.facebook.com/Pakistan-film-tv-journalist-welfare-association-102642103127835/","FEXP","2016-06-09","Berkman Klein, Bolo Bhi",""
+"https://www.facebook.com/Stop-Shia-Genocide-In-Pakistan-350123341735668/","REL","2016-05-02","Berkman Klein, Bolo Bhi",""
+"https://www.facebook.com/Womens-Rights-Association-Pakistan-138988659551276/","WOMR","2016-06-09","Berkman Klein, Bolo Bhi",""
+"https://www.facebook.com/blash.phemy","NEWS","2014-04-15","citizenlab",""
+"https://www.facebook.com/blashphemy","NEWS","2014-04-15","citizenlab",""
+"https://www.facebook.com/majliseahrar?fref=ts/","REL","2014-04-15","citizenlab",""
+"https://www.facebook.com/pakistancarefoundation","HUMR","2016-06-09","Berkman Klein, Bolo Bhi",""
+"https://www.facebook.com/tehreekekhatmenubuwwat","REL","2014-04-15","citizenlab",""
+"https://www.gravepaper.com/pencil/","ANON","2014-04-15","citizenlab",""
+"https://www.hrw.org/asia/pakistan","HUMR","2016-07-20","OONI",""
+"https://www.instagram.com/","PLATFORM","2016-06-09","Berkman Klein, Bolo Bhi",""
+"https://www.jellyclimb.com/fish/","ANON","2014-04-15","citizenlab",""
+"https://www.jointglobe.com/rotate/","ANON","2014-04-15","citizenlab",""
+"https://www.moonproof.com/crater/","ANON","2014-04-15","citizenlab",""
+"https://www.mousematrix.com/","ANON","2014-04-15","citizenlab",""
+"https://www.onlylads.com/profiles/PK/","GAYL","2016-06-09","Berkman Klein, Bolo Bhi",""
+"https://www.pinterest.com/","PLATFORM","2016-06-09","Berkman Klein, Bolo Bhi",""
+"https://www.proxify.us/","ANON","2014-04-15","citizenlab",""
+"https://www.rbypass.info/index.php?e=no_hotlink","ANON","2014-04-15","citizenlab",""
+"https://www.samaa.tv/live/","NEWS","2017-11-27","OONI","Reportedly blocked"
+"https://www.suchtv.pk/","NEWS","2017-11-27","OONI","Reportedly blocked"
+"https://www.tohfay.com/","COMM","2016-06-09","Berkman Klein, Bolo Bhi",""
+"https://www.tornface.com/nose/","ANON","2014-04-15","citizenlab",""
+"https://www.treegrab.com/sap/","ANON","2014-04-15","citizenlab",""
+"https://www.winner.com/","GMB","2016-06-09","Berkman Klein, Bolo Bhi",""
+"https://www.zerobypass.info/","ANON","2014-04-15","citizenlab",""

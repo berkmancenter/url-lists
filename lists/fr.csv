@@ -1,13 +1,13 @@
-url,category_code,subcategory_code,secondary_category_code,date_added,source,notes
-https://alhayatmedia.wordpress.com/,HATE,,,2016-10-13,Citizen Lab,radical islamism website
-http://casino.bet365.com/,GMB,,,2016-10-13,Citizen Lab,
-http://copwatch.fr.over-blog.com/,MILX,,,2016-10-13,Citizen Lab,
-http://copwatchnord-idf.org/,MILX,,,2016-10-13,Citizen Lab,
-http://is0lamanation.blogspot.fr/,HATE,,,2016-10-13,Citizen Lab,radical islamism website
-https://mujahida89.wordpress.com/,HATE,,,2016-10-13,Citizen Lab,radical islamism website
-http://t411.me/,FILE,,,2016-10-13,Citizen Lab,
-http://t411.to/,FILE,,,2016-10-13,Citizen Lab,
-https://thepiratebay.org/,FILE,,,2016-10-13,Citizen Lab,
-http://wearechange.org/,POLR,,,2016-10-13,Citizen Lab,
-http://www.copwatch.org/,MILX,,,2016-10-13,Citizen Lab,
-http://www.t411.ch/,FILE,,,2016-10-13,Citizen Lab,
+"url","category_code","date_added","source","notes"
+"http://casino.bet365.com/","GMB","2016-10-13","Citizen Lab",""
+"http://copwatch.fr.over-blog.com/","MILX","2016-10-13","Citizen Lab",""
+"http://copwatchnord-idf.org/","MILX","2016-10-13","Citizen Lab",""
+"http://is0lamanation.blogspot.fr/","HATE","2016-10-13","Citizen Lab","radical islamism website"
+"http://t411.me/","FILE","2016-10-13","Citizen Lab",""
+"http://t411.to/","FILE","2016-10-13","Citizen Lab",""
+"http://wearechange.org/","POLR","2016-10-13","Citizen Lab",""
+"http://www.copwatch.org/","MILX","2016-10-13","Citizen Lab",""
+"http://www.t411.ch/","FILE","2016-10-13","Citizen Lab",""
+"https://alhayatmedia.wordpress.com/","HATE","2016-10-13","Citizen Lab","radical islamism website"
+"https://mujahida89.wordpress.com/","HATE","2016-10-13","Citizen Lab","radical islamism website"
+"https://thepiratebay.org/","FILE","2016-10-13","Citizen Lab",""

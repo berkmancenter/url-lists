@@ -1,11 +1,11 @@
-url,category_code,subcategory_code,secondary_category_code,date_added,source,notes
-https://desc-wondo.org/fr/author/wondo/,POLR,,,2018-01-29,"Citizen Lab, Rudi International",
-https://vacradio.com/,POLR,,,2018-01-29,"Citizen Lab, Rudi International",
-http://www.rfi.fr/,NEWS,,,2018-01-29,"Citizen Lab, Rudi International",
-https://www.radiookapi.net/,NEWS,,,2018-01-29,"Citizen Lab, Rudi International",
-https://actualite.cd/,NEWS,,,2018-01-29,"Citizen Lab, Rudi International",
-http://www.politico.cd/,POLR,,,2018-01-29,"Citizen Lab, Rudi International",
-https://www.kongoconnect.com/,GRP,,,2018-01-29,"Citizen Lab, Rudi International",
-https://www.hrw.org/,HUMR,,,2018-01-29,"Citizen Lab, Rudi International",
-http://cas-info.ca/rd-congo,NEWS,,,2018-01-29,"Citizen Lab, Rudi International",
-http://times.cd/,NEWS,,,2018-01-29,"Citizen Lab, Rudi International",
+"url","category_code","date_added","source","notes"
+"http://cas-info.ca/rd-congo","NEWS","2018-01-29","Rudi International",""
+"http://times.cd/","NEWS","2018-01-29","Rudi International",""
+"http://www.politico.cd/","POLR","2018-01-29","Rudi International",""
+"http://www.rfi.fr/","NEWS","2018-01-29","Rudi International",""
+"https://actualite.cd/","NEWS","2018-01-29","Rudi International",""
+"https://desc-wondo.org/fr/author/wondo/","POLR","2018-01-29","Rudi International",""
+"https://vacradio.com/","POLR","2018-01-29","Rudi International",""
+"https://www.hrw.org/","HUMR","2018-01-29","Rudi International",""
+"https://www.kongoconnect.com/","GRP","2018-01-29","Rudi International",""
+"https://www.radiookapi.net/","NEWS","2018-01-29","Rudi International",""

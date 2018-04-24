@@ -1,173 +1,303 @@
-url,category_code,subcategory_code,secondary_category_code,date_added,source,notes
-http://rus.azattyq.org/,NEWS,,POLT HUMR,2017-01-24,Berkman Klein,Independent media that objectively reports on news and events
-https://radiotochka.kz/,NEWS,,,2017-01-24,Berkman Klein,Independent news website that covers wide range of topics
-https://radiotochka.kz/ktovladeetkz.html,NEWS,,POLT,2017-01-24,Berkman Klein,Specific sub URL of the site that reported on the corruption of high level officials
-http://www.fergananews.com/kazakhstan,NEWS,,POLT,2017-01-24,Berkman Klein,Regional website that covers political news in Kazakhstan access to which had been restricted for some time in Kazakhstan
-http://kloop.kg/,NEWS,,POLT HUMR,2017-01-24,Berkman Klein,Popular independent website of a neighboring country that had been blocked in Kazakhstan for reporting on extremism case
-https://meduza.io/,NEWS,,POLT,2017-01-24,Berkman Klein,Russian news website that had been blocked in Kazakhstan for some time in 2016
-https://echo.msk.ru/,NEWS,,POLT,2017-01-24,Berkman Klein,Russian news website that had been blocked in Kazakhstan for some time in 2016
-http://feminita.org/,WOMR,,GAYL,2017-01-24,Berkman Klein,Kazakh feminist website that could potentially be blocked
-http://ratel.kz/,NEWS,,POLT,2017-01-24,Berkman Klein,Opposition website that gets blocked periodically depending on the current events and content of the website
-https://zonakz.net/,MISC,,POLT,2017-01-24,Berkman Klein,Controversial Kazakh blogging platform access to which sometimes restricted
-https://vimeo.com/,PLATFORM,,,2017-01-24,Berkman Klein,"Video sharing website that is officially (court order) blocked in Kazakhstan for containing video that ""promotes terrorism and religious extremism"""
-https://www.avaaz.org/page/en/,PLATFORM,,,2017-01-24,Berkman Klein,This online petition site gets blocked on the territory of Kazakhstan whenever there's a petition calling a high ranking official or the incumbent president to resign
-http://mahabbat.kz/,DATE,,,2017-01-24,Berkman Klein,Local online dating platform
-http://libertykz.com/,POLT,,,2017-01-24,Berkman Klein,Local NGO website critical of the government
-http://www.dailymail.co.uk/home/index.html,NEWS,,,2017-01-24,Berkman Klein,"Blocked within the territory of Kazakhstan for containing video about 'Kazakh children serving for ISIS"""
-https://soundcloud.com/,PLATFORM,,,2017-01-24,Berkman Klein,"Had been blocked in Kazakhstan for a while for some audio tracks containing ""Religious extremism"""
-https://informburo.kz/,NEWS,,,2017-01-24,Berkman Klein,Quite popular news website in Kazakhstan less likely to be blocked as it's not opposition
-https://tengrinews.kz/,NEWS,,,2017-01-24,Berkman Klein,"""Mainstream"" news website unlikely to be blocked as its content is mostly pro-government "
-https://www.nur.kz/,NEWS,,,2017-01-24,Berkman Klein,"""Mainstream"" news website unlikely to be blocked as its content is mostly pro-government "
-http://www.tns-global.kz/ru/,COMM,,,2017-01-24,Berkman Klein,
-http://www.titus.kz/,PLATFORM,,,2017-01-24,Berkman Klein,Citizenship journalism website specific to South Kazakhstan
-http://yvision.kz/,PLATFORM,,,2017-01-24,Berkman Klein,Popular local blogging platform that normally cencors blogs with government criticism
-http://sarap.kz/,POLT,,,2017-01-24,Berkman Klein,
-http://www.yandex.kz/,SRCH,,,2017-01-24,Berkman Klein,Local domain of popular Russian search engine
-http://www.toiganbayev.kz/,MISC,,,2017-01-24,Berkman Klein,Personal website of Kyrgyzstan's president's son-in-law who's wanted by Interpol
-http://islam.ru/,REL,,,2017-01-24,Berkman Klein,Islamic religious website under the Russian domain
-http://www.strana.kz/,DATE,,,2017-01-24,Berkman Klein,Local online dating site
-http://kt.kz/,NEWS,,,2017-01-24,Berkman Klein,Kazakh internet magazine less likely to be blocked
-http://webvpn.org/,ANON,,,2017-01-24,Berkman Klein,
-http://hidemyass.com/,ANON,,,2017-01-24,Berkman Klein,
-http://club.kz/,MISC,,,2017-01-24,Berkman Klein,Website with the list of night clubs in Kazakhstan
-https://www.youtube.com/,PLATFORM,,,2017-01-24,Berkman Klein,Very likely to be blocked on days of possible mass protests like December 16 or when opposition plans to hold live interviews
-https://www.facebook.com/,PLATFORM,,,2017-01-24,Berkman Klein,Very likely to be blocked on days of possible mass protests like December 16 or when opposition plans to hold live interviews
-https://wordpress.com/,PLATFORM,,,2017-01-24,Berkman Klein,"Had been blocked in Kazakhstan for some time due to some blogs containing ""unlawful information"""
-http://www.livejournal.com/,PLATFORM,,,2017-01-24,Berkman Klein,Had been blocked for a long time in Kazakhstan due to Kazakh president's son-in-law's publications on corruption
-https://www.blogger.com/,PLATFORM,,,2017-01-24,Berkman Klein,Had been blocked for a while in Kazakhstan due to some blogs containing sensitive information on corruption
-http://bambuser.com/,MISCTOOLS,,,2017-01-24,Berkman Klein,Livestreaming app that has been blocked in Kazakhstan since 2012 as it allows users to livestream protests or police brutality
-https://www.torproject.org/,ANON,,,2017-01-24,Berkman Klein,Quite popular VPN in Kazakhstan that is currently blocked
-https://vk.com/iwantyou,PORN,,,2017-01-24,Berkman Klein,VK social networking site group that is popular in Kazakhstan and allegedly blocked
-https://www.periscope.tv/,MISCTOOLS,,,2017-01-24,Berkman Klein,Livestreaming app that gets blocked in Kazakhstan on days of mass protests in order to avoid live video footages
-http://almatinki.com/,PORN,,,2017-01-24,Berkman Klein,Popular local website that offers sexual services and is currently blocked in Kazakhstan
-http://www.redtube.com/,PORN,,,2017-01-24,Berkman Klein,Popular among local users and currently blocked
-http://dojki.com/,PORN,,,2017-01-24,Berkman Klein,Popular among local users and currently blocked
-http://www.xvideos.com/,PORN,,,2017-01-24,Berkman Klein,Blocked on the territory of Kazakhstan
-http://www.xerotica.com/,PORN,,,2017-01-24,Berkman Klein,Popular among local users and currently blocked
-http://www.pornhub.com/,PORN,,,2017-01-24,Berkman Klein,Popular and blocked
-http://proza.ru/,MISC,,,2017-01-24,Berkman Klein,Russian literary website allegedly blocked on the territory of Kazakhstan by major ISP
-http://exclusive.kz/,NEWS,,POLT,2017-01-24,Berkman Klein,Online magazine that contains politically sensitive content and can potentially be blocked
-http://www.azattyq.org/,NEWS,,,2017-01-24,Berkman Klein,"Kazakh language site of RFE/RL that gets blocked whenever there's a protest or for ""religious extremism"" articles"
-http://uralskweek.kz/,NEWS,,POLT,2017-01-24,Berkman Klein,Regionally popular newspaper that contains politically sensitive materials and is unaccessible sometimes
-http://kivvi.kz/,PLATFORM,,,2017-01-24,Berkman Klein,Kazakh video platform that could potentially be blocked if it streams politically sensitive content
-https://www.liveinternet.ru/,PLATFORM,,,2017-01-24,Berkman Klein,Russian online journal that is blocked in Kazakhstan
-http://bnews.kz/ru,NEWS,,,2017-01-24,Berkman Klein,Pro-government website that is unlikely to be blocked
-http://www.zakon.kz/,NEWS,,,2017-01-24,Berkman Klein,Quite popular neutral news website that is unlikely to be blocked
-http://kazday.kz/,NEWS,,,2017-01-24,Berkman Klein,Popular video news website that is allegedly independent and can potentially be blocked
-http://www.kazreligiya.kz/,REL,,,2017-01-24,Berkman Klein,Religious Muslim newspaper unlikely to be blocked
-http://pritvor.kz/,REL,,,2017-01-24,Berkman Klein,Orthodox website which is a religious minority in Kazakhstan but still unlikely to be blocked
-http://baptist.kz/,REL,,,2017-01-24,Berkman Klein,Kazakh Baptist Church Union website
-https://vlast.kz/,NEWS,,,2017-01-24,Berkman Klein,Independent internet magazine that can potentially be blocked
-http://www.maximonline.ru/,MISC,,,2017-01-24,Berkman Klein,Popular Russian online magazine that had been blocked in Kazakhstan for no apparent reason
-http://hideme.ru/,ANON,,,2017-01-24,Berkman Klein,VPN likely to be blocked on the days of mass protests when major Social Media sites are blocked
-http://www.inform.kz/,NEWS,,,2017-01-24,Berkman Klein,Kazakh news website unlikely to be blocked
-http://2ip.ru/,ANON,,,2017-01-24,Berkman Klein,VPN likely to be blocked on the days of mass protests when major Social Media sites are blocked
-http://kub.info/,PLATFORM,,,2017-01-24,Berkman Klein,Blog platform that can potentially be blocked
-http://kiss.kz/,DATE,,,2017-01-24,Berkman Klein,Online dating site
-http://gcup.ru/,GAME,,,2017-01-24,Berkman Klein,
-http://blogos.kz/,PLATFORM,,,2017-01-24,Berkman Klein,
-http://www.eurasianet.org/resource/kazakhstan,NEWS,,POLT,2017-01-24,Berkman Klein,English language independent news website that can potentially be blocked for posting politically sensitive content
-https://thenews.kz/,NEWS,,,2017-01-24,Berkman Klein,
-http://www.astaninki.com/,PORN,,,2017-01-24,Berkman Klein,Kazakh website that offers sexual services and allegedly blocked
-http://www.adilsoz.kz/,FEXP,,,2017-01-24,Berkman Klein,Website of an NGO that promotes free speech
-http://gay.kz/,GAYL,,,2017-01-24,Berkman Klein,Movement against homophobia in Kazakhstan that is currently accessible
-https://twitter.com/,PLATFORM,,,2017-01-24,Berkman Klein,Was blocked on 16 December 2016 - the day an interview with opposition leader took place
-https://www.instagram.com/,PLATFORM,,,2017-01-24,Berkman Klein,Was blocked on 16 December 2016 - the day an interview with opposition leader took place
-http://www.contur.kz/,NEWS,,,2017-01-24,Berkman Klein,Independent analytical site that could potentially be blocked
-https://iwpr.net/ru/global-voices/,FEXP,,,2017-01-24,Berkman Klein,Independent institute for war and peace reporting
-https://www.viber.com/en/,MSG,,,2017-01-24,Berkman Klein,Instant messaging app that has reportedly been blocked in 2014 in Kazakhstan
-https://www.whatsapp.com/,MSG,,,2017-01-24,Berkman Klein,Instant messaging app that is occasionally inaccessible in Kazakhstan
-https://www.tumblr.com/,PLATFORM,,,2017-01-24,Berkman Klein,"Microblogging platform that had been blocked in Kazakhstan in April 2016 for ""propaganda of terrorism and pornography"""
-https://www.flickr.com/,PLATFORM,,,2017-01-24,Berkman Klein,Photo sharing platform that has reportedly been blocked due to court order along with Vimeo in 2015
-https://www.change.org/,PLATFORM,,,2017-01-24,Berkman Klein,Online petition site that had been blocked in Kazakhstan after a petition demanding the resignation of Kazakh prime minister
-https://www.facebook.com/basekz/,POLT,,,2017-01-24,Berkman Klein,"Opposition Facebook page. Recently, opposition turned to Facebook for posting content rather than website which can be easily blocked"
-http://esquire.kz/,NEWS,,,2017-01-24,Berkman Klein,"Quite popular online magazine that publishes sensitive subjects concerning gay rights, freedom of speech etc."
-http://www.novgaz.com/,POLT,,,2017-01-24,Berkman Klein,Russian newspaper that provides independent analysis of Kazakhstani politics
-http://www.kazbio.info/,HAL,,,2017-01-24,Berkman Klein,
-http://casinogrand.kz/,GMB,,,2017-01-24,Berkman Klein,
-http://www.nomad.su/,NEWS,,,2017-01-24,Berkman Klein,
-http://freeproxy.ru/,ANON,,,2017-01-24,Berkman Klein,
-http://www.iloveyou.kz/,DATE,,,2017-01-24,Berkman Klein,
-http://xorod.ru.w3snoop.com/,ANON,,,2017-01-24,Berkman Klein,VPN allegedly blocked in Kazakhstan
-http://daidostup.me/,ANON,,,2017-01-24,Berkman Klein,VPN allegedly blocked in Kazakhstan
-https://bureau.kz/,HUMR,,,2017-01-24,Berkman Klein,Website of a major Human Rights organization in Kazakhstan
-http://www.time.kz/,NEWS,,,2017-01-24,Berkman Klein,Website of a popular independent newspaper in Kazakhstan
-https://goo.gl/AUV16h,FEXP,,,2017-01-24,Berkman Klein,Independent website that promotes online rights and freedoms
-http://kaztag.kz/,NEWS,,,2017-01-24,Berkman Klein,"Popular news organization whose director has been jailed for ""fraud"" in 2016"
-http://better.kz/,POLT,,,2017-01-24,Berkman Klein,
-https://telegram.org/,MSG,,,2017-01-24,Berkman Klein,
-http://www.kavkazcenter.com/russ/,REL,,,2017-01-24,Berkman Klein,"Currently blocked for ""religious extremism"""
-http://kavkazcenter.at.ua/,REL,,,2017-01-24,Berkman Klein,"Currently blocked for ""religious extremism"""
-http://diapazon.kz/,NEWS,,,2017-01-24,Berkman Klein,Independent regional newspaper that could potentially be blocked
-http://azh.kz/ru/,NEWS,,,2017-01-24,Berkman Klein,Popular regional newspaper
-http://www.ng.kz/,NEWS,,,2017-01-24,Berkman Klein,Independent regional newspaper
-https://kk.wikipedia.org/wiki/,MISC,,,2017-01-24,Berkman Klein,Free encyclopedia that contains sensitive political information which may become the target of censorship
-http://www.qazaquni.kz/,NEWS,,POLT,2017-01-24,Berkman Klein,Kazakh nationalist website which may become the target of censorship
-http://qamshy.kz/,NEWS,,POLT,2017-01-24,Berkman Klein,Kazakh nationalist website which may become the target of censorship
-https://vk.com/,PLATFORM,,,2017-01-24,Berkman Klein,Very popular Russian social networking site access to which may be restricted
-http://vse.kz/,PLATFORM,,,2017-01-24,Berkman Klein,Local blog platform access to which has been restricted according to Freedom House report
-https://mail.google.com/,EMAIL,,,2017-01-24,Berkman Klein,"Gmail was reportedly partially inaccessible in November, December 2016 acc.to Freedom House country report"
-http://ca-news.org/country:1/,NEWS,,,2017-01-24,Berkman Klein,Central Asian news organization that has reportedly been inaccessible in Kazakhstan
-http://k-zh.kz/,ENV,,,2017-01-24,Berkman Klein,Environmental movement against the construction of ski resort in place of a national park
-http://www.apn.kz/,NEWS,,,2017-01-24,Berkman Klein,Website that contains sensitive opinion on politics and religion and therefore could potentially be blocked
-http://www.viktor-khrapunov.com/,HAL,,,2017-01-24,Berkman Klein,Former mayor of the biggest city in Kazakhstan and now a political opponent of the current regime who has fled the country
-https://www.zagranburo.org/,POLT,,,2017-01-24,Berkman Klein,"""Foreign bureau of opposition of Kazakhstan"" - website run by Kazakh opposition abroad "
-http://forbes.kz/,NEWS,,,2017-01-24,Berkman Klein,Website of an Independent magazine less likely to be blocked
-http://lmc.kz/en/,FEXP,,,2017-01-24,Berkman Klein,NGO promoting press freedom whose website was hacked in Jan. 2015 in connection with reports on government funding of media
-https://goo.gl/FtQFyF,MILX,,,2017-01-24,Berkman Klein,An article that is officially blocked in Kazakhstan for containing calls to separate from Kazakhstan and join Russia
-https://goo.gl/,MISCTOOLS,,,2017-01-24,Berkman Klein,Google URL shortener that could potentially be blocked when other Google products like YouTube and search are blocked
-http://ecodoklad.kz/,ENV,,,2017-01-24,Berkman Klein,The biggest website on current environmental situation in Kazakhstan funded by EU
-http://aral-kz.narod.ru/,ENV,,,2017-01-24,Berkman Klein,Website on environmental disaster of Aral Sea in Kazakhstan
-http://www.vsemirnyjbank.org/ru/country/kazakhstan,DEV,,,2017-01-24,Berkman Klein,World Bank Kazakhstan website with general information on WB development projects in Kazakhstan. Very unlikely to be blocked
-http://www.sange.kz/,MISC,,,2017-01-24,Berkman Klein,Kazakh research organization that conducts research on the quality of state services and state institutions
-http://abctv.kz/ru,NEWS,,,2017-01-24,Berkman Klein,Quality journalism website that covers wide range of topics and provides independent analysis of current events
-http://www.currenttime.tv/p/4607.html,NEWS,,POLT,2017-01-24,Berkman Klein,Online TV channel that objectively reports on current events and critical of the current regime and thus can be blocked
-https://goo.gl/E7H2tU,DEV,,,2017-01-24,Berkman Klein,UNDP Kazakhstan homepage on development programs and women's rights issues
-https://www.lada.kz/,NEWS,,,2017-01-24,Berkman Klein,Popular regional website that is occassionally inaccessible when reporting on mass protests e.g. Zhanaozen riots.
-http://ru.soros.kz/,DEV,,,2017-01-24,Berkman Klein,"Soros Foundation Kazakhstan website that funds local Human Rights NGOs, development programs and activists"
-http://ru.odfoundation.eu/,POLT,,,2017-01-24,Berkman Klein,NGO that critically reports on human rights situation in Kazakhstan and is a vocal critic of the current regime
-https://www.hrw.org/europe/central-asia/kazakhstan,HUMR,,,2017-01-24,Berkman Klein,Human Rights Watch website dedicated to Kazakhstan reports on human rights
-http://socdeistvie.info/,POLT,,,2017-01-24,Berkman Klein,Workers' rights movement and a vocal critic of the current regime access to which can be restricted
-http://tribunakz.com/,POLT,,,2017-01-24,Berkman Klein,One of the last opposition newspaper in Kazakhstan which is under trial now
-http://www.sanasezim.org/,HUMR,,WOMR,2017-01-24,Berkman Klein,Human Rights NGO that works with women's rights and Human trafficking issues
-http://www.wiedergeburt.kz/,MINR,,,2017-01-24,Berkman Klein,Website of ethnic German community in Kazakhstan
-http://www.russianskz.info/,MINR,,,2017-01-24,Berkman Klein,"Website of ethnic Russians living in Kazakhstan that could potentially be blocked for ""inciting ethnic discord"""
-https://vk.com/uighur_kz,MINR,,,2017-01-24,Berkman Klein,Vkontakte group devoted to ethnic Uygur community in Kazakhstan
-http://telefon150.kz/,WOMR,,,2017-01-24,Berkman Klein,Website of an NGO that deals with women's rights issues and offers shelter for those who suffer from domestic violence
-https://goo.gl/1i2cyq,WOMR,,,2017-01-24,Berkman Klein,UN Women Central Asian branch
-https://www.businesswomen.kz/,WOMR,,,2017-01-24,Berkman Klein,NGO that deals with economic empowerment of women and fight against domestic violence
-http://www.alcodom.kz/,ALDR,,,2017-01-24,Berkman Klein,Legal alcohol sale site
-http://drinkme.kz/,ALDR,,,2017-01-24,Berkman Klein,Legal alcohol sale site
-http://www.elitalco.kz/,ALDR,,,2017-01-24,Berkman Klein,legal alcohol sale site
-http://www.thebottle.kz/,ALDR,,,2017-01-24,Berkman Klein,Legal alcohol sale site
-http://alcomarket.kz/,ALDR,,,2017-01-24,Berkman Klein,Legal alcohol sale site. All these websites made sure I'm 21 before opening the homepage
-https://vk.com/club49123299,DATE,,,2017-01-24,Berkman Klein,"Gay groups on social networking site Vkontakte allegedly blocked as ""pornography"""
-https://www.onlylads.com/profiles/KZ/,DATE,,,2017-01-24,Berkman Klein,"Gay groups on social networking site Vkontakte allegedly blocked as ""pornography"""
-https://www.gayxchange.com/profiles/KZ/,DATE,,,2017-01-24,Berkman Klein,"Gay groups on social networking site Vkontakte allegedly blocked as ""pornography"""
-https://vk.com/club41995463,DATE,,,2017-01-24,Berkman Klein,"Gay groups on social networking site Vkontakte allegedly blocked as ""pornography"""
-https://vk.com/club25859371,DATE,,,2017-01-24,Berkman Klein,"Gay groups on social networking site Vkontakte allegedly blocked as ""pornography"""
-https://vk.com/gaylovekz,DATE,,,2017-01-24,Berkman Klein,"Gay groups on social networking site Vkontakte allegedly blocked as ""pornography"""
-http://www.casino.kz/bombay.html,GMB,,,2017-01-24,Berkman Klein,Legal online gambling site
-http://casino.kz/,GMB,,,2017-01-24,Berkman Klein,Legal online gambling site
-http://casinoflamingo.kz/,GMB,,,2017-01-24,Berkman Klein,Legal online gambling site
-http://casinoaladdin.kz/?lang=ru,GMB,,,2017-01-24,Berkman Klein,Legal online gambling site unlikely to be blocked
-http://milavitsa-belexport.kz/,PROV,,,2017-01-24,Berkman Klein,Website that officially sells lingerie. Very unlikely to be blocked
-http://odezhda-optom.kz/lingerie/,PROV,,,2017-01-24,Berkman Klein,Website that officially sells lingerie. Very unlikely to be blocked
-https://vk.com/lingerie_alissalevi,PROV,,,2017-01-24,Berkman Klein,Website that officially sells lingerie. Very unlikely to be blocked
-http://www.poland-underwear.kz/,PROV,,,2017-01-24,Berkman Klein,Website that officially sells lingerie. Very unlikely to be blocked
-http://mirbelya.kz/,PROV,,,2017-01-24,Berkman Klein,Website that officially sells lingerie. Very unlikely to be blocked
-http://www.rcaids.kz/ru/,PUBH,,,2017-01-24,Berkman Klein,Official website of a Republican Center for HIV Prevention
-http://www.amansaulyk.kz/ru,PUBH,,,2017-01-24,Berkman Klein,NGO that deals with public health issues including access to healthcare and promotion of democratic principles
-http://www.who.int/countries/kaz/ru/,PUBH,,,2017-01-24,Berkman Klein,WHO country specific URL
-http://plwh.kz/,PUBH,,,2017-01-24,Berkman Klein,Local self-organized group of people living with AIDS
-https://vk.com/tvoya_territoria,SELFHARM,,,2017-01-24,Berkman Klein,
-https://vk.com/skaji_net_suicidu,SELFHARM,,,2017-01-24,Berkman Klein,
-http://www.pobedish.ru/main/suicide_methods,SELFHARM,,,2017-01-24,Berkman Klein,
-http://www.perejit.ru/main/dont_want_to_live,SELFHARM,,,2017-01-24,Berkman Klein,Website that offers mental help to those willing to commit suicide
-http://odinochestvo.su/,SELFHARM,,,2017-01-24,Berkman Klein,Website that offers methods to commit suicide
-http://www.pobedish.ru/,SELFHARM,,,2017-01-24,Berkman Klein,Website discouraging suicide and offering help
-https://goo.gl/WRZtNa,MILX,,,2017-01-24,Berkman Klein,Article that contains call to annex Russian speaking northern regions of Kazakhstan to Russia
-http://www.bbc.com/kyrgyz/,NEWS,,,2017-07-19,"Citizen Lab, BBC",
-http://www.bbckyrgyz.com/,NEWS,,,2017-07-19,"Citizen Lab, BBC",
-http://www.bbc.com/uzbek/,NEWS,,,2017-07-19,"Citizen Lab, BBC",
-http://www.bbzuzbek.com/,NEWS,,,2017-07-19,"Citizen Lab, BBC",
+"url","category_code","date_added","source","notes"
+"http://2ip.ru/","ANON","2014-04-15","citizenlab",""
+"http://4proxy.de/","ANON","2014-04-15","citizenlab",""
+"http://abctv.kz/ru","NEWS","2017-01-24","Berkman Klein","Quality journalism website that covers wide range of topics and provides independent analysis of current events"
+"http://afftor.kz/","HOST","2014-04-15","citizenlab",""
+"http://ajur.kz/","HUMR","2014-04-15","citizenlab",""
+"http://alcomarket.kz/","ALDR","2017-01-24","Berkman Klein","Legal alcohol sale site. All these websites made sure I'm 21 before opening the homepage"
+"http://almatinki.com/","PORN","2017-01-24","Berkman Klein","Popular local website that offers sexual services and is currently blocked in Kazakhstan"
+"http://amen-khaidar.narod.ru/","MISC","2014-04-15","citizenlab",""
+"http://aral-kz.narod.ru/","ENV","2017-01-24","Berkman Klein","Website on environmental disaster of Aral Sea in Kazakhstan"
+"http://as-ansar.com/","MILX","2014-04-15","citizenlab",""
+"http://azh.kz/ru/","NEWS","2017-01-24","Berkman Klein","Popular regional newspaper"
+"http://bambuser.com/","MISCTOOLS","2017-01-24","Berkman Klein","Livestreaming app that has been blocked in Kazakhstan since 2012 as it allows users to livestream protests or police brutality"
+"http://baptist.kz/","REL","2017-01-24","Berkman Klein","Kazakh Baptist Church Union website"
+"http://better.kz/","POLT","2017-01-24","Berkman Klein",""
+"http://biggdi.com/","MISC","2014-04-15","citizenlab",""
+"http://blogos.kz/","HOST","2014-04-15","citizenlab",""
+"http://bnews.kz/ru","NEWS","2017-01-24","Berkman Klein","Pro-government website that is unlikely to be blocked"
+"http://ca-news.org/country:1/","NEWS","2017-01-24","Berkman Klein","Central Asian news organization that has reportedly been inaccessible in Kazakhstan"
+"http://cars.com/","MISC","2014-04-15","citizenlab",""
+"http://casino.kz/","GMB","2017-01-24","Berkman Klein","Legal online gambling site"
+"http://casinoaladdin.kz/?lang=ru","GMB","2017-01-24","Berkman Klein","Legal online gambling site unlikely to be blocked"
+"http://casinoflamingo.kz/","GMB","2017-01-24","Berkman Klein","Legal online gambling site"
+"http://casinogrand.kz/","GMB","2017-01-24","Berkman Klein",""
+"http://caucase.wordpress.com/","CULTR","2014-04-15","citizenlab",""
+"http://cekcy.com/erotica.php","PORN","2014-04-15","citizenlab",""
+"http://citizentube.com/","POLR","2014-04-15","citizenlab",""
+"http://club.kz/","MISC","2014-04-15","citizenlab",""
+"http://comment-respublika.info/","POLR","2014-04-15","citizenlab",""
+"http://comport.region.kz/forum/index.php","MISC","2014-04-15","citizenlab",""
+"http://ct.kz/","GRP","2014-04-15","citizenlab",""
+"http://daidostup.me/","ANON","2017-01-24","Berkman Klein","VPN allegedly blocked in Kazakhstan"
+"http://diapazon.kz/","NEWS","2017-01-24","Berkman Klein","Independent regional newspaper that could potentially be blocked"
+"http://din-islam.ru/","REL","2014-04-15","citizenlab",""
+"http://djamal.wordpress.com/","NEWS","2014-04-15","citizenlab",""
+"http://djamalat.com/","NEWS","2014-04-15","citizenlab",""
+"http://dknews.kz/","ECON","2014-04-15","citizenlab",""
+"http://dojki.com/","PORN","2017-01-24","Berkman Klein","Popular among local users and currently blocked"
+"http://drinkme.kz/","ALDR","2017-01-24","Berkman Klein","Legal alcohol sale site"
+"http://ecodoklad.kz/","ENV","2017-01-24","Berkman Klein","The biggest website on current environmental situation in Kazakhstan funded by EU"
+"http://esquire.kz/","NEWS","2017-01-24","Berkman Klein","Quite popular online magazine that publishes sensitive subjects concerning gay rights, freedom of speech etc."
+"http://exclusive.kz/","NEWS","2017-01-24","Berkman Klein","Online magazine that contains politically sensitive content and can potentially be blocked"
+"http://feminita.org/","WOMR","2017-01-24","Berkman Klein","Kazakh feminist website that could potentially be blocked"
+"http://ferghana.ru/","NEWS","2014-04-15","citizenlab",""
+"http://forbes.kz/","NEWS","2017-01-24","Berkman Klein","Website of an Independent magazine less likely to be blocked"
+"http://forum.ntu.kz/showthread.php?t=79","GRP","2014-04-15","citizenlab",""
+"http://forum.voinenet.ru/","GOVT","2014-04-15","citizenlab",""
+"http://freeproxy.ru/","ANON","2014-04-15","citizenlab",""
+"http://freeuz.org/","NEWS","2014-04-15","citizenlab",""
+"http://gay.kz/","LGBT","2014-04-15","citizenlab",""
+"http://gcup.ru/","GAME","2014-04-15","citizenlab",""
+"http://guljan.org/","POLR","2014-04-15","citizenlab",""
+"http://hideme.ru/","ANON","2014-04-15","citizenlab",""
+"http://hidemyass.com/","ANON","2014-04-15","citizenlab",""
+"http://ik-media.info/","MILX","2014-04-15","citizenlab",""
+"http://inkar.info/","NEWS","2014-04-15","citizenlab",""
+"http://inosmikz.org/","NEWS","2014-04-15","citizenlab",""
+"http://islam.ru/","REL","2014-04-15","citizenlab",""
+"http://islamunveiled.livejournal.com/","REL","2014-04-15","citizenlab",""
+"http://janaozen.net/","POLR","2014-04-15","citizenlab",""
+"http://k-zh.kz/","ENV","2017-01-24","Berkman Klein","Environmental movement against the construction of ski resort in place of a national park"
+"http://kavkazcenter.at.ua/","REL","2017-01-24","Berkman Klein","Currently blocked for ""religious extremism"""
+"http://kazday.kz/","NEWS","2017-01-24","Berkman Klein","Popular video news website that is allegedly independent and can potentially be blocked"
+"http://kaztag.kz/","NEWS","2017-01-24","Berkman Klein","Popular news organization whose director has been jailed for ""fraud"" in 2016"
+"http://kaztube.kz/","MMED","2014-04-15","citizenlab",""
+"http://kiss.kz/","DATE","2014-04-15","citizenlab",""
+"http://kivvi.kz/","PLATFORM","2017-01-24","Berkman Klein","Kazakh video platform that could potentially be blocked if it streams politically sensitive content"
+"http://kiwi.kz/","MMED","2014-04-15","citizenlab",""
+"http://kloop.kg/","NEWS","2017-01-24","Berkman Klein","Popular independent website of a neighboring country that had been blocked in Kazakhstan for reporting on extremism case"
+"http://knpk.kz/","POLR","2014-04-15","citizenlab",""
+"http://kplus-tv.net/","POLR","2014-04-15","citizenlab",""
+"http://kt.kz/","NEWS","2014-04-15","citizenlab",""
+"http://kub.info/","POLR","2014-04-15","citizenlab",""
+"http://kzinform.com/","NEWS","2014-04-15","citizenlab",""
+"http://kzmz.region.kz/","MMED","2014-04-15","citizenlab",""
+"http://libertykz.com/","POLT","2017-01-24","Berkman Klein","Local NGO website critical of the government"
+"http://lmc.kz/en/","FEXP","2017-01-24","Berkman Klein","NGO promoting press freedom whose website was hacked in Jan. 2015 in connection with reports on government funding of media"
+"http://lovebank.forever.kz/","DATE","2014-04-15","citizenlab",""
+"http://mahabbat.kz/","DATE","2017-01-24","Berkman Klein","Local online dating platform"
+"http://maps.google.com/","POLR","2014-04-15","citizenlab",""
+"http://megaupload.com/","MMED","2014-04-15","citizenlab",""
+"http://milavitsa-belexport.kz/","PROV","2017-01-24","Berkman Klein","Website that officially sells lingerie. Very unlikely to be blocked"
+"http://minber.kz/","NEWS","2014-04-15","citizenlab",""
+"http://mirbelya.kz/","PROV","2017-01-24","Berkman Klein","Website that officially sells lingerie. Very unlikely to be blocked"
+"http://mp3fun.forever.kz/","MMED","2014-04-15","citizenlab",""
+"http://namba.kz/","GRP","2014-04-15","citizenlab",""
+"http://navi.kz/","NEWS","2014-04-15","citizenlab",""
+"http://neweurasia.net/","MISC","2014-04-15","citizenlab",""
+"http://newsland.ru/","NEWS","2014-04-15","citizenlab",""
+"http://nuruddin-info.blogspot.com/","REL","2014-04-15","citizenlab",""
+"http://odezhda-optom.kz/lingerie/","PROV","2017-01-24","Berkman Klein","Website that officially sells lingerie. Very unlikely to be blocked"
+"http://odinochestvo.su/","SELFHARM","2017-01-24","Berkman Klein","Website that offers methods to commit suicide"
+"http://pavlodar.ru/","GRP","2014-04-15","citizenlab",""
+"http://photo.eo.kz/","MMED","2014-04-15","citizenlab",""
+"http://plwh.kz/","PUBH","2017-01-24","Berkman Klein","Local self-organized group of people living with AIDS"
+"http://pritvor.kz/","REL","2017-01-24","Berkman Klein","Orthodox website which is a religious minority in Kazakhstan but still unlikely to be blocked"
+"http://proza.ru/","MISC","2017-01-24","Berkman Klein","Russian literary website allegedly blocked on the territory of Kazakhstan by major ISP"
+"http://puls.kz/","DATE","2014-04-15","citizenlab",""
+"http://qamshy.kz/","NEWS","2017-01-24","Berkman Klein","Kazakh nationalist website which may become the target of censorship"
+"http://qazaq.kz/","POLR","2014-04-15","citizenlab",""
+"http://rakhat.org/","POLR","2014-04-15","citizenlab",""
+"http://ratel.kz/","NEWS","2017-01-24","Berkman Klein","Opposition website that gets blocked periodically depending on the current events and content of the website"
+"http://respublika-d2.com/","POLR","2014-04-15","citizenlab",""
+"http://respublika-kaz.info/","POLR","2014-04-15","citizenlab",""
+"http://respublika-kaz.net/","POLR","2014-04-15","citizenlab",""
+"http://respublika-kz.biz/","POLR","2014-04-15","citizenlab",""
+"http://respublika-kz.blogspot.ru/","POLR","2014-04-15","citizenlab",""
+"http://respublika-kz.com/","POLR","2014-04-15","citizenlab",""
+"http://ru.odfoundation.eu/","POLT","2017-01-24","Berkman Klein","NGO that critically reports on human rights situation in Kazakhstan and is a vocal critic of the current regime"
+"http://ru.soros.kz/","DEV","2017-01-24","Berkman Klein","Soros Foundation Kazakhstan website that funds local Human Rights NGOs, development programs and activists"
+"http://rus.azattyq.org/","NEWS","2017-01-24","Berkman Klein","Independent media that objectively reports on news and events"
+"http://sarap.kz/","POLR","2014-04-15","citizenlab",""
+"http://socdeistvie.info/","POLT","2017-01-24","Berkman Klein","Workers' rights movement and a vocal critic of the current regime access to which can be restricted"
+"http://socialismkz.info/","POLR","2014-04-15","citizenlab",""
+"http://stan.tv/","POLR","2014-04-15","citizenlab",""
+"http://telefon150.kz/","WOMR","2017-01-24","Berkman Klein","Website of an NGO that deals with women's rights issues and offers shelter for those who suffer from domestic violence"
+"http://thenews.kz/","SRCH","2014-04-15","citizenlab",""
+"http://time.kz/","NEWS","2014-04-15","citizenlab",""
+"http://tribunakz.com/","POLT","2017-01-24","Berkman Klein","One of the last opposition newspaper in Kazakhstan which is under trial now"
+"http://twitter.com/roo_omp","POLR","2014-04-15","citizenlab",""
+"http://uralskweek.kz/","NEWS","2017-01-24","Berkman Klein","Regionally popular newspaper that contains politically sensitive materials and is unaccessible sometimes"
+"http://vesti.kz/","NEWS","2014-04-15","citizenlab",""
+"http://vse.kz/","GRP","2014-04-15","citizenlab",""
+"http://vstrecha.kz/","DATE","2014-04-15","citizenlab",""
+"http://webvpn.org/","ANON","2014-04-15","citizenlab",""
+"http://webwarper.net/","ANON","2014-04-15","citizenlab",""
+"http://www.31.kz/","NEWS","2014-04-15","citizenlab",""
+"http://www.ablyazov.info/","POLR","2014-04-15","citizenlab",""
+"http://www.adilsoz.kz/","HUMR","2014-04-15","citizenlab",""
+"http://www.adultdvdhits.com/","PORN","2014-04-15","citizenlab",""
+"http://www.aif.kz/","NEWS","2014-04-15","citizenlab",""
+"http://www.akorda.kz/","CULTR","2014-04-15","citizenlab",""
+"http://www.alcodom.kz/","ALDR","2017-01-24","Berkman Klein","Legal alcohol sale site"
+"http://www.aljazeera.com/","NEWS","2014-04-15","citizenlab",""
+"http://www.almatinki.com/","PROV","2014-04-15","citizenlab",""
+"http://www.amansaulyk.kz/ru","PUBH","2017-01-24","Berkman Klein","NGO that deals with public health issues including access to healthcare and promotion of democratic principles"
+"http://www.apn.kz/","NEWS","2014-04-15","citizenlab",""
+"http://www.astana.kz/","CULTR","2014-04-15","citizenlab",""
+"http://www.astaninki.com/","PROV","2014-04-15","citizenlab",""
+"http://www.asylmura.kz/","MMED","2014-04-15","citizenlab",""
+"http://www.award.kz/","MISC","2014-04-15","citizenlab",""
+"http://www.azattyq.org/","NEWS","2014-04-15","citizenlab",""
+"http://www.baiterek.kz/","POLR","2014-04-15","citizenlab",""
+"http://www.bbc.com/kyrgyz/","NEWS","2017-07-19","BBC",""
+"http://www.bbc.com/uzbek/","NEWS","2017-07-19","BBC",""
+"http://www.bbckyrgyz.com/","NEWS","2017-07-19","BBC",""
+"http://www.bbzuzbek.com/","NEWS","2017-07-19","BBC",""
+"http://www.better.kz/","MISC","2014-04-15","citizenlab",""
+"http://www.blog.kz/","HOST","2014-04-15","citizenlab",""
+"http://www.boratdvd.com/","MISC","2014-04-15","citizenlab",""
+"http://www.bureau.kz/","MISC","2014-04-15","citizenlab",""
+"http://www.casino.kz/bombay.html","GMB","2017-01-24","Berkman Klein","Legal online gambling site"
+"http://www.centrasia.ru/","NEWS","2014-04-15","citizenlab",""
+"http://www.contur.kz/","CULTR","2014-04-15","citizenlab",""
+"http://www.currenttime.tv/p/4607.html","NEWS","2017-01-24","Berkman Klein","Online TV channel that objectively reports on current events and critical of the current regime and thus can be blocked"
+"http://www.dailymail.co.uk/home/index.html","NEWS","2017-01-24","Berkman Klein","Blocked within the territory of Kazakhstan for containing video about 'Kazakh children serving for ISIS"""
+"http://www.dialog.kz/","NEWS","2014-04-15","citizenlab",""
+"http://www.dumaem.ru/","CULTR","2014-04-15","citizenlab",""
+"http://www.elitalco.kz/","ALDR","2017-01-24","Berkman Klein","legal alcohol sale site"
+"http://www.eroman.ru/","PORN","2014-04-15","citizenlab",""
+"http://www.eurasia.org.ru/","NEWS","2014-04-15","citizenlab",""
+"http://www.eurasianet.org/resource/kazakhstan","NEWS","2017-01-24","Berkman Klein","English language independent news website that can potentially be blocked for posting politically sensitive content"
+"http://www.express-k.kz/","NEWS","2014-04-15","citizenlab",""
+"http://www.fergananews.com/kazakhstan","NEWS","2017-01-24","Berkman Klein","Regional website that covers political news in Kazakhstan access to which had been restricted for some time in Kazakhstan"
+"http://www.ferghana.ru/","NEWS","2014-04-15","citizenlab",""
+"http://www.fgulen.org/","MILX","2014-04-15","citizenlab",""
+"http://www.freeas.org/","NEWS","2014-04-15","citizenlab",""
+"http://www.gazeta.kz/","NEWS","2014-04-15","citizenlab",""
+"http://www.geo.kz/","MISC","2014-04-15","citizenlab",""
+"http://www.geokz.tv/","MISC","2014-04-15","citizenlab",""
+"http://www.globalvoicesonline.org/-/world/central-asia-caucasus/kazakhstan/","NEWS","2014-04-15","citizenlab",""
+"http://www.halykbank.kz/","COMM","2014-04-15","citizenlab",""
+"http://www.hizbuttahrir.org/","MILX","2014-04-15","citizenlab",""
+"http://www.iloveyou.kz/","DATE","2014-04-15","citizenlab",""
+"http://www.inform.kz/","NEWS","2017-01-24","Berkman Klein","Kazakh news website unlikely to be blocked"
+"http://www.iwpr.net/?apc_state=henprca&l=ru&p=rca&s=p","NEWS","2014-04-15","citizenlab",""
+"http://www.kavkazcenter.com/russ/","REL","2017-01-24","Berkman Klein","Currently blocked for ""religious extremism"""
+"http://www.kazbio.info/","CULTR","2014-04-15","citizenlab",""
+"http://www.kazreligiya.kz/","REL","2017-01-24","Berkman Klein","Religious Muslim newspaper unlikely to be blocked"
+"http://www.kazrena.kz/","MISC","2014-04-15","citizenlab",""
+"http://www.kazsu.kz/","MISC","2014-04-15","citizenlab",""
+"http://www.kstu.kz/","MISC","2014-04-15","citizenlab",""
+"http://www.kub.kz/","HOST","2014-04-15","citizenlab",""
+"http://www.kursiv.kz/","COMM","2014-04-15","citizenlab",""
+"http://www.kzblog.net/","MISC","2014-04-15","citizenlab",""
+"http://www.lenta.cjes.ru/","HUMR","2014-04-15","citizenlab",""
+"http://www.liveinternet.ru/","HOST","2014-04-15","citizenlab",""
+"http://www.livejournal.com/","PLATFORM","2017-01-24","Berkman Klein","Had been blocked for a long time in Kazakhstan due to Kazakh president's son-in-law's publications on corruption"
+"http://www.maximonline.ru/","MISC","2017-01-24","Berkman Klein","Popular Russian online magazine that had been blocked in Kazakhstan for no apparent reason"
+"http://www.medialaw.kz/","HUMR","2014-04-15","citizenlab",""
+"http://www.medianet.kz/","HUMR","2014-04-15","citizenlab",""
+"http://www.mediaprovinces.kz/","NEWS","2014-04-15","citizenlab",""
+"http://www.meta.kz/","NEWS","2014-04-15","citizenlab",""
+"http://www.mp3music.kz/","MMED","2014-04-15","citizenlab",""
+"http://www.muftyat.kz/","REL","2014-04-15","citizenlab",""
+"http://www.neonomad.kz/","MISC","2014-04-15","citizenlab",""
+"http://www.newsfactory.kz/","NEWS","2014-04-15","citizenlab",""
+"http://www.newsline.kz/index.php","NEWS","2014-04-15","citizenlab",""
+"http://www.ng.kz/","NEWS","2017-01-24","Berkman Klein","Independent regional newspaper"
+"http://www.nomad.su/","NEWS","2014-04-15","citizenlab",""
+"http://www.novgaz.com/","POLT","2017-01-24","Berkman Klein","Russian newspaper that provides independent analysis of Kazakhstani politics"
+"http://www.np.freenet.kz/","GOVT","2014-04-15","citizenlab",""
+"http://www.npdvk.kz/","POLR","2014-04-15","citizenlab",""
+"http://www.nur.kz/","GRP","2014-04-15","citizenlab",""
+"http://www.osdp.kz/","POLR","2014-04-15","citizenlab",""
+"http://www.padonki.org/","HATE","2014-04-15","citizenlab",""
+"http://www.palestine-info.info/","MILX","2014-04-15","citizenlab",""
+"http://www.panorama.kz/","NEWS","2014-04-15","citizenlab",""
+"http://www.parkhomenko.com/","POLR","2014-04-15","citizenlab",""
+"http://www.perejit.ru/main/dont_want_to_live","SELFHARM","2017-01-24","Berkman Klein","Website that offers mental help to those willing to commit suicide"
+"http://www.pobedish.ru/","SELFHARM","2017-01-24","Berkman Klein","Website discouraging suicide and offering help"
+"http://www.pobedish.ru/main/suicide_methods","SELFHARM","2017-01-24","Berkman Klein",""
+"http://www.poland-underwear.kz/","PROV","2017-01-24","Berkman Klein","Website that officially sells lingerie. Very unlikely to be blocked"
+"http://www.pornhub.com/","PORN","2017-01-24","Berkman Klein","Popular and blocked"
+"http://www.presscenter.kz/","MISC","2014-04-15","citizenlab",""
+"http://www.qazaquni.kz/","NEWS","2017-01-24","Berkman Klein","Kazakh nationalist website which may become the target of censorship"
+"http://www.radiomayak.ru/","NEWS","2014-04-15","citizenlab",""
+"http://www.rcaids.kz/ru/","PUBH","2017-01-24","Berkman Klein","Official website of a Republican Center for HIV Prevention"
+"http://www.redtube.com/","PORN","2017-01-24","Berkman Klein","Popular among local users and currently blocked"
+"http://www.respublika.kz/","NEWS","2014-04-15","citizenlab",""
+"http://www.russians.kz/","CULTR","2014-04-15","citizenlab",""
+"http://www.russianskz.info/","MINR","2017-01-24","Berkman Klein","Website of ethnic Russians living in Kazakhstan that could potentially be blocked for ""inciting ethnic discord"""
+"http://www.salam.kz/16790.aspx","MISC","2014-04-15","citizenlab",""
+"http://www.sanasezim.freenet.kz/","MISC","2014-04-15","citizenlab",""
+"http://www.sanasezim.org/","HUMR","2017-01-24","Berkman Klein","Human Rights NGO that works with women's rights and Human trafficking issues"
+"http://www.sange.kz/","MISC","2017-01-24","Berkman Klein","Kazakh research organization that conducts research on the quality of state services and state institutions"
+"http://www.spik.kz/","POLR","2014-04-15","citizenlab",""
+"http://www.strana.kz/","DATE","2014-04-15","citizenlab",""
+"http://www.thebottle.kz/","ALDR","2017-01-24","Berkman Klein","Legal alcohol sale site"
+"http://www.time.kz/","NEWS","2017-01-24","Berkman Klein","Website of a popular independent newspaper in Kazakhstan"
+"http://www.titus.kz/","MISC","2014-04-15","citizenlab",""
+"http://www.titus.kz/?previd=138429592046cf5bf3&type=krkor","HOST","2014-04-15","citizenlab",""
+"http://www.tns-global.kz/ru/","COMM","2014-04-15","citizenlab",""
+"http://www.toiganbayev.kz/","MISC","2014-04-15","citizenlab",""
+"http://www.transparencykazakhstan.org/","POLR","2014-04-15","citizenlab",""
+"http://www.viktor-khrapunov.com/","HAL","2017-01-24","Berkman Klein","Former mayor of the biggest city in Kazakhstan and now a political opponent of the current regime who has fled the country"
+"http://www.vsemirnyjbank.org/ru/country/kazakhstan","DEV","2017-01-24","Berkman Klein","World Bank Kazakhstan website with general information on WB development projects in Kazakhstan. Very unlikely to be blocked"
+"http://www.who.int/countries/kaz/ru/","PUBH","2017-01-24","Berkman Klein","WHO country specific URL"
+"http://www.whorevideos.com/","PORN","2014-04-15","citizenlab",""
+"http://www.wiedergeburt.kz/","MINR","2017-01-24","Berkman Klein","Website of ethnic German community in Kazakhstan"
+"http://www.xerotica.com/","PORN","2017-01-24","Berkman Klein","Popular among local users and currently blocked"
+"http://www.xgate.kz/","MISC","2014-04-15","citizenlab",""
+"http://www.xvideos.com/","PORN","2017-01-24","Berkman Klein","Blocked on the territory of Kazakhstan"
+"http://www.yandex.kz/","SRCH","2014-04-15","citizenlab",""
+"http://www.zakon.kz/","NEWS","2017-01-24","Berkman Klein","Quite popular neutral news website that is unlikely to be blocked"
+"http://www.zonakz.net/","NEWS","2014-04-15","citizenlab",""
+"http://xorod.ru.w3snoop.com/","ANON","2017-01-24","Berkman Klein","VPN allegedly blocked in Kazakhstan"
+"http://yvision.kz/","HOST","2014-04-15","citizenlab",""
+"https://bureau.kz/","HUMR","2017-01-24","Berkman Klein","Website of a major Human Rights organization in Kazakhstan"
+"https://echo.msk.ru/","NEWS","2017-01-24","Berkman Klein","Russian news website that had been blocked in Kazakhstan for some time in 2016"
+"https://goo.gl/","MISCTOOLS","2017-01-24","Berkman Klein","Google URL shortener that could potentially be blocked when other Google products like YouTube and search are blocked"
+"https://goo.gl/1i2cyq","WOMR","2017-01-24","Berkman Klein","UN Women Central Asian branch"
+"https://goo.gl/AUV16h","FEXP","2017-01-24","Berkman Klein","Independent website that promotes online rights and freedoms"
+"https://goo.gl/E7H2tU","DEV","2017-01-24","Berkman Klein","UNDP Kazakhstan homepage on development programs and women's rights issues"
+"https://goo.gl/FtQFyF","MILX","2017-01-24","Berkman Klein","An article that is officially blocked in Kazakhstan for containing calls to separate from Kazakhstan and join Russia"
+"https://goo.gl/WRZtNa","MILX","2017-01-24","Berkman Klein","Article that contains call to annex Russian speaking northern regions of Kazakhstan to Russia"
+"https://informburo.kz/","NEWS","2017-01-24","Berkman Klein","Quite popular news website in Kazakhstan less likely to be blocked as it's not opposition"
+"https://iwpr.net/ru/global-voices/","FEXP","2017-01-24","Berkman Klein","Independent institute for war and peace reporting"
+"https://kk.wikipedia.org/wiki/","MISC","2017-01-24","Berkman Klein","Free encyclopedia that contains sensitive political information which may become the target of censorship"
+"https://mail.google.com/","EMAIL","2017-01-24","Berkman Klein","Gmail was reportedly partially inaccessible in November, December 2016 acc.to Freedom House country report"
+"https://meduza.io/","NEWS","2017-01-24","Berkman Klein","Russian news website that had been blocked in Kazakhstan for some time in 2016"
+"https://radiotochka.kz/","NEWS","2017-01-24","Berkman Klein","Independent news website that covers wide range of topics"
+"https://radiotochka.kz/ktovladeetkz.html","NEWS","2017-01-24","Berkman Klein","Specific sub URL of the site that reported on the corruption of high level officials"
+"https://soundcloud.com/","PLATFORM","2017-01-24","Berkman Klein","Had been blocked in Kazakhstan for a while for some audio tracks containing ""Religious extremism"""
+"https://telegram.org/","MSG","2017-01-24","Berkman Klein",""
+"https://tengrinews.kz/","NEWS","2017-01-24","Berkman Klein","""Mainstream"" news website unlikely to be blocked as its content is mostly pro-government"
+"https://thenews.kz/","NEWS","2017-01-24","Berkman Klein",""
+"https://twitter.com/","PLATFORM","2017-01-24","Berkman Klein","Was blocked on 16 December 2016 - the day an interview with opposition leader took place"
+"https://vimeo.com/","PLATFORM","2017-01-24","Berkman Klein","Video sharing website that is officially (court order) blocked in Kazakhstan for containing video that ""promotes terrorism and religious extremism"""
+"https://vk.com/","PLATFORM","2017-01-24","Berkman Klein","Very popular Russian social networking site access to which may be restricted"
+"https://vk.com/club25859371","DATE","2017-01-24","Berkman Klein","Gay groups on social networking site Vkontakte allegedly blocked as ""pornography"""
+"https://vk.com/club41995463","DATE","2017-01-24","Berkman Klein","Gay groups on social networking site Vkontakte allegedly blocked as ""pornography"""
+"https://vk.com/club49123299","DATE","2017-01-24","Berkman Klein","Gay groups on social networking site Vkontakte allegedly blocked as ""pornography"""
+"https://vk.com/gaylovekz","DATE","2017-01-24","Berkman Klein","Gay groups on social networking site Vkontakte allegedly blocked as ""pornography"""
+"https://vk.com/iwantyou","PORN","2017-01-24","Berkman Klein","VK social networking site group that is popular in Kazakhstan and allegedly blocked"
+"https://vk.com/lingerie_alissalevi","PROV","2017-01-24","Berkman Klein","Website that officially sells lingerie. Very unlikely to be blocked"
+"https://vk.com/skaji_net_suicidu","SELFHARM","2017-01-24","Berkman Klein",""
+"https://vk.com/tvoya_territoria","SELFHARM","2017-01-24","Berkman Klein",""
+"https://vk.com/uighur_kz","MINR","2017-01-24","Berkman Klein","Vkontakte group devoted to ethnic Uygur community in Kazakhstan"
+"https://vlast.kz/","NEWS","2017-01-24","Berkman Klein","Independent internet magazine that can potentially be blocked"
+"https://wordpress.com/","PLATFORM","2017-01-24","Berkman Klein","Had been blocked in Kazakhstan for some time due to some blogs containing ""unlawful information"""
+"https://www.avaaz.org/page/en/","PLATFORM","2017-01-24","Berkman Klein","This online petition site gets blocked on the territory of Kazakhstan whenever there's a petition calling a high ranking official or the incumbent president to resign"
+"https://www.blogger.com/","PLATFORM","2017-01-24","Berkman Klein","Had been blocked for a while in Kazakhstan due to some blogs containing sensitive information on corruption"
+"https://www.businesswomen.kz/","WOMR","2017-01-24","Berkman Klein","NGO that deals with economic empowerment of women and fight against domestic violence"
+"https://www.change.org/","PLATFORM","2017-01-24","Berkman Klein","Online petition site that had been blocked in Kazakhstan after a petition demanding the resignation of Kazakh prime minister"
+"https://www.facebook.com/","PLATFORM","2017-01-24","Berkman Klein","Very likely to be blocked on days of possible mass protests like December 16 or when opposition plans to hold live interviews"
+"https://www.facebook.com/basekz/","POLT","2017-01-24","Berkman Klein","Opposition Facebook page. Recently, opposition turned to Facebook for posting content rather than website which can be easily blocked"
+"https://www.flickr.com/","PLATFORM","2017-01-24","Berkman Klein","Photo sharing platform that has reportedly been blocked due to court order along with Vimeo in 2015"
+"https://www.gayxchange.com/profiles/KZ/","DATE","2017-01-24","Berkman Klein","Gay groups on social networking site Vkontakte allegedly blocked as ""pornography"""
+"https://www.hrw.org/europe/central-asia/kazakhstan","HUMR","2017-01-24","Berkman Klein","Human Rights Watch website dedicated to Kazakhstan reports on human rights"
+"https://www.instagram.com/","PLATFORM","2017-01-24","Berkman Klein","Was blocked on 16 December 2016 - the day an interview with opposition leader took place"
+"https://www.lada.kz/","NEWS","2017-01-24","Berkman Klein","Popular regional website that is occassionally inaccessible when reporting on mass protests e.g. Zhanaozen riots."
+"https://www.liveinternet.ru/","PLATFORM","2017-01-24","Berkman Klein","Russian online journal that is blocked in Kazakhstan"
+"https://www.nur.kz/","NEWS","2017-01-24","Berkman Klein","""Mainstream"" news website unlikely to be blocked as its content is mostly pro-government"
+"https://www.onlylads.com/profiles/KZ/","DATE","2017-01-24","Berkman Klein","Gay groups on social networking site Vkontakte allegedly blocked as ""pornography"""
+"https://www.periscope.tv/","MISCTOOLS","2017-01-24","Berkman Klein","Livestreaming app that gets blocked in Kazakhstan on days of mass protests in order to avoid live video footages"
+"https://www.torproject.org/","ANON","2017-01-24","Berkman Klein","Quite popular VPN in Kazakhstan that is currently blocked"
+"https://www.tumblr.com/","PLATFORM","2017-01-24","Berkman Klein","Microblogging platform that had been blocked in Kazakhstan in April 2016 for ""propaganda of terrorism and pornography"""
+"https://www.viber.com/en/","MSG","2017-01-24","Berkman Klein","Instant messaging app that has reportedly been blocked in 2014 in Kazakhstan"
+"https://www.whatsapp.com/","MSG","2017-01-24","Berkman Klein","Instant messaging app that is occasionally inaccessible in Kazakhstan"
+"https://www.youtube.com/","PLATFORM","2017-01-24","Berkman Klein","Very likely to be blocked on days of possible mass protests like December 16 or when opposition plans to hold live interviews"
+"https://www.zagranburo.org/","POLT","2017-01-24","Berkman Klein","""Foreign bureau of opposition of Kazakhstan"" - website run by Kazakh opposition abroad"
+"https://zonakz.net/","MISC","2017-01-24","Berkman Klein","Controversial Kazakh blogging platform access to which sometimes restricted"

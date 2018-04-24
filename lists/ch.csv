@@ -1,6 +1,6 @@
-url,category_code,subcategory_code,secondary_category_code,date_added,source,notes
-http://c9c.net/,ANON,,,2017-03-05,"Citizen Lab, Markus Ritzmann",
-http://appel-au-peuple.org/,POLR,,,2017-09-17,"Citizen Lab, Markus Ritzmann",
-http://freejustice.de/,POLR,,,2017-09-17,"Citizen Lab, Markus Ritzmann",
-http://swiss-corruption.com/,POLR,,,2017-09-17,"Citizen Lab, Markus Ritzmann",
-http://corruption2.com/,POLR,,,2017-09-17,"Citizen Lab, Markus Ritzmann",
+"url","category_code","date_added","source","notes"
+"http://appel-au-peuple.org/","POLR","2017-09-17","Markus Ritzmann",""
+"http://c9c.net/","ANON","2017-03-05","Markus Ritzmann",""
+"http://corruption2.com/","POLR","2017-09-17","Markus Ritzmann",""
+"http://freejustice.de/","POLR","2017-09-17","Markus Ritzmann",""
+"http://swiss-corruption.com/","POLR","2017-09-17","Markus Ritzmann",""

@@ -1,40 +1,40 @@
-url,category_code,subcategory_code,secondary_category_code,date_added,source,notes
-http://ambenatna.over-blog.com/,NEWS,,,2014-04-15,Citizen Lab,
-https://chad.team.org/,REL,,,2016-08-05,"Citizen Lab, OONI",
-http://makaila.over-blog.com/,NEWS,,,2014-04-15,Citizen Lab,
-http://minorityrights.org/minorities/southerners/,HUMR,,,2016-08-05,"Citizen Lab, OONI",
-http://rdpl.over-blog.com/,NEWS,,,2014-04-15,Citizen Lab,
-http://tchadien.com/,NEWS,,,2016-08-05,"Citizen Lab, OONI",
-https://thewideninglens.wordpress.com/2015/08/20/whats-going-on-in-chad/,HUMR,,,2016-08-05,"Citizen Lab, OONI",
-http://topics.nytimes.com/top/news/international/countriesandterritories/chad/index.html,NEWS,,,2016-08-05,"Citizen Lab, OONI",
-http://www.afrik.com/tchad/,NEWS,,,2016-08-05,"Citizen Lab, OONI",
-http://www.afrol.com/articles/29663,REL,,,2016-08-05,"Citizen Lab, OONI",
-http://www.allafrica.com/chad/,NEWS,,,2016-08-05,"Citizen Lab, OONI",
-http://www.alwihdainfo.com/,NEWS,,,2016-08-05,"Citizen Lab, OONI",
-https://www.amnesty.org/en/documents/AFR20/007/2013/en/,HUMR,,,2016-08-05,"Citizen Lab, OONI",
-https://www.amnesty.org/en/latest/news/2013/10/chad-repressive-tactics-against-government-critics-must-come-end/,HUMR,,,2016-08-05,"Citizen Lab, OONI",
-http://www.bbc.com/news/world-africa-13164686,NEWS,,,2016-08-05,"Citizen Lab, OONI",
-http://www.charinews.com/,NEWS,,,2014-04-15,Citizen Lab,
-http://www.christianaid.org/Interactive_World/countryPages/Chad.aspx,REL,,,2016-08-05,"Citizen Lab, OONI",
-http://www.everyculture.com/Bo-Co/Chad.html,CULTR,,,2016-08-05,"Citizen Lab, OONI",
-https://www.facebook.com/UnicefChad/,HUMR,,,2016-08-05,"Citizen Lab, OONI",
-https://www.fas.org/sgp/crs/row/RS22798.pdf,HUMR,,,2016-08-05,"Citizen Lab, OONI",
-https://www.giz.de/fachexpertise/downloads/giz2011-en-fgm-tschad.pdf,HUMR,,,2016-08-05,"Citizen Lab, OONI",
-http://www.gouvernementdutchad.org/,NEWS,,,2016-08-05,"Citizen Lab, OONI",Government news
-http://www.mission-chad.org/,REL,,,2016-08-05,"Citizen Lab, OONI",
-http://www.muslimconverts.com/converts/Sultan.htm,REL,,,2016-08-05,"Citizen Lab, OONI",
-http://www.nationsonline.org/oneworld/corruption.htm,POLR,,,2016-08-05,"Citizen Lab, OONI",
-http://www.newstimeafrica.com/archives/category/central-africa-news/chad/,NEWS,,,2016-08-05,"Citizen Lab, OONI",
-http://www.nytimes.com/topic/destination/chad,NEWS,,,2016-08-05,"Citizen Lab, OONI",
-http://www.refugeelegalaidinformation.org/chad,HUMR,,,2016-08-05,"Citizen Lab, OONI",
-https://www.state.gov/j/drl/rls/irf/2011/af/192695.htm,REL,,,2016-08-05,"Citizen Lab, OONI",
-http://www.tchadactuel.com/,NEWS,,,2014-04-15,Citizen Lab,
-http://www.tchadenligne.com/,NEWS,,,2014-04-15,Citizen Lab,
-http://www.tchadforum.com/,NEWS,,,2016-08-05,"Citizen Lab, OONI",
-http://www.tchadoscopie.com/,NEWS,,,2014-04-15,Citizen Lab,
-http://www.tradingeconomics.com/chad/corruption-index,POLR,,,2016-08-05,"Citizen Lab, OONI",
-https://www.transparency.org/research/cpi/overview,POLR,,,2016-08-05,"Citizen Lab, OONI",
-https://www.transparency.org/whatwedo/answer/overview_of_corruption_and_anti_corruption_in_chad,POLR,,,2016-08-05,"Citizen Lab, OONI",
-http://www.unicef.org/appeals/chad.html,HUMR,,,2016-08-05,"Citizen Lab, OONI",
-http://www.unicef.org/infobycountry/chad.html,HUMR,,,2016-08-05,"Citizen Lab, OONI",
-http://www.worldaudit.org/corruption.htm,POLR,,,2016-08-05,"Citizen Lab, OONI",
+"url","category_code","date_added","source","notes"
+"http://ambenatna.over-blog.com/","NEWS","2014-04-15","citizenlab",""
+"http://makaila.over-blog.com/","NEWS","2014-04-15","citizenlab",""
+"http://minorityrights.org/minorities/southerners/","HUMR","2016-08-05","OONI",""
+"http://rdpl.over-blog.com/","NEWS","2014-04-15","citizenlab",""
+"http://tchadien.com/","NEWS","2016-08-05","OONI",""
+"http://topics.nytimes.com/top/news/international/countriesandterritories/chad/index.html","NEWS","2016-08-05","OONI",""
+"http://www.afrik.com/tchad/","NEWS","2016-08-05","OONI",""
+"http://www.afrol.com/articles/29663","REL","2016-08-05","OONI",""
+"http://www.allafrica.com/chad/","NEWS","2016-08-05","OONI",""
+"http://www.alwihdainfo.com/","NEWS","2016-08-05","OONI",""
+"http://www.bbc.com/news/world-africa-13164686","NEWS","2016-08-05","OONI",""
+"http://www.charinews.com/","NEWS","2014-04-15","citizenlab",""
+"http://www.christianaid.org/Interactive_World/countryPages/Chad.aspx","REL","2016-08-05","OONI",""
+"http://www.everyculture.com/Bo-Co/Chad.html","CULTR","2016-08-05","OONI",""
+"http://www.gouvernementdutchad.org/","NEWS","2016-08-05","OONI","Government news"
+"http://www.mission-chad.org/","REL","2016-08-05","OONI",""
+"http://www.muslimconverts.com/converts/Sultan.htm","REL","2016-08-05","OONI",""
+"http://www.nationsonline.org/oneworld/corruption.htm","POLR","2016-08-05","OONI",""
+"http://www.newstimeafrica.com/archives/category/central-africa-news/chad/","NEWS","2016-08-05","OONI",""
+"http://www.nytimes.com/topic/destination/chad","NEWS","2016-08-05","OONI",""
+"http://www.refugeelegalaidinformation.org/chad","HUMR","2016-08-05","OONI",""
+"http://www.tchadactuel.com/","NEWS","2014-04-15","citizenlab",""
+"http://www.tchadenligne.com/","NEWS","2014-04-15","citizenlab",""
+"http://www.tchadforum.com/","NEWS","2016-08-05","OONI",""
+"http://www.tchadoscopie.com/","NEWS","2014-04-15","citizenlab",""
+"http://www.tradingeconomics.com/chad/corruption-index","POLR","2016-08-05","OONI",""
+"http://www.unicef.org/appeals/chad.html","HUMR","2016-08-05","OONI",""
+"http://www.unicef.org/infobycountry/chad.html","HUMR","2016-08-05","OONI",""
+"http://www.worldaudit.org/corruption.htm","POLR","2016-08-05","OONI",""
+"https://chad.team.org/","REL","2016-08-05","OONI",""
+"https://thewideninglens.wordpress.com/2015/08/20/whats-going-on-in-chad/","HUMR","2016-08-05","OONI",""
+"https://www.amnesty.org/en/documents/AFR20/007/2013/en/","HUMR","2016-08-05","OONI",""
+"https://www.amnesty.org/en/latest/news/2013/10/chad-repressive-tactics-against-government-critics-must-come-end/","HUMR","2016-08-05","OONI",""
+"https://www.facebook.com/UnicefChad/","HUMR","2016-08-05","OONI",""
+"https://www.fas.org/sgp/crs/row/RS22798.pdf","HUMR","2016-08-05","OONI",""
+"https://www.giz.de/fachexpertise/downloads/giz2011-en-fgm-tschad.pdf","HUMR","2016-08-05","OONI",""
+"https://www.state.gov/j/drl/rls/irf/2011/af/192695.htm","REL","2016-08-05","OONI",""
+"https://www.transparency.org/research/cpi/overview","POLR","2016-08-05","OONI",""
+"https://www.transparency.org/whatwedo/answer/overview_of_corruption_and_anti_corruption_in_chad","POLR","2016-08-05","OONI",""

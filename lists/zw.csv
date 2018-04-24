@@ -1,92 +1,92 @@
-url,category_code,subcategory_code,secondary_category_code,date_added,source,notes
-http://celebrate.org/,REL,,,2016-07-22,"Citizen Lab, OONI",url provided by OONI partner
-https://erczim.org/,HUMR,,,2016-07-22,"Citizen Lab, OONI",url provided by OONI partner
-http://ewn.co.za/2016/07/14/Hundreds-march-to-Zim-embassy-in-PTA/,POLR,,,2016-07-22,"Citizen Lab, OONI",
-http://ewn.co.za/2016/07/14/Zimbabweans-celebrate-the-release-of-Pastor-Evan-Mawarire/,POLR,,,2016-07-22,"Citizen Lab, OONI",
-http://ewn.co.za/2016/07/18/Zimbabwean-citizens-have-suffered-for-too-long/,POLR,,,2016-07-22,"Citizen Lab, OONI",
-http://ewn.co.za/Topic/Evan-Mawarire/,POLR,,,2016-07-22,"Citizen Lab, OONI",
-http://galz.org/,LGBT,,,2016-07-22,"Citizen Lab, OONI",url provided by OONI partner
-http://kalabashmedia.com/,CULTR,,,2016-07-22,"Citizen Lab, OONI",url provided by OONI partner
-https://mdc.co.zw/,POLR,,,2016-07-22,"Citizen Lab, OONI",
-http://mg.co.za/article/2016-07-12-thisflag-pastor-evan-mawarire-summoned-by-zimbabwean-police/,POLR,,,2016-07-22,"Citizen Lab, OONI",
-http://religionnews.com/2016/07/21/how-thisflag-pastor-evan-mawarire-used-facebook-to-shut-down-zimbabwe/,POLR,,,2016-07-22,"Citizen Lab, OONI",
-http://saharareporters.com/2016/07/06/protests-shut-zimbabwe-down-mugabe-government-throttles-social-media-stave-criticism/,POLR,,,2016-07-22,"Citizen Lab, OONI",
-https://twitter.com/pastorevanlive/,POLR,,,2016-07-22,"Citizen Lab, OONI",
-http://www.263chat.com/,NEWS,,,2016-07-22,"Citizen Lab, OONI",url provided by OONI partner
-http://www.3-mob.com/,CULTR,,,2016-07-22,"Citizen Lab, OONI",url provided by OONI partner
-http://www.aljazeera.com/programmes/countingthecost/2014/02/robert-mugabe-economic-legacy-201422010939634296.html/,POLR,,,2016-07-22,"Citizen Lab, OONI",
-http://www.bulawayo24.com/,NEWS,,,2016-07-22,"Citizen Lab, OONI",url provided by OONI partner
-http://www.channelzim.net/,NEWS,,,2016-07-22,"Citizen Lab, OONI",url provided by OONI partner
-http://www.classifieds.co.zw/,COMM,,,2016-07-22,"Citizen Lab, OONI",url provided by OONI partner
-http://www.deseretnews.com/article/865658538/How-ThisFlag-pastor-Evan-Mawarire-used-Facebook-to-shut-down-Zimbabwe.html/,POLR,,,2016-07-22,"Citizen Lab, OONI",
-http://www.econet.co.zw/,COMM,,,2016-07-22,"Citizen Lab, OONI",url provided by OONI partner
-http://www.fifmi.org/,REL,,,2016-07-22,"Citizen Lab, OONI",url provided by OONI partner
-http://www.herald.co.zw/,NEWS,,,2016-07-22,"Citizen Lab, OONI",url provided by OONI partner
-http://www.hmetro.co.zw/,NEWS,,,2016-07-22,"Citizen Lab, OONI",url provided by OONI partner
-http://www.hrforumzim.org/,HUMR,,,2016-07-22,"Citizen Lab, OONI",url provided by OONI partner
-http://www.ibtimes.co.uk/zimbabwe-who-pastor-evan-mawarire-man-behind-thisflag-subversive-protest-movement-1569674/,POLR,,,2016-07-22,"Citizen Lab, OONI",
-http://www.ictministry.gov.zw/,GOVT,,,2016-07-22,"Citizen Lab, OONI",Looks like a DDoS attack is currently affecting this site
-http://www.jsc.org.zw/,GOVT,,,2016-07-22,"Citizen Lab, OONI",url provided by OONI partner
-http://www.kubatana.net/,HUMR,,,2016-07-22,"Citizen Lab, OONI",url provided by OONI partner
-http://www.kwesesports.com/,NEWS,,,2016-07-22,"Citizen Lab, OONI",url provided by OONI partner
-http://www.mg.co.za/,NEWS,,,2016-07-22,"Citizen Lab, OONI",url provided by OONI partner
-http://www.misazim.com/,HUMR,,,2016-07-22,"Citizen Lab, OONI",url provided by OONI partner
-http://www.mohcc.gov.zw/,GOVT,,,2016-07-22,"Citizen Lab, OONI",url provided by OONI partner
-http://www.nehandaradio.com/,NEWS,,,2016-07-22,"Citizen Lab, OONI",url provided by OONI partner
-http://www.netone.co.zw/,COMM,,,2016-07-22,"Citizen Lab, OONI",url provided by OONI partner
-http://www.newsday.co.zw/,NEWS,,,2016-07-22,"Citizen Lab, OONI",url provided by OONI partner
-http://www.newsdzezimbabwe.co.uk/,NEWS,,,2016-07-22,"Citizen Lab, OONI",url provided by OONI partner
-http://www.newzimbabwe.com/,NEWS,,,2016-07-22,"Citizen Lab, OONI",url provided by OONI partner
-http://www.parlzim.gov.zw/,GOVT,,,2016-07-22,"Citizen Lab, OONI",url provided by OONI partner
-http://www.phdministries.org/,REL,,,2016-07-22,"Citizen Lab, OONI",url provided by OONI partner
-http://www.potraz.gov.zw/,GOVT,,,2016-07-22,"Citizen Lab, OONI",url provided by OONI partner
-http://www.source.co.zw/,HACK,,,2016-07-22,"Citizen Lab, OONI",These URLs should probably belong to a “tech” category (which doesn't exist yet).
-http://www.southerneye.co.zw/,NEWS,,,2016-07-22,"Citizen Lab, OONI",url provided by OONI partner
-http://www.sundaynews.co.zw/,NEWS,,,2016-07-22,"Citizen Lab, OONI",url provided by OONI partner
-http://www.technomag.co.zw/,HACK,,,2016-07-22,"Citizen Lab, OONI",These URLs should probably belong to a “tech” category (which doesn't exist yet).
-http://www.techzim.co.zw/,HACK,,,2016-07-22,"Citizen Lab, OONI",These URLs should probably belong to a “tech” category (which doesn't exist yet).
-http://www.telecel.co.zw/,COMM,,,2016-07-22,"Citizen Lab, OONI",url provided by OONI partner
-http://www.theatlantic.com/magazine/archive/2003/12/how-to-kill-a-country/302845/,POLR,,,2016-07-22,"Citizen Lab, OONI",
-http://www.theindependent.co.zw/,NEWS,,,2016-07-22,"Citizen Lab, OONI",url provided by OONI partner
-http://www.thezimbabwean.co/2016/03/an-update-on-human-rights-violations-in-zimbabwe/,HUMR,,,2016-07-22,"Citizen Lab, OONI",
-http://www.ufiministries.org/,REL,,,2016-07-22,"Citizen Lab, OONI",url provided by OONI partner
-http://www.veritaszim.net/,HUMR,,,2016-07-22,"Citizen Lab, OONI",url provided by OONI partner
-https://www.youtube.com/watch?v=EBRsjH5jWmI/,POLR,,,2016-07-22,"Citizen Lab, OONI",
-http://www.zela.org/,ENV,,,2016-07-22,"Citizen Lab, OONI",url provided by OONI partner
-http://www.zesn.org.zw/,HUMR,,,2016-07-22,"Citizen Lab, OONI",url provided by OONI partner
-http://www.zhrc.org.zw/,HUMR,,,2016-07-22,"Citizen Lab, OONI",url provided by OONI partner
-http://www.zimbabwesituation.com/,NEWS,,,2016-07-22,"Citizen Lab, OONI",url provided by OONI partner
-http://www.zimbojam.com/,CULTR,,,2016-07-22,"Citizen Lab, OONI",url provided by OONI partner
-http://www.zimparks.org/,ENV,,,2016-07-22,"Citizen Lab, OONI",url provided by OONI partner
-http://www.zimra.co.zw/,GOVT,,,2016-07-22,"Citizen Lab, OONI",url provided by OONI partner
-http://www.zlhr.org.zw/,HUMR,,,2016-07-22,"Citizen Lab, OONI",url provided by OONI partner
-http://www.zrp.gov.zw/,GOVT,,,2016-07-22,"Citizen Lab, OONI",url provided by OONI partner
-http://www.zwla.co.zw/,HUMR,,,2016-07-22,"Citizen Lab, OONI",url provided by OONI partner
-http://www.zimrights.co.zw/,HUMR,,,2017-05-29,"Citizen Lab, Digital Society of Zimbabwe",
-https://openparly.co.zw/,POLR,,,2017-05-29,"Citizen Lab, Digital Society of Zimbabwe",
-http://thisflag.co.zw/,POLR,,,2017-05-29,"Citizen Lab, Digital Society of Zimbabwe",
-http://www.shutdownzim.net/,POLR,,,2017-05-29,"Citizen Lab, Digital Society of Zimbabwe",
-http://www.zimpeaceproject.com/,HUMR,,,2017-05-29,"Citizen Lab, Digital Society of Zimbabwe",
-http://www.dszim.org/,HACK,,,2017-05-29,"Citizen Lab, Digital Society of Zimbabwe",
-http://herzimbabwe.co.zw/,NEWS,,,2017-05-29,"Citizen Lab, Digital Society of Zimbabwe",
-http://www.mobilecommunityzim.co.zw/,NEWS,,,2017-05-29,"Citizen Lab, Digital Society of Zimbabwe",
-http://www.bbc.com/afrique/,NEWS,,,2017-07-19,"Citizen Lab, BBC",
-http://www.bbcafrique.com/,NEWS,,,2017-07-19,"Citizen Lab, BBC",
-http://www.zim.gov.zw/,GOVT,,,2018-01-27,"Citizen Lab, Community member",
-http://www.zimbabwetourism.net/,CULTR,,,2018-01-27,"Citizen Lab, Community member",
-http://source.co.zw/category/economy/zimbabwe/,NEWS,,,2018-01-27,"Citizen Lab, Community member",
-https://www.zimlii.org/,HUMR,,,2018-01-27,"Citizen Lab, Community member",
-https://bantwana.org/where-we-work/zimbabwe/,HUMR,,,2018-01-27,"Citizen Lab, Community member",
-https://www.sunsafaris.com/safari/zimbabwe/,CULTR,,,2018-01-27,"Citizen Lab, Community member",
-http://www.fingaz.co.zw/,NEWS,,,2018-01-27,"Citizen Lab, Community member",
-http://www.oakfnd.org/zimbabwe-team.html,ENV,,,2018-01-27,"Citizen Lab, Community member",
-https://www.fadzayi4mp.com/,POLR,,,2018-02-01,"Citizen Lab, Community member",
-https://twitter.com/nelsonchamisa,POLR,,,2018-02-01,"Citizen Lab, Community member",
-https://www.youtube.com/channel/UCM62CHb1jWuTKbJhbgTq46g,POLR,,,2018-02-01,"Citizen Lab, Community member",YouTube channel with videos on controversial political discourses
-https://www.bigsr.co.uk/,POLR,,,2018-02-01,"Citizen Lab, Community member",
-https://twitter.com/bititendai?lang=en,POLR,,,2018-02-01,"Citizen Lab, Community member",
-http://zimfirst.org/,POLR,,,2018-02-01,"Citizen Lab, Community member",
-http://www.chra.co.zw/,HUMR,,,2018-02-01,"Citizen Lab, Community member",
-http://www.hrt.org.zw/,HUMR,,,2018-02-01,"Citizen Lab, Community member",
-http://ccjphre.org.zw/,REL,,,2018-02-01,"Citizen Lab, Community member",
-https://www.youtube.com/channel/UC4a2DkDqH8ZqiGxeJVpueuw,POLR,,,2018-02-01,"Citizen Lab, Community member",YouTube Channel of political party
+"url","category_code","date_added","source","notes"
+"http://ccjphre.org.zw/","REL","2018-02-01","Community member",""
+"http://celebrate.org/","REL","2016-07-22","OONI","url provided by OONI partner"
+"http://ewn.co.za/2016/07/14/Hundreds-march-to-Zim-embassy-in-PTA/","POLR","2016-07-22","OONI",""
+"http://ewn.co.za/2016/07/14/Zimbabweans-celebrate-the-release-of-Pastor-Evan-Mawarire/","POLR","2016-07-22","OONI",""
+"http://ewn.co.za/2016/07/18/Zimbabwean-citizens-have-suffered-for-too-long/","POLR","2016-07-22","OONI",""
+"http://ewn.co.za/Topic/Evan-Mawarire/","POLR","2016-07-22","OONI",""
+"http://galz.org/","LGBT","2016-07-22","OONI","url provided by OONI partner"
+"http://herzimbabwe.co.zw/","NEWS","2017-05-29","Digital Society of Zimbabwe",""
+"http://kalabashmedia.com/","CULTR","2016-07-22","OONI","url provided by OONI partner"
+"http://mg.co.za/article/2016-07-12-thisflag-pastor-evan-mawarire-summoned-by-zimbabwean-police/","POLR","2016-07-22","OONI",""
+"http://religionnews.com/2016/07/21/how-thisflag-pastor-evan-mawarire-used-facebook-to-shut-down-zimbabwe/","POLR","2016-07-22","OONI",""
+"http://saharareporters.com/2016/07/06/protests-shut-zimbabwe-down-mugabe-government-throttles-social-media-stave-criticism/","POLR","2016-07-22","OONI",""
+"http://source.co.zw/category/economy/zimbabwe/","NEWS","2018-01-27","Community member",""
+"http://thisflag.co.zw/","POLR","2017-05-29","Digital Society of Zimbabwe",""
+"http://www.263chat.com/","NEWS","2016-07-22","OONI","url provided by OONI partner"
+"http://www.3-mob.com/","CULTR","2016-07-22","OONI","url provided by OONI partner"
+"http://www.aljazeera.com/programmes/countingthecost/2014/02/robert-mugabe-economic-legacy-201422010939634296.html/","POLR","2016-07-22","OONI",""
+"http://www.bbc.com/afrique/","NEWS","2017-07-19","BBC",""
+"http://www.bbcafrique.com/","NEWS","2017-07-19","BBC",""
+"http://www.bulawayo24.com/","NEWS","2016-07-22","OONI","url provided by OONI partner"
+"http://www.channelzim.net/","NEWS","2016-07-22","OONI","url provided by OONI partner"
+"http://www.chra.co.zw/","HUMR","2018-02-01","Community member",""
+"http://www.classifieds.co.zw/","COMM","2016-07-22","OONI","url provided by OONI partner"
+"http://www.deseretnews.com/article/865658538/How-ThisFlag-pastor-Evan-Mawarire-used-Facebook-to-shut-down-Zimbabwe.html/","POLR","2016-07-22","OONI",""
+"http://www.dszim.org/","HACK","2017-05-29","Digital Society of Zimbabwe",""
+"http://www.econet.co.zw/","COMM","2016-07-22","OONI","url provided by OONI partner"
+"http://www.fifmi.org/","REL","2016-07-22","OONI","url provided by OONI partner"
+"http://www.fingaz.co.zw/","NEWS","2018-01-27","Community member",""
+"http://www.herald.co.zw/","NEWS","2016-07-22","OONI","url provided by OONI partner"
+"http://www.hmetro.co.zw/","NEWS","2016-07-22","OONI","url provided by OONI partner"
+"http://www.hrforumzim.org/","HUMR","2016-07-22","OONI","url provided by OONI partner"
+"http://www.hrt.org.zw/","HUMR","2018-02-01","Community member",""
+"http://www.ibtimes.co.uk/zimbabwe-who-pastor-evan-mawarire-man-behind-thisflag-subversive-protest-movement-1569674/","POLR","2016-07-22","OONI",""
+"http://www.ictministry.gov.zw/","GOVT","2016-07-22","OONI","Looks like a DDoS attack is currently affecting this site"
+"http://www.jsc.org.zw/","GOVT","2016-07-22","OONI","url provided by OONI partner"
+"http://www.kubatana.net/","HUMR","2016-07-22","OONI","url provided by OONI partner"
+"http://www.kwesesports.com/","NEWS","2016-07-22","OONI","url provided by OONI partner"
+"http://www.mg.co.za/","NEWS","2016-07-22","OONI","url provided by OONI partner"
+"http://www.misazim.com/","HUMR","2016-07-22","OONI","url provided by OONI partner"
+"http://www.mobilecommunityzim.co.zw/","NEWS","2017-05-29","Digital Society of Zimbabwe",""
+"http://www.mohcc.gov.zw/","GOVT","2016-07-22","OONI","url provided by OONI partner"
+"http://www.nehandaradio.com/","NEWS","2016-07-22","OONI","url provided by OONI partner"
+"http://www.netone.co.zw/","COMM","2016-07-22","OONI","url provided by OONI partner"
+"http://www.newsday.co.zw/","NEWS","2016-07-22","OONI","url provided by OONI partner"
+"http://www.newsdzezimbabwe.co.uk/","NEWS","2016-07-22","OONI","url provided by OONI partner"
+"http://www.newzimbabwe.com/","NEWS","2016-07-22","OONI","url provided by OONI partner"
+"http://www.oakfnd.org/zimbabwe-team.html","ENV","2018-01-27","Community member",""
+"http://www.parlzim.gov.zw/","GOVT","2016-07-22","OONI","url provided by OONI partner"
+"http://www.phdministries.org/","REL","2016-07-22","OONI","url provided by OONI partner"
+"http://www.potraz.gov.zw/","GOVT","2016-07-22","OONI","url provided by OONI partner"
+"http://www.shutdownzim.net/","POLR","2017-05-29","Digital Society of Zimbabwe",""
+"http://www.source.co.zw/","HACK","2016-07-22","OONI","These URLs should probably belong to a “tech” category (which doesn't exist yet)."
+"http://www.southerneye.co.zw/","NEWS","2016-07-22","OONI","url provided by OONI partner"
+"http://www.sundaynews.co.zw/","NEWS","2016-07-22","OONI","url provided by OONI partner"
+"http://www.technomag.co.zw/","HACK","2016-07-22","OONI","These URLs should probably belong to a “tech” category (which doesn't exist yet)."
+"http://www.techzim.co.zw/","HACK","2016-07-22","OONI","These URLs should probably belong to a “tech” category (which doesn't exist yet)."
+"http://www.telecel.co.zw/","COMM","2016-07-22","OONI","url provided by OONI partner"
+"http://www.theatlantic.com/magazine/archive/2003/12/how-to-kill-a-country/302845/","POLR","2016-07-22","OONI",""
+"http://www.theindependent.co.zw/","NEWS","2016-07-22","OONI","url provided by OONI partner"
+"http://www.thezimbabwean.co/2016/03/an-update-on-human-rights-violations-in-zimbabwe/","HUMR","2016-07-22","OONI",""
+"http://www.ufiministries.org/","REL","2016-07-22","OONI","url provided by OONI partner"
+"http://www.veritaszim.net/","HUMR","2016-07-22","OONI","url provided by OONI partner"
+"http://www.zela.org/","ENV","2016-07-22","OONI","url provided by OONI partner"
+"http://www.zesn.org.zw/","HUMR","2016-07-22","OONI","url provided by OONI partner"
+"http://www.zhrc.org.zw/","HUMR","2016-07-22","OONI","url provided by OONI partner"
+"http://www.zim.gov.zw/","GOVT","2018-01-27","Community member",""
+"http://www.zimbabwesituation.com/","NEWS","2016-07-22","OONI","url provided by OONI partner"
+"http://www.zimbabwetourism.net/","CULTR","2018-01-27","Community member",""
+"http://www.zimbojam.com/","CULTR","2016-07-22","OONI","url provided by OONI partner"
+"http://www.zimparks.org/","ENV","2016-07-22","OONI","url provided by OONI partner"
+"http://www.zimpeaceproject.com/","HUMR","2017-05-29","Digital Society of Zimbabwe",""
+"http://www.zimra.co.zw/","GOVT","2016-07-22","OONI","url provided by OONI partner"
+"http://www.zimrights.co.zw/","HUMR","2017-05-29","Digital Society of Zimbabwe",""
+"http://www.zlhr.org.zw/","HUMR","2016-07-22","OONI","url provided by OONI partner"
+"http://www.zrp.gov.zw/","GOVT","2016-07-22","OONI","url provided by OONI partner"
+"http://www.zwla.co.zw/","HUMR","2016-07-22","OONI","url provided by OONI partner"
+"http://zimfirst.org/","POLR","2018-02-01","Community member",""
+"https://bantwana.org/where-we-work/zimbabwe/","HUMR","2018-01-27","Community member",""
+"https://erczim.org/","HUMR","2016-07-22","OONI","url provided by OONI partner"
+"https://mdc.co.zw/","POLR","2016-07-22","OONI",""
+"https://openparly.co.zw/","POLR","2017-05-29","Digital Society of Zimbabwe",""
+"https://twitter.com/bititendai?lang=en","POLR","2018-02-01","Community member",""
+"https://twitter.com/nelsonchamisa","POLR","2018-02-01","Community member",""
+"https://twitter.com/pastorevanlive/","POLR","2016-07-22","OONI",""
+"https://www.bigsr.co.uk/","POLR","2018-02-01","Community member",""
+"https://www.fadzayi4mp.com/","POLR","2018-02-01","Community member",""
+"https://www.sunsafaris.com/safari/zimbabwe/","CULTR","2018-01-27","Community member",""
+"https://www.youtube.com/channel/UC4a2DkDqH8ZqiGxeJVpueuw","POLR","2018-02-01","Community member","YouTube Channel of political party"
+"https://www.youtube.com/channel/UCM62CHb1jWuTKbJhbgTq46g","POLR","2018-02-01","Community member","YouTube channel with videos on controversial political discourses"
+"https://www.youtube.com/watch?v=EBRsjH5jWmI/","POLR","2016-07-22","OONI",""
+"https://www.zimlii.org/","HUMR","2018-01-27","Community member",""

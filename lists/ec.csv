@@ -1,16 +1,16 @@
-url,category_code,subcategory_code,secondary_category_code,date_added,source,notes
-http://www.elcomercio.com/,NEWS,,,2018-04-10,"Citizen Lab, iapazmino",
-https://www.eluniverso.com/,NEWS,,,2018-04-10,"Citizen Lab, iapazmino",
-https://ww2.elmercurio.com.ec/,NEWS,,,2018-04-10,"Citizen Lab, iapazmino",
-https://lahora.com.ec/,NEWS,,,2018-04-10,"Citizen Lab, iapazmino",
-http://www.elciudadano.gob.ec/,NEWS,,,2018-04-10,"Citizen Lab, iapazmino",
-https://www.eltelegrafo.com.ec/,NEWS,,,2018-04-10,"Citizen Lab, iapazmino",
-https://www.revistacrisis.com/,POLR,,,2018-04-10,"Citizen Lab, iapazmino",
-http://www.medialabuio.org/,MISC,,,2018-04-10,"Citizen Lab, iapazmino",Emprendimiento ciudadano
-http://ciespal.org/,MISC,,,2018-04-10,"Citizen Lab, iapazmino",Centro de estudios internacionales
-http://revistachasqui.org/,CULTR,,,2018-04-10,"Citizen Lab, iapazmino",Revista de pensamiento construida desde el Sur Geopolítico
-http://elchuro.org/,HUMR,,,2018-04-10,"Citizen Lab, iapazmino",
-https://wambra.ec/,HUMR,,,2018-04-10,"Citizen Lab, iapazmino",
-https://www.alainet.org/,HUMR,,,2018-04-10,"Citizen Lab, iapazmino",
-http://labarraespaciadora.com/,HUMR,,,2018-04-10,"Citizen Lab, iapazmino",
-http://4pelagatos.com/,CULTR,,,2018-04-10,"Citizen Lab, iapazmino",
+"url","category_code","date_added","source","notes"
+"http://4pelagatos.com/","CULTR","2018-04-10","iapazmino",""
+"http://ciespal.org/","MISC","2018-04-10","iapazmino","Centro de estudios internacionales"
+"http://elchuro.org/","HUMR","2018-04-10","iapazmino",""
+"http://labarraespaciadora.com/","HUMR","2018-04-10","iapazmino",""
+"http://revistachasqui.org/","CULTR","2018-04-10","iapazmino","Revista de pensamiento construida desde el Sur Geopolítico"
+"http://www.elciudadano.gob.ec/","NEWS","2018-04-10","iapazmino",""
+"http://www.elcomercio.com/","NEWS","2018-04-10","iapazmino",""
+"http://www.medialabuio.org/","MISC","2018-04-10","iapazmino","Emprendimiento ciudadano"
+"https://lahora.com.ec/","NEWS","2018-04-10","iapazmino",""
+"https://wambra.ec/","HUMR","2018-04-10","iapazmino",""
+"https://ww2.elmercurio.com.ec/","NEWS","2018-04-10","iapazmino",""
+"https://www.alainet.org/","HUMR","2018-04-10","iapazmino",""
+"https://www.eltelegrafo.com.ec/","NEWS","2018-04-10","iapazmino",""
+"https://www.eluniverso.com/","NEWS","2018-04-10","iapazmino",""
+"https://www.revistacrisis.com/","POLR","2018-04-10","iapazmino",""

@@ -1,231 +1,519 @@
-url,category_code,subcategory_code,secondary_category_code,date_added,source,notes
-http://alsaha.com/,POLT,,,2017-01-24,Berkman Klein,blocked
-http://ar.wikipedia.org/,POLT,,,2017-01-24,Berkman Klein,
-http://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85_%D9%81%D9%8A_%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9,POLT,,,2017-01-24,Berkman Klein,
-http://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9,POLT,,,2017-01-24,Berkman Klein,
-http://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B5%D8%AD%D8%A7%D9%81%D8%A9_%D9%81%D9%8A_%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9,POLT,,,2017-01-24,Berkman Klein,
-http://ar.wikipedia.org/wiki/%D8%AC%D9%8A%D8%B4_%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9,POLT,,,2017-01-24,Berkman Klein,
-http://ar.wikipedia.org/wiki/%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87_%D8%A8%D9%86_%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%B9%D8%B2%D9%8A%D8%B2,POLT,,,2017-01-24,Berkman Klein,
-http://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D9%84%D9%88%D9%83_%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9,POLT,,,2017-01-24,Berkman Klein,
-http://en.wikipedia.org/wiki/Foreign_relations_of_Saudi_Arabia,POLT,,,2017-01-24,Berkman Klein,
-http://en.wikipedia.org/wiki/Human_rights_in_Saudi_Arabia,POLT,,,2017-01-24,Berkman Klein,
-http://en.wikipedia.org/wiki/Human_trafficking_in_Saudi_Arabia,POLT,,,2017-01-24,Berkman Klein,
-http://en.wikipedia.org/wiki/Military_of_Saudi_Arabia,POLT,,,2017-01-24,Berkman Klein,
-http://en.wikipedia.org/wiki/Muttawa,POLT,,,2017-01-24,Berkman Klein,
-http://en.wikipedia.org/wiki/Saudi_Arabia,POLT,,,2017-01-24,Berkman Klein,
-http://en.wikipedia.org/wiki/Status_of_religious_freedom_in_Saudi_Arabia,POLT,,,2017-01-24,Berkman Klein,
-http://ibramancom.blogspot.com/,POLT,,,2017-01-24,Berkman Klein,
-https://riyadhbureau.wordpress.com/,NEWS,,,2017-01-24,Berkman Klein,
-http://saudijeans.org/,NEWS,,,2017-01-24,Berkman Klein,
-http://www.alahssa-alkateef.com/,MILX,,,2017-01-24,Berkman Klein,
-http://www.alhijazonline.com/,POLT,,,2017-01-24,Berkman Klein,blocked
-http://www.alhramain.com/,POLT,,,2017-01-24,Berkman Klein,blocked
-http://www.alkarbalaeia.net/,MINR,,,2017-01-24,Berkman Klein,
-http://www.allahsassurance.com/,REL,,,2017-01-24,Berkman Klein,Blocked in the past
-http://www.almktaba.com/,MILX,,,2017-01-24,Berkman Klein,
-http://www.anhri.net/ifex/alerts/saudi/,HUMR,,,2017-01-24,Berkman Klein,
-http://www.annabaa.org/,MINR,,,2017-01-24,Berkman Klein,
-http://www.asseer.com/,MILX,,,2017-01-24,Berkman Klein,BLOCKED
-http://www.islah.tv/,POLT,,,2017-01-24,Berkman Klein,
-http://www.saudielection.com/,POLT,,,2017-01-24,Berkman Klein,
-http://www.saudihr.org/,HUMR,,,2017-01-24,Berkman Klein,blocked
-http://www.tajdeed.net/,POLT,,,2017-01-24,Berkman Klein,
-http://sabanews.net/ar/,NEWS,,,2017-01-24,Berkman Klein,Blocked
-http://www.althawranews.net/,NEWS,,,2017-01-24,Berkman Klein,Blocked
-http://almotamar.net/news/,NEWS,,,2017-01-24,Berkman Klein,Blocked
-http://khabaragency.net/,NEWS,,,2017-01-24,Berkman Klein,Blocked
-http://www.yementodaytv.net/,NEWS,,,2017-01-24,Berkman Klein,Blocked
-http://www.ansarallah.net/,NEWS,,,2017-01-24,Berkman Klein,Blocked
-http://masapress.net/,NEWS,,,2017-01-24,Berkman Klein,Blocked
-http://ansar-allah.net/,NEWS,,,2017-01-24,Berkman Klein,Blocked
-http://sabanews.net/,NEWS,,,2017-01-24,Berkman Klein,Blocked
-http://www.26sep.net/,NEWS,,,2017-01-24,Berkman Klein,Blocked
-http://www.saadahpress.net/,NEWS,,,2017-01-24,Berkman Klein,Blocked
-http://www.irna.ir/en,NEWS,,,2017-01-24,Berkman Klein,Blocked
-http://arabic.farsnews.com/,NEWS,,,2017-01-24,Berkman Klein,Blocked
-http://www.almasirah.tv/,NEWS,,,2017-01-24,Berkman Klein,Blocked
-http://www.arabi21.com/,NEWS,,,2017-01-24,Berkman Klein,Blocked
-http://theriyadhpost.com/,NEWS,,,2017-01-24,Berkman Klein,Blocked
-https://www.alqst.org/,HUMR,,FEXP,2017-01-24,Berkman Klein,
-http://www.argaam.com/,NEWS,,,2017-01-24,Berkman Klein,
-http://www.alriyadh.com/,NEWS,,,2017-01-24,Berkman Klein,
-http://sabq.org/,NEWS,,,2017-01-24,Berkman Klein,
-http://www.raddadi.com/,NEWS,,,2017-01-24,Berkman Klein,
-http://www.arabnews.com/,NEWS,,,2017-01-24,Berkman Klein,
-http://www.news-sa.com/,NEWS,,,2017-01-24,Berkman Klein,
-http://www.habbabi.net/,NEWS,,,2017-01-24,Berkman Klein,
-http://www.almowaten.net/,NEWS,,,2017-01-24,Berkman Klein,
-http://news-ksa.com/,NEWS,,,2017-01-24,Berkman Klein,
-http://www.almokhtsar.com/,NEWS,,,2017-01-24,Berkman Klein,
-http://www.ajel.sa/,NEWS,,,2017-01-24,Berkman Klein,
-http://www.k1b1.com/,NEWS,,,2017-01-24,Berkman Klein,
-http://www.tr-te.com/,NEWS,,,2017-01-24,Berkman Klein,blocked
-http://www.ebhare.com/,NEWS,,,2017-01-24,Berkman Klein,blocked
-http://www.kabar.ws/,NEWS,,,2017-01-24,Berkman Klein,blocked
-http://www.shibreqah.net/,NEWS,,,2017-01-24,Berkman Klein,blocked
-http://www.masdr.net/,NEWS,,,2017-01-24,Berkman Klein,blocked
-http://www.onaizahnews.com/,NEWS,,,2017-01-24,Berkman Klein,blocked
-http://www.dwadme.com/,NEWS,,,2017-01-24,Berkman Klein,
-http://www.arabicmagazine.com/arabic/,NEWS,,,2017-01-24,Berkman Klein,
-http://www.almdarnews.net/,NEWS,,,2017-01-24,Berkman Klein,
-http://www.m3llm.net/,NEWS,,,2017-01-24,Berkman Klein,
-http://www.juof7.com/,NEWS,,,2017-01-24,Berkman Klein,
-http://www.afifnews.com/,NEWS,,,2017-01-24,Berkman Klein,
-http://www.ecoworld-mag.com/,NEWS,,,2017-01-24,Berkman Klein,
-http://www.hailnews.net/hail/,NEWS,,,2017-01-24,Berkman Klein,
-http://alhiad.net/,NEWS,,,2017-01-24,Berkman Klein,
-http://www.saudigear.com/,NEWS,,,2017-01-24,Berkman Klein,
-http://www.kharjhome.com/,NEWS,,,2017-01-24,Berkman Klein,
-http://www.cjouf.com/vb/,NEWS,,,2017-01-24,Berkman Klein,
-http://www.jazannews.org/,NEWS,,,2017-01-24,Berkman Klein,
-http://www.saudistret.com/,NEWS,,,2017-01-24,Berkman Klein,
-http://www.makkahgate.net/,NEWS,,,2017-01-24,Berkman Klein,blocked
-http://www.newsqassim.com/index.php,NEWS,,,2017-01-24,Berkman Klein,
-http://www.alkharjnet.net/,NEWS,,,2017-01-24,Berkman Klein,
-http://7ail.net/,NEWS,,,2017-01-24,Berkman Klein,
-http://www.amelnews.com/,NEWS,,,2017-01-24,Berkman Klein,blocked
-http://www.wahaj.net/,NEWS,,,2017-01-24,Berkman Klein,
-http://www.belgarn.com/,NEWS,,,2017-01-24,Berkman Klein,
-https://www.alkhafji.news/,NEWS,,,2017-01-24,Berkman Klein,
-http://www.hailnews.com/,NEWS,,,2017-01-24,Berkman Klein,
-http://www.alazd.net/,NEWS,,,2017-01-24,Berkman Klein,
-http://arar-news.com/,NEWS,,,2017-01-24,Berkman Klein,
-http://yanbutoday.com/,NEWS,,,2017-01-24,Berkman Klein,
-http://www.ar8ar.com/news/,NEWS,,,2017-01-24,Berkman Klein,
-http://www.ynbu.com/,NEWS,,,2017-01-24,Berkman Klein,
-http://www.hailvoice.net/,NEWS,,,2017-01-24,Berkman Klein,
-http://www.arriyadiyah.com/,NEWS,,,2017-01-24,Berkman Klein,
-http://www.ofouq.com/,NEWS,,,2017-01-24,Berkman Klein,blocked
-http://www.albiladdaily.com/,NEWS,,,2017-01-24,Berkman Klein,
-http://www.aleqt.com/,NEWS,,,2017-01-24,Berkman Klein,
-http://www.almarefh.net/,NEWS,,,2017-01-24,Berkman Klein,
-http://www.alweeam.com.sa/,NEWS,,,2017-01-24,Berkman Klein,
-http://www.alolaa.net/,NEWS,,,2017-01-24,Berkman Klein,
-http://alwakad.net/dimofinf/,NEWS,,,2017-01-24,Berkman Klein,
-http://www.taibanews.com/,NEWS,,,2017-01-24,Berkman Klein,
-http://tabuk-news.com/,NEWS,,,2017-01-24,Berkman Klein,
-http://www.afifnp.com/,NEWS,,,2017-01-24,Berkman Klein,
-http://www.anaween.com/,NEWS,,,2017-01-24,Berkman Klein,
-http://hfrnews.com/,NEWS,,,2017-01-24,Berkman Klein,blocked
-http://www.makkahnews.net/,NEWS,,,2017-01-24,Berkman Klein,
-http://www.alyamamah.net/,NEWS,,,2017-01-24,Berkman Klein,
-http://www.alaflaaj.com/,NEWS,,,2017-01-24,Berkman Klein,
-http://enayh.com/,NEWS,,,2017-01-24,Berkman Klein,
-http://www.araob.com/,NEWS,,,2017-01-24,Berkman Klein,
-http://www.borsah.org/,NEWS,,,2017-01-24,Berkman Klein,blocked
-http://www.aljoaf.net/,NEWS,,,2017-01-24,Berkman Klein,
-http://www.mubasheer.com/,NEWS,,,2017-01-24,Berkman Klein,
-http://www.umljgate.com/,NEWS,,,2017-01-24,Berkman Klein,
-http://www.khreej.net/,NEWS,,,2017-01-24,Berkman Klein,
-http://www.masaraat.net/,NEWS,,,2017-01-24,Berkman Klein,
-http://www.onaizatoday.com/,NEWS,,,2017-01-24,Berkman Klein,
-http://www.hasatoday.com/,NEWS,,,2017-01-24,Berkman Klein,
-http://www.arartoday.org/,NEWS,,,2017-01-24,Berkman Klein,
-http://www.alassr.com/,NEWS,,,2017-01-24,Berkman Klein,
-http://yanbu-news.com/news/,NEWS,,,2017-01-24,Berkman Klein,
-http://www.alkharjonline.net/,NEWS,,,2017-01-24,Berkman Klein,
-http://www.tareebnews.com/,NEWS,,,2017-01-24,Berkman Klein,
-http://www.sadaalma.com.sa/,NEWS,,,2017-01-24,Berkman Klein,
-http://www.alulanews.com/,NEWS,,,2017-01-24,Berkman Klein,blocked
-http://www.nshrs.com/,NEWS,,,2017-01-24,Berkman Klein,
-http://www.altaif.org/,NEWS,,,2017-01-24,Berkman Klein,
-http://www.mj-sp.com/,NEWS,,,2017-01-24,Berkman Klein,
-http://www.qanonnet.net/,NEWS,,,2017-01-24,Berkman Klein,
-http://www.baareq.com.sa/,NEWS,,,2017-01-24,Berkman Klein,
-http://www.3seer.net/,NEWS,,,2017-01-24,Berkman Klein,
-http://rwifd.com/,NEWS,,,2017-01-24,Berkman Klein,
-http://biladi-sa.com/,NEWS,,,2017-01-24,Berkman Klein,
-http://www.hinakiyah.org/,NEWS,,,2017-01-24,Berkman Klein,
-http://www.asr2r.com/,NEWS,,,2017-01-24,Berkman Klein,
-http://www.ow-news.com/,NEWS,,,2017-01-24,Berkman Klein,
-http://albaha.net/,NEWS,,,2017-01-24,Berkman Klein,
-http://www.sha3rr.com/,NEWS,,,2017-01-24,Berkman Klein,
-http://www.sharurah.com/news/,NEWS,,,2017-01-24,Berkman Klein,
-http://adwaalwatan.com/,NEWS,,,2017-01-24,Berkman Klein,
-http://www.aldahbnews.com/,NEWS,,,2017-01-24,Berkman Klein,
-http://www.al-mhd.com/,NEWS,,,2017-01-24,Berkman Klein,
-http://www.aidabi.net/,NEWS,,,2017-01-24,Berkman Klein,
-http://www.almasaronline.com/,NEWS,,,2017-01-24,Berkman Klein,
-http://www.esohr.org/,HUMR,,FEXP,2017-01-24,Berkman Klein,
-http://nshr.org.sa/,HUMR,,FEXP,2017-01-24,Berkman Klein,
-http://www.adalacenter.net/,HUMR,,FEXP,2017-01-24,Berkman Klein,
-http://www.acprahr.org/,HUMR,,FEXP,2017-01-24,Berkman Klein,BLOCKED
-http://www.cdhrap.net/,HUMR,,FEXP,2017-01-24,Berkman Klein,
-http://www.dewaniyat.com/,POLT,,FEXP,2017-01-24,Berkman Klein,
-http://alshayeb.org/,HUMR,,POLT,2017-01-24,Berkman Klein,
-http://saudishia.com/,MINR,,,2017-01-24,Berkman Klein,
-http://thulatha.com/,FEXP,,POLT,2017-01-24,Berkman Klein,
-http://www.royaah.net/,FEXP,,,2017-01-24,Berkman Klein,
-http://www.humanf.org/,HUMR,,FEXP,2017-01-24,Berkman Klein,
-http://www.gulfissues.net/,HUMR,,FEXP,2017-01-24,Berkman Klein,
-http://www.islah.info/,HUMR,,FEXP,2017-01-24,Berkman Klein,
-http://www.awamia.com/,HUMR,,FEXP,2017-01-24,Berkman Klein,
-http://denypagetests.netsweeper.com/,MISC,,,2017-01-24,Berkman Klein,
-http://denypagetests.netsweeper.com/category/catno/1,MISC,,,2017-01-24,Berkman Klein,"Netsweeper is a Canadian-made filtering solution found to be used by ISPs in Qatar, Yemen, UAE, and Kuwait"
-http://denypagetests.netsweeper.com/category/catno/10,MISC,,,2017-01-24,Berkman Klein,"Netsweeper is a Canadian-made filtering solution found to be used by ISPs in Qatar, Yemen, UAE, and Kuwait"
-http://denypagetests.netsweeper.com/category/catno/11,MISC,,,2017-01-24,Berkman Klein,"Netsweeper is a Canadian-made filtering solution found to be used by ISPs in Qatar, Yemen, UAE, and Kuwait"
-http://denypagetests.netsweeper.com/category/catno/12,MISC,,,2017-01-24,Berkman Klein,"Netsweeper is a Canadian-made filtering solution found to be used by ISPs in Qatar, Yemen, UAE, and Kuwait"
-http://denypagetests.netsweeper.com/category/catno/13,MISC,,,2017-01-24,Berkman Klein,"Netsweeper is a Canadian-made filtering solution found to be used by ISPs in Qatar, Yemen, UAE, and Kuwait"
-http://denypagetests.netsweeper.com/category/catno/14,MISC,,,2017-01-24,Berkman Klein,"Netsweeper is a Canadian-made filtering solution found to be used by ISPs in Qatar, Yemen, UAE, and Kuwait"
-http://denypagetests.netsweeper.com/category/catno/15,MISC,,,2017-01-24,Berkman Klein,"Netsweeper is a Canadian-made filtering solution found to be used by ISPs in Qatar, Yemen, UAE, and Kuwait"
-http://denypagetests.netsweeper.com/category/catno/16,MISC,,,2017-01-24,Berkman Klein,"Netsweeper is a Canadian-made filtering solution found to be used by ISPs in Qatar, Yemen, UAE, and Kuwait"
-http://denypagetests.netsweeper.com/category/catno/160,MISC,,,2017-01-24,Berkman Klein,"Netsweeper is a Canadian-made filtering solution found to be used by ISPs in Qatar, Yemen, UAE, and Kuwait"
-http://denypagetests.netsweeper.com/category/catno/166,MISC,,,2017-01-24,Berkman Klein,"Netsweeper is a Canadian-made filtering solution found to be used by ISPs in Qatar, Yemen, UAE, and Kuwait"
-http://denypagetests.netsweeper.com/category/catno/17,MISC,,,2017-01-24,Berkman Klein,"Netsweeper is a Canadian-made filtering solution found to be used by ISPs in Qatar, Yemen, UAE, and Kuwait"
-http://denypagetests.netsweeper.com/category/catno/170,MISC,,,2017-01-24,Berkman Klein,"Netsweeper is a Canadian-made filtering solution found to be used by ISPs in Qatar, Yemen, UAE, and Kuwait"
-http://denypagetests.netsweeper.com/category/catno/18,MISC,,,2017-01-24,Berkman Klein,"Netsweeper is a Canadian-made filtering solution found to be used by ISPs in Qatar, Yemen, UAE, and Kuwait"
-http://denypagetests.netsweeper.com/category/catno/19,MISC,,,2017-01-24,Berkman Klein,"Netsweeper is a Canadian-made filtering solution found to be used by ISPs in Qatar, Yemen, UAE, and Kuwait"
-http://denypagetests.netsweeper.com/category/catno/2,MISC,,,2017-01-24,Berkman Klein,"Netsweeper is a Canadian-made filtering solution found to be used by ISPs in Qatar, Yemen, UAE, and Kuwait"
-http://denypagetests.netsweeper.com/category/catno/20,MISC,,,2017-01-24,Berkman Klein,"Netsweeper is a Canadian-made filtering solution found to be used by ISPs in Qatar, Yemen, UAE, and Kuwait"
-http://denypagetests.netsweeper.com/category/catno/21,MISC,,,2017-01-24,Berkman Klein,"Netsweeper is a Canadian-made filtering solution found to be used by ISPs in Qatar, Yemen, UAE, and Kuwait"
-http://denypagetests.netsweeper.com/category/catno/22,MISC,,,2017-01-24,Berkman Klein,"Netsweeper is a Canadian-made filtering solution found to be used by ISPs in Qatar, Yemen, UAE, and Kuwait"
-http://denypagetests.netsweeper.com/category/catno/23,MISC,,,2017-01-24,Berkman Klein,"Netsweeper is a Canadian-made filtering solution found to be used by ISPs in Qatar, Yemen, UAE, and Kuwait"
-http://denypagetests.netsweeper.com/category/catno/230,MISC,,,2017-01-24,Berkman Klein,"Netsweeper is a Canadian-made filtering solution found to be used by ISPs in Qatar, Yemen, UAE, and Kuwait"
-http://denypagetests.netsweeper.com/category/catno/24,MISC,,,2017-01-24,Berkman Klein,"Netsweeper is a Canadian-made filtering solution found to be used by ISPs in Qatar, Yemen, UAE, and Kuwait"
-http://denypagetests.netsweeper.com/category/catno/243,MISC,,,2017-01-24,Berkman Klein,"Netsweeper is a Canadian-made filtering solution found to be used by ISPs in Qatar, Yemen, UAE, and Kuwait"
-http://denypagetests.netsweeper.com/category/catno/244,MISC,,,2017-01-24,Berkman Klein,"Netsweeper is a Canadian-made filtering solution found to be used by ISPs in Qatar, Yemen, UAE, and Kuwait"
-http://denypagetests.netsweeper.com/category/catno/245,MISC,,,2017-01-24,Berkman Klein,"Netsweeper is a Canadian-made filtering solution found to be used by ISPs in Qatar, Yemen, UAE, and Kuwait"
-http://denypagetests.netsweeper.com/category/catno/246,MISC,,,2017-01-24,Berkman Klein,"Netsweeper is a Canadian-made filtering solution found to be used by ISPs in Qatar, Yemen, UAE, and Kuwait"
-http://denypagetests.netsweeper.com/category/catno/247,MISC,,,2017-01-24,Berkman Klein,"Netsweeper is a Canadian-made filtering solution found to be used by ISPs in Qatar, Yemen, UAE, and Kuwait"
-http://denypagetests.netsweeper.com/category/catno/248,MISC,,,2017-01-24,Berkman Klein,"Netsweeper is a Canadian-made filtering solution found to be used by ISPs in Qatar, Yemen, UAE, and Kuwait"
-http://denypagetests.netsweeper.com/category/catno/249,MISC,,,2017-01-24,Berkman Klein,"Netsweeper is a Canadian-made filtering solution found to be used by ISPs in Qatar, Yemen, UAE, and Kuwait"
-http://denypagetests.netsweeper.com/category/catno/25,MISC,,,2017-01-24,Berkman Klein,"Netsweeper is a Canadian-made filtering solution found to be used by ISPs in Qatar, Yemen, UAE, and Kuwait"
-http://denypagetests.netsweeper.com/category/catno/250,MISC,,,2017-01-24,Berkman Klein,"Netsweeper is a Canadian-made filtering solution found to be used by ISPs in Qatar, Yemen, UAE, and Kuwait"
-http://denypagetests.netsweeper.com/category/catno/252,MISC,,,2017-01-24,Berkman Klein,"Netsweeper is a Canadian-made filtering solution found to be used by ISPs in Qatar, Yemen, UAE, and Kuwait"
-http://denypagetests.netsweeper.com/category/catno/253,MISC,,,2017-01-24,Berkman Klein,"Netsweeper is a Canadian-made filtering solution found to be used by ISPs in Qatar, Yemen, UAE, and Kuwait"
-http://denypagetests.netsweeper.com/category/catno/254,MISC,,,2017-01-24,Berkman Klein,"Netsweeper is a Canadian-made filtering solution found to be used by ISPs in Qatar, Yemen, UAE, and Kuwait"
-http://denypagetests.netsweeper.com/category/catno/26,MISC,,,2017-01-24,Berkman Klein,"Netsweeper is a Canadian-made filtering solution found to be used by ISPs in Qatar, Yemen, UAE, and Kuwait"
-http://denypagetests.netsweeper.com/category/catno/27,MISC,,,2017-01-24,Berkman Klein,"Netsweeper is a Canadian-made filtering solution found to be used by ISPs in Qatar, Yemen, UAE, and Kuwait"
-http://denypagetests.netsweeper.com/category/catno/28,MISC,,,2017-01-24,Berkman Klein,"Netsweeper is a Canadian-made filtering solution found to be used by ISPs in Qatar, Yemen, UAE, and Kuwait"
-http://denypagetests.netsweeper.com/category/catno/29,MISC,,,2017-01-24,Berkman Klein,"Netsweeper is a Canadian-made filtering solution found to be used by ISPs in Qatar, Yemen, UAE, and Kuwait"
-http://denypagetests.netsweeper.com/category/catno/3,MISC,,,2017-01-24,Berkman Klein,"Netsweeper is a Canadian-made filtering solution found to be used by ISPs in Qatar, Yemen, UAE, and Kuwait"
-http://denypagetests.netsweeper.com/category/catno/30,MISC,,,2017-01-24,Berkman Klein,"Netsweeper is a Canadian-made filtering solution found to be used by ISPs in Qatar, Yemen, UAE, and Kuwait"
-http://denypagetests.netsweeper.com/category/catno/31,MISC,,,2017-01-24,Berkman Klein,"Netsweeper is a Canadian-made filtering solution found to be used by ISPs in Qatar, Yemen, UAE, and Kuwait"
-http://denypagetests.netsweeper.com/category/catno/32,MISC,,,2017-01-24,Berkman Klein,"Netsweeper is a Canadian-made filtering solution found to be used by ISPs in Qatar, Yemen, UAE, and Kuwait"
-http://denypagetests.netsweeper.com/category/catno/33,MISC,,,2017-01-24,Berkman Klein,"Netsweeper is a Canadian-made filtering solution found to be used by ISPs in Qatar, Yemen, UAE, and Kuwait"
-http://denypagetests.netsweeper.com/category/catno/34,MISC,,,2017-01-24,Berkman Klein,"Netsweeper is a Canadian-made filtering solution found to be used by ISPs in Qatar, Yemen, UAE, and Kuwait"
-http://denypagetests.netsweeper.com/category/catno/35,MISC,,,2017-01-24,Berkman Klein,"Netsweeper is a Canadian-made filtering solution found to be used by ISPs in Qatar, Yemen, UAE, and Kuwait"
-http://denypagetests.netsweeper.com/category/catno/36,MISC,,,2017-01-24,Berkman Klein,"Netsweeper is a Canadian-made filtering solution found to be used by ISPs in Qatar, Yemen, UAE, and Kuwait"
-http://denypagetests.netsweeper.com/category/catno/37,MISC,,,2017-01-24,Berkman Klein,"Netsweeper is a Canadian-made filtering solution found to be used by ISPs in Qatar, Yemen, UAE, and Kuwait"
-http://denypagetests.netsweeper.com/category/catno/39,MISC,,,2017-01-24,Berkman Klein,"Netsweeper is a Canadian-made filtering solution found to be used by ISPs in Qatar, Yemen, UAE, and Kuwait"
-http://denypagetests.netsweeper.com/category/catno/4,MISC,,,2017-01-24,Berkman Klein,"Netsweeper is a Canadian-made filtering solution found to be used by ISPs in Qatar, Yemen, UAE, and Kuwait"
-http://denypagetests.netsweeper.com/category/catno/40,MISC,,,2017-01-24,Berkman Klein,"Netsweeper is a Canadian-made filtering solution found to be used by ISPs in Qatar, Yemen, UAE, and Kuwait"
-http://denypagetests.netsweeper.com/category/catno/41,MISC,,,2017-01-24,Berkman Klein,"Netsweeper is a Canadian-made filtering solution found to be used by ISPs in Qatar, Yemen, UAE, and Kuwait"
-http://denypagetests.netsweeper.com/category/catno/42,MISC,,,2017-01-24,Berkman Klein,"Netsweeper is a Canadian-made filtering solution found to be used by ISPs in Qatar, Yemen, UAE, and Kuwait"
-http://denypagetests.netsweeper.com/category/catno/43,MISC,,,2017-01-24,Berkman Klein,"Netsweeper is a Canadian-made filtering solution found to be used by ISPs in Qatar, Yemen, UAE, and Kuwait"
-http://denypagetests.netsweeper.com/category/catno/44,MISC,,,2017-01-24,Berkman Klein,"Netsweeper is a Canadian-made filtering solution found to be used by ISPs in Qatar, Yemen, UAE, and Kuwait"
-http://denypagetests.netsweeper.com/category/catno/45,MISC,,,2017-01-24,Berkman Klein,"Netsweeper is a Canadian-made filtering solution found to be used by ISPs in Qatar, Yemen, UAE, and Kuwait"
-http://denypagetests.netsweeper.com/category/catno/47,MISC,,,2017-01-24,Berkman Klein,"Netsweeper is a Canadian-made filtering solution found to be used by ISPs in Qatar, Yemen, UAE, and Kuwait"
-http://denypagetests.netsweeper.com/category/catno/48,MISC,,,2017-01-24,Berkman Klein,"Netsweeper is a Canadian-made filtering solution found to be used by ISPs in Qatar, Yemen, UAE, and Kuwait"
-http://denypagetests.netsweeper.com/category/catno/49,MISC,,,2017-01-24,Berkman Klein,"Netsweeper is a Canadian-made filtering solution found to be used by ISPs in Qatar, Yemen, UAE, and Kuwait"
-http://denypagetests.netsweeper.com/category/catno/5,MISC,,,2017-01-24,Berkman Klein,"Netsweeper is a Canadian-made filtering solution found to be used by ISPs in Qatar, Yemen, UAE, and Kuwait"
-http://denypagetests.netsweeper.com/category/catno/50,MISC,,,2017-01-24,Berkman Klein,"Netsweeper is a Canadian-made filtering solution found to be used by ISPs in Qatar, Yemen, UAE, and Kuwait"
-http://denypagetests.netsweeper.com/category/catno/51,MISC,,,2017-01-24,Berkman Klein,"Netsweeper is a Canadian-made filtering solution found to be used by ISPs in Qatar, Yemen, UAE, and Kuwait"
-http://denypagetests.netsweeper.com/category/catno/53,MISC,,,2017-01-24,Berkman Klein,"Netsweeper is a Canadian-made filtering solution found to be used by ISPs in Qatar, Yemen, UAE, and Kuwait"
-http://denypagetests.netsweeper.com/category/catno/54,MISC,,,2017-01-24,Berkman Klein,"Netsweeper is a Canadian-made filtering solution found to be used by ISPs in Qatar, Yemen, UAE, and Kuwait"
-http://denypagetests.netsweeper.com/category/catno/6,MISC,,,2017-01-24,Berkman Klein,"Netsweeper is a Canadian-made filtering solution found to be used by ISPs in Qatar, Yemen, UAE, and Kuwait"
-http://denypagetests.netsweeper.com/category/catno/7,MISC,,,2017-01-24,Berkman Klein,"Netsweeper is a Canadian-made filtering solution found to be used by ISPs in Qatar, Yemen, UAE, and Kuwait"
-http://denypagetests.netsweeper.com/category/catno/8,MISC,,,2017-01-24,Berkman Klein,"Netsweeper is a Canadian-made filtering solution found to be used by ISPs in Qatar, Yemen, UAE, and Kuwait"
-http://denypagetests.netsweeper.com/category/catno/9,MISC,,,2017-01-24,Berkman Klein,"Netsweeper is a Canadian-made filtering solution found to be used by ISPs in Qatar, Yemen, UAE, and Kuwait"
-https://www.alaraby.co.uk/,NEWS,,,2016-10-23,"Citizen Lab, OONI",
-http://www.huffingtonpost.com/hossein-askari/last-tango-in-riyadh_b_11855346.html,NEWS,,,2016-10-23,"Citizen Lab, OONI",
+"url","category_code","date_added","source","notes"
+"http://7ail.net/","NEWS","2017-01-24","Berkman Klein",""
+"http://adwaalwatan.com/","NEWS","2017-01-24","Berkman Klein",""
+"http://albaha.net/","NEWS","2017-01-24","Berkman Klein",""
+"http://albrhan.org/","HUMR","2014-04-15","citizenlab",""
+"http://alhag.net/","HUMR","2014-04-15","citizenlab",""
+"http://alhiad.net/","NEWS","2017-01-24","Berkman Klein",""
+"http://almotamar.net/news/","GOVT","2016-04-19","citizenlab",""
+"http://alsaha.com/","NEWS","2014-04-15","citizenlab",""
+"http://alshayeb.org/","HUMR","2017-01-24","Berkman Klein",""
+"http://alshi3i.cjb.net/","HUMR","2014-04-15","citizenlab",""
+"http://altporn.org/wp-includes/images/rss.png","NEWS","2014-04-15","citizenlab",""
+"http://alwakad.net/dimofinf/","NEWS","2017-01-24","Berkman Klein",""
+"http://ammartalk.com/","NEWS","2014-04-15","citizenlab",""
+"http://angryarab.blogspot.com/","NEWS","2014-04-15","citizenlab",""
+"http://ansar-allah.net/","NEWS","2016-04-19","citizenlab",""
+"http://answering-islam.org/","HUMR","2014-04-15","citizenlab",""
+"http://answering-islam.org/Arabic/index.html","REL","2014-04-15","citizenlab",""
+"http://ar.wikipedia.org/","NEWS","2014-04-15","citizenlab",""
+"http://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85_%D9%81%D9%8A_%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9","NEWS","2014-04-15","citizenlab",""
+"http://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9","NEWS","2014-04-15","citizenlab",""
+"http://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B5%D8%AD%D8%A7%D9%81%D8%A9_%D9%81%D9%8A_%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9","NEWS","2014-04-15","citizenlab",""
+"http://ar.wikipedia.org/wiki/%D8%AA%D8%B7%D9%88%D8%B1","CULTR","2014-04-15","citizenlab",""
+"http://ar.wikipedia.org/wiki/%D8%AC%D9%8A%D8%B4_%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9","NEWS","2014-04-15","citizenlab",""
+"http://ar.wikipedia.org/wiki/%D8%AF%D8%A7%D8%B1%D9%88%D9%8A%D9%86%D9%8A%D8%A9","CULTR","2014-04-15","citizenlab",""
+"http://ar.wikipedia.org/wiki/%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87_%D8%A8%D9%86_%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%B9%D8%B2%D9%8A%D8%B2","NEWS","2014-04-15","citizenlab",""
+"http://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D9%84%D9%88%D9%83_%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9","NEWS","2014-04-15","citizenlab",""
+"http://arabic.farsnews.com/","NEWS","2017-01-24","Berkman Klein","Blocked"
+"http://arabic.peopledaily.com.cn/","NEWS","2014-04-15","citizenlab",""
+"http://arabsex2.com/","PORN","2014-04-15","citizenlab",""
+"http://arar-news.com/","NEWS","2017-01-24","Berkman Klein",""
+"http://bandar.raffah.com/","NEWS","2014-04-15","citizenlab",""
+"http://bbcarabic.com/","NEWS","2014-04-15","citizenlab",""
+"http://biladi-sa.com/","NEWS","2017-01-24","Berkman Klein",""
+"http://blogs.guardian.co.uk/","NEWS","2014-04-15","citizenlab",""
+"http://cupfight.info/","ANON","2014-04-15","citizenlab",""
+"http://cutefox.info/","ANON","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/","NEWS","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/1","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/10","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/11","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/12","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/13","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/14","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/15","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/16","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/160","NEWS","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/166","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/17","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/170","NEWS","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/18","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/19","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/2","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/20","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/21","NEWS","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/22","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/23","NEWS","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/230","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/24","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/243","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/244","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/245","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/246","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/247","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/248","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/249","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/25","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/250","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/252","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/253","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/254","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/26","NEWS","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/27","NEWS","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/28","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/29","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/3","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/30","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/31","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/32","NEWS","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/33","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/34","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/35","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/36","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/37","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/39","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/4","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/40","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/41","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/42","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/43","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/44","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/45","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/47","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/48","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/49","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/5","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/50","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/51","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/53","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/54","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/6","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/7","NEWS","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/8","COMM","2014-04-15","citizenlab",""
+"http://denypagetests.netsweeper.com/category/catno/9","COMM","2014-04-15","citizenlab",""
+"http://en.wikipedia.org/","NEWS","2014-04-15","citizenlab",""
+"http://en.wikipedia.org/wiki/Foreign_relations_of_Saudi_Arabia","NEWS","2014-04-15","citizenlab",""
+"http://en.wikipedia.org/wiki/Human_rights_in_Saudi_Arabia","NEWS","2014-04-15","citizenlab",""
+"http://en.wikipedia.org/wiki/Human_trafficking_in_Saudi_Arabia","NEWS","2014-04-15","citizenlab",""
+"http://en.wikipedia.org/wiki/Military_of_Saudi_Arabia","NEWS","2014-04-15","citizenlab",""
+"http://en.wikipedia.org/wiki/Muttawa","NEWS","2014-04-15","citizenlab",""
+"http://en.wikipedia.org/wiki/Saudi_Arabia","NEWS","2014-04-15","citizenlab",""
+"http://en.wikipedia.org/wiki/Status_of_religious_freedom_in_Saudi_Arabia","NEWS","2014-04-15","citizenlab",""
+"http://en.wikipedia.org/wiki/darwinism","CULTR","2014-04-15","citizenlab",""
+"http://en.wikipedia.org/wiki/evolution","CULTR","2014-04-15","citizenlab",""
+"http://enayh.com/","NEWS","2017-01-24","Berkman Klein",""
+"http://fuckerz.org/images/de.gif","NEWS","2014-04-15","citizenlab",""
+"http://gayguide.net/","LGBT","2014-04-15","citizenlab",""
+"http://gayinkuwait.blogspot.com/","LGBT","2014-04-15","citizenlab",""
+"http://gayswithoutborders.wordpress.com/","LGBT","2014-04-15","citizenlab",""
+"http://greenglasses.info/","ANON","2014-04-15","citizenlab",""
+"http://hfrnews.com/","NEWS","2017-01-24","Berkman Klein","blocked"
+"http://hrw.org/","NEWS","2014-04-15","citizenlab",""
+"http://ibramancom.blogspot.com/","NEWS","2014-04-15","citizenlab",""
+"http://jellysock.info/","ANON","2014-04-15","citizenlab",""
+"http://khabaragency.net/","NEWS","2016-04-19","citizenlab",""
+"http://masapress.net/","NEWS","2016-04-19","citizenlab",""
+"http://mujarad-ensan.maktoobblog.com/","POLR","2014-04-15","citizenlab",""
+"http://muslimuzbekistan.net/","MILX","2014-04-15","citizenlab",""
+"http://news-ksa.com/","NEWS","2017-01-24","Berkman Klein",""
+"http://nshr.org.sa/","HUMR","2017-01-24","Berkman Klein",""
+"http://pigflute.info/","ANON","2014-04-15","citizenlab",""
+"http://prettybug.info/","ANON","2014-04-15","citizenlab",""
+"http://rhr.org.il/eng/","HUMR","2014-04-15","citizenlab",""
+"http://rwifd.com/","NEWS","2017-01-24","Berkman Klein",""
+"http://sabanews.net/","NEWS","2017-01-24","Berkman Klein","Blocked"
+"http://sabanews.net/ar/","NEWS","2016-04-19","citizenlab",""
+"http://sabq.org/","NEWS","2017-01-24","Berkman Klein",""
+"http://saudiblogs.blogspot.com/","NEWS","2014-04-15","citizenlab",""
+"http://saudijeans.blogspot.com/","NEWS","2014-04-15","citizenlab",""
+"http://saudijeans.org/","NEWS","2014-04-15","citizenlab",""
+"http://saudishia.com/","MINR","2017-01-24","Berkman Klein",""
+"http://shiaweb.org/","HUMR","2014-04-15","citizenlab",""
+"http://shortbucket.info/","ANON","2014-04-15","citizenlab",""
+"http://shuhood.org/","HUMR","2014-04-15","citizenlab",""
+"http://sjs429.jeeran.com/","HUMR","2014-04-15","citizenlab",""
+"http://slowmoon.info/","ANON","2014-04-15","citizenlab",""
+"http://smartnight.info/","ANON","2014-04-15","citizenlab",""
+"http://starwasher.info/","ANON","2014-04-15","citizenlab",""
+"http://stormfear.info/","ANON","2014-04-15","citizenlab",""
+"http://tabuk-news.com/","NEWS","2017-01-24","Berkman Klein",""
+"http://tallcomputer.info/","ANON","2014-04-15","citizenlab",""
+"http://theriyadhpost.com/","NEWS","2017-01-24","Berkman Klein","Blocked"
+"http://thulatha.com/","FEXP","2017-01-24","Berkman Klein",""
+"http://truckbin.info/","ANON","2014-04-15","citizenlab",""
+"http://truespider.info/","ANON","2014-04-15","citizenlab",""
+"http://twitter.com/#!/gamaleid","NEWS","2014-04-15","citizenlab",""
+"http://twitter.com/#!/ghonim","NEWS","2014-04-15","citizenlab",""
+"http://twitter.com/Mashi97","NEWS","2014-04-15","citizenlab",""
+"http://twitter.com/abualkhair","NEWS","2014-04-15","citizenlab",""
+"http://twitter.com/gamaleid","NEWS","2014-04-15","citizenlab",""
+"http://twitter.com/ghonim","NEWS","2014-04-15","citizenlab",""
+"http://www.14masom.com/","HUMR","2014-04-15","citizenlab",""
+"http://www.26sep.net/","NEWS","2017-01-24","Berkman Klein","Blocked"
+"http://www.3seer.net/","NEWS","2017-01-24","Berkman Klein",""
+"http://www.abudhabiescort.com/","DATE","2014-04-15","citizenlab",""
+"http://www.abudhabiescort.com/gulf-sex/gulf-escorts.htm","DATE","2014-04-15","citizenlab",""
+"http://www.acage.org/","NEWS","2014-04-15","citizenlab",""
+"http://www.acprahr.org/","HUMR","2017-01-24","Berkman Klein","BLOCKED"
+"http://www.adalacenter.net/","HUMR","2017-01-24","Berkman Klein",""
+"http://www.afifnews.com/","NEWS","2017-01-24","Berkman Klein",""
+"http://www.afifnp.com/","NEWS","2017-01-24","Berkman Klein",""
+"http://www.ahewar.org/","NEWS","2014-04-15","citizenlab",""
+"http://www.ahmedandsalim.com/","NEWS","2014-04-15","citizenlab",""
+"http://www.aidabi.net/","NEWS","2017-01-24","Berkman Klein",""
+"http://www.ajel.sa/","NEWS","2017-01-24","Berkman Klein",""
+"http://www.al-bab.com/","NEWS","2014-04-15","citizenlab",""
+"http://www.al-farook.com/","HUMR","2014-04-15","citizenlab",""
+"http://www.al-mhd.com/","NEWS","2017-01-24","Berkman Klein",""
+"http://www.alaflaaj.com/","NEWS","2017-01-24","Berkman Klein",""
+"http://www.alahssa-alkateef.com/","MILX","2014-04-15","citizenlab",""
+"http://www.alalam.ir/","NEWS","2014-04-15","citizenlab",""
+"http://www.alarabiya.net/","NEWS","2014-04-15","citizenlab",""
+"http://www.alassr.com/","NEWS","2017-01-24","Berkman Klein",""
+"http://www.alazd.net/","NEWS","2017-01-24","Berkman Klein",""
+"http://www.albawaba.com/","NEWS","2014-04-15","citizenlab",""
+"http://www.albiladdaily.com/","NEWS","2017-01-24","Berkman Klein",""
+"http://www.aldahbnews.com/","NEWS","2017-01-24","Berkman Klein",""
+"http://www.aleqt.com/","NEWS","2017-01-24","Berkman Klein",""
+"http://www.alhijazonline.com/","POLR","2014-04-15","citizenlab",""
+"http://www.alhramain.com/","POLR","2014-04-15","citizenlab",""
+"http://www.aljazeeratalk.net/","NEWS","2014-04-15","citizenlab",""
+"http://www.aljoaf.net/","NEWS","2017-01-24","Berkman Klein",""
+"http://www.alkarbalaeia.net/","HUMR","2014-04-15","citizenlab",""
+"http://www.alkharjnet.net/","NEWS","2017-01-24","Berkman Klein",""
+"http://www.alkharjonline.net/","NEWS","2017-01-24","Berkman Klein",""
+"http://www.allahsassurance.com/","REL","2014-04-15","citizenlab",""
+"http://www.almarefh.net/","NEWS","2017-01-24","Berkman Klein",""
+"http://www.almasaronline.com/","NEWS","2017-01-24","Berkman Klein",""
+"http://www.almasirah.tv/","NEWS","2017-01-24","Berkman Klein","Blocked"
+"http://www.almdarnews.net/","NEWS","2017-01-24","Berkman Klein",""
+"http://www.almisbar.com/","COMT","2014-04-15","citizenlab",""
+"http://www.almktaba.com/","MILX","2014-04-15","citizenlab",""
+"http://www.almokhtsar.com/","NEWS","2017-01-24","Berkman Klein",""
+"http://www.almowaten.net/","NEWS","2017-01-24","Berkman Klein",""
+"http://www.alnournews.net/","NEWS","2014-04-15","citizenlab",""
+"http://www.alolaa.net/","NEWS","2017-01-24","Berkman Klein",""
+"http://www.alquds.co.uk/","NEWS","2014-04-15","citizenlab",""
+"http://www.alquma.net/","NEWS","2014-04-15","citizenlab",""
+"http://www.alriyadh.com/","NEWS","2017-01-24","Berkman Klein",""
+"http://www.alshaer.net/","HUMR","2014-04-15","citizenlab",""
+"http://www.altaif.org/","NEWS","2017-01-24","Berkman Klein",""
+"http://www.althawranews.net/","NEWS","2016-04-19","citizenlab",""
+"http://www.altporn.org/","NEWS","2014-04-15","citizenlab",""
+"http://www.alulanews.com/","NEWS","2017-01-24","Berkman Klein","blocked"
+"http://www.alweeam.com.sa/","NEWS","2017-01-24","Berkman Klein",""
+"http://www.alyamamah.net/","NEWS","2017-01-24","Berkman Klein",""
+"http://www.amanjordan.org/","HUMR","2014-04-15","citizenlab",""
+"http://www.amanjordan.org/a-news/wmview.php?ArtCat=17","HUMR","2014-04-15","citizenlab",""
+"http://www.amelnews.com/","NEWS","2017-01-24","Berkman Klein","blocked"
+"http://www.amin.org/","NEWS","2014-04-15","citizenlab",""
+"http://www.amnesty.org/ar","HUMR","2014-04-15","citizenlab",""
+"http://www.amnestyusa.org/","HUMR","2014-04-15","citizenlab",""
+"http://www.amplusnet.com/products/invisiblebrowsing/overview.htm","ANON","2014-04-15","citizenlab",""
+"http://www.anaween.com/","NEWS","2017-01-24","Berkman Klein",""
+"http://www.anhri.net/ifex/alerts/saudi/","HUMR","2014-04-15","citizenlab",""
+"http://www.annabaa.org/","HUMR","2014-04-15","citizenlab",""
+"http://www.ansarallah.net/","NEWS","2016-04-19","citizenlab",""
+"http://www.ansarh.com/","HUMR","2014-04-15","citizenlab",""
+"http://www.ansarweb.net/","HUMR","2014-04-15","citizenlab",""
+"http://www.anti-cair-net.org/","NEWS","2014-04-15","citizenlab",""
+"http://www.ar8ar.com/news/","NEWS","2017-01-24","Berkman Klein",""
+"http://www.arabatheist.humanists.net/","REL","2014-04-15","citizenlab",""
+"http://www.arabchat.com/","NEWS","2014-04-15","citizenlab",""
+"http://www.arabfaces.com/","DATE","2014-04-15","citizenlab",""
+"http://www.arabfun.com/","NEWS","2014-04-15","citizenlab",""
+"http://www.arabgames.com/","GAME","2014-04-15","citizenlab",""
+"http://www.arabgirls.us/","PORN","2014-04-15","citizenlab",""
+"http://www.arabgirls.us/arabic_stories.htm","PORN","2014-04-15","citizenlab",""
+"http://www.arabhumanrights.org/","HUMR","2014-04-15","citizenlab",""
+"http://www.arabi21.com/","NEWS","2017-01-24","Berkman Klein","Blocked"
+"http://www.arabiadate.com/","DATE","2014-04-15","citizenlab",""
+"http://www.arabianfest.com/","DATE","2014-04-15","citizenlab",""
+"http://www.arabianfest.com/food_area.htm","DATE","2014-04-15","citizenlab",""
+"http://www.arabianobserver.com/","POLR","2014-04-15","citizenlab",""
+"http://www.arabicbible.com/","REL","2014-04-15","citizenlab",""
+"http://www.arabicmagazine.com/arabic/","NEWS","2017-01-24","Berkman Klein",""
+"http://www.arabicpoems.com/","CULTR","2014-04-15","citizenlab",""
+"http://www.arabmail.de/","NEWS","2014-04-15","citizenlab",""
+"http://www.arabnews.com/","NEWS","2017-01-24","Berkman Klein",""
+"http://www.araob.com/","NEWS","2017-01-24","Berkman Klein",""
+"http://www.arartoday.org/","NEWS","2017-01-24","Berkman Klein",""
+"http://www.argaam.com/","NEWS","2017-01-24","Berkman Klein",""
+"http://www.arriyadiyah.com/","NEWS","2017-01-24","Berkman Klein",""
+"http://www.asr2r.com/","NEWS","2017-01-24","Berkman Klein",""
+"http://www.asseer.com/","MILX","2014-04-15","citizenlab",""
+"http://www.awamia.com/","HUMR","2017-01-24","Berkman Klein",""
+"http://www.azzaman.com/","NEWS","2014-04-15","citizenlab",""
+"http://www.baareq.com.sa/","NEWS","2017-01-24","Berkman Klein",""
+"http://www.baath-party.org/","POLR","2014-04-15","citizenlab",""
+"http://www.baath-party.org/eng/news.asp","POLR","2014-04-15","citizenlab",""
+"http://www.baath-party.org/index.htm","POLR","2014-04-15","citizenlab",""
+"http://www.bahai-faith.org/","HUMR","2014-04-15","citizenlab",""
+"http://www.bahai.com/","HUMR","2014-04-15","citizenlab",""
+"http://www.banatal3arab.com/","PORN","2014-04-15","citizenlab",""
+"http://www.bayynat.org/","MILX","2014-04-15","citizenlab",""
+"http://www.bbc.co.uk/arabic/","NEWS","2014-04-15","citizenlab",""
+"http://www.behidden.com/","ANON","2014-04-15","citizenlab",""
+"http://www.belgarn.com/","NEWS","2017-01-24","Berkman Klein",""
+"http://www.bigwuff.org/","NEWS","2014-04-15","citizenlab",""
+"http://www.bigwuff.org/images/bigmarcl.gif","NEWS","2014-04-15","citizenlab",""
+"http://www.blogjihad.com/","NEWS","2014-04-15","citizenlab",""
+"http://www.borsah.org/","NEWS","2017-01-24","Berkman Klein","blocked"
+"http://www.business-humanrights.org/","HUMR","2014-04-15","citizenlab",""
+"http://www.cdhrap.net/","HUMR","2014-04-15","citizenlab",""
+"http://www.cdl.com.lb/","GMB","2014-04-15","citizenlab",""
+"http://www.centerforinquiry.net/isis/","REL","2014-04-15","citizenlab",""
+"http://www.childsrights.org/","HUMR","2014-04-15","citizenlab",""
+"http://www.cjouf.com/vb/","NEWS","2017-01-24","Berkman Klein",""
+"http://www.cnnarabic.com/","NEWS","2014-04-15","citizenlab",""
+"http://www.coptic.net/","HUMR","2014-04-15","citizenlab",""
+"http://www.coptic.net/EncyclopediaCoptica/","HUMR","2014-04-15","citizenlab",""
+"http://www.cpj.org/attacks00/mideast00/Gulf.html","HUMR","2014-04-15","citizenlab",""
+"http://www.crin.org/","HUMR","2014-04-15","citizenlab",""
+"http://www.danielpipes.org/","NEWS","2014-04-15","citizenlab",""
+"http://www.daralzahra.net/","HUMR","2014-04-15","citizenlab",""
+"http://www.defendingwomen-defendingrights.org/","HUMR","2014-04-15","citizenlab",""
+"http://www.dewaniyat.com/","POLR","2014-04-15","citizenlab",""
+"http://www.dubai-escort-list.com/","PORN","2014-04-15","citizenlab",""
+"http://www.dwadme.com/","NEWS","2017-01-24","Berkman Klein",""
+"http://www.dwwen.com/","HOST","2014-04-15","citizenlab",""
+"http://www.ebhare.com/","NEWS","2017-01-24","Berkman Klein","blocked"
+"http://www.ebhth.org/","SRCH","2014-04-15","citizenlab",""
+"http://www.ecoworld-mag.com/","NEWS","2017-01-24","Berkman Klein",""
+"http://www.ehcconline.org/","HUMR","2014-04-15","citizenlab",""
+"http://www.elaph.com/","NEWS","2014-04-15","citizenlab",""
+"http://www.endvaw.org/","HUMR","2014-04-15","citizenlab",""
+"http://www.equalitynow.org/","HUMR","2014-04-15","citizenlab",""
+"http://www.esohr.org/","HUMR","2017-01-24","Berkman Klein",""
+"http://www.euro4arab.com/","DATE","2014-04-15","citizenlab",""
+"http://www.euromedrights.net/","HUMR","2014-04-15","citizenlab",""
+"http://www.evemodels.com/","DATE","2014-04-15","citizenlab",""
+"http://www.evemodels.com/messilah-escorts.html","DATE","2014-04-15","citizenlab",""
+"http://www.flcckuwait.com/","HUMR","2014-04-15","citizenlab",""
+"http://www.flickr.com/photos/miskan/4581554/","LGBT","2014-04-15","citizenlab",""
+"http://www.fmlog.com/","NEWS","2014-04-15","citizenlab",""
+"http://www.freearabvoice.org/","POLR","2014-04-15","citizenlab",""
+"http://www.freemuslim.org/","HUMR","2014-04-15","citizenlab",""
+"http://www.friendfinder.com/","DATE","2014-04-15","citizenlab",""
+"http://www.fuckerz.org/","NEWS","2014-04-15","citizenlab",""
+"http://www.furrysky.com/","ANON","2014-04-15","citizenlab",""
+"http://www.galilcol.ac.il/","MISC","2014-04-15","citizenlab",""
+"http://www.gayarab.org/","LGBT","2014-04-15","citizenlab",""
+"http://www.gaymiddleeast.com/","LGBT","2014-04-15","citizenlab",""
+"http://www.gaytelaviv.com/","LGBT","2014-04-15","citizenlab",""
+"http://www.gaytravelnet.com/","LGBT","2014-04-15","citizenlab",""
+"http://www.gaytravelnet.com/Middle_East/Saudi_Arabia/","LGBT","2014-04-15","citizenlab",""
+"http://www.glas.org/","LGBT","2014-04-15","citizenlab",""
+"http://www.glas.org/ahbab/","LGBT","2014-04-15","citizenlab",""
+"http://www.glas.org/lazeeza.html","LGBT","2014-04-15","citizenlab",""
+"http://www.globalgayz.com/","LGBT","2014-04-15","citizenlab",""
+"http://www.globalgayz.com/saudi-news.html","LGBT","2014-04-15","citizenlab",""
+"http://www.globalgayz.com/yemen-news.html","LGBT","2014-04-15","citizenlab",""
+"http://www.gravybowl.info/","ANON","2014-04-15","citizenlab",""
+"http://www.gulfissues.net/","POLR","2014-04-15","citizenlab",""
+"http://www.haaretz.co.il/","NEWS","2014-04-15","citizenlab",""
+"http://www.habbabi.net/","NEWS","2017-01-24","Berkman Klein",""
+"http://www.hadash.org.il/","POLR","2014-04-15","citizenlab",""
+"http://www.haifawehbe.com/","NEWS","2014-04-15","citizenlab",""
+"http://www.hailnews.com/","NEWS","2017-01-24","Berkman Klein",""
+"http://www.hailnews.net/hail/","NEWS","2017-01-24","Berkman Klein",""
+"http://www.hailvoice.net/","NEWS","2017-01-24","Berkman Klein",""
+"http://www.hajr.org/","HUMR","2014-04-15","citizenlab",""
+"http://www.hajr.org/forum/index.php","HUMR","2014-04-15","citizenlab",""
+"http://www.hasatoday.com/","NEWS","2017-01-24","Berkman Klein",""
+"http://www.haya.org/","HUMR","2014-04-15","citizenlab",""
+"http://www.hinakiyah.org/","NEWS","2017-01-24","Berkman Klein",""
+"http://www.historyofnations.net/","CULTR","2014-04-15","citizenlab",""
+"http://www.hizbollah.org/","NEWS","2014-04-15","citizenlab",""
+"http://www.houseofbush.com/","POLR","2014-04-15","citizenlab",""
+"http://www.hri.ca/","HUMR","2014-04-15","citizenlab",""
+"http://www.hrw.org/ar","HUMR","2014-04-15","citizenlab",""
+"http://www.huffingtonpost.com/hossein-askari/last-tango-in-riyadh_b_11855346.html","NEWS","2016-10-23","OONI",""
+"http://www.humanf.org/","HUMR","2017-01-24","Berkman Klein",""
+"http://www.humum.net/","HUMR","2014-04-15","citizenlab",""
+"http://www.humum.net/country/main.php?id=saudi","HUMR","2014-04-15","citizenlab",""
+"http://www.icecook.info/","ANON","2014-04-15","citizenlab",""
+"http://www.idf.il/","GOVT","2014-04-15","citizenlab",""
+"http://www.ikhwan.net/","POLR","2014-04-15","citizenlab",""
+"http://www.ikhwan.net/forum/","POLR","2014-04-15","citizenlab",""
+"http://www.ikhwanweb.com/","POLR","2014-04-15","citizenlab",""
+"http://www.independentdubaiescorts.com/","PORN","2014-04-15","citizenlab",""
+"http://www.internewsmena.org/","HUMR","2014-04-15","citizenlab",""
+"http://www.irna.ir/en","NEWS","2017-01-24","Berkman Klein","Blocked"
+"http://www.irshadmanji.com/","REL","2014-04-15","citizenlab",""
+"http://www.irshadmanji.com/arabic-edition","REL","2014-04-15","citizenlab",""
+"http://www.isa.gov.il/","MISC","2014-04-15","citizenlab",""
+"http://www.islah.info/","HUMR","2017-01-24","Berkman Klein",""
+"http://www.islah.tv/","POLR","2014-04-15","citizenlab",""
+"http://www.islammemo.cc/","NEWS","2014-04-15","citizenlab",""
+"http://www.islamonline.net/ar/Page/Home","NEWS","2014-04-15","citizenlab",""
+"http://www.islamtoday.net/","NEWS","2014-04-15","citizenlab",""
+"http://www.israel.com/","GOVT","2014-04-15","citizenlab",""
+"http://www.ivillage.com/","HUMR","2014-04-15","citizenlab",""
+"http://www.jari7.com/","NEWS","2014-04-15","citizenlab",""
+"http://www.jasadmag.com/","NEWS","2014-04-15","citizenlab",""
+"http://www.jazannews.org/","NEWS","2017-01-24","Berkman Klein",""
+"http://www.jihadwatch.org/","NEWS","2014-04-15","citizenlab",""
+"http://www.juof7.com/","NEWS","2017-01-24","Berkman Klein",""
+"http://www.justadultsites.com/","PORN","2014-04-15","citizenlab",""
+"http://www.k1b1.com/","NEWS","2017-01-24","Berkman Klein",""
+"http://www.kabar.ws/","NEWS","2017-01-24","Berkman Klein","blocked"
+"http://www.kharjhome.com/","NEWS","2017-01-24","Berkman Klein",""
+"http://www.khayma.com/","DATE","2014-04-15","citizenlab",""
+"http://www.khreej.net/","NEWS","2017-01-24","Berkman Klein",""
+"http://www.kitabat.com/","NEWS","2014-04-15","citizenlab",""
+"http://www.knesset.gov.il/","GOVT","2014-04-15","citizenlab",""
+"http://www.komall.org/","MILX","2014-04-15","citizenlab",""
+"http://www.kuwait-singles.com/","DATE","2014-04-15","citizenlab",""
+"http://www.lavaplace.com/","LGBT","2014-04-15","citizenlab",""
+"http://www.lebraly.com/","NEWS","2014-04-15","citizenlab",""
+"http://www.light-of-life.com/","HUMR","2014-04-15","citizenlab",""
+"http://www.likud.org.il/","POLR","2014-04-15","citizenlab",""
+"http://www.luxuryjoy.com/","DATE","2014-04-15","citizenlab",""
+"http://www.m3llm.net/","NEWS","2017-01-24","Berkman Klein",""
+"http://www.mahjoob.com/","NEWS","2014-04-15","citizenlab",""
+"http://www.makkahgate.net/","NEWS","2017-01-24","Berkman Klein","blocked"
+"http://www.makkahnews.net/","NEWS","2017-01-24","Berkman Klein",""
+"http://www.maktoob.com/","COMT","2014-04-15","citizenlab",""
+"http://www.maktoobblog.com/","POLR","2014-04-15","citizenlab",""
+"http://www.mansioon.org/","HUMR","2014-04-15","citizenlab",""
+"http://www.masaraat.net/","NEWS","2017-01-24","Berkman Klein",""
+"http://www.masdr.net/","NEWS","2017-01-24","Berkman Klein","blocked"
+"http://www.meretz.org.il/","POLR","2014-04-15","citizenlab",""
+"http://www.metransparent.net/spip.php?lang=ar&page=sommaire","POLR","2014-04-15","citizenlab",""
+"http://www.metrodate.com/","DATE","2014-04-15","citizenlab",""
+"http://www.mfa.gov.il/","GOVT","2014-04-15","citizenlab",""
+"http://www.middle-east-online.com/","NEWS","2014-04-15","citizenlab",""
+"http://www.middle-east-online.com/saudi/","NEWS","2014-04-15","citizenlab",""
+"http://www.milta1980.co.uk/","PORN","2014-04-15","citizenlab",""
+"http://www.mj-sp.com/","NEWS","2017-01-24","Berkman Klein",""
+"http://www.mod.gov.il/","GOVT","2014-04-15","citizenlab",""
+"http://www.modawanati.com/","HOST","2014-04-15","citizenlab",""
+"http://www.moqawama.org/","NEWS","2014-04-15","citizenlab",""
+"http://www.mossad.gov.il/default.aspx","GOVT","2014-04-15","citizenlab",""
+"http://www.mousematrix.com/","ANON","2014-04-15","citizenlab",""
+"http://www.mshhost.com/","HOST","2014-04-15","citizenlab",""
+"http://www.mubasheer.com/","NEWS","2017-01-24","Berkman Klein",""
+"http://www.muslim-refusenik.com/","REL","2014-04-15","citizenlab",""
+"http://www.najed.org/","MILX","2014-04-15","citizenlab",""
+"http://www.nancyajram.com/","NEWS","2014-04-15","citizenlab",""
+"http://www.nancyajramonline.com/","NEWS","2014-04-15","citizenlab",""
+"http://www.naseej.com/","SRCH","2014-04-15","citizenlab",""
+"http://www.nbn.org.il/","HUMR","2014-04-15","citizenlab",""
+"http://www.newarabia.org/","NEWS","2014-04-15","citizenlab",""
+"http://www.news-sa.com/","NEWS","2017-01-24","Berkman Klein",""
+"http://www.newsqassim.com/index.php","NEWS","2017-01-24","Berkman Klein",""
+"http://www.nikahsearch.com/","DATE","2014-04-15","citizenlab",""
+"http://www.noontidepress.com/","NEWS","2014-04-15","citizenlab",""
+"http://www.nshrs.com/","NEWS","2017-01-24","Berkman Klein",""
+"http://www.nshrsa.org/","HUMR","2014-04-15","citizenlab",""
+"http://www.ofouq.com/","NEWS","2017-01-24","Berkman Klein","blocked"
+"http://www.onaizahnews.com/","NEWS","2017-01-24","Berkman Klein","blocked"
+"http://www.onaizatoday.com/","NEWS","2017-01-24","Berkman Klein",""
+"http://www.overseashost.com/","HOST","2014-04-15","citizenlab",""
+"http://www.ow-news.com/","NEWS","2017-01-24","Berkman Klein",""
+"http://www.owam.net/","HUMR","2014-04-15","citizenlab",""
+"http://www.palestine-info.info/","MILX","2014-04-15","citizenlab",""
+"http://www.pureprivacy.com/","ANON","2014-04-15","citizenlab",""
+"http://www.qanonnet.net/","NEWS","2017-01-24","Berkman Klein",""
+"http://www.raddadi.com/","SRCH","2014-04-15","citizenlab",""
+"http://www.radiosawa.com/","NEWS","2014-04-15","citizenlab",""
+"http://www.rafed.net/","POLR","2014-04-15","citizenlab",""
+"http://www.rasid.com/","HUMR","2014-04-15","citizenlab",""
+"http://www.rasid.net/","POLR","2014-04-15","citizenlab",""
+"http://www.royaah.net/","FEXP","2017-01-24","Berkman Klein",""
+"http://www.ru4arab.ru/","DATE","2014-04-15","citizenlab",""
+"http://www.ru4arab.ru/marry.htm","DATE","2014-04-15","citizenlab",""
+"http://www.rubymania.com/","NEWS","2014-04-15","citizenlab",""
+"http://www.saadahpress.net/","NEWS","2017-01-24","Berkman Klein","Blocked"
+"http://www.sadaalma.com.sa/","NEWS","2017-01-24","Berkman Klein",""
+"http://www.sami4.com/","SRCH","2014-04-15","citizenlab",""
+"http://www.saudi-us-relations.org/","GOVT","2014-04-15","citizenlab",""
+"http://www.saudi123.com/","NEWS","2014-04-15","citizenlab",""
+"http://www.saudiaffairs.net/","POLR","2014-04-15","citizenlab",""
+"http://www.saudiblogs.org/","NEWS","2014-04-15","citizenlab",""
+"http://www.saudielection.com/","POLR","2014-04-15","citizenlab",""
+"http://www.saudigear.com/","NEWS","2017-01-24","Berkman Klein",""
+"http://www.saudihr.org/","HUMR","2014-04-15","citizenlab",""
+"http://www.saudistret.com/","NEWS","2017-01-24","Berkman Klein",""
+"http://www.secularislam.org/","REL","2014-04-15","citizenlab",""
+"http://www.sha3rr.com/","NEWS","2017-01-24","Berkman Klein",""
+"http://www.sharurah.com/news/","NEWS","2017-01-24","Berkman Klein",""
+"http://www.shellbucket.com/","ANON","2014-04-15","citizenlab",""
+"http://www.shiaweb.org/","HUMR","2014-04-15","citizenlab",""
+"http://www.shibreqah.net/","NEWS","2017-01-24","Berkman Klein","blocked"
+"http://www.singles-bar.com/","DATE","2014-04-15","citizenlab",""
+"http://www.singles-bar.com/Saudi-Arabia-dating-girls.asp","DATE","2014-04-15","citizenlab",""
+"http://www.sodomylaws.org/","LGBT","2014-04-15","citizenlab",""
+"http://www.sodomylaws.org/world/saudi_arabia/saudi_arabia.htm","LGBT","2014-04-15","citizenlab",""
+"http://www.taibanews.com/","NEWS","2017-01-24","Berkman Klein",""
+"http://www.tajdeed.net/","POLR","2014-04-15","citizenlab",""
+"http://www.taqrir.org/","NEWS","2014-04-15","citizenlab",""
+"http://www.tareebnews.com/","NEWS","2017-01-24","Berkman Klein",""
+"http://www.tarjem.com/","COMT","2014-04-15","citizenlab",""
+"http://www.tase.co.il/eng/pages/homepage.aspx","COMM","2014-04-15","citizenlab",""
+"http://www.the-good-way.com/","REL","2014-04-15","citizenlab",""
+"http://www.thegrace.com/","REL","2014-04-15","citizenlab",""
+"http://www.thekoran.com/","REL","2014-04-15","citizenlab",""
+"http://www.thissitedoesnotexist.co.il/","GOVT","2014-04-15","citizenlab",""
+"http://www.toystore.co.il/","GOVT","2014-04-15","citizenlab",""
+"http://www.tr-te.com/","NEWS","2017-01-24","Berkman Klein","blocked"
+"http://www.transensex.org/","NEWS","2014-04-15","citizenlab",""
+"http://www.trashpilot.com/","ANON","2014-04-15","citizenlab",""
+"http://www.truckmagnet.com/","ANON","2014-04-15","citizenlab",""
+"http://www.tuttigusti.org/","NEWS","2014-04-15","citizenlab",""
+"http://www.tuttigusti.org/immagini/logo-web.gif","NEWS","2014-04-15","citizenlab",""
+"http://www.uaetorture.com/","POLR","2014-04-15","citizenlab",""
+"http://www.umljgate.com/","NEWS","2017-01-24","Berkman Klein",""
+"http://www.unitedworldinternational.org/","NEWS","2014-04-15","citizenlab",""
+"http://www.unitedworldinternational.org/img/1.jpg","NEWS","2014-04-15","citizenlab",""
+"http://www.us-israel.org/","GOVT","2014-04-15","citizenlab",""
+"http://www.vdare.com/","NEWS","2014-04-15","citizenlab",""
+"http://www.wahaj.net/","NEWS","2017-01-24","Berkman Klein",""
+"http://www.wasatyah.com/","POLR","2014-04-15","citizenlab",""
+"http://www.watan.com/","NEWS","2014-04-15","citizenlab",""
+"http://www.whatreallyhappened.com/","NEWS","2014-04-15","citizenlab",""
+"http://www.worldsexguide.com/","DATE","2014-04-15","citizenlab",""
+"http://www.xrdarabia.org/","GOVT","2014-04-15","citizenlab",""
+"http://www.ya7ussain.com/","HUMR","2014-04-15","citizenlab",""
+"http://www.yahosein.com/","HUMR","2014-04-15","citizenlab",""
+"http://www.yahosein.com/vb/showthread.php?t=44949","HUMR","2014-04-15","citizenlab",""
+"http://www.yementodaytv.net/","NEWS","2016-04-19","citizenlab",""
+"http://www.ynbu.com/","NEWS","2017-01-24","Berkman Klein",""
+"http://www.youtube.com/verify_controversy?next_url=/watch?v=qmodvun16q4","NEWS","2014-04-15","citizenlab",""
+"http://www.zawadj.net/","DATE","2014-04-15","citizenlab",""
+"http://yanbu-news.com/news/","NEWS","2017-01-24","Berkman Klein",""
+"http://yanbutoday.com/","NEWS","2017-01-24","Berkman Klein",""
+"http://yawmyat.blogspot.com/","NEWS","2014-04-15","citizenlab",""
+"https://riyadhbureau.wordpress.com/","NEWS","2017-01-24","Berkman Klein",""
+"https://www.alaraby.co.uk/","NEWS","2016-10-23","OONI",""
+"https://www.alkhafji.news/","NEWS","2017-01-24","Berkman Klein",""
+"https://www.alqst.org/","HUMR","2017-01-24","Berkman Klein",""
+"https://www.bowlbrain.com/fork/","ANON","2014-04-15","citizenlab",""
+"https://www.chestjump.com/high/","ANON","2014-04-15","citizenlab",""
+"https://www.corkmass.com/bottle/","ANON","2014-04-15","citizenlab",""
+"https://www.crabguard.com/sky/","ANON","2014-04-15","citizenlab",""
+"https://www.grasscooker.com/blade/","ANON","2014-04-15","citizenlab",""
+"https://www.gravebog.com/stone/","ANON","2014-04-15","citizenlab",""
+"https://www.gravepaper.com/pencil/","ANON","2014-04-15","citizenlab",""
+"https://www.insectfriend.com/spider/","ANON","2014-04-15","citizenlab",""
+"https://www.jellyclimb.com/fish/","ANON","2014-04-15","citizenlab",""
+"https://www.jointglobe.com/rotate/","ANON","2014-04-15","citizenlab",""
+"https://www.mapleholder.com/road/","ANON","2014-04-15","citizenlab",""
+"https://www.milkbump.com/sink/","ANON","2014-04-15","citizenlab",""
+"https://www.moonproof.com/crater/","ANON","2014-04-15","citizenlab",""
+"https://www.mousematrix.com/","ANON","2014-04-15","citizenlab",""
+"https://www.tornbunker.com/bed/","ANON","2014-04-15","citizenlab",""
+"https://www.tornface.com/nose/","ANON","2014-04-15","citizenlab",""
+"https://www.treegrab.com/sap/","ANON","2014-04-15","citizenlab",""
