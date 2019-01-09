@@ -1,23 +1,23 @@
-url,category_code,category_description,,,
-http://www.albayan.ae/,NEWS,Local news website,,,
-http://www.wam.ae/ar/home.html,NEWS,Local news website,,,
-http://www.alittihad.ae/,NEWS,Local news website,,,
-http://www.khaleejtimes.com/,NEWS,Local news website,,,
-http://gulfnews.com/,NEWS,Local news website,,,
-http://7days.ae/,NEWS,Local news website,,,
-http://www.dubaichronicle.com/,NEWS,Local news website,,,
-http://www.emirates247.com/,NEWS,Local news website,,,
-http://www.emaratalyoum.com/,NEWS,Local news website,,,
-http://24.ae/,NEWS,Local news website,,,
-http://hnauae.com/,NEWS,Local news website,,,
-http://www.wam.ae/ar/home.html,NEWS,Local news website,,,
-http://www.alkhaleej.ae/portal,NEWS,Local news website,,,
-http://ajmantv.com/ar/index.asp,NEWS,Local news website,,,
-http://www.dmi.gov.ae/,NEWS,Local news website,,,
-http://www.adtv.ae/,NEWS,Local news website,,,
-http://www.emaratyah.ae/,NEWS,Local news website,,,
-http://www.alfajr-news.net/,NEWS,Local news website,,,
-http://alroeya.ae/,NEWS,Local news website,,,
-https://www.mofa.gov.ae/Pages/HomePage.aspx,NEWS,Ministry of Foreign Affairs,,,
+uurl	category_code	category_description
+http://www.albayan.ae/	NEWS	Local news website
+http://www.wam.ae/ar/home.html	NEWS	News and media
+http://www.alittihad.ae/	NEWS	News and media
+http://www.khaleejtimes.com/	NEWS	News and media
+http://gulfnews.com/	NEWS	News and media
+http://7days.ae/	NEWS	News and media
+http://www.dubaichronicle.com/	NEWS	News and media
+http://www.emirates247.com/	NEWS	News and media
+http://www.emaratalyoum.com/	NEWS	News and media
+http://24.ae/	NEWS	News and media
+http://hnauae.com/	NEWS	News and media
+http://www.wam.ae/ar/home.html	NEWS	News and media
+http://www.alkhaleej.ae/portal	NEWS	News and media
+http://ajmantv.com/ar/index.asp	NEWS	News and media
+http://www.dmi.gov.ae/	NEWS	News and media
+http://www.adtv.ae/	NEWS	News and media
+http://www.emaratyah.ae/	NEWS	News and media
+http://www.alfajr-news.net/	NEWS	News and media
+http://alroeya.ae/	NEWS	News and media
+https://www.mofa.gov.ae/Pages/HomePage.aspx	NEWS	News and media
 ,,,,,
 ,,,,,
