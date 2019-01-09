@@ -1,12 +1,12 @@
-url,category_code,category_description,,,,,
-http://www.qawem.org/,NEWS,Hezbullah media,,,,,
-http://www.moqawama.org/,NEWS,Hezbullah media,,,,,
-http://www.alnour.com.lb/,NEWS,Hezbullah media,,,,,
-http://www.alahednews.com.lb/,NEWS,Hezbullah media,,,,,
-http://www.kataibhizbollah.com/,NEWS,Hezbullah media,,,,,
-http://www.aletejahtv.org/,NEWS,Hezbullah media,,,,,
-http://alwelayah.net/,NEWS,Hezbullah media,,,,,
-http://www.islamtimes.org/,NEWS,Hezbullah media,,,,,
-http://www.mepanorama.net/,NEWS,Pro-Hezbullah,,,,,
-http://www.almayadeen.net/,NEWS,Iran-ally Hezbullah's TV,,,,,
-http://www.almanar.com.lb/,NEWS,Hezbullah media,,,,,
+url,category_code,category_description
+http://www.qawem.org/,POLT,News and media
+http://www.moqawama.org/,POLT,News and media
+http://www.alnour.com.lb/,POLT,News and media
+http://www.alahednews.com.lb/,POLT,News and media
+http://www.kataibhizbollah.com/,POLT,News and media
+http://www.aletejahtv.org/,POLT,News and media
+http://alwelayah.net/,POLT,News and media
+http://www.islamtimes.org/,POLT,News and media
+http://www.mepanorama.net/,POLT,News and media
+http://www.almayadeen.net/,POLT,News and media
+http://www.almanar.com.lb/,POLT,News and media
